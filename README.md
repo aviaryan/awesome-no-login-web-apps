@@ -6,7 +6,7 @@ Websites that require registration have been tagged as `[Account]`.
 OAuth if available in the website has been tagged as `[Google]`, `[FB]`, `[Github]` and so on. 
 
 
-### Contents
+## Contents
 
 * Notepads and Markdown editors
 * Programming Editors and IDEs
@@ -21,19 +21,19 @@ OAuth if available in the website has been tagged as `[Google]`, `[FB]`, `[Githu
 * Misc
 
 
-#### Notepads
+### Notepads
 
 * [aNotepad](https://anotepad.com/) - Saves your notes without user account using cookies
 * [h5Note](http://h5note.com/) - Works when offline too using HTML5
 
 
-#### Markdown editors
+### Markdown editors
 
 * [Dillinger](http://dillinger.io/) - Powerful markdown WYSIWYG with export to HTML and PDF. User account to save documents. 
 * [Github.md](http://aviaryan.in/javascripts/github.md/) - Simple Github-style Markdown (GFM) preview with print feature
 
 
-#### Programming Editors and IDEs
+### Programming Editors and IDEs
 
 * [TutorialsPoint Online Tools](https://www.tutorialspoint.com/codingground.htm) - Online terminals for ipython, octave, 
 powershell, redis and lots others. Also has a good collection of IDEs for programming languages
@@ -42,7 +42,7 @@ powershell, redis and lots others. Also has a good collection of IDEs for progra
 * `[Account][Github]` [Cloud9](https://c9.io/)  - Very powerful online dev environment, just like your local PC. 
 
 
-#### Development Tools
+### Development Tools
 
 * [CSS Minifier](http://cssminifier.com/)
 * [UglifyJS JavaScript minifier](https://skalman.github.io/UglifyJS-online/)
@@ -50,19 +50,19 @@ powershell, redis and lots others. Also has a good collection of IDEs for progra
 * [JavaScript compressor](http://javascriptcompressor.com/) - JS compressor and obsfucator
 
 
-#### Communication
+### Communication
 
 * [Tlk.io](http://tlk.io/) - Create a room with any url you wish and chat in groups
 * [Discord](https://discordapp.com/) - Voice and text conference online. Username is asked at start to create a temp avatar.
 * [Gruveo](https://www.gruveo.com/) - Video conference online. Just like tlk.io, easy to remember custom urls. 
 * [Videolink2](https://videolink2.me/start) - Video conference online. Link generated, share link to invite other participants.
 
-#### Graphics and Design
+### Graphics and Design
 
 * [UI Gradients](http://uigradients.com/) - Good collection of gradients to use
 
 
-#### Audio and Video
+### Audio and Video
 
 * [bfxr](http://www.bfxr.net/) - Make sound effects for your games
 * [MP3 Cut](http://mp3cut.net/) - Online audio cutter
@@ -70,13 +70,13 @@ powershell, redis and lots others. Also has a good collection of IDEs for progra
 * [Filelab Audio Editor](http://www.filelab.com/audio-editor) - Audio editor with basic features like trim, merge, cut audio
 
 
-#### File Hosting/Sharing
+### File Hosting/Sharing
 
 * [EFShare](http://efshare.com/) - Peer to peer secure file sharing
 * [Ge.tt](http://ge.tt/) - File hosting service. Max limit 2gb
 * [RGhost](http://rgho.st/) - File hosting service, Max limit 100mb without login
 
 
-#### Misc
+### Misc
 
 * [QR Code Generator](http://zxing.appspot.com/generator/) - Different type of QR codes like contact info, Wifi, Calendar etc supported
