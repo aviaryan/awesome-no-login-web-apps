@@ -7,7 +7,8 @@ Websites that require registration to use them have been tagged as `[Account]`.
 
 ## Contents
 
-* Notepads and Markdown editors
+* Notepads
+* Document editors
 * Programming Editors and IDEs
 * Development Tools
 * Communication
@@ -23,11 +24,21 @@ Websites that require registration to use them have been tagged as `[Account]`.
 
 ### Notepads
 
+##### Notepads
+
 * [aNotepad](https://anotepad.com/) - Saves your notes without user account using cookies
 * [h5Note](http://h5note.com/) - Works when offline too using HTML5
 
 
-### Markdown editors
+### Document Editors
+
+##### Latex
+
+* [Overleaf](https://www.overleaf.com/) `[Account]` - Unlimited collaborators and projects, git access in free account 
+* [Sharelatex](http://sharelatex.com/) `[Account]` - 1 collaborator in free account
+* [Papeeria](https://papeeria.com/) - Latex preview with downloading as PDF option available without registration
+
+##### Markdown
 
 * [Dillinger](http://dillinger.io/) - Powerful markdown WYSIWYG with export to HTML and PDF. User account to save documents. 
 * [Github.md](http://aviaryan.in/javascripts/github.md/) - Simple Github-style Markdown (GFM) preview with print feature
@@ -63,7 +74,9 @@ powershell, redis and lots others. Also has a good collection of IDEs for progra
 * [UI Gradients](http://uigradients.com/) - Good collection of gradients to use
 * [Coolors](https://coolors.co/) - Color palettes generator
 * [Logo Makr](https://logomakr.com/) - Logo maker with nice collection of SVGs. Requires payment to export logo as SVG (png is free).
-* [Online Logo Maker](http://www.onlinelogomaker.com/) - Make logos online. Extra user account feature to save creations. 
+* [Online Logo Maker](http://www.onlinelogomaker.com/) - Make logos online. Extra user account feature to save creations.
+* [SVG-Edit](https://svg-edit.github.io/svgedit/releases/svg-edit-2.8.1/svg-editor.html) - Powerful SVG editor with lots of features. Open source.
+* [Method Draw](http://editor.method.ac/) - Clean and feature-rich SVG editor. Exports to PNG.
 
 
 ### File Converters
