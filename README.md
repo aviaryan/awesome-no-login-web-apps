@@ -57,9 +57,25 @@ powershell, redis and lots others. Also has a good collection of IDEs for progra
 * [Gruveo](https://www.gruveo.com/) - Video conference online. Just like tlk.io, easy to remember custom urls. 
 * [Videolink2](https://videolink2.me/start) - Video conference online. Link generated, share link to invite other participants.
 
+
 ### Graphics and Design
 
 * [UI Gradients](http://uigradients.com/) - Good collection of gradients to use
+
+
+### File Converters
+
+* [Online Convert](http://www.online-convert.com/) - Collection of Audio, Video, Image, Document, Ebook and Archive converter. No file size limits and direct download links 
+upon conversion. 
+* [PDF <=> EPUB](http://pdfepub.com/) - PDF to epub converter and vice versa
+* [Pandoc Try](https://pandoc.org/try/) - Inter markup conversion using Pandoc. Supported - Latex, Markdown, HTML, RST and lots more. 
+
+
+### File Hosting/Sharing
+
+* [EFShare](http://efshare.com/) - Peer to peer secure file sharing
+* [Ge.tt](http://ge.tt/) - File hosting service. Max limit 2gb
+* [RGhost](http://rgho.st/) - File hosting service, Max limit 100mb without login
 
 
 ### Audio and Video
@@ -68,13 +84,6 @@ powershell, redis and lots others. Also has a good collection of IDEs for progra
 * [MP3 Cut](http://mp3cut.net/) - Online audio cutter
 * [TwistedWeb Online](https://twistedwave.com/online/) - Powerful audio editor. Files not saved online. 
 * [Filelab Audio Editor](http://www.filelab.com/audio-editor) - Audio editor with basic features like trim, merge, cut audio
-
-
-### File Hosting/Sharing
-
-* [EFShare](http://efshare.com/) - Peer to peer secure file sharing
-* [Ge.tt](http://ge.tt/) - File hosting service. Max limit 2gb
-* [RGhost](http://rgho.st/) - File hosting service, Max limit 100mb without login
 
 
 ### Misc
