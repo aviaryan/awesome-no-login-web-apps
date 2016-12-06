@@ -16,6 +16,7 @@ OAuth if available in the website has been tagged as `[Google]`, `[FB]`, `[Githu
 * File Hosting/Sharing
 * Audio and Video
 * Internet Downloaders
+* Cryptography
 
 
 #### Text Editors and Notepads
@@ -31,6 +32,14 @@ powershell, redis and lots others. Also has a good collection of IDEs for progra
 * [Ideone](http://ideone.com/) - Online IDE supporting most popular languages
 * [Codechef IDE](https://www.codechef.com/ide)
 * `[Account][Github]` [Cloud9](https://c9.io/)  - Very powerful online dev environment, just like your local PC. 
+
+
+#### Development Tools
+
+* [CSS Minifier](http://cssminifier.com/)
+* [UglifyJS JavaScript minifier](https://skalman.github.io/UglifyJS-online/)
+* [HTML minifier by @kangax](https://kangax.github.io/html-minifier/) - Minifies inline CSS and JS too
+* [JavaScript compressor](http://javascriptcompressor.com/) - JS compressor and obsfucator
 
 
 #### Audio and Video
