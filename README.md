@@ -2,8 +2,7 @@
 
 A list of awesome web softwares and tools. 
 The main focus of this list is on such web tools which allow usage **without user registration** just like most softwares. 
-Websites that require registration have been tagged as `[Account]`. 
-OAuth if available in the website has been tagged as `[Google]`, `[FB]`, `[Github]` and so on. 
+Websites that require registration to use them have been tagged as `[Account]`. 
 
 
 ## Contents
@@ -40,7 +39,7 @@ OAuth if available in the website has been tagged as `[Google]`, `[FB]`, `[Githu
 powershell, redis and lots others. Also has a good collection of IDEs for programming languages
 * [Ideone](http://ideone.com/) - Online IDE supporting most popular languages
 * [Codechef IDE](https://www.codechef.com/ide)
-* [Cloud9](https://c9.io/) `[Account][Github]`  - Very powerful online dev environment, just like your local PC. 
+* [Cloud9](https://c9.io/) `[Account]`  - Very powerful online dev environment, just like your local PC. 
 
 
 ### Development Tools
@@ -63,6 +62,8 @@ powershell, redis and lots others. Also has a good collection of IDEs for progra
 
 * [UI Gradients](http://uigradients.com/) - Good collection of gradients to use
 * [Coolors](https://coolors.co/) - Color palettes generator
+* [Logo Makr](https://logomakr.com/) - Logo maker with nice collection of SVGs. Requires payment to export logo as SVG (png is free).
+* [Online Logo Maker](http://www.onlinelogomaker.com/) - Make logos online. Extra user account feature to save creations. 
 
 
 ### File Converters
