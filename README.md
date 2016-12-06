@@ -13,7 +13,9 @@ OAuth if available in the website has been tagged as `[Google]`, `[FB]`, `[Githu
 * Development Tools
 * Graphic Design
 * File Converters
+* File Hosting/Sharing
 * Audio and Video
+* Internet Downloaders
 
 
 #### Text Editors and Notepads
@@ -34,3 +36,13 @@ powershell, redis and lots others. Also has a good collection of IDEs for progra
 #### Audio and Video
 
 * [bfxr](http://www.bfxr.net/) - Make sound effects for your games
+* [MP3 Cut](http://mp3cut.net/) - Online audio cutter
+* [TwistedWeb Online](https://twistedwave.com/online/) - Powerful audio editor. Files not saved online. 
+* [Filelab Audio Editor](http://www.filelab.com/audio-editor) - Audio editor with basic features like trim, merge, cut audio
+
+
+#### File Hosting/Sharing
+
+* [EFShare](http://efshare.com/) - Peer to peer secure file sharing
+* [Ge.tt](http://ge.tt/) - File hosting service. Max limit 2gb
+* [RGhost](http://rgho.st/) - File hosting service, Max limit 100mb without login
