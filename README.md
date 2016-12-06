@@ -18,6 +18,7 @@ OAuth if available in the website has been tagged as `[Google]`, `[FB]`, `[Githu
 * Audio and Video
 * Internet Downloaders
 * Cryptography
+* Study
 * Misc
 
 
@@ -39,7 +40,7 @@ OAuth if available in the website has been tagged as `[Google]`, `[FB]`, `[Githu
 powershell, redis and lots others. Also has a good collection of IDEs for programming languages
 * [Ideone](http://ideone.com/) - Online IDE supporting most popular languages
 * [Codechef IDE](https://www.codechef.com/ide)
-* `[Account][Github]` [Cloud9](https://c9.io/)  - Very powerful online dev environment, just like your local PC. 
+* [Cloud9](https://c9.io/) `[Account][Github]`  - Very powerful online dev environment, just like your local PC. 
 
 
 ### Development Tools
@@ -61,6 +62,7 @@ powershell, redis and lots others. Also has a good collection of IDEs for progra
 ### Graphics and Design
 
 * [UI Gradients](http://uigradients.com/) - Good collection of gradients to use
+* [Coolors](https://coolors.co/) - Color palettes generator
 
 
 ### File Converters
@@ -69,6 +71,7 @@ powershell, redis and lots others. Also has a good collection of IDEs for progra
 upon conversion. 
 * [PDF <=> EPUB](http://pdfepub.com/) - PDF to epub converter and vice versa
 * [Pandoc Try](https://pandoc.org/try/) - Inter markup conversion using Pandoc. Supported - Latex, Markdown, HTML, RST and lots more. 
+* [Print Friendly](https://www.printfriendly.com/) - Convert any webpage to simple format. Then download it or print as PDF.
 
 
 ### File Hosting/Sharing
@@ -84,6 +87,21 @@ upon conversion.
 * [MP3 Cut](http://mp3cut.net/) - Online audio cutter
 * [TwistedWeb Online](https://twistedwave.com/online/) - Powerful audio editor. Files not saved online. 
 * [Filelab Audio Editor](http://www.filelab.com/audio-editor) - Audio editor with basic features like trim, merge, cut audio
+
+
+### Internet Downloaders
+
+* [savefrom.net](http://en.savefrom.net/) - Download from Youtube, Dailymotion, vimeo and more
+* [youtube-mp3.org](http://www.youtube-mp3.org/) - Youtube to mp3 download
+* [Youtube Converter & Downloader](https://www.onlinevideoconverter.com/video-converter) - Download youtube video in any audio/video format
+* [keepvid](http://keepvid.com/) - Youtube, Soundcloud, Facebook downloader
+* [Print Friendly](https://www.printfriendly.com/) `[Duplicate]` - Simplify a webpage and download it as PDF.
+
+
+### Study
+
+* [Geometry sheet by MathIsFun](https://www.mathsisfun.com/geometry/drawing.html) - Simple geometry sheet online if you want to play with figures
+* [Directed Graph Editor](http://bl.ocks.org/rkirsling/5001347) - Play with Directed Graphs
 
 
 ### Misc
