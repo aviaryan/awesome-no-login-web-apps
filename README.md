@@ -8,21 +8,29 @@ OAuth if available in the website has been tagged as `[Google]`, `[FB]`, `[Githu
 
 ### Contents
 
-* Text Editors and Notepads
+* Notepads and Markdown editors
 * Programming Editors and IDEs
 * Development Tools
-* Graphic Design
+* Communication
+* Graphics and Design
 * File Converters
 * File Hosting/Sharing
 * Audio and Video
 * Internet Downloaders
 * Cryptography
+* Misc
 
 
-#### Text Editors and Notepads
+#### Notepads
 
 * [aNotepad](https://anotepad.com/) - Saves your notes without user account using cookies
 * [h5Note](http://h5note.com/) - Works when offline too using HTML5
+
+
+#### Markdown editors
+
+* [Dillinger](http://dillinger.io/) - Powerful markdown WYSIWYG with export to HTML and PDF. User account to save documents. 
+* [Github.md](http://aviaryan.in/javascripts/github.md/) - Simple Github-style Markdown (GFM) preview with print feature
 
 
 #### Programming Editors and IDEs
@@ -42,6 +50,18 @@ powershell, redis and lots others. Also has a good collection of IDEs for progra
 * [JavaScript compressor](http://javascriptcompressor.com/) - JS compressor and obsfucator
 
 
+#### Communication
+
+* [Tlk.io](http://tlk.io/) - Create a room with any url you wish and chat in groups
+* [Discord](https://discordapp.com/) - Voice and text conference online. Username is asked at start to create a temp avatar.
+* [Gruveo](https://www.gruveo.com/) - Video conference online. Just like tlk.io, easy to remember custom urls. 
+* [Videolink2](https://videolink2.me/start) - Video conference online. Link generated, share link to invite other participants.
+
+#### Graphics and Design
+
+* [UI Gradients](http://uigradients.com/) - Good collection of gradients to use
+
+
 #### Audio and Video
 
 * [bfxr](http://www.bfxr.net/) - Make sound effects for your games
@@ -55,3 +75,8 @@ powershell, redis and lots others. Also has a good collection of IDEs for progra
 * [EFShare](http://efshare.com/) - Peer to peer secure file sharing
 * [Ge.tt](http://ge.tt/) - File hosting service. Max limit 2gb
 * [RGhost](http://rgho.st/) - File hosting service, Max limit 100mb without login
+
+
+#### Misc
+
+* [QR Code Generator](http://zxing.appspot.com/generator/) - Different type of QR codes like contact info, Wifi, Calendar etc supported
