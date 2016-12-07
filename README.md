@@ -116,7 +116,7 @@ powershell, redis and lots others. Also has a good collection of IDEs for progra
 * [SVG-Edit](https://svg-edit.github.io/svgedit/releases/svg-edit-2.8.1/svg-editor.html) - Powerful SVG editor with lots of features. Open source
 * [Method Draw](http://editor.method.ac/) - Clean and feature-rich SVG editor. Exports to PNG
 * [Coolors](https://coolors.co/) - Color palettes generator
-
+* [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/) - Simple webapp for generating proper sized android icons (hdpi/xhdpi etc...)
 
 ### File Converters
 
