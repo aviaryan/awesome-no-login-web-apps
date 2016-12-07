@@ -23,17 +23,17 @@ They have been tagged with `[Account]` in this list.
 	* [Latex](#latex)
 	* [Markdown](#markdown)
 	* [Others](#doc-eds-others)
-* Programming Editors and IDEs
-* Development Tools
-* Communication
-* Graphics, Image and Design
-* File Converters
-* File Hosting/Sharing
-* Audio and Video
-* Internet Downloaders
-* Cryptography
-* Study and Education
-* Misc
+* [Programming Editors and IDEs](#programming-editors-and-ides)
+* [Development Tools](##development-tools)
+* [Communication](#communication)
+* [Graphics, Image and Design](#graphics-image-and-design)
+* [File Converters](#file-converters)
+* [File Hosting/Sharing](#file-hostingsharing)
+* [Audio and Video](#audio-and-video)
+* [Internet Downloaders](#internet-downloaders)
+* [Securiy and Cryptography](#security-and-cryptography)
+* [Study and Education](#study-and-education)
+* [Misc](#misc)
 
 
 ### Notepads
@@ -134,7 +134,7 @@ upon conversion
 * [Bitport](https://bitport.io/) `[Account]` - Torrent downloader online. Limited to 1 torrent of 1 gb per day in free account
 
 
-### Cryptography
+### Security and Cryptography
 
 * [Encipher.it](https://encipher.it/) - AES-256 text encryption and decryption
 * [Encrypted Pastebin - Defuse.ca](https://defuse.ca/pastebin.htm) - Set password on your public pastes
