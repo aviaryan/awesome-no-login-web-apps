@@ -3,7 +3,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A list of awesome web softwares. 
-[Softwares](https://en.wikipedia.org/wiki/Outline_of_software) ([Application Softwares](https://en.wikipedia.org/wiki/Application_software)) are things that you install on your computer to get the job done. This list presents web alternatives for as many as those softwares. 
+[Softwares](https://en.wikipedia.org/wiki/Outline_of_software) ([Application Softwares](https://en.wikipedia.org/wiki/Application_software)) are things that you install on your computer to get a job done. This list presents web alternatives for common type of softwares. 
 
 From Wikipedia:
 
@@ -31,7 +31,7 @@ They have been tagged with `[Account]` in this list.
 * [File Hosting/Sharing](#file-hostingsharing)
 * [Audio and Video](#audio-and-video)
 * [Internet Downloaders](#internet-downloaders)
-* [Securiy and Cryptography](#security-and-cryptography)
+* [Security and Cryptography](#security-and-cryptography)
 * [Study and Education](#study-and-education)
 * [Misc](#misc)
 
@@ -114,6 +114,7 @@ upon conversion
 * [EFShare](http://efshare.com/) - Peer to peer secure file sharing
 * [Ge.tt](http://ge.tt/) - File hosting service. Max limit 2gb
 * [RGhost](http://rgho.st/) - File hosting service, Max limit 100mb without login
+* [ImgSafe](https://imgsafe.org/) - Image hosting service with small direct links
 
 
 ### Audio and Video
