@@ -32,6 +32,7 @@ But as already stated before, user account is not necessary to use the main feat
 * [Programming Tools](#programming-tools)
 * [Communication](#communication)
 * [Financial Tools](#financial-tools)
+* [Music, Radio and Podcasts](#music-radio-and-podcasts)
 * [Graphics, Image and Design](#graphics-image-and-design)
 * [File Converters](#file-converters)
 * [File Hosting/Sharing](#file-hostingsharing)
@@ -105,6 +106,14 @@ powershell, redis and lots others. Also has a good collection of IDEs for progra
 * [ShapeShift.io](https://shapeshift.io) - Instant cryptocurrency conversion
 * [Cryptrader.com](https://cryptrader.com) - Cryptocurrency price charts and indicators. Saving your settings requires an account
 * [TradingView.com](https://tradingview.com) - Real-time information and market insights from various exchanges. Requires an account for saving settings
+
+
+### Music, Radio and Podcasts
+
+* [Podbay](http://podbay.fm/) - Listen to any podcast online, individual episodes can be downloaded
+* [Internet Radio](https://www.internet-radio.com/) - Listen to over 40k radio stations
+* [Stitcher](http://www.stitcher.com/) - Listen to podcast online
+
 
 ### Graphics, Image and Design
 
