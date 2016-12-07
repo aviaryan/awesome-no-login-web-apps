@@ -16,7 +16,7 @@ Websites that require registration to use them have been tagged as `[Account]`.
 * Programming Editors and IDEs
 * Development Tools
 * Communication
-* Graphics and Design
+* Graphics, Image and Design
 * File Converters
 * File Hosting/Sharing
 * Audio and Video
@@ -26,13 +26,13 @@ Websites that require registration to use them have been tagged as `[Account]`.
 * Misc
 
 
-## Notepads
+### Notepads
 
 * [aNotepad](https://anotepad.com/) - Saves your notes without user account using cookies
 * [h5Note](http://h5note.com/) - Works when offline too using HTML5
 
 
-## Document Editors
+### Document Editors
 
 #### Latex
 
@@ -45,8 +45,12 @@ Websites that require registration to use them have been tagged as `[Account]`.
 * [Dillinger](http://dillinger.io/) - Powerful markdown WYSIWYG with export to HTML and PDF. User account to save documents. 
 * [Github.md](http://aviaryan.in/javascripts/github.md/) - Simple Github-style Markdown (GFM) preview with print feature
 
+#### Others
 
-## Programming Editors and IDEs
+* [Online reStructedText Editor - rst.ninjs](http://rst.ninjs.org/) - WYSIWYG rst preview with option to save document online for editing later
+
+
+### Programming Editors and IDEs
 
 * [TutorialsPoint Online Tools](https://www.tutorialspoint.com/codingground.htm) - Online terminals for ipython, octave, 
 powershell, redis and lots others. Also has a good collection of IDEs for programming languages
@@ -55,7 +59,7 @@ powershell, redis and lots others. Also has a good collection of IDEs for progra
 * [Cloud9](https://c9.io/) `[Account]`  - Very powerful online dev environment, just like your local PC. 
 
 
-## Development Tools
+### Development Tools
 
 * [CSS Minifier](http://cssminifier.com/)
 * [UglifyJS JavaScript minifier](https://skalman.github.io/UglifyJS-online/)
@@ -64,7 +68,7 @@ powershell, redis and lots others. Also has a good collection of IDEs for progra
 * [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/) - Android launcher icon, Notification icon etc generator from existing images
 
 
-## Communication
+### Communication
 
 * [Tlk.io](http://tlk.io/) - Create a room with any url (eg `tlk.io/some-room`) you wish and chat in groups
 * [Discord](https://discordapp.com/) - Voice and text conference online. Username is asked at start to create a temp avatar.
@@ -73,7 +77,7 @@ powershell, redis and lots others. Also has a good collection of IDEs for progra
 * [Videolink2](https://videolink2.me/start) - Video conference online. Link generated, share link to invite other participants.
 
 
-## Graphics and Design
+### Graphics, Image and Design
 
 * [UI Gradients](http://uigradients.com/) - Good collection of gradients to use
 * [Coolors](https://coolors.co/) - Color palettes generator
@@ -83,7 +87,7 @@ powershell, redis and lots others. Also has a good collection of IDEs for progra
 * [Method Draw](http://editor.method.ac/) - Clean and feature-rich SVG editor. Exports to PNG.
 
 
-## File Converters
+### File Converters
 
 * [Online Convert](http://www.online-convert.com/) - Collection of Audio, Video, Image, Document, Ebook and Archive converter. No file size limits and direct download links 
 upon conversion. 
@@ -92,14 +96,14 @@ upon conversion.
 * [Print Friendly](https://www.printfriendly.com/) - Convert any webpage to simple format. Then download it or print as PDF.
 
 
-## File Hosting/Sharing
+### File Hosting/Sharing
 
 * [EFShare](http://efshare.com/) - Peer to peer secure file sharing
 * [Ge.tt](http://ge.tt/) - File hosting service. Max limit 2gb
 * [RGhost](http://rgho.st/) - File hosting service, Max limit 100mb without login
 
 
-## Audio and Video
+### Audio and Video
 
 * [bfxr](http://www.bfxr.net/) - Make sound effects for your games
 * [MP3 Cut](http://mp3cut.net/) - Online audio cutter
@@ -108,8 +112,7 @@ upon conversion.
 * [Until AM](http://mix.until.am/) - Online Music mixer, DJ software
 
 
-
-## Internet Downloaders
+### Internet Downloaders
 
 * [savefrom.net](http://en.savefrom.net/) - Download from Youtube, Dailymotion, vimeo and more
 * [youtube-mp3.org](http://www.youtube-mp3.org/) - Youtube to mp3 download
@@ -118,20 +121,20 @@ upon conversion.
 * [Print Friendly](https://www.printfriendly.com/) `[Duplicate]` - Simplify a webpage and download it as PDF.
 
 
-## Cryptography
+### Cryptography
 
 * [Encipher.it](https://encipher.it/) - AES-256 text encryption and decryption
 * [Encrypted Pastebin - Defuse.ca](https://defuse.ca/pastebin.htm) - Set password on your public pastes
 
 
-## Study
+### Study
 
 * [Geometry sheet by MathIsFun](https://www.mathsisfun.com/geometry/drawing.html) - Simple geometry sheet online if you want to play with figures
 * [Directed Graph Editor](http://bl.ocks.org/rkirsling/5001347) - Play with Directed Graphs
 * [Calculatoria Calculator](http://www.calculatoria.com/) - Scientific Calculator online with progress stored on your system
 
 
-## Misc
+### Misc
 
 * [QR Code Generator](http://zxing.appspot.com/generator/) - Different type of QR codes like contact info, Wifi, Calendar etc supported
 
