@@ -1,6 +1,8 @@
 # Awesome Web Softwares
 
 A list of awesome web softwares and tools. 
+Softwares and Tools are things that you install on your computer to get the job done. This list presents web alternatives for as many as those softwares. 
+
 The main focus of this list is on such web tools which allow usage **without user registration** just like most softwares. 
 Websites that require registration to use them have been tagged as `[Account]`. 
 
@@ -59,13 +61,15 @@ powershell, redis and lots others. Also has a good collection of IDEs for progra
 * [UglifyJS JavaScript minifier](https://skalman.github.io/UglifyJS-online/)
 * [HTML minifier by @kangax](https://kangax.github.io/html-minifier/) - Minifies inline CSS and JS too
 * [JavaScript compressor](http://javascriptcompressor.com/) - JS compressor and obsfucator
+* [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/) - Android launcher icon, Notification icon etc generator from existing images
 
 
 ### Communication
 
-* [Tlk.io](http://tlk.io/) - Create a room with any url you wish and chat in groups
+* [Tlk.io](http://tlk.io/) - Create a room with any url (eg `tlk.io/some-room`) you wish and chat in groups
 * [Discord](https://discordapp.com/) - Voice and text conference online. Username is asked at start to create a temp avatar.
 * [Gruveo](https://www.gruveo.com/) - Video conference online. Just like tlk.io, easy to remember custom urls. 
+* [Appear.in](https://appear.in/) - Video conference online. Create any room like `appear.in/some-room` and starting chatting. 
 * [Videolink2](https://videolink2.me/start) - Video conference online. Link generated, share link to invite other participants.
 
 
@@ -101,6 +105,8 @@ upon conversion.
 * [MP3 Cut](http://mp3cut.net/) - Online audio cutter
 * [TwistedWeb Online](https://twistedwave.com/online/) - Powerful audio editor. Files not saved online. 
 * [Filelab Audio Editor](http://www.filelab.com/audio-editor) - Audio editor with basic features like trim, merge, cut audio
+* [Until AM](http://mix.until.am/) - Online Music mixer, DJ software
+
 
 
 ### Internet Downloaders
@@ -112,10 +118,17 @@ upon conversion.
 * [Print Friendly](https://www.printfriendly.com/) `[Duplicate]` - Simplify a webpage and download it as PDF.
 
 
+### Cryptography
+
+* [Encipher.it](https://encipher.it/) - AES-256 text encryption and decryption
+* [Encrypted Pastebin - Defuse.ca](https://defuse.ca/pastebin.htm) - Set password on your public pastes
+
+
 ### Study
 
 * [Geometry sheet by MathIsFun](https://www.mathsisfun.com/geometry/drawing.html) - Simple geometry sheet online if you want to play with figures
 * [Directed Graph Editor](http://bl.ocks.org/rkirsling/5001347) - Play with Directed Graphs
+* [Calculatoria Calculator](http://www.calculatoria.com/) - Scientific Calculator online with progress stored on your system
 
 
 ### Misc
