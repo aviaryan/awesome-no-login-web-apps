@@ -73,6 +73,8 @@ powershell, redis and lots others. Also has a good collection of IDEs for progra
 * [HTML minifier by @kangax](https://kangax.github.io/html-minifier/) - Minifies inline CSS and JS too
 * [JavaScript compressor](http://javascriptcompressor.com/) - JS compressor and obsfucator
 * [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/) - Android launcher icon, Notification icon etc generator from existing images
+* [Website Speed Test | Pingdom](http://tools.pingdom.com/fpt/) - Feature-rich website tester
+* [Google Structured Data Testing Tool](http://www.google.com/webmasters/tools/richsnippets) - Test a webpage for structured data and SEO
 
 
 ### Communication
@@ -110,6 +112,8 @@ upon conversion
 * [Ge.tt](http://ge.tt/) - File hosting service. Max limit 2gb
 * [RGhost](http://rgho.st/) - File hosting service, Max limit 100mb without login
 * [ImgSafe](https://imgsafe.org/) - Image hosting service with small direct links
+* [Clyp](https://clyp.it/) - Audio sharing without limits, rich API
+* [SendVid](https://sendvid.com/) - Video hosting service
 
 
 ### Audio and Video
@@ -147,6 +151,9 @@ upon conversion
 ### Misc
 
 * [QR Code Generator](http://zxing.appspot.com/generator/) - Different type of QR codes like contact info, Wifi, Calendar etc supported
+* [Emoji Search Online](http://www.webpagefx.com/tools/emoji-cheat-sheet/) - Intelligent emoji search engine
+* [Podcast Feed Extractor](http://itunes.so-nik.com/) - Get rss feed for podcasts
+* [Rss Feed Search](http://ctrlq.org/rss/) - Find rss feeds from search terms
 
 
 -----
