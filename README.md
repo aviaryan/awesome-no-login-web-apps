@@ -1,19 +1,14 @@
-# Awesome Web Softwares
+# Awesome Web Apps (that work without login)
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A list of awesome web softwares. 
-[Softwares](https://en.wikipedia.org/wiki/Outline_of_software) ([Application Softwares](https://en.wikipedia.org/wiki/Application_software)) are things that you install on your computer to get a job done. This list presents web alternatives for common type of softwares. 
-
-From Wikipedia:
-
-> An application program (app or application for short) is a computer program designed to perform a group of coordinated functions, tasks, or activities for the benefit of the user. Examples of an application include a word processor, a spreadsheet, an accounting application, a web browser, a media player, an aeronautical flight simulator, a console game or a photo editor.
+Curated list of awesome web apps that work without requesting you to create an account. 
 
 ##### Important
 
-In most application softwares, you are not required to have an account to use them. Therefore this lists focuses on web softwares that allow usage **without user registration**.
-Websites that require registration have only been included if they provide much more features with respect to sites without registration.
-They have been tagged with `[Account]` in this list. 
+The web apps linked in this list provide most of their core features without login. 
+Some websites that require registration have also been included in this list because of lack of a proper alternative. 
+They have been tagged with `[Account]` in their listing.
 
 
 ## Contents
@@ -46,9 +41,9 @@ They have been tagged with `[Account]` in this list.
 
 #### Latex
 
+* [Papeeria](https://papeeria.com/) - Latex preview with downloading as PDF option available without registration
 * [Overleaf](https://www.overleaf.com/) `[Account]` - Unlimited collaborators and projects, git access in free account 
 * [Sharelatex](http://sharelatex.com/) `[Account]` - 1 collaborator in free account
-* [Papeeria](https://papeeria.com/) - Latex preview with downloading as PDF option available without registration
 
 #### Markdown
 
