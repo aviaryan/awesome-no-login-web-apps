@@ -70,7 +70,6 @@ But as already stated before, user account is not necessary to use the main feat
 * [EtherCalc](https://ethercalc.net/) - Online spreadsheet editor, exports to Excel
 
 
-
 ### Programming Editors and IDEs
 
 * [TutorialsPoint Online Tools](https://www.tutorialspoint.com/codingground.htm) - Online terminals for ipython, octave, 
@@ -120,6 +119,7 @@ powershell, redis and lots others. Also has a good collection of IDEs for progra
 
 ### File Converters
 
+* [Cloud Convert](https://cloudconvert.com/) - Convert from anything to anything including audio, video, font, document and lots more. Excellent integration with cloud storage services like Google Drive and Dropbox. Direct links. 
 * [Online Convert](http://www.online-convert.com/) - Collection of Audio, Video, Image, Document, Ebook and Archive converter. No file size limits and direct download links 
 upon conversion
 * [PDF <=> EPUB](http://pdfepub.com/) - PDF to epub converter and vice versa
