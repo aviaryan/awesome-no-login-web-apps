@@ -4,6 +4,8 @@
 
 Curated list of awesome web apps that work without requesting you to create an account. 
 
+> Work in progress, please [contribute](CONTRIBUTING.md).
+
 ##### Important
 
 The web apps linked in this list provide most of their core features without login. 
