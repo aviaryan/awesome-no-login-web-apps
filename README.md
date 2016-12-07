@@ -46,7 +46,7 @@ But as already stated before, user account is not necessary to use the main feat
 * [aNotepad](https://anotepad.com/) - Saves your notes without user account using cookies
 * [h5Note](http://h5note.com/) - Works when offline too using HTML5
 * [shrib](https://shrib.com/) - Save note to a custom url and edit it later
-
+* [Notepad](https://www.amitmerchant.com/notepad/) - An Offline capable Notepad PWA
 
 ### Document Editors
 
@@ -61,6 +61,7 @@ But as already stated before, user account is not necessary to use the main feat
 * [Dillinger](http://dillinger.io/) - Powerful markdown WYSIWYG with export to HTML and PDF. User account to save documents
 * [Github.md](http://aviaryan.in/javascripts/github.md/) - Simple Github-style Markdown (GFM) preview with print feature
 * [Markdown Live Preview](http://markdownlivepreview.com/) - Instant markdown preview
+* [Markdownify](http://www.amitmerchant.com/markdownify-web/) - A minimal Markdown editor
 
 #### <a name="doc-eds-others"></a> Others
 
