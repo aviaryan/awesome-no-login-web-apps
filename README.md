@@ -16,7 +16,7 @@ But as already stated before, user account is not neccessary to use the main fea
 
 ## Contents
 
-* [Notepads](#notepads)
+* [Notepads and Notebooks](#notepads-and-notebooks)
 * [Document editors](#document-editors)
 	* [Latex](#latex)
 	* [Markdown](#markdown)
@@ -34,10 +34,11 @@ But as already stated before, user account is not neccessary to use the main fea
 * [Misc](#misc)
 
 
-### Notepads
+### Notepads and Notebooks
 
 * [aNotepad](https://anotepad.com/) - Saves your notes without user account using cookies
 * [h5Note](http://h5note.com/) - Works when offline too using HTML5
+* [shrib](https://shrib.com/) - Save note to a custom url and edit it later
 
 
 ### Document Editors
@@ -158,6 +159,7 @@ upon conversion
 * [Emoji Search Online](http://www.webpagefx.com/tools/emoji-cheat-sheet/) - Intelligent emoji search engine
 * [Podcast Feed Extractor](http://itunes.so-nik.com/) - Get rss feed for podcasts
 * [Rss Feed Search](http://ctrlq.org/rss/) - Find rss feeds from search terms
+* [Diff Checker](https://www.diffchecker.com/) - Compare two text passages and view diffs
 
 
 -----
