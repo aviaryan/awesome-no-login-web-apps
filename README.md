@@ -2,11 +2,18 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A list of awesome web softwares and tools. 
-Softwares and Tools are things that you install on your computer to get the job done. This list presents web alternatives for as many as those softwares. 
+A list of awesome web softwares. 
+[Softwares](https://en.wikipedia.org/wiki/Outline_of_software) ([Application Softwares](https://en.wikipedia.org/wiki/Application_software)) are things that you install on your computer to get the job done. This list presents web alternatives for as many as those softwares. 
 
-The main focus of this list is on such web tools which allow usage **without user registration** just like most softwares. 
-Websites that require registration to use them have been tagged as `[Account]`. 
+From Wikipedia:
+
+> An application program (app or application for short) is a computer program designed to perform a group of coordinated functions, tasks, or activities for the benefit of the user. Examples of an application include a word processor, a spreadsheet, an accounting application, a web browser, a media player, an aeronautical flight simulator, a console game or a photo editor.
+
+##### Important
+
+In most application softwares, you are not required to have an account to use them. Therefore this lists focuses on web softwares that allow usage **without user registration**.
+Websites that require registration have only been included if they provide much more features with respect to sites without registration.
+They have been tagged with `[Account]` in this list. 
 
 
 ## Contents
@@ -48,6 +55,8 @@ Websites that require registration to use them have been tagged as `[Account]`.
 #### Others
 
 * [Online reStructedText Editor - rst.ninjs](http://rst.ninjs.org/) - WYSIWYG rst preview with option to save document online for editing later
+* [EtherCalc](https://ethercalc.net/) - Online spreadsheet editor, exports to Excel
+
 
 
 ### Programming Editors and IDEs
