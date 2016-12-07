@@ -18,8 +18,11 @@ They have been tagged with `[Account]` in this list.
 
 ## Contents
 
-* Notepads
-* Document editors
+* [Notepads](#notepads)
+* [Document editors](#document-editors)
+	* [Latex](#latex)
+	* [Markdown](#markdown)
+	* [Others](#doc-eds-others)
 * Programming Editors and IDEs
 * Development Tools
 * Communication
@@ -29,7 +32,7 @@ They have been tagged with `[Account]` in this list.
 * Audio and Video
 * Internet Downloaders
 * Cryptography
-* Study
+* Study and Education
 * Misc
 
 
@@ -52,7 +55,7 @@ They have been tagged with `[Account]` in this list.
 * [Dillinger](http://dillinger.io/) - Powerful markdown WYSIWYG with export to HTML and PDF. User account to save documents
 * [Github.md](http://aviaryan.in/javascripts/github.md/) - Simple Github-style Markdown (GFM) preview with print feature
 
-#### Others
+#### <a name="doc-eds-others"></a> Others
 
 * [Online reStructedText Editor - rst.ninjs](http://rst.ninjs.org/) - WYSIWYG rst preview with option to save document online for editing later
 * [EtherCalc](https://ethercalc.net/) - Online spreadsheet editor, exports to Excel
@@ -137,7 +140,7 @@ upon conversion
 * [Encrypted Pastebin - Defuse.ca](https://defuse.ca/pastebin.htm) - Set password on your public pastes
 
 
-### Study
+### Study and Education
 
 * [Geometry sheet by MathIsFun](https://www.mathsisfun.com/geometry/drawing.html) - Simple geometry sheet online if you want to play with figures
 * [Directed Graph Editor](http://bl.ocks.org/rkirsling/5001347) - Play with Directed Graphs
