@@ -24,7 +24,7 @@ They have been tagged with `[Account]` in this list.
 	* [Markdown](#markdown)
 	* [Others](#doc-eds-others)
 * [Programming Editors and IDEs](#programming-editors-and-ides)
-* [Development Tools](##development-tools)
+* [Development Tools](#development-tools)
 * [Communication](#communication)
 * [Graphics, Image and Design](#graphics-image-and-design)
 * [File Converters](#file-converters)
@@ -91,12 +91,13 @@ powershell, redis and lots others. Also has a good collection of IDEs for progra
 
 ### Graphics, Image and Design
 
-* [UI Gradients](http://uigradients.com/) - Good collection of gradients to use
-* [Coolors](https://coolors.co/) - Color palettes generator
+* [Pixlr Editor](https://pixlr.com/editor/) - Image editor by pixlr. Lots of features
+* [Photo Editor | Befunky](https://www.befunky.com/features/photo-editor/) - Image editor with lots of filters and effects
 * [Logo Makr](https://logomakr.com/) - Logo maker with nice collection of SVGs. Requires payment to export logo as SVG (png is free)
 * [Online Logo Maker](http://www.onlinelogomaker.com/) - Make logos online. Extra user account feature to save creations
 * [SVG-Edit](https://svg-edit.github.io/svgedit/releases/svg-edit-2.8.1/svg-editor.html) - Powerful SVG editor with lots of features. Open source
 * [Method Draw](http://editor.method.ac/) - Clean and feature-rich SVG editor. Exports to PNG
+* [Coolors](https://coolors.co/) - Color palettes generator
 
 
 ### File Converters
