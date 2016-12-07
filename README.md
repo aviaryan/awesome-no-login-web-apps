@@ -1,5 +1,7 @@
 # Awesome Web Softwares
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 A list of awesome web softwares and tools. 
 Softwares and Tools are things that you install on your computer to get the job done. This list presents web alternatives for as many as those softwares. 
 
@@ -132,3 +134,12 @@ upon conversion.
 ## Misc
 
 * [QR Code Generator](http://zxing.appspot.com/generator/) - Different type of QR codes like contact info, Wifi, Calendar etc supported
+
+
+-----
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Avi Aryan](http://aviaryan.in) has waived all copyright and related or neighboring rights to this work.
