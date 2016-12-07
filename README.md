@@ -53,6 +53,7 @@ But as already stated before, user account is not neccessary to use the main fea
 
 * [Dillinger](http://dillinger.io/) - Powerful markdown WYSIWYG with export to HTML and PDF. User account to save documents
 * [Github.md](http://aviaryan.in/javascripts/github.md/) - Simple Github-style Markdown (GFM) preview with print feature
+* [Markdown Live Preview](http://markdownlivepreview.com/) - Instant markdown preview
 
 #### <a name="doc-eds-others"></a> Others
 
