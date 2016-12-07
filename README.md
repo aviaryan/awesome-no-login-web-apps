@@ -159,6 +159,7 @@ upon conversion
 * [Geometry sheet by MathIsFun](https://www.mathsisfun.com/geometry/drawing.html) - Simple geometry sheet online if you want to play with figures
 * [Directed Graph Editor](http://bl.ocks.org/rkirsling/5001347) - Play with Directed Graphs
 * [Calculatoria Calculator](http://www.calculatoria.com/) - Scientific Calculator online with progress stored on your system
+* [WolframAlpha](https://www.wolframalpha.com) - A very powerful computational knowledge engine
 
 
 ### Miscellaneous
