@@ -1,24 +1,22 @@
-# Awesome Web Softwares
+# Awesome Web Apps (that work without login)
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A list of awesome web softwares. 
-[Softwares](https://en.wikipedia.org/wiki/Outline_of_software) ([Application Softwares](https://en.wikipedia.org/wiki/Application_software)) are things that you install on your computer to get a job done. This list presents web alternatives for common type of softwares. 
-
-From Wikipedia:
-
-> An application program (app or application for short) is a computer program designed to perform a group of coordinated functions, tasks, or activities for the benefit of the user. Examples of an application include a word processor, a spreadsheet, an accounting application, a web browser, a media player, an aeronautical flight simulator, a console game or a photo editor.
+Curated list of awesome web apps that work without requesting you to create an account. 
 
 ##### Important
 
-In most application softwares, you are not required to have an account to use them. Therefore this lists focuses on web softwares that allow usage **without user registration**.
-Websites that require registration have only been included if they provide much more features with respect to sites without registration.
-They have been tagged with `[Account]` in this list. 
+The web apps linked in this list provide most of their core features without login. 
+Some websites that require registration have also been included in this list because of lack of a proper alternative. 
+They have been tagged with `[Account]` in their listing.
+
+Most of the apps mentioned here do provide some kind of user account feature to save history and progress. 
+But as already stated before, user account is not neccessary to use the main features of these apps. 
 
 
 ## Contents
 
-* [Notepads](#notepads)
+* [Notepads and Notebooks](#notepads-and-notebooks)
 * [Document editors](#document-editors)
 	* [Latex](#latex)
 	* [Markdown](#markdown)
@@ -36,24 +34,26 @@ They have been tagged with `[Account]` in this list.
 * [Misc](#misc)
 
 
-### Notepads
+### Notepads and Notebooks
 
 * [aNotepad](https://anotepad.com/) - Saves your notes without user account using cookies
 * [h5Note](http://h5note.com/) - Works when offline too using HTML5
+* [shrib](https://shrib.com/) - Save note to a custom url and edit it later
 
 
 ### Document Editors
 
 #### Latex
 
+* [Papeeria](https://papeeria.com/) - Latex preview with downloading as PDF option available without registration
 * [Overleaf](https://www.overleaf.com/) `[Account]` - Unlimited collaborators and projects, git access in free account 
 * [Sharelatex](http://sharelatex.com/) `[Account]` - 1 collaborator in free account
-* [Papeeria](https://papeeria.com/) - Latex preview with downloading as PDF option available without registration
 
 #### Markdown
 
 * [Dillinger](http://dillinger.io/) - Powerful markdown WYSIWYG with export to HTML and PDF. User account to save documents
 * [Github.md](http://aviaryan.in/javascripts/github.md/) - Simple Github-style Markdown (GFM) preview with print feature
+* [Markdown Live Preview](http://markdownlivepreview.com/) - Instant markdown preview
 
 #### <a name="doc-eds-others"></a> Others
 
@@ -67,7 +67,8 @@ They have been tagged with `[Account]` in this list.
 * [TutorialsPoint Online Tools](https://www.tutorialspoint.com/codingground.htm) - Online terminals for ipython, octave, 
 powershell, redis and lots others. Also has a good collection of IDEs for programming languages
 * [Ideone](http://ideone.com/) - Online IDE supporting most popular languages
-* [Codechef IDE](https://www.codechef.com/ide)
+* [Repl.it](https://repl.it/) - Online terminals for all popular programming languages
+* [Codechef IDE](https://www.codechef.com/ide) - Simple single file code compiler supporting major languages
 * [Cloud9](https://c9.io/) `[Account]`  - Very powerful online dev environment, just like your local PC
 
 
@@ -78,6 +79,8 @@ powershell, redis and lots others. Also has a good collection of IDEs for progra
 * [HTML minifier by @kangax](https://kangax.github.io/html-minifier/) - Minifies inline CSS and JS too
 * [JavaScript compressor](http://javascriptcompressor.com/) - JS compressor and obsfucator
 * [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/) - Android launcher icon, Notification icon etc generator from existing images
+* [Website Speed Test | Pingdom](http://tools.pingdom.com/fpt/) - Feature-rich website tester
+* [Google Structured Data Testing Tool](http://www.google.com/webmasters/tools/richsnippets) - Test a webpage for structured data and SEO
 
 
 ### Communication
@@ -115,6 +118,8 @@ upon conversion
 * [Ge.tt](http://ge.tt/) - File hosting service. Max limit 2gb
 * [RGhost](http://rgho.st/) - File hosting service, Max limit 100mb without login
 * [ImgSafe](https://imgsafe.org/) - Image hosting service with small direct links
+* [Clyp](https://clyp.it/) - Audio sharing without limits, rich API
+* [SendVid](https://sendvid.com/) - Video hosting service
 
 
 ### Audio and Video
@@ -152,6 +157,10 @@ upon conversion
 ### Misc
 
 * [QR Code Generator](http://zxing.appspot.com/generator/) - Different type of QR codes like contact info, Wifi, Calendar etc supported
+* [Emoji Search Online](http://www.webpagefx.com/tools/emoji-cheat-sheet/) - Intelligent emoji search engine
+* [Podcast Feed Extractor](http://itunes.so-nik.com/) - Get rss feed for podcasts
+* [Rss Feed Search](http://ctrlq.org/rss/) - Find rss feeds from search terms
+* [Diff Checker](https://www.diffchecker.com/) - Compare two text passages and view diffs
 
 
 -----
