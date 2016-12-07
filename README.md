@@ -24,7 +24,7 @@ But as already stated before, user account is not neccessary to use the main fea
 	* [Markdown](#markdown)
 	* [Others](#doc-eds-others)
 * [Programming Editors and IDEs](#programming-editors-and-ides)
-* [Development Tools](#development-tools)
+* [Programming Tools](#programming-tools)
 * [Communication](#communication)
 * [Graphics, Image and Design](#graphics-image-and-design)
 * [File Converters](#file-converters)
@@ -74,7 +74,7 @@ powershell, redis and lots others. Also has a good collection of IDEs for progra
 * [Cloud9](https://c9.io/) `[Account]`  - Very powerful online dev environment, just like your local PC
 
 
-### Development Tools
+### Programming Tools
 
 * [CSS Minifier](http://cssminifier.com/)
 * [UglifyJS JavaScript minifier](https://skalman.github.io/UglifyJS-online/)
