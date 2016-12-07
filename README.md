@@ -31,6 +31,7 @@ But as already stated before, user account is not necessary to use the main feat
 * [Programming Editors and IDEs](#programming-editors-and-ides)
 * [Programming Tools](#programming-tools)
 * [Communication](#communication)
+* [Music, Radio and Podcasts](#music-radio-and-podcasts)
 * [Graphics, Image and Design](#graphics-image-and-design)
 * [File Converters](#file-converters)
 * [File Hosting/Sharing](#file-hostingsharing)
@@ -97,6 +98,13 @@ powershell, redis and lots others. Also has a good collection of IDEs for progra
 * [Gruveo](https://www.gruveo.com/) - Video conference online. Just like tlk.io, easy to remember custom urls
 * [Appear.in](https://appear.in/) - Video conference online. Create any room like `appear.in/some-room` and starting chatting
 * [Videolink2](https://videolink2.me/start) - Video conference online. Link generated, share link to invite other participants
+
+
+### Music, Radio and Podcasts
+
+* [Podbay](http://podbay.fm/) - Listen to any podcast online, individual episodes can be downloaded
+* [Internet Radio](https://www.internet-radio.com/) - Listen to over 40k radio stations
+* [Stitcher](http://www.stitcher.com/) - Listen to podcast online
 
 
 ### Graphics, Image and Design
