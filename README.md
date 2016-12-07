@@ -13,7 +13,7 @@ Some websites that require registration have also been included in this list bec
 They have been tagged with `[Account]` in their listing.
 
 Most of the apps mentioned here do provide some kind of user account feature to save history and progress. 
-But as already stated before, user account is not neccessary to use the main features of these apps. 
+But as already stated before, user account is not necessary to use the main features of these apps. 
 
 
 ## Contents
@@ -33,7 +33,7 @@ But as already stated before, user account is not neccessary to use the main fea
 * [Internet Downloaders](#internet-downloaders)
 * [Security and Cryptography](#security-and-cryptography)
 * [Study and Education](#study-and-education)
-* [Misc](#misc)
+* [Miscellaneous](#miscellaneous)
 
 
 ### Notepads and Notebooks
@@ -156,7 +156,7 @@ upon conversion
 * [Calculatoria Calculator](http://www.calculatoria.com/) - Scientific Calculator online with progress stored on your system
 
 
-### Misc
+### Miscellaneous
 
 * [QR Code Generator](http://zxing.appspot.com/generator/) - Different type of QR codes like contact info, Wifi, Calendar etc supported
 * [Emoji Search Online](http://www.webpagefx.com/tools/emoji-cheat-sheet/) - Intelligent emoji search engine
