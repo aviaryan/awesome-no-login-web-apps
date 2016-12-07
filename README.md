@@ -10,6 +10,9 @@ The web apps linked in this list provide most of their core features without log
 Some websites that require registration have also been included in this list because of lack of a proper alternative. 
 They have been tagged with `[Account]` in their listing.
 
+Most of the apps mentioned here do provide some kind of user account feature to save history and progress. 
+But as already stated before, user account is not neccessary to use the main features of these apps. 
+
 
 ## Contents
 
@@ -62,7 +65,8 @@ They have been tagged with `[Account]` in their listing.
 * [TutorialsPoint Online Tools](https://www.tutorialspoint.com/codingground.htm) - Online terminals for ipython, octave, 
 powershell, redis and lots others. Also has a good collection of IDEs for programming languages
 * [Ideone](http://ideone.com/) - Online IDE supporting most popular languages
-* [Codechef IDE](https://www.codechef.com/ide)
+* [Repl.it](https://repl.it/) - Online terminals for all popular programming languages
+* [Codechef IDE](https://www.codechef.com/ide) - Simple single file code compiler supporting major languages
 * [Cloud9](https://c9.io/) `[Account]`  - Very powerful online dev environment, just like your local PC
 
 
