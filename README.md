@@ -89,6 +89,9 @@ powershell, redis and lots others. Also has a good collection of IDEs for progra
 * [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/) - Android launcher icon, Notification icon etc generator from existing images
 * [Website Speed Test | Pingdom](http://tools.pingdom.com/fpt/) - Feature-rich website tester
 * [Google Structured Data Testing Tool](http://www.google.com/webmasters/tools/richsnippets) - Test a webpage for structured data and SEO
+* [JS Bin](https://jsbin.com) - Collaborative web development debugging tool
+* [Codepen.io](http://codepen.io/) - Playground for front end web developement
+* [Regulex](https://jex.im/regulex) - JavaScript regular expression visualizer
 
 
 ### Communication
@@ -116,6 +119,7 @@ powershell, redis and lots others. Also has a good collection of IDEs for progra
 * [SVG-Edit](https://svg-edit.github.io/svgedit/releases/svg-edit-2.8.1/svg-editor.html) - Powerful SVG editor with lots of features. Open source
 * [Method Draw](http://editor.method.ac/) - Clean and feature-rich SVG editor. Exports to PNG
 * [Coolors](https://coolors.co/) - Color palettes generator
+* [Tiny PNG](https://tinypng.com/) - Smart PNG and JPEG compression
 
 
 ### File Converters
