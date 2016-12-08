@@ -195,6 +195,7 @@ upon conversion
 * [Podcast Feed Extractor](http://itunes.so-nik.com/) - Get rss feed for podcasts
 * [Rss Feed Search](http://ctrlq.org/rss/) - Find rss feeds from search terms
 * [Diff Checker](https://www.diffchecker.com/) - Compare two text passages and view diffs
+* [is.gd](https://is.gd/) - Link shortener with custom urls and open API (no tokens)
 * [Bitly](https://bitly.com/) - A powerful url shortener with REST API
 
 

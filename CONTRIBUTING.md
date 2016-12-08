@@ -10,7 +10,6 @@ Please follow the following guidelines when submitting a PR -
 * New categories can be created if and when needed.
 * Add a `[Account]` type listing only when there is no comparable alternative available that works without login.
 
-
 And if you are in doubt, don't hesitate to open an issue and we will talk over it. 
 
 Thanks
