@@ -160,6 +160,7 @@ upon conversion
 * [keepvid](http://keepvid.com/) - Youtube, Soundcloud, Facebook downloader
 * [Print Friendly](https://www.printfriendly.com/) `[Duplicate]` - Simplify a webpage and download it as PDF
 * [Bitport](https://bitport.io/) `[Account]` - Torrent downloader online. Limited to 1 torrent of 1 gb per day in free account
+* [Vubey](https://vubey.yt/) - High Quality Youtube to mp3 converter in various audio formats
 
 
 ### Security and Cryptography
