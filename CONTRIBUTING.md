@@ -1,6 +1,6 @@
 # Contributing
 
-Hey, thanks for considering contributing to this list. I really appreciate it. 
+Hey, thanks for considering contributing to this list. We really appreciate it. 
 
 Please follow the following guidelines when submitting a PR -
 
@@ -10,6 +10,11 @@ Please follow the following guidelines when submitting a PR -
 * New categories can be created if and when needed.
 * Add a `[Account]` type listing only when there is no comparable alternative available that works without login.
 
-And if you are in doubt, don't hesitate to open an issue and we will talk over it. 
+Apart from that, 
 
-Thanks
+* Try to avoid adding similar apps in **Miscellaneous** section. At max 2 similar kinds of apps are acceptable. 
+* If there are lots of similar apps for something you want to add and the thing you are adding has no advantage over them, don't add it. Eg > Youtube downloaders
+* Check your spelling and grammar twice before submitting a PR.
+
+
+-----
