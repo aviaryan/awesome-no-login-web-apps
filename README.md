@@ -177,6 +177,7 @@ upon conversion
 
 * [Encipher.it](https://encipher.it/) - AES-256 text encryption and decryption
 * [Encrypted Pastebin - Defuse.ca](https://defuse.ca/pastebin.htm) - Set password on your public pastes
+* [MPCrypt](https://crypt.miguelpiedrafita.com/) - Securely encrypt files.
 
 
 ### Study and Education
