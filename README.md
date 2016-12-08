@@ -78,6 +78,8 @@ powershell, redis and lots others. Also has a good collection of IDEs for progra
 * [Repl.it](https://repl.it/) - Online terminals for all popular programming languages
 * [Codechef IDE](https://www.codechef.com/ide) - Simple single file code compiler supporting major languages
 * [Cloud9](https://c9.io/) `[Account]`  - Very powerful online dev environment, just like your local PC
+* [JS Bin](https://jsbin.com) - Collaborative web development and debugging tool
+* [Codepen.io](http://codepen.io/) - Playground for front end web developement
 
 
 ### Programming Tools
@@ -89,8 +91,6 @@ powershell, redis and lots others. Also has a good collection of IDEs for progra
 * [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/) - Android launcher icon, Notification icon etc generator from existing images
 * [Website Speed Test | Pingdom](http://tools.pingdom.com/fpt/) - Feature-rich website tester
 * [Google Structured Data Testing Tool](http://www.google.com/webmasters/tools/richsnippets) - Test a webpage for structured data and SEO
-* [JS Bin](https://jsbin.com) - Collaborative web development debugging tool
-* [Codepen.io](http://codepen.io/) - Playground for front end web developement
 * [Regulex](https://jex.im/regulex) - JavaScript regular expression visualizer
 
 
@@ -160,7 +160,7 @@ upon conversion
 * [keepvid](http://keepvid.com/) - Youtube, Soundcloud, Facebook downloader
 * [Print Friendly](https://www.printfriendly.com/) `[Duplicate]` - Simplify a webpage and download it as PDF
 * [Bitport](https://bitport.io/) `[Account]` - Torrent downloader online. Limited to 1 torrent of 1 gb per day in free account
-* [Vubey](https://vubey.yt/) - High Quality Youtube to mp3 converter in various audio formats
+* [Vubey](https://vubey.yt/) - Download mp3 from youtube, soundcloud etc in various audio quality (bitrates)
 
 
 ### Security and Cryptography
@@ -171,10 +171,10 @@ upon conversion
 
 ### Study and Education
 
-* [Geometry sheet by MathIsFun](https://www.mathsisfun.com/geometry/drawing.html) - Simple geometry sheet online if you want to play with figures
-* [Directed Graph Editor](http://bl.ocks.org/rkirsling/5001347) - Play with Directed Graphs
 * [Calculatoria Calculator](http://www.calculatoria.com/) - Scientific Calculator online with progress stored on your system
 * [WolframAlpha](https://www.wolframalpha.com) - A very powerful computational knowledge engine
+* [Geometry sheet by MathIsFun](https://www.mathsisfun.com/geometry/drawing.html) - Simple geometry sheet online if you want to play with figures
+* [Directed Graph Editor](http://bl.ocks.org/rkirsling/5001347) - Play with Directed Graphs
 
 
 ### Miscellaneous
