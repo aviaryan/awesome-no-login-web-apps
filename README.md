@@ -81,6 +81,8 @@ powershell, redis and lots others. Also has a good collection of IDEs for progra
 * [Cloud9](https://c9.io/) `[Account]`  - Very powerful online dev environment, just like your local PC
 * [JS Bin](https://jsbin.com) - Collaborative web development and debugging tool
 * [Codepen.io](http://codepen.io/) - Playground for front end web developement
+* [Codeenvy](https://codenvy.io/) `[Account]` - Cloud workspace for developers, supports most popular stacks including Android, Hadoop, 
+Selenium, Node and lot more
 
 
 ### Programming Tools
@@ -195,7 +197,6 @@ upon conversion
 * [Podcast Feed Extractor](http://itunes.so-nik.com/) - Get rss feed for podcasts
 * [Rss Feed Search](http://ctrlq.org/rss/) - Find rss feeds from search terms
 * [Diff Checker](https://www.diffchecker.com/) - Compare two text passages and view diffs
-* [is.gd](https://is.gd/) - Link shortener with custom urls and open API (no tokens)
 * [Bitly](https://bitly.com/) - A powerful url shortener with REST API
 
 
