@@ -31,7 +31,7 @@ But as already stated before, user account is not necessary to use the main feat
 * [Programming Editors and IDEs](#programming-editors-and-ides)
 * [Programming Tools](#programming-tools)
 * [Communication](#communication)
-* [Financial Tools](#financial-tools)
+* [Business and Finance](#business-and-finance)
 * [Music, Radio and Podcasts](#music-radio-and-podcasts)
 * [Graphics, Image and Design](#graphics-image-and-design)
 * [File Converters](#file-converters)
@@ -104,7 +104,7 @@ powershell, redis and lots others. Also has a good collection of IDEs for progra
 * [Videolink2](https://videolink2.me/start) - Video conference online. Link generated, share link to invite other participants
 
 
-### Financial Tools
+### Business and Finance
 
 * [ShapeShift.io](https://shapeshift.io) - Instant cryptocurrency conversion
 * [Cryptrader.com](https://cryptrader.com) - Cryptocurrency price charts and indicators. Saving your settings requires an account
