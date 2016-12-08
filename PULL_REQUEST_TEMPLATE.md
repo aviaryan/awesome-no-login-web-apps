@@ -1,9 +1,14 @@
-If you are adding something, explain briefly why do you think that web app is **awesome**.
+<!-- Please fill in the **bold** fields, submit the pull request and tick the checkboxes. DO NOT SUBMIT ANYTHING IF YOU FAIL ANY OF THIS RULES -->
 
-If you are changing something, explain briefly why that change was needed.
+**[Insert URL to the app here.]**
 
-Apart from that, go through the following checkpoints --
+**[Explain what this app is about and why it should be included here.]**
+
+
+# By submitting this pull request I confirm I've read and complied with the below requirements.
+
+Failure to properly do so will just result in the pull request being closed and everyone's time wasted. Please read it twice. Most people miss many things.
 
 - [ ] I have read the [Contribution guidelines](https://github.com/aviaryan/awesome-no-login-web-apps/blob/master/CONTRIBUTING.md) and I am confident that my PR is suitable 
-for this project. 
-- [ ] I have edited the PR title from "update README.md" to something meaningful.
+- [ ] This pull request has a descriptive title. For example, `Add [Name of List]`, not `Update readme.md` or `Add an awesome list`.
+- [ ] The app I added is not a duplicate
