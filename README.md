@@ -172,6 +172,7 @@ upon conversion
 * [Print Friendly](https://www.printfriendly.com/) `[Duplicate]` - Simplify a webpage and download it as PDF
 * [Bitport](https://bitport.io/) `[Account]` - Torrent downloader online. Limited to 1 torrent of 1 gb per day in free account
 * [Vubey](https://vubey.yt/) - Download mp3 from youtube, soundcloud etc in various audio quality (bitrates)
+* [Seedr](https://www.seedr.cc/) `[Account]` - Cloud Based Torrent Downloader. Limited to multiple torrents of total size of 2 gb in free account. 500mb increase on contributing a new user
 
 
 ### Security and Cryptography
