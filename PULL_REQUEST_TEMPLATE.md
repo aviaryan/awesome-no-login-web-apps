@@ -10,5 +10,5 @@
 Failure to properly do so will just result in the pull request being closed and everyone's time wasted. Please read it twice. Most people miss many things.
 
 - [ ] I have read the [Contribution guidelines](https://github.com/aviaryan/awesome-no-login-web-apps/blob/master/CONTRIBUTING.md) and I am confident that my PR is suitable 
-- [ ] This pull request has a descriptive title. For example, `Add [Name of List]`, not `Update readme.md` or `Add an awesome list`.
+- [ ] This pull request has a descriptive title. For example, `Add [App name]`, not `Update readme.md` or `Added new entries`.
 - [ ] The app I added is not a duplicate
