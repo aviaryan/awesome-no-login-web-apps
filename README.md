@@ -56,7 +56,7 @@ But as already stated before, user account is not necessary to use the main feat
 
 * [Papeeria](https://papeeria.com/) - Latex preview with downloading as PDF option available without registration
 * [Overleaf](https://www.overleaf.com/) `[Account]` - Unlimited collaborators and projects, git access in free account 
-* [Sharelatex](http://sharelatex.com/) `[Account]` - 1 collaborator in free account
+* [Sharelatex](https://www.sharelatex.com) `[Account]` - 1 collaborator in free account
 
 #### Markdown
 
@@ -91,14 +91,14 @@ powershell, redis and lots others. Also has a good collection of IDEs for progra
 * [HTML minifier by @kangax](https://kangax.github.io/html-minifier/) - Minifies inline CSS and JS too
 * [JavaScript compressor](http://javascriptcompressor.com/) - JS compressor and obsfucator
 * [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/) - Android launcher icon, Notification icon etc generator from existing images
-* [Website Speed Test | Pingdom](http://tools.pingdom.com/fpt/) - Feature-rich website tester
-* [Google Structured Data Testing Tool](http://www.google.com/webmasters/tools/richsnippets) - Test a webpage for structured data and SEO
-* [Regulex](https://jex.im/regulex) - JavaScript regular expression visualizer
+* [Website Speed Test | Pingdom](https://tools.pingdom.com/fpt/) - Feature-rich website tester
+* [Google Structured Data Testing Tool](https://developers.google.com/structured-data/testing-tool/) - Test a webpage for structured data and SEO
+* [Regulex](http://jex.im/regulex/) - JavaScript regular expression visualizer
 
 
 ### Communication
 
-* [Tlk.io](http://tlk.io/) - Create a room with any url (eg `tlk.io/some-room`) you wish and chat in groups
+* [Tlk.io](https://tlk.io/) - Create a room with any url (eg `tlk.io/some-room`) you wish and chat in groups
 * [Discord](https://discordapp.com/) - Voice and text conference online. Username is asked at start to create a temp avatar
 * [Gruveo](https://www.gruveo.com/) - Video conference online. Just like tlk.io, easy to remember custom urls
 * [Appear.in](https://appear.in/) - Video conference online. Create any room like `appear.in/some-room` and starting chatting
@@ -110,7 +110,7 @@ powershell, redis and lots others. Also has a good collection of IDEs for progra
 
 * [ShapeShift.io](https://shapeshift.io) - Instant cryptocurrency conversion
 * [Cryptrader.com](https://cryptrader.com) - Cryptocurrency price charts and indicators. Saving your settings requires an account
-* [TradingView.com](https://tradingview.com) - Real-time information and market insights from various exchanges. Requires an account for saving settings
+* [TradingView.com](https://www.tradingview.com/) - Real-time information and market insights from various exchanges. Requires an account for saving settings
 
 
 ### Music, Radio and Podcasts
