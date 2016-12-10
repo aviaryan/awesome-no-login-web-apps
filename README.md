@@ -7,18 +7,14 @@ Curated list of awesome web apps that work without requesting you to create an a
 
 > Work in progress, please [contribute](CONTRIBUTING.md).
 
-##### Why this?
+#### Inspiration
 
 To save the world from creating user accounts and installing softwares for every damn thing
 
-##### Important
+#### Some pointers
 
-The web apps linked in this list provide most of their core features without login. 
-Some websites that require registration have also been included in this list because of lack of a proper alternative. 
-They have been tagged with `[Account]` in their listing.
-
-Most of the apps mentioned here do provide some kind of user account feature to save history and progress. 
-But as already stated before, user account is not necessary to use the main features of these apps. 
+* The web apps linked in this list provide most of their core features without login. Some websites that require registration have also been included in this list because of lack of a proper alternative. They have been tagged with `[Account]` in their listing.
+* Most of the apps mentioned here do provide some kind of user account feature to save history and progress. But as already stated before, user account is not necessary to use the main features of these apps. 
 
 
 ## Contents
