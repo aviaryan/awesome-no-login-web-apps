@@ -177,7 +177,7 @@ upon conversion
 
 * [Encipher.it](https://encipher.it/) - AES-256 text encryption and decryption
 * [Encrypted Pastebin - Defuse.ca](https://defuse.ca/pastebin.htm) - Set password on your public pastes
-* [MPCrypt](https://crypt.miguelpiedrafita.com/) - Securely encrypt files.
+* [MPCrypt](https://crypt.miguelpiedrafita.com/) - Securely encrypt files
 
 
 ### Study and Education
@@ -198,6 +198,7 @@ upon conversion
 * [is.gd](https://is.gd/) - Link shortener with custom urls and open API (no tokens)
 * [Bitly](https://bitly.com/) - A powerful url shortener with REST API
 * [Superbetize](http://superbetize.com/) - Categorize your grocery list
+* [ASCII.li](https://ascii.li) - Generate text ascii art, ascii emoticons and lots more online
 
 
 -----
