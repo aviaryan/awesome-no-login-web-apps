@@ -172,6 +172,7 @@ upon conversion
 * [Bitport](https://bitport.io/) `[Account]` - Torrent downloader online. Limited to 1 torrent of 1 gb per day in free account
 * [Vubey](https://vubey.yt/) - Download mp3 from youtube, soundcloud etc in various audio quality (bitrates)
 * [Seedr](https://www.seedr.cc/) `[Account]` - Cloud Based Torrent Downloader. Limited to multiple torrents of total size of 2 gb in free account. 500mb increase on contributing a new user
+* [Fuge.it](https://fuge.it/) `[Account]` - Web torrent client. Limited to two torrents of total size 2gb in free account, 10gb storage and files sharing feature.
 
 
 ### Security and Cryptography
