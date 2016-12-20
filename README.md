@@ -117,6 +117,7 @@ powershell, redis and lots others. Also has a good collection of IDEs for progra
 * [Stitcher](http://www.stitcher.com/) - Listen to podcast online
 * [AnyAudio](http://anyaudio.in/) - Stream and download music
 * [Muki](https://muki.io) - WebAudio-based chiptune & MIDI player, with a nice collection of video game music
+* [MusixHub](http://www.musixhub.com) - Play artists and albums video songs online, powered by Youtube
 
 
 ### Graphics, Image and Design
