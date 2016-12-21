@@ -150,6 +150,7 @@ upon conversion
 * [ImgSafe](https://imgsafe.org/) - Image hosting service with small direct links
 * [Clyp](https://clyp.it/) - Audio sharing without limits, rich API
 * [SendVid](https://sendvid.com/) - Video hosting service
+* [Archive.org](https://archive.org/) `[Account]` - Unlimited file hosting of any type, no limits on bandwidth and upload size
 
 
 ### Audio and Video
