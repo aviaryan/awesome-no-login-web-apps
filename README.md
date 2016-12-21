@@ -185,7 +185,9 @@ upon conversion
 ### Study and Education
 
 * [Calculatoria Calculator](http://www.calculatoria.com/) - Scientific Calculator online with progress stored on your system
-* [WolframAlpha](https://www.wolframalpha.com) - A very powerful computational knowledge engine
+* [WolframAlpha](https://www.wolframalpha.com) - A very powerful computational knowledge engine. 
+See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAndGraphics.html) for help on how to plot graphs. 
+* [Desmos Graphing Calculator](https://www.desmos.com/calculator) - Plot multiple 2d plots on same sheet, see graph intersections
 * [Geometry sheet by MathIsFun](https://www.mathsisfun.com/geometry/drawing.html) - Simple geometry sheet online if you want to play with figures
 * [Directed Graph Editor](http://bl.ocks.org/rkirsling/5001347) - Play with Directed Graphs
 
