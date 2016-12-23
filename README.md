@@ -79,6 +79,7 @@ powershell, redis and lots others. Also has a good collection of IDEs for progra
 * [JS Bin](https://jsbin.com) - Collaborative web development and debugging tool
 * [Codepen.io](http://codepen.io/) - Playground for front end web developement
 * [Codenvy](https://codenvy.com) `[Account]` - Cloud workspace for developers, supports most popular stacks including Android, Hadoop, Selenium, Node and lots more
+* [SQLFiddle](http://sqlfiddle.com/) - A tool for easy online testing and sharing of database problems and their solutions.
 
 
 ### Programming Tools
