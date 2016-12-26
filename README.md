@@ -6,8 +6,6 @@
 
 Curated list of awesome web apps that work without requesting you to create an account. 
 
-> Work in progress, please [contribute](CONTRIBUTING.md).
-
 #### Inspiration
 
 To save the world from creating user accounts and installing softwares for every damn thing
@@ -171,7 +169,6 @@ upon conversion
 * [youtube-mp3.org](http://www.youtube-mp3.org/) - Youtube to mp3 download
 * [Youtube Converter & Downloader](https://www.onlinevideoconverter.com/video-converter) - Download youtube video in any audio/video format
 * [keepvid](http://keepvid.com/) - Youtube, Soundcloud, Facebook downloader
-* [Print Friendly](https://www.printfriendly.com/) `[Duplicate]` - Simplify a webpage and download it as PDF
 * [Bitport](https://bitport.io/) `[Account]` - Torrent downloader. Limited to 1 torrent of 1 gb per day in free account
 * [Vubey](https://vubey.yt/) - Download mp3 from youtube, soundcloud etc in various audio quality (bitrates)
 * [Seedr](https://www.seedr.cc/) `[Account]` - Cloud Based Torrent Downloader. Limited to multiple torrents of total size of 2 gb in free account. Unlimited bandwidth. 500mb increase on contributing a new user
