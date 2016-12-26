@@ -99,7 +99,7 @@ powershell, redis and lots others. Also has a good collection of IDEs for progra
 * [Gruveo](https://www.gruveo.com/) - Video conference online. Just like tlk.io, easy to remember custom urls
 * [Appear.in](https://appear.in/) - Video conference online. Create any room like `appear.in/some-room` and starting chatting
 * [Videolink2](https://videolink2.me/start) - Video conference online. Link generated, share link to invite other participants
-* [GetARoom.io](https://getaroom.io/) - Video conference online. Has mobile browser support, just click start new call and share the link. 
+* [GetARoom.io](https://getaroom.io/) - Video conference online. Has mobile browser support, just click start new call and share the link
 
 
 ### Business and Finance
@@ -133,7 +133,7 @@ powershell, redis and lots others. Also has a good collection of IDEs for progra
 
 ### File Converters
 
-* [Cloud Convert](https://cloudconvert.com/) - Convert from anything to anything including audio, video, font, document and lots more. Excellent integration with cloud storage services like Google Drive and Dropbox. Direct links. 
+* [Cloud Convert](https://cloudconvert.com/) - Convert from anything to anything including audio, video, font, document and lots more. Excellent integration with cloud storage services like Google Drive and Dropbox. Direct links
 * [Online Convert](http://www.online-convert.com/) - Collection of Audio, Video, Image, Document, Ebook and Archive converter. No file size limits and direct download links 
 upon conversion
 * [PDF <=> EPUB](http://pdfepub.com/) - PDF to epub converter and vice versa
@@ -190,6 +190,7 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [Desmos Graphing Calculator](https://www.desmos.com/calculator) - Plot multiple 2d plots on same sheet, see graph intersections
 * [Geometry sheet by MathIsFun](https://www.mathsisfun.com/geometry/drawing.html) - Simple geometry sheet online if you want to play with figures
 * [Directed Graph Editor](http://bl.ocks.org/rkirsling/5001347) - Play with Directed Graphs
+* [Calcul](http://www.calcul.com) - Collection of different calculators including Matrix, Unit converters, mathematical distributions and more
 
 
 ### Miscellaneous
