@@ -94,6 +94,7 @@ powershell, redis and lots others. Also has a good collection of IDEs for progra
 
 ### Communication
 
+* [qKast](https://qkast.com/) - Live broadcast internet content. Use a web clipper and broadcast to a group.
 * [Tlk.io](https://tlk.io/) - Create a room with any url (eg `tlk.io/some-room`) you wish and chat in groups
 * [Discord](https://discordapp.com/) - Voice and text conference online. Username is asked at start to create a temp avatar
 * [Gruveo](https://www.gruveo.com/) - Video conference online. Just like tlk.io, easy to remember custom urls
