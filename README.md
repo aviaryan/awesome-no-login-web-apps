@@ -119,6 +119,7 @@ powershell, redis and lots others. Also has a good collection of IDEs for progra
 * [MusixHub](http://www.musixhub.com) - Play artists and albums video songs online, powered by Youtube
 * [plug.dj](https://plug.dj/) - Listen to thousands of DJs, powered by Youtube, sign-in required to become a DJ
 * [Jango Radio](https://jango.com/) - Free internet radio, listen to hundreds of genre stations or create your own with your favorite music
+* [MusicPleer](http://musicpleer.cc/) - Stream or download your favourite songs without any hassle
 
 
 ### Graphics, Image and Design
@@ -175,6 +176,7 @@ upon conversion
 * [Vubey](https://vubey.yt/) - Download mp3 from youtube, soundcloud etc in various audio quality (bitrates)
 * [Seedr](https://www.seedr.cc/) `[Account]` - Cloud Based Torrent Downloader. Limited to multiple torrents of total size of 2 gb in free account. Unlimited bandwidth. 500mb increase on contributing a new user
 * [Fuge.it](https://fuge.it/) `[Account]` - Web torrent client. Free tier limited to 2 simulataneous torrents of max size 2gb in free account, 10gb storage, 10 gb bandwidth/month
+* [Direct Torrents](http://www.direct-torrents.com/) - Download torrent files faster and safer as direct download with 10GB max size of torrent and comfortable bandwidth
 
 
 ### Security and Cryptography
