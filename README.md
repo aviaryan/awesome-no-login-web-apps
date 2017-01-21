@@ -176,8 +176,8 @@ upon conversion
 * [Vubey](https://vubey.yt/) - Download mp3 from youtube, soundcloud etc in various audio quality (bitrates)
 * [Seedr](https://www.seedr.cc/) `[Account]` - Cloud Based Torrent Downloader. Limited to multiple torrents of total size of 2 gb in free account. Unlimited bandwidth. 500mb increase on contributing a new user
 * [Fuge.it](https://fuge.it/) `[Account]` - Web torrent client. Free tier limited to 2 simulataneous torrents of max size 2gb in free account, 10gb storage, 10 gb bandwidth/month
-* [Direct Torrents] - Download torrent files faster and safer as direct download
-* [ZbigZ] - free torrent downloads upto 1 GB
+* [Direct Torrents](http://www.direct-torrents.com/) - Download torrent files faster and safer as direct download
+* [ZbigZ](https://zbigz.com/) - free torrent downloads upto 1 GB
 
 ### Security and Cryptography
 
