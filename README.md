@@ -119,6 +119,7 @@ powershell, redis and lots others. Also has a good collection of IDEs for progra
 * [MusixHub](http://www.musixhub.com) - Play artists and albums video songs online, powered by Youtube
 * [plug.dj](https://plug.dj/) - Listen to thousands of DJs, powered by Youtube, sign-in required to become a DJ
 * [Jango Radio](https://jango.com/) - Free internet radio, listen to hundreds of genre stations or create your own with your favorite music
+* [MusicPleer](http://musicpleer.cc/) - Stream or download your favourite songs without any hassle
 
 
 ### Graphics, Image and Design
