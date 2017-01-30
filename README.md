@@ -8,7 +8,7 @@ Curated list of awesome web apps that work without requesting you to create an a
 
 #### Inspiration
 
-To save the world from creating user accounts and installing softwares for every damn thing
+To save the world from creating user accounts and installing software applications for every damn thing.
 
 #### Some pointers
 
