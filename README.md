@@ -213,6 +213,7 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [Bitly](https://bitly.com/) - A powerful url shortener with REST API
 * [Superbetize](http://superbetize.com/) - Categorize your grocery list
 * [ASCII.li](https://ascii.li) - Generate text ascii art, ascii emoticons and lots more online
+* [isup.me](http://isup.me/) - "Is website down for everyone or just me?"
 
 
 -----
