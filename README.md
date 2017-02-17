@@ -199,6 +199,7 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 
 ### Miscellaneous
 
+* [rollApp](https://www.rollapp.com/) `[Account]` - Run desktop applications on any device
 * [QR Code Generator](http://zxing.appspot.com/generator/) - Different type of QR codes like contact info, Wifi, Calendar etc supported
 * [Emoji Search Online](http://www.webpagefx.com/tools/emoji-cheat-sheet/) - Intelligent emoji search engine
 * [Podcast Feed Extractor](http://itunes.so-nik.com/) - Get rss feed for podcasts
