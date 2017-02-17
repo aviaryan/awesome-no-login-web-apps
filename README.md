@@ -135,6 +135,7 @@ powershell, redis and lots others. Also has a good collection of IDEs for progra
 * [Tiny PNG](https://tinypng.com/) - Smart PNG and JPEG compression
 * [Realtime Board](https://realtimeboard.com/) `[Account]` - Collaborative blackboard with huge area, screen sharing, video&voice communication
 * [ezGIF](http://ezgif.com/) - GIF images editor (cropping, scaling, optimizing and more)
+* [Adobe Color CC](https://color.adobe.com/) - Color scheme designer
 
 
 ### File Converters
