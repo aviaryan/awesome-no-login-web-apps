@@ -156,7 +156,7 @@ upon conversion
 * [Clyp](https://clyp.it/) - Audio sharing without limits, rich API
 * [SendVid](https://sendvid.com/) - Video hosting service
 * [Archive.org](https://archive.org/) `[Account]` - Unlimited file hosting of any type, no limits on bandwidth and upload size
-
+* [Screencast-O-Matic](https://screencast-o-matic.com/) - Create, host and share screen recording online. It will need an account for other devices except windows and macintosh.
 
 ### Audio and Video
 
