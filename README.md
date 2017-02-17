@@ -132,6 +132,9 @@ powershell, redis and lots others. Also has a good collection of IDEs for progra
 * [Method Draw](http://editor.method.ac/) - Clean and feature-rich SVG editor. Exports to PNG
 * [Coolors](https://coolors.co/) - Color palettes generator
 * [Tiny PNG](https://tinypng.com/) - Smart PNG and JPEG compression
+* [Realtime Board](https://realtimeboard.com/) `[Account]` - Collaborative blackboard with huge area, screen sharing, video&voice communication
+* [ezGIF](http://ezgif.com/) - GIF images editor (cropping, scaling, optimizing and more)
+* [Adobe Color CC](https://color.adobe.com/) - Color scheme designer
 
 
 ### File Converters
@@ -195,10 +198,12 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [Geometry sheet by MathIsFun](https://www.mathsisfun.com/geometry/drawing.html) - Simple geometry sheet online if you want to play with figures
 * [Directed Graph Editor](http://bl.ocks.org/rkirsling/5001347) - Play with Directed Graphs
 * [Calcul](http://www.calcul.com) - Collection of different calculators including Matrix, Unit converters, mathematical distributions and more
+* [Word Safety](http://wordsafety.com/) - Check if words are abusive in any languages
 
 
 ### Miscellaneous
 
+* [rollApp](https://www.rollapp.com/) `[Account]` - Run desktop applications on any device
 * [QR Code Generator](http://zxing.appspot.com/generator/) - Different type of QR codes like contact info, Wifi, Calendar etc supported
 * [Emoji Search Online](http://www.webpagefx.com/tools/emoji-cheat-sheet/) - Intelligent emoji search engine
 * [Podcast Feed Extractor](http://itunes.so-nik.com/) - Get rss feed for podcasts
@@ -208,6 +213,7 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [Bitly](https://bitly.com/) - A powerful url shortener with REST API
 * [Superbetize](http://superbetize.com/) - Categorize your grocery list
 * [ASCII.li](https://ascii.li) - Generate text ascii art, ascii emoticons and lots more online
+* [isup.me](http://isup.me/) - Check if website is not loading just for you or everyone else
 
 
 -----
