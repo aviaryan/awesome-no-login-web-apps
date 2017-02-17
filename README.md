@@ -132,6 +132,7 @@ powershell, redis and lots others. Also has a good collection of IDEs for progra
 * [Method Draw](http://editor.method.ac/) - Clean and feature-rich SVG editor. Exports to PNG
 * [Coolors](https://coolors.co/) - Color palettes generator
 * [Tiny PNG](https://tinypng.com/) - Smart PNG and JPEG compression
+* [Realtime Board](https://realtimeboard.com/) `[Account]` - Collaborative blackboard with huge area, screen sharing, video&voice communication
 
 
 ### File Converters
