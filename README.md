@@ -199,6 +199,7 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [Geometry sheet by MathIsFun](https://www.mathsisfun.com/geometry/drawing.html) - Simple geometry sheet online if you want to play with figures
 * [Directed Graph Editor](http://bl.ocks.org/rkirsling/5001347) - Play with Directed Graphs
 * [Calcul](http://www.calcul.com) - Collection of different calculators including Matrix, Unit converters, mathematical distributions and more
+* [Word Safety](http://wordsafety.com/) - Check if words are abusive in any languages
 
 
 ### Miscellaneous
