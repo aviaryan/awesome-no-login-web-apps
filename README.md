@@ -43,7 +43,7 @@ To save the world from creating user accounts and installing software applicatio
 * [aNotepad](https://anotepad.com/) - Saves your notes without a user account using cookies
 * [h5Note](http://h5note.com/) - Works when offline too using HTML5
 * [shrib](https://shrib.com/) - Save note to a custom url and edit it later
-* [Notepad](https://www.amitmerchant.com/notepad/) - An Offline capable Notepad PWA
+* [Notepad](https://www.amitmerchant.com/notepad/) - Offline capable Notepad PWA
 
 ### Document Editors
 
@@ -51,14 +51,14 @@ To save the world from creating user accounts and installing software applicatio
 
 * [Papeeria](https://papeeria.com/) - Latex preview with an option for downloading as a PDF available without registration
 * [Overleaf](https://www.overleaf.com/) `[Account]` - Unlimited collaborators and projects, git access in the free account
-* [Sharelatex](https://www.sharelatex.com) `[Account]` - 1 collaborator in free account
+* [Sharelatex](https://www.sharelatex.com) `[Account]` - Latex editor with unlimited private projects. 1 collaborator in free account
 
 #### Markdown
 
 * [Dillinger](http://dillinger.io/) - Powerful markdown WYSIWYG with export to HTML and PDF. User account to save documents
 * [Github.md](http://aviaryan.in/javascripts/github.md/) - Simple Github-style Markdown (GFM) preview with print feature
 * [Markdown Live Preview](http://markdownlivepreview.com/) - Instant markdown preview
-* [Markdownify](http://www.amitmerchant.com/markdownify-web/) - A minimal Markdown editor
+* [Markdownify](http://www.amitmerchant.com/markdownify-web/) - Minimal Markdown editor
 
 #### <a name="doc-eds-others"></a> Others
 
@@ -77,7 +77,7 @@ powershell, redis and lots others. Also has a good collection of IDEs for progra
 * [JS Bin](https://jsbin.com) - Collaborative web development and debugging tool
 * [Codepen.io](http://codepen.io/) - Playground for front end web developement
 * [Codenvy](https://codenvy.com) `[Account]` - Cloud workspace for developers, supports most popular stacks including Android, Hadoop, Selenium, Node and lots more
-* [SQLFiddle](http://sqlfiddle.com/) - A tool for easy online testing and sharing of database problems and their solutions.
+* [SQLFiddle](http://sqlfiddle.com/) - Tool for easy online testing and sharing of database problems and their solutions.
 
 
 ### Programming Tools
@@ -192,7 +192,7 @@ upon conversion
 ### Study and Education
 
 * [Calculatoria Calculator](http://www.calculatoria.com/) - Scientific Calculator online with progress stored on your system
-* [WolframAlpha](https://www.wolframalpha.com) - A very powerful computational knowledge engine. 
+* [WolframAlpha](https://www.wolframalpha.com) - Powerful computational knowledge engine. 
 See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAndGraphics.html) for help on how to plot graphs. 
 * [Desmos Graphing Calculator](https://www.desmos.com/calculator) - Plot multiple 2d plots on same sheet, see graph intersections
 * [Geometry sheet by MathIsFun](https://www.mathsisfun.com/geometry/drawing.html) - Simple geometry sheet online if you want to play with figures
@@ -210,7 +210,7 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [Rss Feed Search](http://ctrlq.org/rss/) - Find rss feeds from search terms
 * [Diff Checker](https://www.diffchecker.com/) - Compare two text passages and view diffs
 * [is.gd](https://is.gd/) - Link shortener with custom urls and open API (no tokens)
-* [Bitly](https://bitly.com/) - A powerful url shortener with REST API
+* [Bitly](https://bitly.com/) - Powerful url shortener with REST API
 * [Superbetize](http://superbetize.com/) - Categorize your grocery list
 * [ASCII.li](https://ascii.li) - Generate text ascii art, ascii emoticons and lots more online
 * [isup.me](http://isup.me/) - Check if website is not loading just for you or everyone else
