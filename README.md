@@ -82,8 +82,8 @@ powershell, redis and lots others. Also has a good collection of IDEs for progra
 
 ### Programming Tools
 
-* [CSS Minifier](http://cssminifier.com/)
-* [UglifyJS JavaScript minifier](https://skalman.github.io/UglifyJS-online/)
+* [CSS Minifier](http://cssminifier.com/) - Minifies CSS by removing whitespace and comments
+* [UglifyJS JavaScript minifier](https://skalman.github.io/UglifyJS-online/) - Minifies and obsfucates JavaScript
 * [HTML minifier by @kangax](https://kangax.github.io/html-minifier/) - Minifies inline CSS and JS too
 * [JavaScript compressor](http://javascriptcompressor.com/) - JS compressor and obsfucator
 * [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/) - Android launcher icon, Notification icon etc generator from existing images
