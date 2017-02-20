@@ -185,7 +185,7 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 
 * [Encipher.it](https://encipher.it/) - AES-256 text encryption and decryption.
 * [Encrypted Pastebin - Defuse.ca](https://defuse.ca/pastebin.htm) - Set password on your public pastes.
-* [MPCrypt](https://crypt.miguelpiedrafita.com/) - Securely encrypt files.
+* [MPCrypt](http://crypt.miguelpiedrafita.com/) - Securely encrypt files.
 
 
 ### Study and Education
