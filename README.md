@@ -173,12 +173,12 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 * [savefrom.net](http://en.savefrom.net/) - Download from YouTube, Dailymotion, Vimeo and more.
 * [youtube-mp3.org](http://www.youtube-mp3.org/) - YouTube to MP3 download.
 * [Youtube Converter & Downloader](https://www.onlinevideoconverter.com/video-converter) - Download YouTube video in any audio/video format.
-* [keepvid](http://keepvid.com/) - YouTube, Soundcloud, Facebook downloader.
-* [Bitport](https://bitport.io/) `[Account]` - Torrent downloader. Limited to 1 torrent of 1 gb per day in free account.
+* [keepvid](http://keepvid.com/) - YouTube, SoundCloud, Facebook downloader.
+* [Bitport](https://bitport.io/) `[Account]` - Torrent downloader. Limited to 1 torrent of 1gb per day in free account.
 * [Vubey](https://vubey.yt/) - Download mp3 from YouTube, SoundCloud etc in various audio quality (bitrates).
-* [Seedr](https://www.seedr.cc/) `[Account]` - Cloud based torrent downloader. Limited to multiple torrents of total size of 2 gb in free account. Unlimited bandwidth. 500mb increase on contributing a new user.
-* [Fuge.it](https://fuge.it/) `[Account]` - Web torrent client. Free tier limited to 2 simulataneous torrents of max size 2gb in free account, 10gb storage, 10 gb bandwidth/month.
-* [Direct Torrents](http://www.direct-torrents.com/) - Download torrent files faster and safer as direct download with 10GB max size of torrent and comfortable bandwidth.
+* [Seedr](https://www.seedr.cc/) `[Account]` - Cloud based torrent downloader. Limited to multiple torrents of total size of 2gb in free account. Unlimited bandwidth. 500mb increase on contributing a new user.
+* [Fuge.it](https://fuge.it/) `[Account]` - Web torrent client. Free tier limited to 2 simulataneous torrents of max size 2gb in free account, 10gb storage, 10gb bandwidth/month.
+* [Direct Torrents](http://www.direct-torrents.com/) - Download torrent files faster and safer as direct download with 10gb max size of torrent and comfortable bandwidth.
 
 
 ### Security and Cryptography
