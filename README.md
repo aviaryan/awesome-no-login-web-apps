@@ -156,7 +156,7 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 * [Clyp](https://clyp.it/) - Audio sharing without limits, rich API.
 * [SendVid](https://sendvid.com/) - Video hosting service.
 * [Archive.org](https://archive.org/) `[Account]` - Unlimited file hosting of any type, no limits on bandwidth and upload size.
-* [imgh](https://imgh.us/) - Image hosting service over various file types. Max limit 16Mb.
+* [imgh](https://imgh.us/) - Image hosting service. Supports all major formats. File size limit is 16mb.
 
 
 ### Audio and Video
