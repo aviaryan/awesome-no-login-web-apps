@@ -157,6 +157,7 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 * [SendVid](https://sendvid.com/) - Video hosting service.
 * [Archive.org](https://archive.org/) `[Account]` - Unlimited file hosting of any type, no limits on bandwidth and upload size.
 * [imgh](https://imgh.us/) - Image hosting service. Supports all major formats. File size limit is 16mb.
+* [SnapDrop](https://snapdrop.net/) - Open source local file sharing inspired by Apple's Airdrop, similar to SHAREit on Android.
 
 
 ### Audio and Video
