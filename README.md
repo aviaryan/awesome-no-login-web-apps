@@ -36,6 +36,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Security and Cryptography](#security-and-cryptography)
 * [Study and Education](#study-and-education)
 * [Text based tools](#text-tools)
+* [Utilities (uncategorized)](#utilities)
 * [Miscellaneous](#miscellaneous)
 
 
@@ -57,7 +58,7 @@ To save the world from creating user accounts and installing software applicatio
 #### Markdown
 
 * [Dillinger](http://dillinger.io/) - Powerful Markdown WYSIWYG with export to HTML and PDF. User account to save documents.
-* [Github.md](http://aviaryan.in/javascripts/github.md/) - Simple Github-style Markdown (GFM) preview with print feature.
+* [Github.md](http://aviaryan.in/javascripts/github.md/) - Simple GitHub-style Markdown (GFM) preview with print feature.
 * [Markdown Live Preview](http://markdownlivepreview.com/) - Instant Markdown preview.
 * [Markdownify](http://www.amitmerchant.com/markdownify-web/) - Minimal Markdown editor.
 
@@ -76,7 +77,7 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 * [Codechef IDE](https://www.codechef.com/ide) - Simple single file code compiler supporting major languages.
 * [Cloud9](https://c9.io/) `[Account]`  - Very powerful online dev environment, just like your local PC.
 * [JS Bin](https://jsbin.com) - Collaborative web development and debugging tool.
-* [Codepen.io](http://codepen.io/) - Playground for front end web developement.
+* [Codepen.io](http://codepen.io/) - Playground for front end web development.
 * [Codenvy](https://codenvy.com) `[Account]` - Cloud workspace for developers, supports most popular stacks including Android, Hadoop, Selenium, NodeJS and lots more.
 * [SQLFiddle](http://sqlfiddle.com/) - Tool for easy online testing and sharing of database problems and their solutions.
 
@@ -84,9 +85,9 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 ### Programming Tools
 
 * [CSS Minifier](http://cssminifier.com/) - Minifies CSS by removing whitespace and comments.
-* [UglifyJS JavaScript minifier](https://skalman.github.io/UglifyJS-online/) - Minifies and obsfucates JavaScript.
+* [UglifyJS JavaScript minifier](https://skalman.github.io/UglifyJS-online/) - Minifies and obfuscates JavaScript.
 * [HTML minifier by @kangax](https://kangax.github.io/html-minifier/) - HTML minifier. Minifies inline CSS and JavaScript too.
-* [JavaScript compressor](http://javascriptcompressor.com/) - JavaScript compressor and obsfucator.
+* [JavaScript compressor](http://javascriptcompressor.com/) - JavaScript compressor and obfuscater.
 * [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/) - Android launcher icon, notification icon etc generator from existing images.
 * [Website Speed Test | Pingdom](https://tools.pingdom.com/fpt/) - Feature-rich website tester.
 * [Google Structured Data Testing Tool](https://developers.google.com/structured-data/testing-tool/) - Test a webpage for structured data and SEO.
@@ -119,8 +120,8 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 * [Muki](https://muki.io) - WebAudio-based chiptune & MIDI player, with a nice collection of video game music.
 * [MusixHub](http://www.musixhub.com) - Play artists and albums video songs online, powered by YouTube.
 * [plug.dj](https://plug.dj/) - Listen to thousands of DJs, powered by YouTube, sign-in required to become a DJ.
-* [Jango Radio](https://jango.com/) - Free internet radio, listen to hundreds of genre stations or create your own with your favorite music.
-* [MusicPleer](http://musicpleer.cc/) - Stream or download your favourite songs without any hassle.
+* [Jango Radio](https://jango.com/) - Free Internet radio, listen to hundreds of genre stations or create your own with your favorite music.
+* [MusicPleer](http://musicpleer.cc/) - Stream or download your favorite songs without any hassle.
 
 
 ### Graphics, Image and Design
@@ -181,7 +182,7 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 * [Bitport](https://bitport.io/) `[Account]` - Torrent downloader. Limited to 1 torrent of 1gb per day in free account.
 * [Vubey](https://vubey.yt/) - Download mp3 from YouTube, SoundCloud etc in various audio quality (bitrates).
 * [Seedr](https://www.seedr.cc/) `[Account]` - Cloud based torrent downloader. Limited to multiple torrents of total size of 2gb in free account. Unlimited bandwidth. 500mb increase on contributing a new user.
-* [Fuge.it](https://fuge.it/) `[Account]` - Web torrent client. Free tier limited to 2 simulataneous torrents of max size 2gb in free account, 10gb storage, 10gb bandwidth/month.
+* [Fuge.it](https://fuge.it/) `[Account]` - Web torrent client. Free tier limited to 2 simultaneous torrents of max size 2gb in free account, 10gb storage, 10gb bandwidth/month.
 * [Direct Torrents](http://www.direct-torrents.com/) - Download torrent files faster and safer as direct download with 10gb max size of torrent and comfortable bandwidth.
 
 
@@ -212,10 +213,16 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [CopyPasteCharacter](http://www.copypastecharacter.com/) - Copy special characters that are generally unavailable in a keyboard.
 
 
+<a name="utilities"></a>
+### Utilities (uncategorized)
+
+* [E.gg Timer](http://e.ggtimer.com/) - Simple countdown timer application.
+* [QR Code Generator](http://zxing.appspot.com/generator/) - Different types of QR codes like contact info, WiFi, calendar etc supported.
+
+
 ### Miscellaneous
 
 * [rollApp](https://www.rollapp.com/) `[Account]` - Run desktop applications on any device.
-* [QR Code Generator](http://zxing.appspot.com/generator/) - Different types of QR codes like contact info, WiFi, calendar etc supported.
 * [Emoji Search Online](http://www.webpagefx.com/tools/emoji-cheat-sheet/) - Intelligent emoji search engine.
 * [Podcast Feed Extractor](http://itunes.so-nik.com/) - Get RSS feed for podcasts.
 * [RSS Feed Search](http://ctrlq.org/rss/) - Find RSS feeds from search terms.
@@ -226,7 +233,6 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [Dictation.io](https://dictation.io/) - Online voice dictation software supporting large number of languages.
 * [Draw.io](https://www.draw.io/) - Flowchart and UML drawing tool. Lots of drawing styles available. Exports to PNG and integrates with Google Drive.
 * [AutoDraw](https://www.autodraw.com/) - Draw beautiful sketches, thanks to Google's Machine Learning. Drawings can be downloaded as PNG.
-* [E.gg Timer](http://e.ggtimer.com/) - Simple countdown timer application.
 
 
 -----
