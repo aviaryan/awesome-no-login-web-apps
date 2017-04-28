@@ -215,7 +215,8 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [Bitly](https://bitly.com/) - Powerful url shortener with REST API.
 * [Superbetize](http://superbetize.com/) - Categorize your grocery list.
 * [ASCII.li](https://ascii.li) - Generate text ascii art, ascii emoticons and lots more online.
-* [isup.me](http://isup.me/) - Check if website is not loading just for you or everyone else.
+* [isup.me](http://isup.me/) - Check if website is unavailable just for you or everyone else.
+* [Dictation.io](https://dictation.io/) - Online voice dictation software supporting large number of languages.
 
 
 -----
