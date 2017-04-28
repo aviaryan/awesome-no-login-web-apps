@@ -225,6 +225,7 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [isup.me](http://isup.me/) - Check if website is unavailable just for you or everyone else.
 * [Dictation.io](https://dictation.io/) - Online voice dictation software supporting large number of languages.
 * [Draw.io](https://www.draw.io/) - Flowchart and UML drawing tool. Lots of drawing styles available. Exports to PNG and integrates with Google Drive.
+* [AutoDraw](https://www.autodraw.com/) - Draw beautiful sketches, thanks to Google's Machine Learning. Drawings can be downloaded as PNG.
 
 
 -----
