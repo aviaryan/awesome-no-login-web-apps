@@ -35,6 +35,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Internet Downloaders](#internet-downloaders)
 * [Security and Cryptography](#security-and-cryptography)
 * [Study and Education](#study-and-education)
+* [Text based tools](#text-tools)
 * [Miscellaneous](#miscellaneous)
 
 
@@ -203,6 +204,14 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [Word Safety](http://wordsafety.com/) - Check if words are abusive in any languages.
 
 
+<a name="text-tools"></a>
+### Text based tools
+
+* [Diff Checker](https://www.diffchecker.com/) - Compare two text passages and view diffs.
+* [ASCII.li](https://ascii.li) - Generate text ascii art, ascii emoticons and lots more online.
+* [CopyPasteCharacter](http://www.copypastecharacter.com/) - Copy special characters that are generally unavailable in a keyboard.
+
+
 ### Miscellaneous
 
 * [rollApp](https://www.rollapp.com/) `[Account]` - Run desktop applications on any device.
@@ -210,14 +219,11 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [Emoji Search Online](http://www.webpagefx.com/tools/emoji-cheat-sheet/) - Intelligent emoji search engine.
 * [Podcast Feed Extractor](http://itunes.so-nik.com/) - Get RSS feed for podcasts.
 * [RSS Feed Search](http://ctrlq.org/rss/) - Find RSS feeds from search terms.
-* [Diff Checker](https://www.diffchecker.com/) - Compare two text passages and view diffs.
 * [is.gd](https://is.gd/) - Link shortener with custom urls and open API (no tokens).
 * [Bitly](https://bitly.com/) - Powerful url shortener with REST API.
 * [Superbetize](http://superbetize.com/) - Categorize your grocery list.
-* [ASCII.li](https://ascii.li) - Generate text ascii art, ascii emoticons and lots more online.
 * [isup.me](http://isup.me/) - Check if website is unavailable just for you or everyone else.
 * [Dictation.io](https://dictation.io/) - Online voice dictation software supporting large number of languages.
-* [CopyPasteCharacter](http://www.copypastecharacter.com/) - Copy special characters that are generally unavailable in a keyboard.
 
 
 -----
