@@ -29,6 +29,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Business and Finance](#business-and-finance)
 * [Music, Radio and Podcasts](#music-radio-and-podcasts)
 * [Graphics, Image and Design](#graphics-image-and-design)
+* [Drawing](#drawing)
 * [File Converters](#file-converters)
 * [File Hosting/Sharing](#file-hostingsharing)
 * [Audio and Video](#audio-and-video)
@@ -130,14 +131,21 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 * [Photo Editor | Befunky](https://www.befunky.com/features/photo-editor/) - Image editor with lots of filters and effects.
 * [Logo Makr](https://logomakr.com/) - Logo maker with nice collection of SVGs. Requires payment to export logo as SVG (PNG is free).
 * [Online Logo Maker](http://www.onlinelogomaker.com/) - Make logos online. Extra user account feature to save creations.
-* [SVG-Edit](https://svg-edit.github.io/svgedit/releases/svg-edit-2.8.1/svg-editor.html) - Powerful SVG editor with lots of features. Open source.
-* [Method Draw](http://editor.method.ac/) - Clean and feature-rich SVG editor. Exports to PNG.
 * [Coolors](https://coolors.co/) - Color palettes generator.
 * [Tiny PNG](https://tinypng.com/) - Smart PNG and JPEG compression.
 * [Realtime Board](https://realtimeboard.com/) `[Account]` - Collaborative blackboard with huge area, screen sharing, video & voice communication.
 * [ezGIF](http://ezgif.com/) - GIF images editor (cropping, scaling, optimizing and more).
 * [Adobe Color CC](https://color.adobe.com/) - Color scheme designer.
+
+
+<a name="drawing"></a>
+### Drawing
+
+* [SVG-Edit](https://svg-edit.github.io/svgedit/releases/svg-edit-2.8.1/svg-editor.html) - Powerful SVG editor with lots of features. Open source.
+* [Method Draw](http://editor.method.ac/) - Clean and feature-rich SVG editor. Exports to PNG.
 * [A Web Whiteboard](https://awwapp.com/) - Touch-friendly online collaborative whiteboard app.
+* [Draw.io](https://www.draw.io/) - Flowchart and UML drawing tool. Lots of drawing styles available. Exports to PNG and integrates with Google Drive.
+* [AutoDraw](https://www.autodraw.com/) - Draw beautiful sketches, thanks to Google's Machine Learning. Drawings can be downloaded as PNG.
 
 
 ### File Converters
@@ -218,6 +226,7 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 
 * [E.gg Timer](http://e.ggtimer.com/) - Simple countdown timer application.
 * [QR Code Generator](http://zxing.appspot.com/generator/) - Different types of QR codes like contact info, WiFi, calendar etc supported.
+* [RANDOM.ORG](https://www.random.org/) - Random number generator, dice rolls, password generator, random bitmaps and more stuff based on the concept of randomness.
 
 
 ### Miscellaneous
@@ -231,9 +240,6 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [Superbetize](http://superbetize.com/) - Categorize your grocery list.
 * [isup.me](http://isup.me/) - Check if website is unavailable just for you or everyone else.
 * [Dictation.io](https://dictation.io/) - Online voice dictation software supporting large number of languages.
-* [Draw.io](https://www.draw.io/) - Flowchart and UML drawing tool. Lots of drawing styles available. Exports to PNG and integrates with Google Drive.
-* [AutoDraw](https://www.autodraw.com/) - Draw beautiful sketches, thanks to Google's Machine Learning. Drawings can be downloaded as PNG.
-* [RANDOM.ORG](https://www.random.org/) - Random number generator, dice rolls, password generator, random bitmaps and more stuff based on the concept of randomness.
 
 
 -----
