@@ -168,7 +168,7 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 * [Archive.org](https://archive.org/) `[Account]` - Unlimited file hosting of any type, no limits on bandwidth and upload size.
 * [imgh](https://imgh.us/) - Image hosting service. Supports all major formats. File size limit is 16mb.
 * [SnapDrop](https://snapdrop.net/) - Open source local file sharing inspired by Apple's Airdrop, similar to SHAREit on Android.
-* [MultCloud](https://www.multcloud.com/home) - Cloud service to manage, move, copy and migrate data in-between multiple cloud services. Supports all cloud services. No sign-up required. 2TB cloud storage. Download large files directly to the cloud, no size restrictions.
+* [MultCloud](https://www.multcloud.com/home) - Cloud service to manage, move, copy and migrate data in-between multiple cloud services. Supports all cloud services. No sign-up required. 2TB cloud storage. Download large files directly to the cloud, no size/speed restrictions.
 
 ### Audio and Video
 
