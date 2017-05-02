@@ -63,7 +63,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Markdown Live Preview](http://markdownlivepreview.com/) - Instant Markdown preview.
 * [Markdownify](http://www.amitmerchant.com/markdownify-web/) - Minimal Markdown editor.
 
-#### <a name="doc-eds-others"></a> Others
+#### Others
 
 * [Online reStructedText Editor - rst.ninjs](http://rst.ninjs.org/) - WYSIWYG RST preview with option to save document online for editing later.
 * [EtherCalc](https://ethercalc.net/) - Online spreadsheet editor, exports to Excel.
