@@ -63,7 +63,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Markdown Live Preview](http://markdownlivepreview.com/) - Instant Markdown preview.
 * [Markdownify](http://www.amitmerchant.com/markdownify-web/) - Minimal Markdown editor.
 
-#### Others
+#### <a name="doc-eds-others"></a> Others
 
 * [Online reStructedText Editor - rst.ninjs](http://rst.ninjs.org/) - WYSIWYG RST preview with option to save document online for editing later.
 * [EtherCalc](https://ethercalc.net/) - Online spreadsheet editor, exports to Excel.
@@ -168,7 +168,7 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 * [Archive.org](https://archive.org/) `[Account]` - Unlimited file hosting of any type, no limits on bandwidth and upload size.
 * [imgh](https://imgh.us/) - Image hosting service. Supports all major formats. File size limit is 16mb.
 * [SnapDrop](https://snapdrop.net/) - Open source local file sharing inspired by Apple's Airdrop, similar to SHAREit on Android.
-* [MultCloud](https://www.multcloud.com/home) - Cloud service to manage, move, copy and migrate data in-between multiple cloud services. Supports all cloud services. No sign-up required. 2TB cloud storage. Download large files directly to the cloud, no size restrictions.
+* [MultCloud](https://www.multcloud.com/home) - Cloud service to manage, move, copy and migrate data in-between multiple cloud services, supports all cloud services, No sign-up required. 2TB cloud storage. Download large files directly to the cloud, no size restrictions
 
 ### Audio and Video
 
