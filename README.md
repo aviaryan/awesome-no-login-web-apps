@@ -242,7 +242,6 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [Superbetize](http://superbetize.com/) - Categorize your grocery list.
 * [isup.me](http://isup.me/) - Check if website is unavailable just for you or everyone else.
 * [Dictation.io](https://dictation.io/) - Online voice dictation software supporting large number of languages.
-* [unfurlr](http://unfurlr.com/) - Check the URL hiding behind the shortened link.
 
 
 -----
