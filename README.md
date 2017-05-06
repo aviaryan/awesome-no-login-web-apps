@@ -36,6 +36,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Internet Downloaders](#internet-downloaders)
 * [Security and Cryptography](#security-and-cryptography)
 * [Study and Education](#study-and-education)
+* [Search Engines](#search-engines)
 * [Text based tools](#text-tools)
 * [Utilities (uncategorized)](#utilities)
 * [Miscellaneous](#miscellaneous)
@@ -213,6 +214,14 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [Directed Graph Editor](http://bl.ocks.org/rkirsling/5001347) - Play with directed graphs.
 * [Calcul](http://www.calcul.com) - Collection of different calculators including matrix, unit converters, mathematical distributions and more.
 * [Word Safety](http://wordsafety.com/) - Check if words are abusive in any languages.
+
+
+### Search Engines
+
+* [Iconfinder](http://www.iconfinder.com/) - Download all your favourite icons in one place.
+* [Emoji Search Online](http://www.webpagefx.com/tools/emoji-cheat-sheet/) - Intelligent emoji search engine.
+* [Podcast Feed Extractor](http://itunes.so-nik.com/) - Get RSS feed for podcasts.
+* [RSS Feed Search](http://ctrlq.org/rss/) - Find RSS feeds from search terms.
 
 
 <a name="text-tools"></a>
