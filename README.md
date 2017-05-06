@@ -34,7 +34,7 @@ To save the world from creating user accounts and installing software applicatio
 * [File Hosting/Sharing](#file-hostingsharing)
 * [Audio and Video](#audio-and-video)
 * [Internet Downloaders](#internet-downloaders)
-* [Security and Cryptography](#security-and-cryptography)
+* [Privacy, Security and Cryptography](#privacy-security-and-cryptography)
 * [Study and Education](#study-and-education)
 * [Search Engines](#search-engines)
 * [Text based tools](#text-tools)
@@ -197,12 +197,13 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 * [Direct Torrents](http://www.direct-torrents.com/) - Download torrent files faster and safer as direct download with 10gb max size of torrent and comfortable bandwidth.
 
 
-### Security and Cryptography
+### Privacy, Security and Cryptography
 
 * [Encipher.it](https://encipher.it/) - AES-256 text encryption and decryption.
 * [Encrypted Pastebin - Defuse.ca](https://defuse.ca/pastebin.htm) - Set password on your public pastes.
 * [MPCrypt](http://crypt.miguelpiedrafita.com/) - Securely encrypt files.
 * [jotti](https://virusscan.jotti.org) - Scan any suspicious file or email attachment for viruses.
+* [scr.im](http://scr.im/) - Share e-mail address freely without worrying about spam
 
 
 ### Study and Education
