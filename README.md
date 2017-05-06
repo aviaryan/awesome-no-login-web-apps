@@ -36,6 +36,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Internet Downloaders](#internet-downloaders)
 * [Security and Cryptography](#security-and-cryptography)
 * [Study and Education](#study-and-education)
+* [Search Engines](#search-engines)
 * [Text based tools](#text-tools)
 * [Utilities (uncategorized)](#utilities)
 * [Miscellaneous](#miscellaneous)
@@ -214,6 +215,14 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [Word Safety](http://wordsafety.com/) - Check if words are abusive in any languages.
 
 
+### Search Engines
+
+* [Iconfinder](http://www.iconfinder.com/) - Download all your favourite icons in one place.
+* [Emoji Search Online](http://www.webpagefx.com/tools/emoji-cheat-sheet/) - Intelligent emoji search engine.
+* [Podcast Feed Extractor](http://itunes.so-nik.com/) - Get RSS feed for podcasts.
+* [RSS Feed Search](http://ctrlq.org/rss/) - Find RSS feeds from search terms.
+
+
 <a name="text-tools"></a>
 ### Text based tools
 
@@ -234,9 +243,6 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 ### Miscellaneous
 
 * [rollApp](https://www.rollapp.com/) `[Account]` - Run desktop applications on any device.
-* [Emoji Search Online](http://www.webpagefx.com/tools/emoji-cheat-sheet/) - Intelligent emoji search engine.
-* [Podcast Feed Extractor](http://itunes.so-nik.com/) - Get RSS feed for podcasts.
-* [RSS Feed Search](http://ctrlq.org/rss/) - Find RSS feeds from search terms.
 * [is.gd](https://is.gd/) - Link shortener with custom urls and open API (no tokens).
 * [Bitly](https://bitly.com/) - Powerful url shortener with REST API.
 * [Superbetize](http://superbetize.com/) - Categorize your grocery list.
