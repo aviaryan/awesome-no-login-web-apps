@@ -243,9 +243,6 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 ### Miscellaneous
 
 * [rollApp](https://www.rollapp.com/) `[Account]` - Run desktop applications on any device.
-* [Emoji Search Online](http://www.webpagefx.com/tools/emoji-cheat-sheet/) - Intelligent emoji search engine.
-* [Podcast Feed Extractor](http://itunes.so-nik.com/) - Get RSS feed for podcasts.
-* [RSS Feed Search](http://ctrlq.org/rss/) - Find RSS feeds from search terms.
 * [is.gd](https://is.gd/) - Link shortener with custom urls and open API (no tokens).
 * [Bitly](https://bitly.com/) - Powerful url shortener with REST API.
 * [Superbetize](http://superbetize.com/) - Categorize your grocery list.
