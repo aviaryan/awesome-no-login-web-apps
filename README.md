@@ -34,7 +34,7 @@ To save the world from creating user accounts and installing software applicatio
 * [File Hosting/Sharing](#file-hostingsharing)
 * [Audio and Video](#audio-and-video)
 * [Internet Downloaders](#internet-downloaders)
-* [Privacy, Security and Cryptography](#security-and-cryptography)
+* [Privacy, Security and Cryptography](#privacy-security-and-cryptography)
 * [Study and Education](#study-and-education)
 * [Search Engines](#search-engines)
 * [Text based tools](#text-tools)
