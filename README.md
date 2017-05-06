@@ -136,6 +136,7 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 * [Realtime Board](https://realtimeboard.com/) `[Account]` - Collaborative blackboard with huge area, screen sharing, video & voice communication.
 * [ezGIF](http://ezgif.com/) - GIF images editor (cropping, scaling, optimizing and more).
 * [Adobe Color CC](https://color.adobe.com/) - Color scheme designer.
+* [Iconfinder](http://www.iconfinder.com/) - Download all your favourite icons in one place.
 
 
 <a name="drawing"></a>
@@ -242,7 +243,6 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [Superbetize](http://superbetize.com/) - Categorize your grocery list.
 * [isup.me](http://isup.me/) - Check if website is unavailable just for you or everyone else.
 * [Dictation.io](https://dictation.io/) - Online voice dictation software supporting large number of languages.
-* [unfurlr](http://unfurlr.com/) - Check the URL hiding behind the shortened link.
 
 
 -----
