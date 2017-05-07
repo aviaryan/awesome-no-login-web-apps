@@ -224,7 +224,7 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [Emoji Search Online](http://www.webpagefx.com/tools/emoji-cheat-sheet/) - Intelligent emoji search engine.
 * [Podcast Feed Extractor](http://itunes.so-nik.com/) - Get RSS feed for podcasts.
 * [RSS Feed Search](http://ctrlq.org/rss/) - Find RSS feeds from search terms.
-* [IWantMyName](https://iwantmyname.com/) - helps you search domains across all TLDs.
+* [IWantMyName](https://iwantmyname.com/) - Helps you search domains across all TLDs.
 
 
 <a name="text-tools"></a>
