@@ -232,6 +232,7 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [Diff Checker](https://www.diffchecker.com/) - Compare two text passages and view diffs.
 * [ASCII.li](https://ascii.li) - Generate text ascii art, ascii emoticons and lots more online.
 * [CopyPasteCharacter](http://www.copypastecharacter.com/) - Copy special characters that are generally unavailable in a keyboard.
+* [PolishMyWriting](http://www.polishmywriting.com/) - Paste a text and get feedback on your writing.
 
 
 <a name="utilities"></a>
