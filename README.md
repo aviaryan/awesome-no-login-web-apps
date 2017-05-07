@@ -95,6 +95,7 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 * [Website Speed Test | Pingdom](https://tools.pingdom.com/fpt/) - Feature-rich website tester.
 * [Google Structured Data Testing Tool](https://developers.google.com/structured-data/testing-tool/) - Test a webpage for structured data and SEO.
 * [Regulex](http://jex.im/regulex/) - JavaScript regular expression visualizer.
+* [GTmetrix](https://gtmetrix.com/) - Analyze your site’s speed and make it faster.
 
 
 ### Communication
@@ -226,6 +227,7 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [Emoji Search Online](http://www.webpagefx.com/tools/emoji-cheat-sheet/) - Intelligent emoji search engine.
 * [Podcast Feed Extractor](http://itunes.so-nik.com/) - Get RSS feed for podcasts.
 * [RSS Feed Search](http://ctrlq.org/rss/) - Find RSS feeds from search terms.
+* [IWantMyName](https://iwantmyname.com/) - Helps you search domains across all TLDs.
 * [Similar Sites](http://www.similarsites.com/) - Find websites similar to the one you enter.
 
 
