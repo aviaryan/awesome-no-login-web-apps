@@ -228,6 +228,7 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [Podcast Feed Extractor](http://itunes.so-nik.com/) - Get RSS feed for podcasts.
 * [RSS Feed Search](http://ctrlq.org/rss/) - Find RSS feeds from search terms.
 * [IWantMyName](https://iwantmyname.com/) - Helps you search domains across all TLDs.
+* [Similar Sites](http://www.similarsites.com/) - Find websites similar to the one you enter.
 
 
 <a name="text-tools"></a>
