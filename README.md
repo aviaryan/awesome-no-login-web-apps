@@ -229,6 +229,7 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [QR Code Generator](http://zxing.appspot.com/generator/) - Different types of QR codes like contact info, WiFi, calendar etc supported.
 * [RANDOM.ORG](https://www.random.org/) - Random number generator, dice rolls, password generator, random bitmaps and more stuff based on the concept of randomness.
 * [Web-Capture](https://web-capture.net/) - Webapp for converting webpages to popular formats(PDF, JPEG, ZIP) just by submitting link.
+* [WhatTheFont](http://www.myfonts.com/WhatTheFont/) - Determine font name from an image.
 
 
 ### Miscellaneous
