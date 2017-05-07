@@ -125,7 +125,7 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 * [plug.dj](https://plug.dj/) - Listen to thousands of DJs, powered by YouTube, sign-in required to become a DJ.
 * [Jango Radio](https://jango.com/) - Free Internet radio, listen to hundreds of genre stations or create your own with your favorite music.
 * [MusicPleer](http://musicpleer.cc/) - Stream or download your favorite songs without any hassle.
-* [NoteFlight](https://www.noteflight.com/login) `[Account]` - print music sheets, write your own music online (review).
+* [NoteFlight](https://www.noteflight.com/login) `[Account]` - Print music sheets, write your own music online (review).
 
 
 ### Graphics, Image and Design
