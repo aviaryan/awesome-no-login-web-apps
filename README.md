@@ -34,8 +34,9 @@ To save the world from creating user accounts and installing software applicatio
 * [File Hosting/Sharing](#file-hostingsharing)
 * [Audio and Video](#audio-and-video)
 * [Internet Downloaders](#internet-downloaders)
-* [Security and Cryptography](#security-and-cryptography)
+* [Privacy, Security and Cryptography](#privacy-security-and-cryptography)
 * [Study and Education](#study-and-education)
+* [Search Engines](#search-engines)
 * [Text based tools](#text-tools)
 * [Utilities (uncategorized)](#utilities)
 * [Miscellaneous](#miscellaneous)
@@ -67,6 +68,7 @@ To save the world from creating user accounts and installing software applicatio
 
 * [Online reStructedText Editor - rst.ninjs](http://rst.ninjs.org/) - WYSIWYG RST preview with option to save document online for editing later.
 * [EtherCalc](https://ethercalc.net/) - Online spreadsheet editor, exports to Excel.
+* [PdfEscape](https://pdfescape.com/) - Edit or create PDFs in browser itself.
 
 
 ### Programming Editors and IDEs
@@ -195,11 +197,13 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 * [Direct Torrents](http://www.direct-torrents.com/) - Download torrent files faster and safer as direct download with 10gb max size of torrent and comfortable bandwidth.
 
 
-### Security and Cryptography
+### Privacy, Security and Cryptography
 
 * [Encipher.it](https://encipher.it/) - AES-256 text encryption and decryption.
 * [Encrypted Pastebin - Defuse.ca](https://defuse.ca/pastebin.htm) - Set password on your public pastes.
 * [MPCrypt](http://crypt.miguelpiedrafita.com/) - Securely encrypt files.
+* [jotti](https://virusscan.jotti.org) - Scan any suspicious file or email attachment for viruses.
+* [scr.im](http://scr.im/) - Share e-mail address freely without worrying about spam
 
 
 ### Study and Education
@@ -212,6 +216,14 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [Directed Graph Editor](http://bl.ocks.org/rkirsling/5001347) - Play with directed graphs.
 * [Calcul](http://www.calcul.com) - Collection of different calculators including matrix, unit converters, mathematical distributions and more.
 * [Word Safety](http://wordsafety.com/) - Check if words are abusive in any languages.
+
+
+### Search Engines
+
+* [Iconfinder](http://www.iconfinder.com/) - Download all your favourite icons in one place.
+* [Emoji Search Online](http://www.webpagefx.com/tools/emoji-cheat-sheet/) - Intelligent emoji search engine.
+* [Podcast Feed Extractor](http://itunes.so-nik.com/) - Get RSS feed for podcasts.
+* [RSS Feed Search](http://ctrlq.org/rss/) - Find RSS feeds from search terms.
 
 
 <a name="text-tools"></a>
@@ -229,20 +241,19 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [QR Code Generator](http://zxing.appspot.com/generator/) - Different types of QR codes like contact info, WiFi, calendar etc supported.
 * [RANDOM.ORG](https://www.random.org/) - Random number generator, dice rolls, password generator, random bitmaps and more stuff based on the concept of randomness.
 * [Web-Capture](https://web-capture.net/) - Webapp for converting webpages to popular formats(PDF, JPEG, ZIP) just by submitting link.
+* [PrintWhatYouLike](http://www.printwhatyoulike.com/) - Print any webpage or save it as HTML or PDF.
 * [WhatTheFont](http://www.myfonts.com/WhatTheFont/) - Determine font name from an image.
 
 
 ### Miscellaneous
 
 * [rollApp](https://www.rollapp.com/) `[Account]` - Run desktop applications on any device.
-* [Emoji Search Online](http://www.webpagefx.com/tools/emoji-cheat-sheet/) - Intelligent emoji search engine.
-* [Podcast Feed Extractor](http://itunes.so-nik.com/) - Get RSS feed for podcasts.
-* [RSS Feed Search](http://ctrlq.org/rss/) - Find RSS feeds from search terms.
 * [is.gd](https://is.gd/) - Link shortener with custom urls and open API (no tokens).
 * [Bitly](https://bitly.com/) - Powerful url shortener with REST API.
 * [Superbetize](http://superbetize.com/) - Categorize your grocery list.
 * [isup.me](http://isup.me/) - Check if website is unavailable just for you or everyone else.
 * [Dictation.io](https://dictation.io/) - Online voice dictation software supporting large number of languages.
+* [unfurlr](http://unfurlr.com/) - Check the URL hiding behind the shortened link.
 
 
 -----
