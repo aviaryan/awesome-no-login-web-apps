@@ -242,6 +242,7 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [RANDOM.ORG](https://www.random.org/) - Random number generator, dice rolls, password generator, random bitmaps and more stuff based on the concept of randomness.
 * [Web-Capture](https://web-capture.net/) - Webapp for converting webpages to popular formats(PDF, JPEG, ZIP) just by submitting link.
 * [PrintWhatYouLike](http://www.printwhatyoulike.com/) - Print any webpage or save it as HTML or PDF.
+* [GTmetrix](https://gtmetrix.com/) - Analyze your site’s speed and make it faster.
 
 
 ### Miscellaneous
