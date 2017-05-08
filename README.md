@@ -240,6 +240,7 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [ASCII.li](https://ascii.li) - Generate text ascii art, ascii emoticons and lots more online.
 * [CopyPasteCharacter](http://www.copypastecharacter.com/) - Copy special characters that are generally unavailable in a keyboard.
 * [PolishMyWriting](http://www.polishmywriting.com/) - Paste a text and get feedback on your writing.
+* [Wordle](http://www.wordle.net/) - A toy to generate 'Word Clouds' form a given piece of text.
 
 
 <a name="utilities"></a>
