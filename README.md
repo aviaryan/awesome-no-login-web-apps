@@ -107,6 +107,7 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 * [Appear.in](https://appear.in/) - Video conference online. Create any room like `appear.in/some-room` and starting chatting.
 * [Videolink2](https://videolink2.me/start) - Video conference online. Link generated, share link to invite other participants.
 * [GetARoom.io](https://getaroom.io/) - Video conference online. Has mobile browser support, just click start new call and share the link.
+* [FaxZero](https://faxzero.com/) - Send an online fax for free.
 
 
 ### Business and Finance
