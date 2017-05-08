@@ -230,6 +230,7 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [RSS Feed Search](http://ctrlq.org/rss/) - Find RSS feeds from search terms.
 * [IWantMyName](https://iwantmyname.com/) - Helps you search domains across all TLDs.
 * [Similar Sites](http://www.similarsites.com/) - Find websites similar to the one you enter.
+* [Google Fonts](http://www.google.com/webfonts) - Collection of open-source fonts by google.
 
 
 <a name="text-tools"></a>
