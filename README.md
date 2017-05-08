@@ -96,6 +96,7 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 * [Google Structured Data Testing Tool](https://developers.google.com/structured-data/testing-tool/) - Test a webpage for structured data and SEO.
 * [Regulex](http://jex.im/regulex/) - JavaScript regular expression visualizer.
 * [GTmetrix](https://gtmetrix.com/) - Analyze your site’s speed and make it faster.
+* [WhoIsHostingThis](http://www.whoishostingthis.com/) - Find the web host of any website.
 
 
 ### Communication
