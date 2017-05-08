@@ -156,7 +156,7 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 
 <a name="games"></a>
 ### Games
-
+* [Typeracer](http://play.typeracer.com/) - Evaluate your typing speed while racing against others.
 
 ### File Converters
 
