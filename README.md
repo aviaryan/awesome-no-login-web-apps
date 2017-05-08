@@ -30,6 +30,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Music, Radio and Podcasts](#music-radio-and-podcasts)
 * [Graphics, Image and Design](#graphics-image-and-design)
 * [Drawing](#drawing)
+* [Games](#games)
 * [File Converters](#file-converters)
 * [File Hosting/Sharing](#file-hostingsharing)
 * [Audio and Video](#audio-and-video)
@@ -151,6 +152,10 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 * [Draw.io](https://www.draw.io/) - Flowchart and UML drawing tool. Lots of drawing styles available. Exports to PNG and integrates with Google Drive.
 * [AutoDraw](https://www.autodraw.com/) - Draw beautiful sketches, thanks to Google's Machine Learning. Drawings can be downloaded as PNG.
 * [kleki](http://kleki.com/) - MS Paint like interface in browser.
+
+
+<a name="games"></a>
+### Games
 
 
 ### File Converters
