@@ -154,6 +154,7 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 * [AutoDraw](https://www.autodraw.com/) - Draw beautiful sketches, thanks to Google's Machine Learning. Drawings can be downloaded as PNG.
 * [kleki](http://kleki.com/) - MS Paint like interface in browser.
 * [bubbl](https://bubbl.us/) - Create mind-maps, brainstorm ideas in the browser.
+* [ScribbleMaps](http://scribblemaps.com/) - Create custom google maps.
 
 
 <a name="games"></a>
