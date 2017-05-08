@@ -95,6 +95,7 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 * [Website Speed Test | Pingdom](https://tools.pingdom.com/fpt/) - Feature-rich website tester.
 * [Google Structured Data Testing Tool](https://developers.google.com/structured-data/testing-tool/) - Test a webpage for structured data and SEO.
 * [Regulex](http://jex.im/regulex/) - JavaScript regular expression visualizer.
+* [GTmetrix](https://gtmetrix.com/) - Analyze your site’s speed and make it faster.
 
 
 ### Communication
@@ -125,6 +126,7 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 * [plug.dj](https://plug.dj/) - Listen to thousands of DJs, powered by YouTube, sign-in required to become a DJ.
 * [Jango Radio](https://jango.com/) - Free Internet radio, listen to hundreds of genre stations or create your own with your favorite music.
 * [MusicPleer](http://musicpleer.cc/) - Stream or download your favorite songs without any hassle.
+* [NoteFlight](https://www.noteflight.com/login) `[Account]` - Print music sheets, write your own music online (review).
 
 
 ### Graphics, Image and Design
@@ -148,6 +150,7 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 * [A Web Whiteboard](https://awwapp.com/) - Touch-friendly online collaborative whiteboard app.
 * [Draw.io](https://www.draw.io/) - Flowchart and UML drawing tool. Lots of drawing styles available. Exports to PNG and integrates with Google Drive.
 * [AutoDraw](https://www.autodraw.com/) - Draw beautiful sketches, thanks to Google's Machine Learning. Drawings can be downloaded as PNG.
+* [kleki](http://kleki.com/) - MS Paint like interface in browser.
 
 
 ### File Converters
@@ -157,6 +160,7 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 * [PDF <=> EPUB](http://pdfepub.com/) - PDF to EPUB converter and vice versa.
 * [Pandoc Try](https://pandoc.org/try/) - Inter markup conversion using Pandoc. Supported - Latex, Markdown, HTML, RST and lots more.
 * [Print Friendly](https://www.printfriendly.com/) - Convert any webpage to simple format. Then download it or print as PDF.
+* [OnlineOCR](https://www.onlineocr.net/) - Convert a scanned PDF into doc, xls or txt.
 
 
 ### File Hosting/Sharing
@@ -224,6 +228,8 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [Emoji Search Online](http://www.webpagefx.com/tools/emoji-cheat-sheet/) - Intelligent emoji search engine.
 * [Podcast Feed Extractor](http://itunes.so-nik.com/) - Get RSS feed for podcasts.
 * [RSS Feed Search](http://ctrlq.org/rss/) - Find RSS feeds from search terms.
+* [IWantMyName](https://iwantmyname.com/) - Helps you search domains across all TLDs.
+* [Similar Sites](http://www.similarsites.com/) - Find websites similar to the one you enter.
 * [Google Fonts](http://www.google.com/webfonts) - Collection of open-source fonts by google.
 
 
@@ -233,6 +239,7 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [Diff Checker](https://www.diffchecker.com/) - Compare two text passages and view diffs.
 * [ASCII.li](https://ascii.li) - Generate text ascii art, ascii emoticons and lots more online.
 * [CopyPasteCharacter](http://www.copypastecharacter.com/) - Copy special characters that are generally unavailable in a keyboard.
+* [PolishMyWriting](http://www.polishmywriting.com/) - Paste a text and get feedback on your writing.
 
 
 <a name="utilities"></a>
@@ -243,6 +250,7 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [RANDOM.ORG](https://www.random.org/) - Random number generator, dice rolls, password generator, random bitmaps and more stuff based on the concept of randomness.
 * [Web-Capture](https://web-capture.net/) - Webapp for converting webpages to popular formats(PDF, JPEG, ZIP) just by submitting link.
 * [PrintWhatYouLike](http://www.printwhatyoulike.com/) - Print any webpage or save it as HTML or PDF.
+* [WhatTheFont](http://www.myfonts.com/WhatTheFont/) - Determine font name from an image.
 
 
 ### Miscellaneous
@@ -254,6 +262,7 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [isup.me](http://isup.me/) - Check if website is unavailable just for you or everyone else.
 * [Dictation.io](https://dictation.io/) - Online voice dictation software supporting large number of languages.
 * [unfurlr](http://unfurlr.com/) - Check the URL hiding behind the shortened link.
+* [followupthen](http://www.followupthen.com/) - Easiest way to setup email reminders.
 
 
 -----
