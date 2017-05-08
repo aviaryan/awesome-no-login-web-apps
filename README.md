@@ -250,6 +250,7 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [Web-Capture](https://web-capture.net/) - Webapp for converting webpages to popular formats(PDF, JPEG, ZIP) just by submitting link.
 * [PrintWhatYouLike](http://www.printwhatyoulike.com/) - Print any webpage or save it as HTML or PDF.
 * [WhatTheFont](http://www.myfonts.com/WhatTheFont/) - Determine font name from an image.
+* [Image Metadata Viewer](http://exif.regex.info/exif.cgi) - View hidden data(Metadata) of any image.
 
 
 ### Miscellaneous
