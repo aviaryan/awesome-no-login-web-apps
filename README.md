@@ -30,6 +30,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Music, Radio and Podcasts](#music-radio-and-podcasts)
 * [Graphics, Image and Design](#graphics-image-and-design)
 * [Drawing](#drawing)
+* [Games](#games)
 * [File Converters](#file-converters)
 * [File Hosting/Sharing](#file-hostingsharing)
 * [Audio and Video](#audio-and-video)
@@ -106,6 +107,7 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 * [Appear.in](https://appear.in/) - Video conference online. Create any room like `appear.in/some-room` and starting chatting.
 * [Videolink2](https://videolink2.me/start) - Video conference online. Link generated, share link to invite other participants.
 * [GetARoom.io](https://getaroom.io/) - Video conference online. Has mobile browser support, just click start new call and share the link.
+* [FaxZero](https://faxzero.com/) - Send an online fax for free.
 
 
 ### Business and Finance
@@ -151,6 +153,14 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 * [Draw.io](https://www.draw.io/) - Flowchart and UML drawing tool. Lots of drawing styles available. Exports to PNG and integrates with Google Drive.
 * [AutoDraw](https://www.autodraw.com/) - Draw beautiful sketches, thanks to Google's Machine Learning. Drawings can be downloaded as PNG.
 * [kleki](http://kleki.com/) - MS Paint like interface in browser.
+* [bubbl](https://bubbl.us/) - Create mind-maps, brainstorm ideas in the browser.
+* [ScribbleMaps](http://scribblemaps.com/) - Create custom google maps.
+
+
+<a name="games"></a>
+### Games
+
+* [Typeracer](http://play.typeracer.com/) - Evaluate your typing speed while racing against others.
 
 
 ### File Converters
@@ -230,6 +240,7 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [RSS Feed Search](http://ctrlq.org/rss/) - Find RSS feeds from search terms.
 * [IWantMyName](https://iwantmyname.com/) - Helps you search domains across all TLDs.
 * [Similar Sites](http://www.similarsites.com/) - Find websites similar to the one you enter.
+* [Google Fonts](http://www.google.com/webfonts) - Collection of open-source fonts by google.
 
 
 <a name="text-tools"></a>
@@ -239,6 +250,7 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [ASCII.li](https://ascii.li) - Generate text ascii art, ascii emoticons and lots more online.
 * [CopyPasteCharacter](http://www.copypastecharacter.com/) - Copy special characters that are generally unavailable in a keyboard.
 * [PolishMyWriting](http://www.polishmywriting.com/) - Paste a text and get feedback on your writing.
+* [Wordle](http://www.wordle.net/) - A toy to generate 'Word Clouds' form a given piece of text.
 * [mAhLyfeMahRulezz](http://aviaryan.in/mAhLyfeMahRulezz/) - dA aNn0Y1Ng t3Xt g3NeRa7or (The annoying text generator :-P)
 
 
@@ -251,6 +263,8 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [Web-Capture](https://web-capture.net/) - Webapp for converting webpages to popular formats(PDF, JPEG, ZIP) just by submitting link.
 * [PrintWhatYouLike](http://www.printwhatyoulike.com/) - Print any webpage or save it as HTML or PDF.
 * [WhatTheFont](http://www.myfonts.com/WhatTheFont/) - Determine font name from an image.
+* [Image Metadata Viewer](http://exif.regex.info/exif.cgi) - View hidden data(Metadata) of any image.
+* [WhoIsHostingThis](http://www.whoishostingthis.com/) - Find the web host of any website.
 
 
 ### Miscellaneous
@@ -263,6 +277,7 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [Dictation.io](https://dictation.io/) - Online voice dictation software supporting large number of languages.
 * [unfurlr](http://unfurlr.com/) - Check the URL hiding behind the shortened link.
 * [followupthen](http://www.followupthen.com/) - Easiest way to setup email reminders.
+* [lmgtfy](http://lmgtfy.com/) - When your friends are too lazy to use Google on their own.
 
 
 -----
