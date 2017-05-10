@@ -239,6 +239,7 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [ASCII.li](https://ascii.li) - Generate text ascii art, ascii emoticons and lots more online.
 * [CopyPasteCharacter](http://www.copypastecharacter.com/) - Copy special characters that are generally unavailable in a keyboard.
 * [PolishMyWriting](http://www.polishmywriting.com/) - Paste a text and get feedback on your writing.
+* [mAhLyfeMahRulezz](http://aviaryan.in/mAhLyfeMahRulezz/) - dA aNn0Y1Ng t3Xt g3NeRa7or (The annoying text generator :-P)
 
 
 <a name="utilities"></a>
