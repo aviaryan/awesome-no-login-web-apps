@@ -251,7 +251,7 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [CopyPasteCharacter](http://www.copypastecharacter.com/) - Copy special characters that are generally unavailable in a keyboard.
 * [PolishMyWriting](http://www.polishmywriting.com/) - Paste a text and get feedback on your writing.
 * [Wordle](http://www.wordle.net/) - A toy to generate 'Word Clouds' form a given piece of text.
-* [mAhLyfeMahRulezz](http://aviaryan.in/mAhLyfeMahRulezz/) - dA aNn0Y1Ng t3Xt g3NeRa7or (The annoying text generator :-P)
+* [mAhLyfeMahRulezz](http://aviaryan.in/mAhLyfeMahRulezz/) - dA aNn0Y1Ng t3Xt g3NeRa7or (The annoying text generator :-P).
 
 
 <a name="utilities"></a>
