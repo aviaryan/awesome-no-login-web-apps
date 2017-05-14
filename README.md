@@ -264,6 +264,7 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [WhatTheFont](http://www.myfonts.com/WhatTheFont/) - Determine font name from an image.
 * [Image Metadata Viewer](http://exif.regex.info/exif.cgi) - View hidden data(Metadata) of any image.
 * [WhoIsHostingThis](http://www.whoishostingthis.com/) - Find the web host of any website.
+* [TypingWeb](https://www.typing.com/student/start) - Master touch-typing at ease.
 
 
 ### Miscellaneous
