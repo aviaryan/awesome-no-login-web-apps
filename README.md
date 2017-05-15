@@ -49,6 +49,7 @@ To save the world from creating user accounts and installing software applicatio
 * [h5Note](http://h5note.com/) - Works when offline too using HTML5.
 * [shrib](https://shrib.com/) - Save note to a custom url and edit it later.
 * [Notepad](https://www.amitmerchant.com/notepad/) - Offline capable Notepad PWA.
+* [ProtectedText](https://www.protectedtext.com/) - Encrypted notes without ads, sessions, or cookies.
 
 ### Document Editors
 
