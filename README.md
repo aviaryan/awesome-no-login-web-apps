@@ -4,7 +4,7 @@
 [![Contributors needed](https://img.shields.io/badge/contributors-needed-yellow.svg)](CONTRIBUTING.md)
 [![Join the chat at https://gitter.im/aviaryan/awesome-no-login-web-apps](https://badges.gitter.im/aviaryan/awesome-no-login-web-apps.svg)](https://gitter.im/aviaryan/awesome-no-login-web-apps?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-Curated list of awesome web apps that work without requesting you to create an account. 
+Curated list of awesome web apps that work without requesting you to create an account.
 
 #### Inspiration
 
@@ -13,7 +13,7 @@ To save the world from creating user accounts and installing software applicatio
 #### Some pointers
 
 * The web apps linked in this list provide most of their core features without login. Some websites that require registration have also been included in this list because of lack of a proper alternative. They have been tagged with `[Account]` in their listing.
-* Most of the apps mentioned here do provide some kind of a user account feature to save history and progress. But as already stated before, a user account is not necessary to use the main features of these apps. 
+* Most of the apps mentioned here do provide some kind of a user account feature to save history and progress. But as already stated before, a user account is not necessary to use the main features of these apps.
 
 
 ## Contents
@@ -41,6 +41,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Text based tools](#text-tools)
 * [Utilities (uncategorized)](#utilities)
 * [Miscellaneous](#miscellaneous)
+* [Torrents](#torrents)
 
 
 ### Notepads and Notebooks
@@ -75,7 +76,7 @@ To save the world from creating user accounts and installing software applicatio
 
 ### Programming Editors and IDEs
 
-* [TutorialsPoint Online Tools](https://www.tutorialspoint.com/codingground.htm) - Online terminals for Ipython, Octave, 
+* [TutorialsPoint Online Tools](https://www.tutorialspoint.com/codingground.htm) - Online terminals for Ipython, Octave,
 Powershell, Redis and lots others. Also has a good collection of IDEs for programming languages.
 * [Ideone](http://ideone.com/) - Online IDE supporting most popular languages.
 * [Repl.it](https://repl.it/) - Online terminals for all popular programming languages.
@@ -224,8 +225,8 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 ### Study and Education
 
 * [Calculatoria Calculator](http://www.calculatoria.com/) - Scientific calculator online with progress stored on your system.
-* [WolframAlpha](https://www.wolframalpha.com) - Powerful computational knowledge engine. 
-See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAndGraphics.html) for help on how to plot graphs. 
+* [WolframAlpha](https://www.wolframalpha.com) - Powerful computational knowledge engine.
+See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAndGraphics.html) for help on how to plot graphs.
 * [Desmos Graphing Calculator](https://www.desmos.com/calculator) - Plot multiple 2D plots on same sheet, see graph intersections.
 * [Geometry sheet by MathIsFun](https://www.mathsisfun.com/geometry/drawing.html) - Simple geometry sheet online if you want to play with figures.
 * [Directed Graph Editor](http://bl.ocks.org/rkirsling/5001347) - Play with directed graphs.
@@ -281,6 +282,13 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [unfurlr](http://unfurlr.com/) - Check the URL hiding behind the shortened link.
 * [followupthen](http://www.followupthen.com/) - Easiest way to setup email reminders.
 * [lmgtfy](http://lmgtfy.com/) - When your friends are too lazy to use Google on their own.
+
+
+### Torrents
+
+* [OTorrents](https://otorrents.com/) - Verified Torrents of movies, games and TV series, no sign-up needed.
+* [RG Mechanics](https://rg-mechanics.org/) - All latest PC games. Verified torrents and no sign-up needed.
+
 
 
 -----
