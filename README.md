@@ -49,6 +49,7 @@ To save the world from creating user accounts and installing software applicatio
 * [h5Note](http://h5note.com/) - Works when offline too using HTML5.
 * [shrib](https://shrib.com/) - Save note to a custom url and edit it later.
 * [Notepad](https://www.amitmerchant.com/notepad/) - Offline capable Notepad PWA.
+* [ProtectedText](https://www.protectedtext.com/) - Encrypted notes without ads, sessions, or cookies.
 
 ### Document Editors
 
@@ -127,7 +128,7 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 * [MusixHub](http://www.musixhub.com) - Play artists and albums video songs online, powered by YouTube.
 * [plug.dj](https://plug.dj/) - Listen to thousands of DJs, powered by YouTube, sign-in required to become a DJ.
 * [Jango Radio](https://jango.com/) - Free Internet radio, listen to hundreds of genre stations or create your own with your favorite music.
-* [MusicPleer](http://musicpleer.cc/) - Stream or download your favorite songs without any hassle.
+* [MusicPleer](http://musicpleer.audio/) - Stream or download your favorite songs without any hassle.
 * [NoteFlight](https://www.noteflight.com/login) `[Account]` - Print music sheets, write your own music online (review).
 
 
@@ -251,6 +252,7 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [CopyPasteCharacter](http://www.copypastecharacter.com/) - Copy special characters that are generally unavailable in a keyboard.
 * [PolishMyWriting](http://www.polishmywriting.com/) - Paste a text and get feedback on your writing.
 * [Wordle](http://www.wordle.net/) - A toy to generate 'Word Clouds' form a given piece of text.
+* [mAhLyfeMahRulezz](http://aviaryan.in/mAhLyfeMahRulezz/) - dA aNn0Y1Ng t3Xt g3NeRa7or (The annoying text generator :-P).
 
 
 <a name="utilities"></a>
@@ -264,6 +266,8 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [WhatTheFont](http://www.myfonts.com/WhatTheFont/) - Determine font name from an image.
 * [Image Metadata Viewer](http://exif.regex.info/exif.cgi) - View hidden data(Metadata) of any image.
 * [WhoIsHostingThis](http://www.whoishostingthis.com/) - Find the web host of any website.
+* [TypingWeb](https://www.typing.com/student/start) - Master touch-typing at ease.
+* [Acronym Creator](http://acronymcreator.net/) - Create acronym for organization, algorithm, or anything having at least two words.
 * [TallTweets](http://www.talltweets.com/) - Send tweets longer than 140 characters.
 
 
