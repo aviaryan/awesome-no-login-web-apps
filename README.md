@@ -197,6 +197,7 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 * [Until AM](http://mix.until.am/) - Online music mixer, DJ software.
 * [YOU.DJ](http://you.dj/) - Online music mixer, DJ software sourcing music from SoundCloud.
 * [VideoToolbox](http://videotoolbox.com) `[Account]` - Video editor with all the common editing features. Size limited to 600mb.
+* [Stupeflix](https://studio.stupeflix.com/en/) `[Account]` - Make a movie out of your images, audio and video clips.
 
 
 ### Internet Downloaders
