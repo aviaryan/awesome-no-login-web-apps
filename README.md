@@ -268,6 +268,7 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [WhoIsHostingThis](http://www.whoishostingthis.com/) - Find the web host of any website.
 * [TypingWeb](https://www.typing.com/student/start) - Master touch-typing at ease.
 * [Acronym Creator](http://acronymcreator.net/) - Create acronym for organization, algorithm, or anything having at least two words.
+* [TallTweets](http://www.talltweets.com/) - Send tweets longer than 140 characters.
 
 
 ### Miscellaneous
