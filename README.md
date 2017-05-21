@@ -223,7 +223,8 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 * [Encrypted Pastebin - Defuse.ca](https://defuse.ca/pastebin.htm) - Set password on your public pastes.
 * [MPCrypt](http://crypt.miguelpiedrafita.com/) - Securely encrypt files.
 * [jotti](https://virusscan.jotti.org) - Scan any suspicious file or email attachment for viruses.
-* [scr.im](http://scr.im/) - Share e-mail address freely without worrying about spam
+* [scr.im](http://scr.im/) - Share e-mail address freely without worrying about spam.
+* [10 Minute Mail](https://10minutemail.com/) - A temporary fully functional email address for 10 minutes.
 
 
 ### Study and Education
