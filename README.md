@@ -47,7 +47,7 @@ To save the world from creating user accounts and installing software applicatio
 
 * [aNotepad](https://anotepad.com/) - Saves your notes without a user account using cookies.
 * [h5Note](http://h5note.com/) - Works when offline too using HTML5.
-* [shrib](https://shrib.com/) - Save note to a custom url and edit it later.
+* [shrib](https://shrib.com/) - Save note to a custom URL and edit it later.
 * [Notepad](https://www.amitmerchant.com/notepad/) - Offline capable Notepad PWA.
 * [ProtectedText](https://www.protectedtext.com/) - Encrypted notes without ads, sessions, or cookies.
 
@@ -104,9 +104,9 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 
 ### Communication
 
-* [Tlk.io](https://tlk.io/) - Create a room with any url (eg `tlk.io/some-room`) you wish and chat in groups.
+* [Tlk.io](https://tlk.io/) - Create a room with any URL (eg `tlk.io/some-room`) you wish and chat in groups.
 * [Discord](https://discordapp.com/) - Voice and text conference online. Username is asked at start to create a temp avatar.
-* [Gruveo](https://www.gruveo.com/) - Video conference online. Just like Tlk.io, easy to remember custom urls.
+* [Gruveo](https://www.gruveo.com/) - Video conference online. Just like Tlk.io, easy to remember custom URLs.
 * [Appear.in](https://appear.in/) - Video conference online. Create any room like `appear.in/some-room` and starting chatting.
 * [Videolink2](https://videolink2.me/start) - Video conference online. Link generated, share link to invite other participants.
 * [GetARoom.io](https://getaroom.io/) - Video conference online. Has mobile browser support, just click start new call and share the link.
@@ -175,20 +175,20 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 * [PDF <=> EPUB](http://pdfepub.com/) - PDF to EPUB converter and vice versa.
 * [Pandoc Try](https://pandoc.org/try/) - Inter markup conversion using Pandoc. Supported - Latex, Markdown, HTML, RST and lots more.
 * [Print Friendly](https://www.printfriendly.com/) - Convert any webpage to simple format. Then download it or print as PDF.
-* [OnlineOCR](https://www.onlineocr.net/) - Convert a scanned PDF into doc, xls or txt.
-* [GifDeck](http://gifdeck.in/) - Convert slides from slideshare to gif.
+* [OnlineOCR](https://www.onlineocr.net/) - Convert a scanned PDF into DOC, XLS or TXT.
+* [GifDeck](http://gifdeck.in/) - Convert slides from slideshare to GIF.
 
 
 ### File Hosting/Sharing
 
 * [EFShare](http://efshare.com/) - Peer to peer secure file sharing.
-* [Ge.tt](http://ge.tt/) - File hosting service. Max limit 2gb.
-* [RGhost](http://rgho.st/) - File hosting service, Max limit 100mb without login.
+* [Ge.tt](http://ge.tt/) - File hosting service. Max limit 2GB.
+* [RGhost](http://rgho.st/) - File hosting service, Max limit 100MB without login.
 * [ImgSafe](https://imgsafe.org/) - Image hosting service with small direct links.
 * [Clyp](https://clyp.it/) - Audio sharing without limits, rich API.
 * [SendVid](https://sendvid.com/) - Video hosting service.
 * [Archive.org](https://archive.org/) `[Account]` - Unlimited file hosting of any type, no limits on bandwidth and upload size.
-* [imgh](https://imgh.us/) - Image hosting service. Supports all major formats. File size limit is 16mb.
+* [imgh](https://imgh.us/) - Image hosting service. Supports all major formats. File size limit is 16MB.
 * [SnapDrop](https://snapdrop.net/) - Open source local file sharing inspired by Apple's Airdrop, similar to SHAREit on Android.
 * [MultCloud](https://www.multcloud.com/home) - Cloud service to manage, move, copy and migrate data between multiple cloud services. Supports all major cloud services. No sign-up required, 2TB cloud storage, download large files directly to the cloud, no size restrictions.
 
@@ -201,7 +201,7 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 * [Filelab Audio Editor](http://www.filelab.com/audio-editor) - Audio editor with basic features like trim, merge, cut audio.
 * [Until AM](http://mix.until.am/) - Online music mixer, DJ software.
 * [YOU.DJ](http://you.dj/) - Online music mixer, DJ software sourcing music from SoundCloud.
-* [VideoToolbox](http://videotoolbox.com) `[Account]` - Video editor with all the common editing features. Size limited to 600mb.
+* [VideoToolbox](http://videotoolbox.com) `[Account]` - Video editor with all the common editing features. Size limited to 600MB.
 * [Stupeflix](https://studio.stupeflix.com/en/) `[Account]` - Make a movie out of your images, audio and video clips.
 
 
@@ -211,11 +211,11 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 * [youtube-mp3.org](http://www.youtube-mp3.org/) - YouTube to MP3 download.
 * [Youtube Converter & Downloader](https://www.onlinevideoconverter.com/video-converter) - Download YouTube video in any audio/video format.
 * [keepvid](http://keepvid.com/) - YouTube, SoundCloud, Facebook downloader.
-* [Bitport](https://bitport.io/) `[Account]` - Torrent downloader. Limited to 1 torrent of 1gb per day in free account.
-* [Vubey](https://vubey.yt/) - Download mp3 from YouTube, SoundCloud etc in various audio quality (bitrates).
-* [Seedr](https://www.seedr.cc/) `[Account]` - Cloud based torrent downloader. Limited to multiple torrents of total size of 2gb in free account. Unlimited bandwidth. 500mb increase on contributing a new user.
-* [Fuge.it](http://fuge.it/howitworks) `[Account]` - Web torrent client. Free tier limited to 2 simultaneous torrents of max size 2gb in free account, 10gb storage, 10gb bandwidth/month.
-* [Direct Torrents](http://www.direct-torrents.com/) - Download torrent files faster and safer as direct download with 10gb max size of torrent and comfortable bandwidth.
+* [Bitport](https://bitport.io/) `[Account]` - Torrent downloader. Limited to 1 torrent of 1GB per day in free account.
+* [Vubey](https://vubey.yt/) - Download MP3 from YouTube, SoundCloud etc in various audio quality (bitrates).
+* [Seedr](https://www.seedr.cc/) `[Account]` - Cloud based torrent downloader. Limited to multiple torrents of total size of 2GB in free account. Unlimited bandwidth. 500MB increase on contributing a new user.
+* [Fuge.it](http://fuge.it/howitworks) `[Account]` - Web torrent client. Free tier limited to 2 simultaneous torrents of max size 2GB in free account, 10GB storage, 10GB bandwidth/month.
+* [Direct Torrents](http://www.direct-torrents.com/) - Download torrent files faster and safer as direct download with 10GB max size of torrent and comfortable bandwidth.
 
 
 ### Privacy, Security and Cryptography
@@ -255,8 +255,8 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 <a name="text-tools"></a>
 ### Text based tools
 
-* [Diff Checker](https://www.diffchecker.com/) - Compare two text passages and view diffs.
-* [ASCII.li](https://ascii.li) - Generate text ascii art, ascii emoticons and lots more online.
+* [Diff Checker](https://www.diffchecker.com/) - Compare two text passages and view differences.
+* [ASCII.li](https://ascii.li) - Generate text ASCII art, ASCII emoticons and lots more online.
 * [CopyPasteCharacter](http://www.copypastecharacter.com/) - Copy special characters that are generally unavailable in a keyboard.
 * [PolishMyWriting](http://www.polishmywriting.com/) - Paste a text and get feedback on your writing.
 * [Wordle](http://www.wordle.net/) - A toy to generate 'Word Clouds' form a given piece of text.
@@ -283,8 +283,8 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 ### Miscellaneous
 
 * [rollApp](https://www.rollapp.com/) `[Account]` - Run desktop applications on any device.
-* [is.gd](https://is.gd/) - Link shortener with custom urls and open API (no tokens).
-* [Bitly](https://bitly.com/) - Powerful url shortener with REST API.
+* [is.gd](https://is.gd/) - Link shortener with custom URLs and open API (no tokens).
+* [Bitly](https://bitly.com/) - Powerful URL shortener with REST API.
 * [Superbetize](http://superbetize.com/) - Categorize your grocery list.
 * [isup.me](http://isup.me/) - Check if website is unavailable just for you or everyone else.
 * [Dictation.io](https://dictation.io/) - Online voice dictation software supporting large number of languages.
