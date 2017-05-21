@@ -173,6 +173,7 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 * [Pandoc Try](https://pandoc.org/try/) - Inter markup conversion using Pandoc. Supported - Latex, Markdown, HTML, RST and lots more.
 * [Print Friendly](https://www.printfriendly.com/) - Convert any webpage to simple format. Then download it or print as PDF.
 * [OnlineOCR](https://www.onlineocr.net/) - Convert a scanned PDF into doc, xls or txt.
+* [GifDeck](http://gifdeck.in/) - Convert slides from slideshare to gif.
 
 
 ### File Hosting/Sharing
