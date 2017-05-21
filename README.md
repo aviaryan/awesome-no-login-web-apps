@@ -284,7 +284,7 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [unfurlr](http://unfurlr.com/) - Check the URL hiding behind the shortened link.
 * [followupthen](http://www.followupthen.com/) - Easiest way to setup email reminders.
 * [lmgtfy](http://lmgtfy.com/) - When your friends are too lazy to use Google on their own.
-* [IFTTT](https://ifttt.com/) `[Account]` - Create a connection between your favourite online services. For example, if you want to post the same content on several social networking sites at a time IFTTT can come in handy.
+* [IFTTT](https://ifttt.com/) `[Account]` - Create a connection between your favourite online services. For example, if you want to post the same content on several social networking sites at a time then IFTTT can come in handy.
 
 
 -----
