@@ -1,5 +1,6 @@
 language: ruby
 rvm: 2.2
 before_script: gem install awesome_bot
-script: awesome_bot README.md --allow-redirect -w cryptrader
+script: awesome_bot README.md --allow-redirect -w cryptrader,podbay
 # cryptrader has a 5s ddos protection
+# podbay server is down. Is it temporary or permanent? God knows. Will remove it sometime later.
