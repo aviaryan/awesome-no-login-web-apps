@@ -244,6 +244,7 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [IWantMyName](https://iwantmyname.com/) - Helps you search domains across all TLDs.
 * [Similar Sites](http://www.similarsites.com/) - Find websites similar to the one you enter.
 * [Google Fonts](http://www.google.com/webfonts) - Collection of open-source fonts by google.
+* [ChooseMyPC](https://choosemypc.net/) - Search for the best combination of parts considering your requirements for your PC under a given budget.
 
 
 <a name="text-tools"></a>
