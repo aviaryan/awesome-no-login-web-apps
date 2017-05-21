@@ -144,7 +144,7 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 * [Realtime Board](https://realtimeboard.com/) `[Account]` - Collaborative blackboard with huge area, screen sharing, video & voice communication.
 * [ezGIF](http://ezgif.com/) - GIF images editor (cropping, scaling, optimizing and more).
 * [Adobe Color CC](https://color.adobe.com/) - Color scheme designer.
-* [Burner Bonanza](https://burner.bonanza.com/) - Tool to remove the background of an image.
+* [Burner Bonanza](https://burner.bonanza.com/) - Tool to remove the background of an image, login to download the edited image as PNG or JPEG.
 
 
 <a name="drawing"></a>
