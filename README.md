@@ -274,6 +274,7 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [TypingWeb](https://www.typing.com/student/start) - Master touch-typing at ease.
 * [Acronym Creator](http://acronymcreator.net/) - Create acronym for organization, algorithm, or anything having at least two words.
 * [TallTweets](http://www.talltweets.com/) - Send tweets longer than 140 characters.
+* [Postify](http://postfity.com/) `[Account]` - Schedule posts on Facebook, Twitter & LinkedIn.
 
 
 ### Miscellaneous
