@@ -117,7 +117,7 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 * [ShapeShift.io](https://shapeshift.io) - Instant cryptocurrency conversion.
 * [Cryptrader.com](https://cryptrader.com) - Cryptocurrency price charts and indicators. Saving your settings requires an account.
 * [TradingView.com](https://www.tradingview.com/) - Real-time information and market insights from various exchanges. Requires an account for saving settings.
-* [ShapeShift.io](https://shapeshift.io) - Instant cryptocurrency conversion.
+* [InvoiceToMe](https://invoiceto.me/) - Generate professional invoices from various templates with your company details.
 
 
 ### Music, Radio and Podcasts
