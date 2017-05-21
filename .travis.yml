@@ -1,4 +1,5 @@
 language: ruby
 rvm: 2.2
 before_script: gem install awesome_bot
-script: awesome_bot README.md --allow-redirect -w printfriendly,fuge.it
+script: awesome_bot README.md --allow-redirect -w cryptrader
+# cryptrader has a 5s ddos protection
