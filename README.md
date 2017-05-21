@@ -99,7 +99,7 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 * [Regulex](http://jex.im/regulex/) - JavaScript regular expression visualizer.
 * [GTmetrix](https://gtmetrix.com/) - Analyze your site’s speed and make it faster.
 * [BuildWith](https://builtwith.com/) - Find the technology stack to know everything about a website.
-
+* [WooRank](https://www.woorank.com/) - SEO Audit tool and website review which provides with global and local rank in terms of traffic generated.
 
 ### Communication
 
