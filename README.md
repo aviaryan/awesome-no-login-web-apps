@@ -239,6 +239,7 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [Directed Graph Editor](http://bl.ocks.org/rkirsling/5001347) - Play with directed graphs.
 * [Calcul](http://www.calcul.com) - Collection of different calculators including matrix, unit converters, mathematical distributions and more.
 * [Word Safety](http://wordsafety.com/) - Check if words are abusive in any languages.
+* [OEIS®](http://oeis.org/) - The On-Line Encyclopedia of Integer Sequences®, helps in cryptography as well as formulating odd looking sequences.
 
 
 ### Search Engines
