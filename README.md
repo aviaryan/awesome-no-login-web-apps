@@ -182,13 +182,13 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 ### File Hosting/Sharing
 
 * [EFShare](http://efshare.com/) - Peer to peer secure file sharing.
-* [Ge.tt](http://ge.tt/) - File hosting service. Max limit 2GB.
-* [RGhost](http://rgho.st/) - File hosting service, Max limit 100MB without login.
+* [Ge.tt](http://ge.tt/) - File hosting service. Max limit 2gb.
+* [RGhost](http://rgho.st/) - File hosting service, Max limit 100mb without login.
 * [ImgSafe](https://imgsafe.org/) - Image hosting service with small direct links.
 * [Clyp](https://clyp.it/) - Audio sharing without limits, rich API.
 * [SendVid](https://sendvid.com/) - Video hosting service.
 * [Archive.org](https://archive.org/) `[Account]` - Unlimited file hosting of any type, no limits on bandwidth and upload size.
-* [imgh](https://imgh.us/) - Image hosting service. Supports all major formats. File size limit is 16MB.
+* [imgh](https://imgh.us/) - Image hosting service. Supports all major formats. File size limit is 16mb.
 * [SnapDrop](https://snapdrop.net/) - Open source local file sharing inspired by Apple's Airdrop, similar to SHAREit on Android.
 * [MultCloud](https://www.multcloud.com/home) - Cloud service to manage, move, copy and migrate data between multiple cloud services. Supports all major cloud services. No sign-up required, 2TB cloud storage, download large files directly to the cloud, no size restrictions.
 
@@ -201,7 +201,7 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 * [Filelab Audio Editor](http://www.filelab.com/audio-editor) - Audio editor with basic features like trim, merge, cut audio.
 * [Until AM](http://mix.until.am/) - Online music mixer, DJ software.
 * [YOU.DJ](http://you.dj/) - Online music mixer, DJ software sourcing music from SoundCloud.
-* [VideoToolbox](http://videotoolbox.com) `[Account]` - Video editor with all the common editing features. Size limited to 600MB.
+* [VideoToolbox](http://videotoolbox.com) `[Account]` - Video editor with all the common editing features. Size limited to 600mb.
 * [Stupeflix](https://studio.stupeflix.com/en/) `[Account]` - Make a movie out of your images, audio and video clips.
 
 
@@ -211,11 +211,11 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 * [youtube-mp3.org](http://www.youtube-mp3.org/) - YouTube to MP3 download.
 * [Youtube Converter & Downloader](https://www.onlinevideoconverter.com/video-converter) - Download YouTube video in any audio/video format.
 * [keepvid](http://keepvid.com/) - YouTube, SoundCloud, Facebook downloader.
-* [Bitport](https://bitport.io/) `[Account]` - Torrent downloader. Limited to 1 torrent of 1GB per day in free account.
+* [Bitport](https://bitport.io/) `[Account]` - Torrent downloader. Limited to 1 torrent of 1gb per day in free account.
 * [Vubey](https://vubey.yt/) - Download MP3 from YouTube, SoundCloud etc in various audio quality (bitrates).
-* [Seedr](https://www.seedr.cc/) `[Account]` - Cloud based torrent downloader. Limited to multiple torrents of total size of 2GB in free account. Unlimited bandwidth. 500MB increase on contributing a new user.
-* [Fuge.it](http://fuge.it/howitworks) `[Account]` - Web torrent client. Free tier limited to 2 simultaneous torrents of max size 2GB in free account, 10GB storage, 10GB bandwidth/month.
-* [Direct Torrents](http://www.direct-torrents.com/) - Download torrent files faster and safer as direct download with 10GB max size of torrent and comfortable bandwidth.
+* [Seedr](https://www.seedr.cc/) `[Account]` - Cloud based torrent downloader. Limited to multiple torrents of total size of 2gb in free account. Unlimited bandwidth. 500mb increase on contributing a new user.
+* [Fuge.it](http://fuge.it/howitworks) `[Account]` - Web torrent client. Free tier limited to 2 simultaneous torrents of max size 2gb in free account, 10gb storage, 10gb bandwidth/month.
+* [Direct Torrents](http://www.direct-torrents.com/) - Download torrent files faster and safer as direct download with 10gb max size of torrent and comfortable bandwidth.
 
 
 ### Privacy, Security and Cryptography
