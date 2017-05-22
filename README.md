@@ -226,7 +226,7 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 * [MPCrypt](http://crypt.miguelpiedrafita.com/) - Securely encrypt files.
 * [jotti](https://virusscan.jotti.org) - Scan any suspicious file or email attachment for viruses.
 * [scr.im](http://scr.im/) - Share e-mail address freely without worrying about spam.
-* [10 Minute Mail](https://10minutemail.com/) - A temporary fully functional email address for 10 minutes(exendible).
+* [10 Minute Mail](https://10minutemail.com/) - A temporary fully functional email address for 10 minutes(extendible).
 
 
 ### Study and Education
