@@ -273,7 +273,7 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [Web-Capture](https://web-capture.net/) - Webapp for converting webpages to popular formats(PDF, JPEG, ZIP) just by submitting link.
 * [PrintWhatYouLike](http://www.printwhatyoulike.com/) - Print any webpage or save it as HTML or PDF.
 * [WhatTheFont](http://www.myfonts.com/WhatTheFont/) - Determine font name from an image.
-* [Image Metadata Viewer](http://exif.regex.info/exif.cgi) - View hidden data (Metadata) of any image.
+* [Image Metadata Viewer](http://exif.regex.info/exif.cgi) - View hidden data (metadata) of any image.
 * [WhoIsHostingThis](http://www.whoishostingthis.com/) - Find the web host of any website.
 * [TypingWeb](https://www.typing.com/student/start) - Master touch-typing at ease.
 * [Acronym Creator](http://acronymcreator.net/) - Create acronym for organization, algorithm, or anything having at least two words.
