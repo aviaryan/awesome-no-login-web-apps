@@ -1,6 +1,4 @@
 language: ruby
 rvm: 2.2
 before_script: gem install awesome_bot
-script: awesome_bot README.md --allow-redirect -w cryptrader,shields.io
-# cryptrader has a 5s ddos protection
-# shields.io is the badge provider
+script: bash test.sh
