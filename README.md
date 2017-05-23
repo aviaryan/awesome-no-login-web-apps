@@ -78,6 +78,7 @@ To save the world from creating user accounts and installing software applicatio
 * [TutorialsPoint Online Tools](https://www.tutorialspoint.com/codingground.htm) - Online terminals for Ipython, Octave, 
 Powershell, Redis and lots others. Also has a good collection of IDEs for programming languages.
 * [Ideone](http://ideone.com/) - Online IDE supporting most popular languages.
+* [codepad](http://codepad.org/) - Online compiler/interpreter, similar to Ideone.
 * [Repl.it](https://repl.it/) - Online terminals for all popular programming languages.
 * [Codechef IDE](https://www.codechef.com/ide) - Simple single file code compiler supporting major languages.
 * [Cloud9](https://c9.io/) `[Account]`  - Very powerful online dev environment, just like your local PC.
