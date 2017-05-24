@@ -245,6 +245,18 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 * [WooRank](https://www.woorank.com/) - SEO Audit tool, provides website review with global and local rank in terms of traffic generated.
 
 
+### Search Engines
+
+* [Iconfinder](http://www.iconfinder.com/) - Download all your favourite icons in one place.
+* [Emoji Search Online](http://www.webpagefx.com/tools/emoji-cheat-sheet/) - Intelligent emoji search engine.
+* [Podcast Feed Extractor](http://itunes.so-nik.com/) - Get RSS feed for podcasts.
+* [RSS Feed Search](http://ctrlq.org/rss/) - Find RSS feeds from search terms.
+* [IWantMyName](https://iwantmyname.com/) - Helps you search domains across all TLDs.
+* [Similar Sites](http://www.similarsites.com/) - Find websites similar to the one you enter.
+* [Google Fonts](http://www.google.com/webfonts) - Collection of open-source fonts by google.
+* [ChooseMyPC](https://choosemypc.net/) - Search for the best combination of parts considering your requirements for your PC under a given budget.
+
+
 ### Study and Education
 
 * [Calculatoria Calculator](http://www.calculatoria.com/) - Scientific calculator online with progress stored on your system.
@@ -256,18 +268,6 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [Calcul](http://www.calcul.com) - Collection of different calculators including matrix, unit converters, mathematical distributions and more.
 * [Word Safety](http://wordsafety.com/) - Check if words are abusive in any languages.
 * [OEIS®](http://oeis.org/) - The On-Line Encyclopedia of Integer Sequences®, helps in cryptography as well as formulating odd looking sequences.
-
-
-### Search Engines
-
-* [Iconfinder](http://www.iconfinder.com/) - Download all your favourite icons in one place.
-* [Emoji Search Online](http://www.webpagefx.com/tools/emoji-cheat-sheet/) - Intelligent emoji search engine.
-* [Podcast Feed Extractor](http://itunes.so-nik.com/) - Get RSS feed for podcasts.
-* [RSS Feed Search](http://ctrlq.org/rss/) - Find RSS feeds from search terms.
-* [IWantMyName](https://iwantmyname.com/) - Helps you search domains across all TLDs.
-* [Similar Sites](http://www.similarsites.com/) - Find websites similar to the one you enter.
-* [Google Fonts](http://www.google.com/webfonts) - Collection of open-source fonts by google.
-* [ChooseMyPC](https://choosemypc.net/) - Search for the best combination of parts considering your requirements for your PC under a given budget.
 
 
 <a name="text-tools"></a>
