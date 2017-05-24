@@ -18,38 +18,61 @@ To save the world from creating user accounts and installing software applicatio
 
 ## Contents
 
-* [Notepads and Notebooks](#notepads-and-notebooks)
+* [Audio and Video](#audio-and-video)
+* [Business and Finance](#business-and-finance)
+* [Communication](#communication)
 * [Document editors](#document-editors)
 	* [Latex](#latex)
 	* [Markdown](#markdown)
 	* [Others](#doc-eds-others)
-* [Programming Editors and IDEs](#programming-editors-and-ides)
-* [Programming Tools](#programming-tools)
-* [Communication](#communication)
-* [Business and Finance](#business-and-finance)
-* [Music, Radio and Podcasts](#music-radio-and-podcasts)
-* [Graphics, Image and Design](#graphics-image-and-design)
 * [Drawing](#drawing)
-* [Games](#games)
 * [File Converters](#file-converters)
 * [File Hosting/Sharing](#file-hostingsharing)
-* [Audio and Video](#audio-and-video)
+* [Games](#games)
+* [Graphics, Image and Design](#graphics-image-and-design)
 * [Internet Downloaders](#internet-downloaders)
+* [Miscellaneous](#miscellaneous)
+* [Music, Radio and Podcasts](#music-radio-and-podcasts)
+* [Notepads and Notebooks](#notepads-and-notebooks)
 * [Privacy, Security and Cryptography](#privacy-security-and-cryptography)
-* [Study and Education](#study-and-education)
+* [Programming Editors and IDEs](#programming-editors-and-ides)
+* [Programming Tools](#programming-tools)
 * [Search Engines](#search-engines)
+* [Study and Education](#study-and-education)
 * [Text based tools](#text-tools)
 * [Utilities (uncategorized)](#utilities)
-* [Miscellaneous](#miscellaneous)
 
 
-### Notepads and Notebooks
+### Audio and Video
 
-* [aNotepad](https://anotepad.com/) - Saves your notes without a user account using cookies.
-* [h5Note](http://h5note.com/) - Works when offline too using HTML5.
-* [shrib](https://shrib.com/) - Save note to a custom URL and edit it later.
-* [Notepad](https://www.amitmerchant.com/notepad/) - Offline capable Notepad PWA.
-* [ProtectedText](https://www.protectedtext.com/) - Encrypted notes without ads, sessions, or cookies.
+* [bfxr](http://www.bfxr.net/) - Make sound effects for your games.
+* [MP3 Cut](http://mp3cut.net/) - Online audio cutter.
+* [TwistedWeb Online](https://twistedwave.com/online/) - Powerful audio editor. Files not saved online.
+* [Filelab Audio Editor](http://www.filelab.com/audio-editor) - Audio editor with basic features like trim, merge, cut audio.
+* [Until AM](http://mix.until.am/) - Online music mixer, DJ software.
+* [YOU.DJ](http://you.dj/) - Online music mixer, DJ software sourcing music from SoundCloud.
+* [VideoToolbox](http://videotoolbox.com) `[Account]` - Video editor with all the common editing features. Size limited to 600mb.
+* [Stupeflix](https://studio.stupeflix.com/en/) `[Account]` - Make a movie out of your images, audio and video clips.
+
+
+### Business and Finance
+
+* [ShapeShift.io](https://shapeshift.io) - Instant cryptocurrency conversion.
+* [Cryptrader.com](https://cryptrader.com) - Cryptocurrency price charts and indicators. Saving your settings requires an account.
+* [TradingView.com](https://www.tradingview.com/) - Real-time information and market insights from various exchanges. Requires an account for saving settings.
+* [InvoiceToMe](https://invoiceto.me/) - Generate professional invoices from various templates with your company details.
+
+
+### Communication
+
+* [Tlk.io](https://tlk.io/) - Create a room with any URL (eg `tlk.io/some-room`) you wish and chat in groups.
+* [Discord](https://discordapp.com/) - Voice and text conference online. Username is asked at start to create a temp avatar.
+* [Gruveo](https://www.gruveo.com/) - Video conference online. Just like Tlk.io, easy to remember custom URLs.
+* [Appear.in](https://appear.in/) - Video conference online. Create any room like `appear.in/some-room` and starting chatting.
+* [Videolink2](https://videolink2.me/start) - Video conference online. Link generated, share link to invite other participants.
+* [GetARoom.io](https://getaroom.io/) - Video conference online. Has mobile browser support, just click start new call and share the link.
+* [FaxZero](https://faxzero.com/) - Send an online fax for free.
+
 
 ### Document Editors
 
@@ -71,6 +94,124 @@ To save the world from creating user accounts and installing software applicatio
 * [Online reStructedText Editor - rst.ninjs](http://rst.ninjs.org/) - WYSIWYG RST preview with option to save document online for editing later.
 * [EtherCalc](https://ethercalc.net/) - Online spreadsheet editor, exports to Excel.
 * [PdfEscape](https://www.pdfescape.com/) - Edit or create PDFs in browser itself.
+
+
+<a name="drawing"></a>
+### Drawing
+
+* [SVG-Edit](https://svg-edit.github.io/svgedit/releases/svg-edit-2.8.1/svg-editor.html) - Powerful SVG editor with lots of features. Open source.
+* [Method Draw](http://editor.method.ac/) - Clean and feature-rich SVG editor. Exports to PNG.
+* [A Web Whiteboard](https://awwapp.com/) - Touch-friendly online collaborative whiteboard app.
+* [Draw.io](https://www.draw.io/) - Flowchart and UML drawing tool. Lots of drawing styles available. Exports to PNG and integrates with Google Drive.
+* [AutoDraw](https://www.autodraw.com/) - Draw beautiful sketches, thanks to Google's Machine Learning. Drawings can be downloaded as PNG.
+* [kleki](http://kleki.com/) - MS Paint like interface in browser.
+* [bubbl](https://bubbl.us/) - Create mind-maps, brainstorm ideas in the browser.
+* [ScribbleMaps](http://scribblemaps.com/) - Create custom google maps.
+
+
+### File Converters
+
+* [Cloud Convert](https://cloudconvert.com/) - Convert from anything to anything including audio, video, font, document and lots more. Excellent integration with cloud storage services like Google Drive and Dropbox. Direct links.
+* [Online Convert](http://www.online-convert.com/) - Collection of audio, video, image, document, ebook and archive converter. No file size limits and direct download links upon conversion.
+* [PDF <=> EPUB](http://pdfepub.com/) - PDF to EPUB converter and vice versa.
+* [Pandoc Try](https://pandoc.org/try/) - Inter markup conversion using Pandoc. Supported - Latex, Markdown, HTML, RST and lots more.
+* [Print Friendly](https://www.printfriendly.com/) - Convert any webpage to simple format. Then download it or print as PDF.
+* [OnlineOCR](https://www.onlineocr.net/) - Convert a scanned PDF into DOC, XLS or TXT.
+* [GifDeck](http://gifdeck.in/) - Convert slides from slideshare to GIF.
+
+
+### File Hosting/Sharing
+
+* [EFShare](http://efshare.com/) - Peer to peer secure file sharing.
+* [Ge.tt](http://ge.tt/) - File hosting service. Max limit 2gb.
+* [RGhost](http://rgho.st/) - File hosting service, Max limit 100mb without login.
+* [ImgSafe](https://imgsafe.org/) - Image hosting service with small direct links.
+* [Clyp](https://clyp.it/) - Audio sharing without limits, rich API.
+* [SendVid](https://sendvid.com/) - Video hosting service.
+* [Archive.org](https://archive.org/) `[Account]` - Unlimited file hosting of any type, no limits on bandwidth and upload size.
+* [imgh](https://imgh.us/) - Image hosting service. Supports all major formats. File size limit is 16mb.
+* [SnapDrop](https://snapdrop.net/) - Open source local file sharing inspired by Apple's Airdrop, similar to SHAREit on Android.
+* [MultCloud](https://www.multcloud.com/home) - Cloud service to manage, move, copy and migrate data between multiple cloud services. Supports all major cloud services. No sign-up required, 2TB cloud storage, download large files directly to the cloud, no size restrictions.
+
+
+<a name="games"></a>
+### Games
+
+* [Typeracer](http://play.typeracer.com/) - Evaluate your typing speed while racing against others.
+
+
+### Graphics, Image and Design
+
+* [Pixlr Editor](https://pixlr.com/editor/) - Image editor by Pixlr. Lots of features.
+* [Photo Editor | Befunky](https://www.befunky.com/features/photo-editor/) - Image editor with lots of filters and effects.
+* [Logo Makr](https://logomakr.com/) - Logo maker with nice collection of SVGs. Requires payment to export logo as SVG (PNG is free).
+* [Online Logo Maker](http://www.onlinelogomaker.com/) - Make logos online. Extra user account feature to save creations.
+* [Coolors](https://coolors.co/) - Color palettes generator.
+* [Tiny PNG](https://tinypng.com/) - Smart PNG and JPEG compression.
+* [Realtime Board](https://realtimeboard.com/) `[Account]` - Collaborative blackboard with huge area, screen sharing, video & voice communication.
+* [ezGIF](http://ezgif.com/) - GIF images editor (cropping, scaling, optimizing and more).
+* [Adobe Color CC](https://color.adobe.com/) - Color scheme designer.
+* [Burner Bonanza](https://burner.bonanza.com/) `[Account]` - Tool to remove the background of an image and instantly share on Facebook or Twitter, login to download the edited image as PNG or JPEG.
+
+
+### Internet Downloaders
+
+* [savefrom.net](http://en.savefrom.net/) - Download from YouTube, Dailymotion, Vimeo and more.
+* [youtube-mp3.org](http://www.youtube-mp3.org/) - YouTube to MP3 download.
+* [Youtube Converter & Downloader](https://www.onlinevideoconverter.com/video-converter) - Download YouTube video in any audio/video format.
+* [keepvid](http://keepvid.com/) - YouTube, SoundCloud, Facebook downloader.
+* [Bitport](https://bitport.io/) `[Account]` - Torrent downloader. Limited to 1 torrent of 1gb per day in free account.
+* [Vubey](https://vubey.yt/) - Download MP3 from YouTube, SoundCloud etc in various audio quality (bitrates).
+* [Seedr](https://www.seedr.cc/) `[Account]` - Cloud based torrent downloader. Limited to multiple torrents of total size of 2gb in free account. Unlimited bandwidth. 500mb increase on contributing a new user.
+* [Fuge.it](http://fuge.it/howitworks) `[Account]` - Web torrent client. Free tier limited to 2 simultaneous torrents of max size 2gb in free account, 10gb storage, 10gb bandwidth/month.
+* [Direct Torrents](http://www.direct-torrents.com/) - Download torrent files faster and safer as direct download with 10gb max size of torrent and comfortable bandwidth.
+
+
+### Miscellaneous
+
+* [rollApp](https://www.rollapp.com/) `[Account]` - Run desktop applications on any device.
+* [is.gd](https://is.gd/) - Link shortener with custom URLs and open API (no tokens).
+* [Bitly](https://bitly.com/) - Powerful URL shortener with REST API.
+* [Superbetize](http://superbetize.com/) - Categorize your grocery list.
+* [isup.me](http://isup.me/) - Check if website is unavailable just for you or everyone else.
+* [Dictation.io](https://dictation.io/) - Online voice dictation software supporting large number of languages.
+* [unfurlr](http://unfurlr.com/) - Check the URL hiding behind the shortened link.
+* [followupthen](http://www.followupthen.com/) - Easiest way to setup email reminders.
+* [lmgtfy](http://lmgtfy.com/) - When your friends are too lazy to use Google on their own.
+* [IFTTT](https://ifttt.com/) `[Account]` - Create a connection between your favourite online services. For example, if one needs to tweet their instagrams as native photos on twitter then IFTTT can come in handy.
+
+
+### Music, Radio and Podcasts
+
+* [Podbay](http://podbay.fm/) - Listen to any podcast online, individual episodes can be downloaded.
+* [Internet Radio](https://www.internet-radio.com/) - Listen to over 40k radio stations.
+* [Stitcher](http://www.stitcher.com/) - Listen to podcast online.
+* [AnyAudio](http://anyaudio.in/) - Stream and download music.
+* [Muki](https://muki.io) - WebAudio-based chiptune & MIDI player, with a nice collection of video game music.
+* [MusixHub](http://www.musixhub.com) - Play artists and albums video songs online, powered by YouTube.
+* [plug.dj](https://plug.dj/) - Listen to thousands of DJs, powered by YouTube, sign-in required to become a DJ.
+* [Jango Radio](https://jango.com/) - Free Internet radio, listen to hundreds of genre stations or create your own with your favorite music.
+* [MusicPleer](http://musicpleer.audio/) - Stream or download your favorite songs without any hassle.
+* [NoteFlight](https://www.noteflight.com/login) `[Account]` - Print music sheets, write your own music online (review).
+
+
+### Notepads and Notebooks
+
+* [aNotepad](https://anotepad.com/) - Saves your notes without a user account using cookies.
+* [h5Note](http://h5note.com/) - Works when offline too using HTML5.
+* [shrib](https://shrib.com/) - Save note to a custom URL and edit it later.
+* [Notepad](https://www.amitmerchant.com/notepad/) - Offline capable Notepad PWA.
+* [ProtectedText](https://www.protectedtext.com/) - Encrypted notes without ads, sessions, or cookies.
+
+
+### Privacy, Security and Cryptography
+
+* [Encipher.it](https://encipher.it/) - AES-256 text encryption and decryption.
+* [Encrypted Pastebin - Defuse.ca](https://defuse.ca/pastebin.htm) - Set password on your public pastes.
+* [MPCrypt](http://crypt.miguelpiedrafita.com/) - Securely encrypt files.
+* [jotti](https://virusscan.jotti.org) - Scan any suspicious file or email attachment for viruses.
+* [scr.im](http://scr.im/) - Share e-mail address freely without worrying about spam.
+* [10 Minute Mail](https://10minutemail.com/) - A temporary fully functional email address for 10 minutes (extendible).
 
 
 ### Programming Editors and IDEs
@@ -102,132 +243,6 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 * [GTmetrix](https://gtmetrix.com/) - Analyze your site’s speed and make it faster.
 * [BuildWith](https://builtwith.com/) - Find the technology stack to know everything about a website.
 * [WooRank](https://www.woorank.com/) - SEO Audit tool, provides website review with global and local rank in terms of traffic generated.
-
-
-### Communication
-
-* [Tlk.io](https://tlk.io/) - Create a room with any URL (eg `tlk.io/some-room`) you wish and chat in groups.
-* [Discord](https://discordapp.com/) - Voice and text conference online. Username is asked at start to create a temp avatar.
-* [Gruveo](https://www.gruveo.com/) - Video conference online. Just like Tlk.io, easy to remember custom URLs.
-* [Appear.in](https://appear.in/) - Video conference online. Create any room like `appear.in/some-room` and starting chatting.
-* [Videolink2](https://videolink2.me/start) - Video conference online. Link generated, share link to invite other participants.
-* [GetARoom.io](https://getaroom.io/) - Video conference online. Has mobile browser support, just click start new call and share the link.
-* [FaxZero](https://faxzero.com/) - Send an online fax for free.
-
-
-### Business and Finance
-
-* [ShapeShift.io](https://shapeshift.io) - Instant cryptocurrency conversion.
-* [Cryptrader.com](https://cryptrader.com) - Cryptocurrency price charts and indicators. Saving your settings requires an account.
-* [TradingView.com](https://www.tradingview.com/) - Real-time information and market insights from various exchanges. Requires an account for saving settings.
-* [InvoiceToMe](https://invoiceto.me/) - Generate professional invoices from various templates with your company details.
-
-
-### Music, Radio and Podcasts
-
-* [Podbay](http://podbay.fm/) - Listen to any podcast online, individual episodes can be downloaded.
-* [Internet Radio](https://www.internet-radio.com/) - Listen to over 40k radio stations.
-* [Stitcher](http://www.stitcher.com/) - Listen to podcast online.
-* [AnyAudio](http://anyaudio.in/) - Stream and download music.
-* [Muki](https://muki.io) - WebAudio-based chiptune & MIDI player, with a nice collection of video game music.
-* [MusixHub](http://www.musixhub.com) - Play artists and albums video songs online, powered by YouTube.
-* [plug.dj](https://plug.dj/) - Listen to thousands of DJs, powered by YouTube, sign-in required to become a DJ.
-* [Jango Radio](https://jango.com/) - Free Internet radio, listen to hundreds of genre stations or create your own with your favorite music.
-* [MusicPleer](http://musicpleer.audio/) - Stream or download your favorite songs without any hassle.
-* [NoteFlight](https://www.noteflight.com/login) `[Account]` - Print music sheets, write your own music online (review).
-
-
-### Graphics, Image and Design
-
-* [Pixlr Editor](https://pixlr.com/editor/) - Image editor by Pixlr. Lots of features.
-* [Photo Editor | Befunky](https://www.befunky.com/features/photo-editor/) - Image editor with lots of filters and effects.
-* [Logo Makr](https://logomakr.com/) - Logo maker with nice collection of SVGs. Requires payment to export logo as SVG (PNG is free).
-* [Online Logo Maker](http://www.onlinelogomaker.com/) - Make logos online. Extra user account feature to save creations.
-* [Coolors](https://coolors.co/) - Color palettes generator.
-* [Tiny PNG](https://tinypng.com/) - Smart PNG and JPEG compression.
-* [Realtime Board](https://realtimeboard.com/) `[Account]` - Collaborative blackboard with huge area, screen sharing, video & voice communication.
-* [ezGIF](http://ezgif.com/) - GIF images editor (cropping, scaling, optimizing and more).
-* [Adobe Color CC](https://color.adobe.com/) - Color scheme designer.
-* [Burner Bonanza](https://burner.bonanza.com/) `[Account]` - Tool to remove the background of an image and instantly share on Facebook or Twitter, login to download the edited image as PNG or JPEG.
-
-
-<a name="drawing"></a>
-### Drawing
-
-* [SVG-Edit](https://svg-edit.github.io/svgedit/releases/svg-edit-2.8.1/svg-editor.html) - Powerful SVG editor with lots of features. Open source.
-* [Method Draw](http://editor.method.ac/) - Clean and feature-rich SVG editor. Exports to PNG.
-* [A Web Whiteboard](https://awwapp.com/) - Touch-friendly online collaborative whiteboard app.
-* [Draw.io](https://www.draw.io/) - Flowchart and UML drawing tool. Lots of drawing styles available. Exports to PNG and integrates with Google Drive.
-* [AutoDraw](https://www.autodraw.com/) - Draw beautiful sketches, thanks to Google's Machine Learning. Drawings can be downloaded as PNG.
-* [kleki](http://kleki.com/) - MS Paint like interface in browser.
-* [bubbl](https://bubbl.us/) - Create mind-maps, brainstorm ideas in the browser.
-* [ScribbleMaps](http://scribblemaps.com/) - Create custom google maps.
-
-
-<a name="games"></a>
-### Games
-
-* [Typeracer](http://play.typeracer.com/) - Evaluate your typing speed while racing against others.
-
-
-### File Converters
-
-* [Cloud Convert](https://cloudconvert.com/) - Convert from anything to anything including audio, video, font, document and lots more. Excellent integration with cloud storage services like Google Drive and Dropbox. Direct links.
-* [Online Convert](http://www.online-convert.com/) - Collection of audio, video, image, document, ebook and archive converter. No file size limits and direct download links upon conversion.
-* [PDF <=> EPUB](http://pdfepub.com/) - PDF to EPUB converter and vice versa.
-* [Pandoc Try](https://pandoc.org/try/) - Inter markup conversion using Pandoc. Supported - Latex, Markdown, HTML, RST and lots more.
-* [Print Friendly](https://www.printfriendly.com/) - Convert any webpage to simple format. Then download it or print as PDF.
-* [OnlineOCR](https://www.onlineocr.net/) - Convert a scanned PDF into DOC, XLS or TXT.
-* [GifDeck](http://gifdeck.in/) - Convert slides from slideshare to GIF.
-
-
-### File Hosting/Sharing
-
-* [EFShare](http://efshare.com/) - Peer to peer secure file sharing.
-* [Ge.tt](http://ge.tt/) - File hosting service. Max limit 2gb.
-* [RGhost](http://rgho.st/) - File hosting service, Max limit 100mb without login.
-* [ImgSafe](https://imgsafe.org/) - Image hosting service with small direct links.
-* [Clyp](https://clyp.it/) - Audio sharing without limits, rich API.
-* [SendVid](https://sendvid.com/) - Video hosting service.
-* [Archive.org](https://archive.org/) `[Account]` - Unlimited file hosting of any type, no limits on bandwidth and upload size.
-* [imgh](https://imgh.us/) - Image hosting service. Supports all major formats. File size limit is 16mb.
-* [SnapDrop](https://snapdrop.net/) - Open source local file sharing inspired by Apple's Airdrop, similar to SHAREit on Android.
-* [MultCloud](https://www.multcloud.com/home) - Cloud service to manage, move, copy and migrate data between multiple cloud services. Supports all major cloud services. No sign-up required, 2TB cloud storage, download large files directly to the cloud, no size restrictions.
-
-
-### Audio and Video
-
-* [bfxr](http://www.bfxr.net/) - Make sound effects for your games.
-* [MP3 Cut](http://mp3cut.net/) - Online audio cutter.
-* [TwistedWeb Online](https://twistedwave.com/online/) - Powerful audio editor. Files not saved online.
-* [Filelab Audio Editor](http://www.filelab.com/audio-editor) - Audio editor with basic features like trim, merge, cut audio.
-* [Until AM](http://mix.until.am/) - Online music mixer, DJ software.
-* [YOU.DJ](http://you.dj/) - Online music mixer, DJ software sourcing music from SoundCloud.
-* [VideoToolbox](http://videotoolbox.com) `[Account]` - Video editor with all the common editing features. Size limited to 600mb.
-* [Stupeflix](https://studio.stupeflix.com/en/) `[Account]` - Make a movie out of your images, audio and video clips.
-
-
-### Internet Downloaders
-
-* [savefrom.net](http://en.savefrom.net/) - Download from YouTube, Dailymotion, Vimeo and more.
-* [youtube-mp3.org](http://www.youtube-mp3.org/) - YouTube to MP3 download.
-* [Youtube Converter & Downloader](https://www.onlinevideoconverter.com/video-converter) - Download YouTube video in any audio/video format.
-* [keepvid](http://keepvid.com/) - YouTube, SoundCloud, Facebook downloader.
-* [Bitport](https://bitport.io/) `[Account]` - Torrent downloader. Limited to 1 torrent of 1gb per day in free account.
-* [Vubey](https://vubey.yt/) - Download MP3 from YouTube, SoundCloud etc in various audio quality (bitrates).
-* [Seedr](https://www.seedr.cc/) `[Account]` - Cloud based torrent downloader. Limited to multiple torrents of total size of 2gb in free account. Unlimited bandwidth. 500mb increase on contributing a new user.
-* [Fuge.it](http://fuge.it/howitworks) `[Account]` - Web torrent client. Free tier limited to 2 simultaneous torrents of max size 2gb in free account, 10gb storage, 10gb bandwidth/month.
-* [Direct Torrents](http://www.direct-torrents.com/) - Download torrent files faster and safer as direct download with 10gb max size of torrent and comfortable bandwidth.
-
-
-### Privacy, Security and Cryptography
-
-* [Encipher.it](https://encipher.it/) - AES-256 text encryption and decryption.
-* [Encrypted Pastebin - Defuse.ca](https://defuse.ca/pastebin.htm) - Set password on your public pastes.
-* [MPCrypt](http://crypt.miguelpiedrafita.com/) - Securely encrypt files.
-* [jotti](https://virusscan.jotti.org) - Scan any suspicious file or email attachment for viruses.
-* [scr.im](http://scr.im/) - Share e-mail address freely without worrying about spam.
-* [10 Minute Mail](https://10minutemail.com/) - A temporary fully functional email address for 10 minutes (extendible).
 
 
 ### Study and Education
@@ -282,20 +297,6 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [TallTweets](http://www.talltweets.com/) - Send tweets longer than 140 characters.
 * [Postify](http://postfity.com/) `[Account]` - Schedule posts on Facebook, Twitter & LinkedIn.
 * [Krutidev <--> Unicode](http://wrd.bih.nic.in/font_KtoU.htm) - Convert Krutidev to Unicode (Mangal) and vice versa in one click.
-
-
-### Miscellaneous
-
-* [rollApp](https://www.rollapp.com/) `[Account]` - Run desktop applications on any device.
-* [is.gd](https://is.gd/) - Link shortener with custom URLs and open API (no tokens).
-* [Bitly](https://bitly.com/) - Powerful URL shortener with REST API.
-* [Superbetize](http://superbetize.com/) - Categorize your grocery list.
-* [isup.me](http://isup.me/) - Check if website is unavailable just for you or everyone else.
-* [Dictation.io](https://dictation.io/) - Online voice dictation software supporting large number of languages.
-* [unfurlr](http://unfurlr.com/) - Check the URL hiding behind the shortened link.
-* [followupthen](http://www.followupthen.com/) - Easiest way to setup email reminders.
-* [lmgtfy](http://lmgtfy.com/) - When your friends are too lazy to use Google on their own.
-* [IFTTT](https://ifttt.com/) `[Account]` - Create a connection between your favourite online services. For example, if one needs to tweet their instagrams as native photos on twitter then IFTTT can come in handy.
 
 
 -----
