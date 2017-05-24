@@ -31,7 +31,6 @@ To save the world from creating user accounts and installing software applicatio
 * [Games](#games)
 * [Graphics, Image and Design](#graphics-image-and-design)
 * [Internet Downloaders](#internet-downloaders)
-* [Miscellaneous](#miscellaneous)
 * [Music, Radio and Podcasts](#music-radio-and-podcasts)
 * [Notepads and Notebooks](#notepads-and-notebooks)
 * [Privacy, Security and Cryptography](#privacy-security-and-cryptography)
@@ -41,6 +40,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Study and Education](#study-and-education)
 * [Text based tools](#text-tools)
 * [Utilities (uncategorized)](#utilities)
+* [Miscellaneous](#miscellaneous)
 
 
 ### Audio and Video
@@ -167,20 +167,6 @@ To save the world from creating user accounts and installing software applicatio
 * [Direct Torrents](http://www.direct-torrents.com/) - Download torrent files faster and safer as direct download with 10gb max size of torrent and comfortable bandwidth.
 
 
-### Miscellaneous
-
-* [rollApp](https://www.rollapp.com/) `[Account]` - Run desktop applications on any device.
-* [is.gd](https://is.gd/) - Link shortener with custom URLs and open API (no tokens).
-* [Bitly](https://bitly.com/) - Powerful URL shortener with REST API.
-* [Superbetize](http://superbetize.com/) - Categorize your grocery list.
-* [isup.me](http://isup.me/) - Check if website is unavailable just for you or everyone else.
-* [Dictation.io](https://dictation.io/) - Online voice dictation software supporting large number of languages.
-* [unfurlr](http://unfurlr.com/) - Check the URL hiding behind the shortened link.
-* [followupthen](http://www.followupthen.com/) - Easiest way to setup email reminders.
-* [lmgtfy](http://lmgtfy.com/) - When your friends are too lazy to use Google on their own.
-* [IFTTT](https://ifttt.com/) `[Account]` - Create a connection between your favourite online services. For example, if one needs to tweet their instagrams as native photos on twitter then IFTTT can come in handy.
-
-
 ### Music, Radio and Podcasts
 
 * [Podbay](http://podbay.fm/) - Listen to any podcast online, individual episodes can be downloaded.
@@ -297,6 +283,20 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [TallTweets](http://www.talltweets.com/) - Send tweets longer than 140 characters.
 * [Postify](http://postfity.com/) `[Account]` - Schedule posts on Facebook, Twitter & LinkedIn.
 * [Krutidev <--> Unicode](http://wrd.bih.nic.in/font_KtoU.htm) - Convert Krutidev to Unicode (Mangal) and vice versa in one click.
+
+
+### Miscellaneous
+
+* [rollApp](https://www.rollapp.com/) `[Account]` - Run desktop applications on any device.
+* [is.gd](https://is.gd/) - Link shortener with custom URLs and open API (no tokens).
+* [Bitly](https://bitly.com/) - Powerful URL shortener with REST API.
+* [Superbetize](http://superbetize.com/) - Categorize your grocery list.
+* [isup.me](http://isup.me/) - Check if website is unavailable just for you or everyone else.
+* [Dictation.io](https://dictation.io/) - Online voice dictation software supporting large number of languages.
+* [unfurlr](http://unfurlr.com/) - Check the URL hiding behind the shortened link.
+* [followupthen](http://www.followupthen.com/) - Easiest way to setup email reminders.
+* [lmgtfy](http://lmgtfy.com/) - When your friends are too lazy to use Google on their own.
+* [IFTTT](https://ifttt.com/) `[Account]` - Create a connection between your favourite online services. For example, if one needs to tweet their instagrams as native photos on twitter then IFTTT can come in handy.
 
 
 -----
