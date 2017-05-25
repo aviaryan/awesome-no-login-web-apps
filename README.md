@@ -118,6 +118,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Print Friendly](https://www.printfriendly.com/) - Convert any webpage to simple format. Then download it or print as PDF.
 * [OnlineOCR](https://www.onlineocr.net/) - Convert a scanned PDF into DOC, XLS or TXT.
 * [GifDeck](http://gifdeck.in/) - Convert slides from slideshare to GIF.
+* [favicon-generator](http://www.favicon-generator.org/) - Generate favicons for your web-apps or Icons for your Android or iOS apps.
 
 
 ### File Hosting/Sharing
