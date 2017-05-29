@@ -118,6 +118,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Print Friendly](https://www.printfriendly.com/) - Convert any webpage to simple format. Then download it or print as PDF.
 * [OnlineOCR](https://www.onlineocr.net/) - Convert a scanned PDF into DOC, XLS or TXT.
 * [GifDeck](http://gifdeck.in/) - Convert slides from slideshare to GIF.
+* [favicon-generator](http://www.favicon-generator.org/) - Generate favicons for your web-apps or icons for your Android or iOS apps by uploading your desired image.
 
 
 ### File Hosting/Sharing
@@ -152,6 +153,7 @@ To save the world from creating user accounts and installing software applicatio
 * [ezGIF](http://ezgif.com/) - GIF images editor (cropping, scaling, optimizing and more).
 * [Adobe Color CC](https://color.adobe.com/) - Color scheme designer.
 * [Burner Bonanza](https://burner.bonanza.com/) `[Account]` - Tool to remove the background of an image and instantly share on Facebook or Twitter, login to download the edited image as PNG or JPEG.
+* [BG patterns](http://bgpatterns.com/) - Pattern creator tool that allows you to choose from a variety of shapes and then customize size, rotation, placement, color, texture, and more.
 
 
 ### Internet Downloaders
@@ -229,6 +231,7 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 * [GTmetrix](https://gtmetrix.com/) - Analyze your site’s speed and make it faster.
 * [BuildWith](https://builtwith.com/) - Find the technology stack to know everything about a website.
 * [WooRank](https://www.woorank.com/) - SEO Audit tool, provides website review with global and local rank in terms of traffic generated.
+* [CSS Menu Maker](http://www.cssmenumaker.com/) - This tool is great for generating quick, simple drop-down menus from selected styles and generates downloadable CSS.
 * [CSS Typeset](http://csstypeset.com/) - Paste the text you want to modify and download the corresponding CSS for the updated text.
 
 
@@ -265,7 +268,7 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [CopyPasteCharacter](http://www.copypastecharacter.com/) - Copy special characters that are generally unavailable in a keyboard.
 * [PolishMyWriting](http://www.polishmywriting.com/) - Paste a text and get feedback on your writing.
 * [Wordle](http://www.wordle.net/) - A toy to generate 'Word Clouds' form a given piece of text.
-* [mAhLyfeMahRulezz](http://aviaryan.in/mAhLyfeMahRulezz/) - dA aNn0Y1Ng t3Xt g3NeRa7or (The annoying text generator :-P).
+* [tYp3r](http://typ3r.aavi.me) - dA aNn0Y1Ng t3Xt g3NeRa7or (The annoying text generator :-P).
 
 
 <a name="utilities"></a>
