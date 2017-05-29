@@ -229,6 +229,7 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 * [GTmetrix](https://gtmetrix.com/) - Analyze your site’s speed and make it faster.
 * [BuildWith](https://builtwith.com/) - Find the technology stack to know everything about a website.
 * [WooRank](https://www.woorank.com/) - SEO Audit tool, provides website review with global and local rank in terms of traffic generated.
+* [CSS Typeset](http://csstypeset.com/) - Lets you create typography designs and generates the CSS them. Just paste in text you want to modify, and then use the options at the bottom to customize it and it will generate the CSS in real-time.
 
 
 ### Search Engines
