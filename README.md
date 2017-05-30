@@ -91,7 +91,7 @@ To save the world from creating user accounts and installing software applicatio
 
 #### <a name="doc-eds-others"></a> Others
 
-* [Online reStructedText Editor - rst.ninjs](http://rst.ninjs.org/) - WYSIWYG RST preview with option to save document online for editing later.
+* [rst.ninjs](http://rst.ninjs.org/) - WYSIWYG RST preview with option to save document online for editing later.
 * [EtherCalc](https://ethercalc.net/) - Online spreadsheet editor, exports to Excel.
 * [PdfEscape](https://www.pdfescape.com/) - Edit or create PDFs in browser itself.
 
@@ -282,7 +282,7 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [WhatTheFont](http://www.myfonts.com/WhatTheFont/) - Determine font name from an image.
 * [Image Metadata Viewer](http://exif.regex.info/exif.cgi) - View hidden data (metadata) of any image.
 * [WhoIsHostingThis](http://www.whoishostingthis.com/) - Find the web host of any website.
-* [TypingWeb](https://www.typing.com/student/start) - Master touch-typing at ease.
+* [TypingWeb](https://www.typing.com/student/start) - Master touch-typing with ease.
 * [Acronym Creator](http://acronymcreator.net/) - Create acronym for organization, algorithm, or anything having at least two words.
 * [TallTweets](http://www.talltweets.com/) - Send tweets longer than 140 characters.
 * [Postify](http://postfity.com/) `[Account]` - Schedule posts on Facebook, Twitter & LinkedIn.
