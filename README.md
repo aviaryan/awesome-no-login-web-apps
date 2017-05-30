@@ -232,7 +232,7 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 * [BuildWith](https://builtwith.com/) - Find the technology stack to know everything about a website.
 * [WooRank](https://www.woorank.com/) - SEO Audit tool, provides website review with global and local rank in terms of traffic generated.
 * [CSS Menu Maker](http://www.cssmenumaker.com/) - This tool is great for generating quick, simple drop-down menus from selected styles and generates downloadable CSS.
-* [CSS Typeset](http://csstypeset.com/) - Paste the text you want to modify and download the corresponding CSS for the updated text.
+* [CSS Typeset](http://csstypeset.com/) - Visual typeset editor. Play around with font-face, word-spacing and other text attributes and download the corresponding CSS.
 
 
 ### Search Engines
