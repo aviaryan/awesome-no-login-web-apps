@@ -140,6 +140,7 @@ To save the world from creating user accounts and installing software applicatio
 ### Games
 
 * [Typeracer](http://play.typeracer.com/) - Evaluate your typing speed while racing against others.
+* [Spark Chess](https://www.sparkchess.com/) - Learn to play chess, play with users around the globe or play with AI depending on your skill level.
 
 
 ### Graphics, Image and Design
