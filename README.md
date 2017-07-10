@@ -202,6 +202,7 @@ To save the world from creating user accounts and installing software applicatio
 * [jotti](https://virusscan.jotti.org) - Scan any suspicious file or email attachment for viruses.
 * [scr.im](http://scr.im/) - Share e-mail address freely without worrying about spam.
 * [10 Minute Mail](https://10minutemail.com/) - A temporary fully functional email address for 10 minutes (extendible).
+* [BugMeNot](http://bugmenot.com/) - A platform for finding and sharing logins of different websites. It helps you find credentials for signing in into different websites. 
 
 
 ### Programming Editors and IDEs
