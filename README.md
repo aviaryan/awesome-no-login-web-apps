@@ -156,6 +156,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Adobe Color CC](https://color.adobe.com/) - Color scheme designer.
 * [Burner Bonanza](https://burner.bonanza.com/) `[Account]` - Tool to remove the background of an image and instantly share on Facebook or Twitter, login to download the edited image as PNG or JPEG.
 * [BG patterns](http://bgpatterns.com/) - Pattern creator tool that allows you to choose from a variety of shapes and then customize size, rotation, placement, color, texture, and more.
+* [IcoMoon](https://icomoon.io/app) - A platform that helps you in finding vector icon packs, hosting icons as SVGs or fonts and to generate SVG + PNG + icon fonts of selected icons.
 
 
 ### Internet Downloaders
