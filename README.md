@@ -237,7 +237,7 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 * [WooRank](https://www.woorank.com/) - SEO Audit tool, provides website review with global and local rank in terms of traffic generated.
 * [CSS Menu Maker](http://www.cssmenumaker.com/) - This tool is great for generating quick, simple drop-down menus from selected styles and generates downloadable CSS.
 * [CSS Typeset](http://csstypeset.com/) - Visual typeset editor. Play around with font-face, word-spacing and other text attributes and download the corresponding CSS.
-* [FAARY](http://faary.com/) - Free, Online CSS form generator. Requires form element types and their names to preview form and generate downloadable good looking form code.
+* [FAARY](http://faary.com/) - Free, Online CSS form generator. Requires form elements type and name to preview form and generate downloadable good looking form code.
 
 
 ### Search Engines
