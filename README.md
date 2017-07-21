@@ -237,6 +237,7 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 * [WooRank](https://www.woorank.com/) - SEO Audit tool, provides website review with global and local rank in terms of traffic generated.
 * [CSS Menu Maker](http://www.cssmenumaker.com/) - This tool is great for generating quick, simple drop-down menus from selected styles and generates downloadable CSS.
 * [CSS Typeset](http://csstypeset.com/) - Visual typeset editor. Play around with font-face, word-spacing and other text attributes and download the corresponding CSS.
+* [pForm](http://www.phpform.org/) - Create HTML forms through a simple GUI and preview or download the corresponding code.
 
 
 ### Search Engines
