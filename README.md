@@ -95,7 +95,7 @@ To save the world from creating user accounts and installing software applicatio
 * [EtherCalc](https://ethercalc.net/) - Online spreadsheet editor, exports to Excel.
 * [PdfEscape](https://www.pdfescape.com/) - Edit or create PDFs in browser itself.
 * [Browserpad](http://browserpad.org/) - A server-less plain text editor in the browser. Allows you to open and save plain text files.
-* [WriteURL](http://www.writeurl.com/) - A collaborative real-time online text editor.No registration. No password. Just click new document.
+* [WriteURL](http://www.writeurl.com/) - A collaborative real-time online text editor.No registration. No password. Just click [new document](http://www.writeurl.com/text/pzap282v92spvp27sc7l/923out28njtygs28h11m/dqppj0m3a1180kl1mi9o).
 
 
 <a name="drawing"></a>
