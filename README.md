@@ -48,9 +48,9 @@ To save the world from creating user accounts and installing software applicatio
 * [bfxr](http://www.bfxr.net/) - Make sound effects for your games.
 * [MP3 Cut](http://mp3cut.net/) - Online audio cutter.
 * [TwistedWeb Online](https://twistedwave.com/online/) - Powerful audio editor. Files not saved online.
-* [Filelab Audio Editor](http://www.filelab.com/audio-editor) - Audio editor with basic features like trim, merge, cut audio.
+* [Filelab Audio Editor](http://www.avs4you.com) - Audio editor with basic features like trim, merge, cut audio.
 * [Until AM](http://mix.until.am/) - Online music mixer, DJ software.
-* [YOU.DJ](http://you.dj/) - Online music mixer, DJ software sourcing music from SoundCloud.
+* [YOU.DJ](https://you.dj/) - Online music mixer, DJ software sourcing music from SoundCloud.
 * [VideoToolbox](http://videotoolbox.com) `[Account]` - Video editor with all the common editing features. Size limited to 600mb.
 * [Stupeflix](https://studio.stupeflix.com/en/) `[Account]` - Make a movie out of your images, audio and video clips.
 
@@ -107,7 +107,7 @@ To save the world from creating user accounts and installing software applicatio
 * [AutoDraw](https://www.autodraw.com/) - Draw beautiful sketches, thanks to Google's Machine Learning. Drawings can be downloaded as PNG.
 * [kleki](http://kleki.com/) - MS Paint like interface in browser.
 * [bubbl](https://bubbl.us/) - Create mind-maps, brainstorm ideas in the browser.
-* [ScribbleMaps](http://scribblemaps.com/) - Create custom google maps.
+* [ScribbleMaps](http://www.scribblemaps.com/) - Create custom google maps.
 
 
 ### File Converters
@@ -148,15 +148,15 @@ To save the world from creating user accounts and installing software applicatio
 * [Pixlr Editor](https://pixlr.com/editor/) - Image editor by Pixlr. Lots of features.
 * [Photo Editor | Befunky](https://www.befunky.com/features/photo-editor/) - Image editor with lots of filters and effects.
 * [Logo Makr](https://logomakr.com/) - Logo maker with nice collection of SVGs. Requires payment to export logo as SVG (PNG is free).
-* [Online Logo Maker](http://www.onlinelogomaker.com/) - Make logos online. Extra user account feature to save creations.
+* [Online Logo Maker](https://www.onlinelogomaker.com/) - Make logos online. Extra user account feature to save creations.
 * [Coolors](https://coolors.co/) - Color palettes generator.
 * [Tiny PNG](https://tinypng.com/) - Smart PNG and JPEG compression.
 * [Realtime Board](https://realtimeboard.com/) `[Account]` - Collaborative blackboard with huge area, screen sharing, video & voice communication.
-* [ezGIF](http://ezgif.com/) - GIF images editor (cropping, scaling, optimizing and more).
+* [ezGIF](https://ezgif.com/) - GIF images editor (cropping, scaling, optimizing and more).
 * [Adobe Color CC](https://color.adobe.com/) - Color scheme designer.
 * [Burner Bonanza](https://burner.bonanza.com/) `[Account]` - Tool to remove the background of an image and instantly share on Facebook or Twitter, login to download the edited image as PNG or JPEG.
 * [BG patterns](http://bgpatterns.com/) - Pattern creator tool that allows you to choose from a variety of shapes and then customize size, rotation, placement, color, texture, and more.
-* [IcoMoon](https://icomoon.io/app) - A platform that helps you in finding vector icon packs, hosting icons as SVGs or fonts and to generate SVG + PNG + icon fonts of selected icons.
+* [IcoMoon](https://icomoon.io/app/) - A platform that helps you in finding vector icon packs, hosting icons as SVGs or fonts and to generate SVG + PNG + icon fonts of selected icons.
 
 
 ### Internet Downloaders
@@ -165,7 +165,7 @@ To save the world from creating user accounts and installing software applicatio
 * [youtube-mp3.org](http://www.youtube-mp3.org/) - YouTube to MP3 download.
 * [Youtube Converter & Downloader](https://www.onlinevideoconverter.com/video-converter) - Download YouTube video in any audio/video format.
 * [keepvid](http://keepvid.com/) - YouTube, SoundCloud, Facebook downloader.
-* [Bitport](https://bitport.io/) `[Account]` - Torrent downloader. Limited to 1 torrent of 1gb per day in free account.
+* [Bitport](https://bitport.io/welcome) `[Account]` - Torrent downloader. Limited to 1 torrent of 1gb per day in free account.
 * [Vubey](https://vubey.yt/) - Download MP3 from YouTube, SoundCloud etc in various audio quality (bitrates).
 * [Seedr](https://www.seedr.cc/) `[Account]` - Cloud based torrent downloader. Limited to multiple torrents of total size of 2gb in free account. Unlimited bandwidth. 500mb increase on contributing a new user.
 * [Fuge.it](http://fuge.it/howitworks) `[Account]` - Web torrent client. Free tier limited to 2 simultaneous torrents of max size 2gb in free account, 10gb storage, 10gb bandwidth/month.
@@ -181,7 +181,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Muki](https://muki.io) - WebAudio-based chiptune & MIDI player, with a nice collection of video game music.
 * [MusixHub](http://www.musixhub.com) - Play artists and albums video songs online, powered by YouTube.
 * [plug.dj](https://plug.dj/) - Listen to thousands of DJs, powered by YouTube, sign-in required to become a DJ.
-* [Jango Radio](https://jango.com/) - Free Internet radio, listen to hundreds of genre stations or create your own with your favorite music.
+* [Jango Radio](http://www.jango.com/) - Free Internet radio, listen to hundreds of genre stations or create your own with your favorite music.
 * [MusicPleer](http://musicpleer.audio/) - Stream or download your favorite songs without any hassle.
 * [NoteFlight](https://www.noteflight.com/login) `[Account]` - Print music sheets, write your own music online (review).
 
@@ -191,7 +191,7 @@ To save the world from creating user accounts and installing software applicatio
 * [aNotepad](https://anotepad.com/) - Saves your notes without a user account using cookies.
 * [h5Note](http://h5note.com/) - Works when offline too using HTML5.
 * [shrib](https://shrib.com/) - Save note to a custom URL and edit it later.
-* [Notepad](https://www.amitmerchant.com/notepad/) - Offline capable Notepad PWA.
+* [Notepad](http://notepad.js.org/) - Offline capable Notepad PWA.
 * [ProtectedText](https://www.protectedtext.com/) - Encrypted notes without ads, sessions, or cookies.
 
 
@@ -202,7 +202,7 @@ To save the world from creating user accounts and installing software applicatio
 * [MPCrypt](http://crypt.miguelpiedrafita.com/) - Securely encrypt files.
 * [jotti](https://virusscan.jotti.org) - Scan any suspicious file or email attachment for viruses.
 * [scr.im](http://scr.im/) - Share e-mail address freely without worrying about spam.
-* [10 Minute Mail](https://10minutemail.com/) - A temporary fully functional email address for 10 minutes (extendible).
+* [10 Minute Mail](https://10minutemail.com/10MinuteMail/index.html) - A temporary fully functional email address for 10 minutes (extendible).
 * [BugMeNot](http://bugmenot.com/) - A platform for finding and sharing logins of different websites. It helps you find credentials for signing in into different websites. 
 
 
@@ -216,7 +216,7 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 * [Codechef IDE](https://www.codechef.com/ide) - Simple single file code compiler supporting major languages.
 * [Cloud9](https://c9.io/) `[Account]`  - Very powerful online dev environment, just like your local PC.
 * [JS Bin](https://jsbin.com) - Collaborative web development and debugging tool.
-* [Codepen.io](http://codepen.io/) - Playground for front end web development.
+* [Codepen.io](https://codepen.io/) - Playground for front end web development.
 * [Codenvy](https://codenvy.com) `[Account]` - Cloud workspace for developers, supports most popular stacks including Android, Hadoop, Selenium, NodeJS and lots more.
 * [SQLFiddle](http://sqlfiddle.com/) - Tool for easy online testing and sharing of database problems and their solutions.
 * [Brainfuck Visualizer](http://fatiherikli.github.io/brainfuck-visualizer/) -  Javascript Brainfuck Interpreter + Visualizer. Helps you understanding how code is working.
@@ -224,31 +224,32 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 
 ### Programming Tools
 
-* [CSS Minifier](http://cssminifier.com/) - Minifies CSS by removing whitespace and comments.
+* [CSS Minifier](https://cssminifier.com/) - Minifies CSS by removing whitespace and comments.
 * [UglifyJS JavaScript minifier](https://skalman.github.io/UglifyJS-online/) - Minifies and obfuscates JavaScript.
 * [HTML minifier by @kangax](https://kangax.github.io/html-minifier/) - HTML minifier. Minifies inline CSS and JavaScript too.
 * [JavaScript compressor](http://javascriptcompressor.com/) - JavaScript compressor and obfuscater.
 * [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/) - Android launcher icon, notification icon etc generator from existing images.
-* [Website Speed Test | Pingdom](https://tools.pingdom.com/fpt/) - Feature-rich website tester.
-* [Google Structured Data Testing Tool](https://developers.google.com/structured-data/testing-tool/) - Test a webpage for structured data and SEO.
-* [Regulex](http://jex.im/regulex/) - JavaScript regular expression visualizer.
+* [Website Speed Test | Pingdom](https://tools.pingdom.com/) - Feature-rich website tester.
+* [Google Structured Data Testing Tool](https://search.google.com/structured-data/testing-tool) - Test a webpage for structured data and SEO.
+* [Regulex](https://jex.im/regulex/) - JavaScript regular expression visualizer.
 * [GTmetrix](https://gtmetrix.com/) - Analyze your site’s speed and make it faster.
 * [BuildWith](https://builtwith.com/) - Find the technology stack to know everything about a website.
 * [WooRank](https://www.woorank.com/) - SEO Audit tool, provides website review with global and local rank in terms of traffic generated.
-* [CSS Menu Maker](http://www.cssmenumaker.com/) - This tool is great for generating quick, simple drop-down menus from selected styles and generates downloadable CSS.
+* [CSS Menu Maker](http://cssmenumaker.com/) - This tool is great for generating quick, simple drop-down menus from selected styles and generates downloadable CSS.
 * [CSS Typeset](http://csstypeset.com/) - Visual typeset editor. Play around with font-face, word-spacing and other text attributes and download the corresponding CSS.
+* [FAARY](http://faary.com/) - Free, Online CSS form generator. Requires form elements type and name to preview form and generate downloadable good looking form code.
 * [pForm](http://www.phpform.org/) - Create HTML forms through a simple GUI and preview or download the corresponding code.
 
 
 ### Search Engines
 
-* [Iconfinder](http://www.iconfinder.com/) - Download all your favourite icons in one place.
-* [Emoji Search Online](http://www.webpagefx.com/tools/emoji-cheat-sheet/) - Intelligent emoji search engine.
+* [Iconfinder](https://www.iconfinder.com/) - Download all your favourite icons in one place.
+* [Emoji Search Online](https://www.webpagefx.com/tools/emoji-cheat-sheet/) - Intelligent emoji search engine.
 * [Podcast Feed Extractor](http://itunes.so-nik.com/) - Get RSS feed for podcasts.
 * [RSS Feed Search](http://ctrlq.org/rss/) - Find RSS feeds from search terms.
 * [IWantMyName](https://iwantmyname.com/) - Helps you search domains across all TLDs.
 * [Similar Sites](http://www.similarsites.com/) - Find websites similar to the one you enter.
-* [Google Fonts](http://www.google.com/webfonts) - Collection of open-source fonts by google.
+* [Google Fonts](https://www.google.com/webfonts) - Collection of open-source fonts by google.
 * [ChooseMyPC](https://choosemypc.net/) - Search for the best combination of parts considering your requirements for your PC under a given budget.
 
 
@@ -289,7 +290,7 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [WhoIsHostingThis](http://www.whoishostingthis.com/) - Find the web host of any website.
 * [TypingWeb](https://www.typing.com/student/start) - Master touch-typing with ease.
 * [Acronym Creator](http://acronymcreator.net/) - Create acronym for organization, algorithm, or anything having at least two words.
-* [TallTweets](http://www.talltweets.com/) - Send tweets longer than 140 characters.
+* [TallTweets](http://talltweets.com/) - Send tweets longer than 140 characters.
 * [Postify](http://postfity.com/) `[Account]` - Schedule posts on Facebook, Twitter & LinkedIn.
 * [Krutidev <--> Unicode](http://wrd.bih.nic.in/font_KtoU.htm) - Convert Krutidev to Unicode (Mangal) and vice versa in one click.
 
@@ -303,7 +304,7 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [isup.me](http://isup.me/) - Check if website is unavailable just for you or everyone else.
 * [Dictation.io](https://dictation.io/) - Online voice dictation software supporting large number of languages.
 * [unfurlr](http://unfurlr.com/) - Check the URL hiding behind the shortened link.
-* [followupthen](http://www.followupthen.com/) - Easiest way to setup email reminders.
+* [followupthen](https://www.followupthen.com/) - Easiest way to setup email reminders.
 * [lmgtfy](http://lmgtfy.com/) - When your friends are too lazy to use Google on their own.
 * [IFTTT](https://ifttt.com/) `[Account]` - Create a connection between your favourite online services. For example, if one needs to tweet their instagrams as native photos on twitter then IFTTT can come in handy.
 
