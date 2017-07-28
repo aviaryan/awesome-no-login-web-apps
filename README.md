@@ -239,6 +239,7 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 * [CSS Typeset](http://csstypeset.com/) - Visual typeset editor. Play around with font-face, word-spacing and other text attributes and download the corresponding CSS.
 * [FAARY](http://faary.com/) - Free, Online CSS form generator. Requires form elements type and name to preview form and generate downloadable good looking form code.
 * [pForm](http://www.phpform.org/) - Create HTML forms through a simple GUI and preview or download the corresponding code.
+* [CSS Autoprefixer](https://autoprefixer.github.io/) - A postprocessor for handling vendor prefixes in CSS. Just paste the regular CSS and get the vendor prefix handled CSS instantly.
 
 
 ### Search Engines
