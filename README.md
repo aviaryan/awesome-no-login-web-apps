@@ -238,6 +238,7 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 * [CSS Menu Maker](http://cssmenumaker.com/) - This tool is great for generating quick, simple drop-down menus from selected styles and generates downloadable CSS.
 * [CSS Typeset](http://csstypeset.com/) - Visual typeset editor. Play around with font-face, word-spacing and other text attributes and download the corresponding CSS.
 * [FAARY](http://faary.com/) - Free, Online CSS form generator. Requires form elements type and name to preview form and generate downloadable good looking form code.
+* [pForm](http://www.phpform.org/) - Create HTML forms through a simple GUI and preview or download the corresponding code.
 
 
 ### Search Engines
