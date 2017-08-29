@@ -184,6 +184,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Jango Radio](http://www.jango.com/) - Free Internet radio, listen to hundreds of genre stations or create your own with your favorite music.
 * [MusicPleer](http://musicpleer.audio/) - Stream or download your favorite songs without any hassle.
 * [NoteFlight](https://www.noteflight.com/login) `[Account]` - Print music sheets, write your own music online (review).
+* [ongaku](https://ongaku.js.org/) - Online anime radio, with desktop port.
 
 
 ### Notepads and Notebooks
