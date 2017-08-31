@@ -183,7 +183,7 @@ To save the world from creating user accounts and installing software applicatio
 * [plug.dj](https://plug.dj/) - Listen to thousands of DJs, powered by YouTube, sign-in required to become a DJ.
 * [Jango Radio](http://www.jango.com/) - Free Internet radio, listen to hundreds of genre stations or create your own with your favorite music.
 * [MusicPleer](http://musicpleer.audio/) - Stream or download your favorite songs without any hassle.
-* [Anime Openings](http://openings.moe/) - Free anime radio, listen or download anime openings and endings without any hassle.
+* [Anime Openings](http://openings.moe/) - Free anime radio, listen or download anime openings and endings video without any hassle.
 * [NoteFlight](https://www.noteflight.com/login) `[Account]` - Print music sheets, write your own music online (review).
 * [ongaku](https://ongaku.js.org/) - Online anime music radio, with [desktop port](https://github.com/Anshuman-Verma/ongaku-desktop).
 
