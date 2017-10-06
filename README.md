@@ -163,7 +163,7 @@ To save the world from creating user accounts and installing software applicatio
 ### Internet Downloaders
 
 * [savefrom.net](http://en.savefrom.net/) - Download from YouTube, Dailymotion, Vimeo and more.
-* ~~[youtube-mp3.org]() - YouTube to MP3 download.~~ (dead link).
+* [youtubemp3.to](http://youtubemp3.to/) - YouTube to MP3 download. (dead link).
 * [Youtube Converter & Downloader](https://www.onlinevideoconverter.com/video-converter) - Download YouTube video in any audio/video format.
 * [keepvid](http://keepvid.com/) - YouTube, SoundCloud, Facebook downloader.
 * [Bitport](https://bitport.io/welcome) `[Account]` - Torrent downloader. Limited to 1 torrent of 1gb per day in free account.
