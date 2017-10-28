@@ -143,6 +143,7 @@ To save the world from creating user accounts and installing software applicatio
 
 * [Typeracer](http://play.typeracer.com/) - Evaluate your typing speed while racing against others.
 * [Spark Chess](https://www.sparkchess.com/) - Learn to play chess, play with users around the globe or play with AI depending on your skill level.
+* [Miniclip](https://www.miniclip.com) - Collection of a variety of free games that can be played without giving your email. Flash required.
 
 
 ### Graphics, Image and Design
