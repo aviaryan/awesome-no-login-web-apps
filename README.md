@@ -144,6 +144,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Typeracer](http://play.typeracer.com/) - Evaluate your typing speed while racing against others.
 * [Spark Chess](https://www.sparkchess.com/) - Learn to play chess, play with users around the globe or play with AI depending on your skill level.
 * [Miniclip](https://www.miniclip.com) - Collection of a variety of free games that can be played without giving your email. Flash required.
+* [CrossCode](http://www.cross-code.com/en/start) - A retro-inspired 2D game set in the distant future. Comes with great game mechanics such as combos, puzzles, skill trees, quests, items and more.
 
 
 ### Graphics, Image and Design
