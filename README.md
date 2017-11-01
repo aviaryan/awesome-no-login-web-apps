@@ -282,6 +282,7 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [Wordle](http://www.wordle.net/) - A toy to generate 'Word Clouds' form a given piece of text.
 * [tYp3r](http://typ3r.aavi.me) - dA aNn0Y1Ng t3Xt g3NeRa7or (The annoying text generator :-P).
 * [Telegraph](http://telegra.ph/) - Minimalist publishing tool that supports richly formatted text.
+* [DiffNow](https://www.diffnow.com/) - Advanced, online and free File Difference checking, with options like Upload file, compare files by their links or Text Input.
 
 
 <a name="utilities"></a>
