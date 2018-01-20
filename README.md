@@ -283,6 +283,7 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [PolishMyWriting](http://www.polishmywriting.com/) - Paste a text and get feedback on your writing.
 * [Wordle](http://www.wordle.net/) - A toy to generate 'Word Clouds' form a given piece of text.
 * [tYp3r](http://typ3r.aavi.me) - dA aNn0Y1Ng t3Xt g3NeRa7or (The annoying text generator :-P).
+* [Telegraph](http://telegra.ph/) - Minimalist publishing tool that supports richly formatted text.
 
 
 <a name="utilities"></a>
