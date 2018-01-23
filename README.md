@@ -278,7 +278,6 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 ### Text based tools
 
 * [Diff Checker](https://www.diffchecker.com/) - Compare two text passages and view differences.
-* [ASCII.li](https://ascii.li) - Generate text ASCII art, ASCII emoticons and lots more online.
 * [CopyPasteCharacter](http://www.copypastecharacter.com/) - Copy special characters that are generally unavailable in a keyboard.
 * [PolishMyWriting](http://www.polishmywriting.com/) - Paste a text and get feedback on your writing.
 * [Wordle](http://www.wordle.net/) - A toy to generate 'Word Clouds' form a given piece of text.
