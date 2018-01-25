@@ -247,6 +247,7 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 * [FAARY](http://faary.com/) - Free, Online CSS form generator. Requires form elements type and name to preview form and generate downloadable good looking form code.
 * [pForm](http://www.phpform.org/) - Create HTML forms through a simple GUI and preview or download the corresponding code.
 * [CSS Autoprefixer](https://autoprefixer.github.io/) - A postprocessor for handling vendor prefixes in CSS. Just paste the regular CSS and get the vendor prefix handled CSS instantly.
+* [CSS Matic](https://www.cssmatic.com/) - CSS tools to quickly generate gradients, border radius, noise textures and box shadow and get corresponding CSS or SASS.
 
 
 ### Search Engines
