@@ -1,7 +1,6 @@
 # Awesome Web Apps (that work without login)
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![Mentioned in Awesome](https://awesome.re/mentioned-badge.svg)](https://awesome.re)
 [![Contributors needed](https://img.shields.io/badge/contributors-needed-yellow.svg)](CONTRIBUTING.md)
 [![Join the chat at https://gitter.im/aviaryan/awesome-no-login-web-apps](https://badges.gitter.im/aviaryan/awesome-no-login-web-apps.svg)](https://gitter.im/aviaryan/awesome-no-login-web-apps?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
@@ -61,7 +60,6 @@ To save the world from creating user accounts and installing software applicatio
 * [ShapeShift.io](https://shapeshift.io) - Instant cryptocurrency conversion.
 * [Cryptrader.com](https://cryptrader.com) - Cryptocurrency price charts and indicators. Saving your settings requires an account.
 * [TradingView.com](https://www.tradingview.com/) - Real-time information and market insights from various exchanges. Requires an account for saving settings.
-* [ICOStats.com](https://icostats.com/) - Track &amp; compare performance of ICOs. Displays detailed stats like ROI since ICO, ROI vs ETH since ICO, and charts for comparing the historical performance of ICOs.
 * [InvoiceToMe](https://invoiceto.me/) - Generate professional invoices from various templates with your company details.
 
 
@@ -135,6 +133,7 @@ To save the world from creating user accounts and installing software applicatio
 * [SendVid](https://sendvid.com/) - Video hosting service.
 * [Archive.org](https://archive.org/) `[Account]` - Unlimited file hosting of any type, no limits on bandwidth and upload size.
 * [imgh](https://imgh.us/) - Image hosting service. Supports all major formats. File size limit is 16mb.
+* [SnapDrop](https://snapdrop.net/) - Open source local file sharing inspired by Apple's Airdrop, similar to SHAREit on Android.
 * [MultCloud](https://www.multcloud.com/home) - Cloud service to manage, move, copy and migrate data between multiple cloud services. Supports all major cloud services. No sign-up required, 2TB cloud storage, download large files directly to the cloud, no size restrictions.
 
 
@@ -143,8 +142,6 @@ To save the world from creating user accounts and installing software applicatio
 
 * [Typeracer](http://play.typeracer.com/) - Evaluate your typing speed while racing against others.
 * [Spark Chess](https://www.sparkchess.com/) - Learn to play chess, play with users around the globe or play with AI depending on your skill level.
-* [Miniclip](https://www.miniclip.com) - Collection of a variety of free games that can be played without giving your email. Flash required.
-* [CrossCode](http://www.cross-code.com/en/start) - A retro-inspired 2D game set in the distant future. Comes with great game mechanics such as combos, puzzles, skill trees, quests, items and more.
 
 
 ### Graphics, Image and Design
@@ -161,18 +158,18 @@ To save the world from creating user accounts and installing software applicatio
 * [Burner Bonanza](https://burner.bonanza.com/) `[Account]` - Tool to remove the background of an image and instantly share on Facebook or Twitter, login to download the edited image as PNG or JPEG.
 * [BG patterns](http://bgpatterns.com/) - Pattern creator tool that allows you to choose from a variety of shapes and then customize size, rotation, placement, color, texture, and more.
 * [IcoMoon](https://icomoon.io/app/) - A platform that helps you in finding vector icon packs, hosting icons as SVGs or fonts and to generate SVG + PNG + icon fonts of selected icons.
-* [Flaming Text](http://flamingtext.com/) - An online logo or name generator/creator, modify your logo according to your wish and get in many formats including PNG and JPEG.
 
 
 ### Internet Downloaders
 
 * [savefrom.net](http://en.savefrom.net/) - Download from YouTube, Dailymotion, Vimeo and more.
-* [youtubemp3.to](http://youtubemp3.to/) - YouTube to MP3 download.
+* [youtube-mp3.org](http://www.youtube-mp3.org/) - YouTube to MP3 download.
 * [Youtube Converter & Downloader](https://www.onlinevideoconverter.com/video-converter) - Download YouTube video in any audio/video format.
 * [keepvid](http://keepvid.com/) - YouTube, SoundCloud, Facebook downloader.
 * [Bitport](https://bitport.io/welcome) `[Account]` - Torrent downloader. Limited to 1 torrent of 1gb per day in free account.
 * [Vubey](https://vubey.yt/) - Download MP3 from YouTube, SoundCloud etc in various audio quality (bitrates).
 * [Seedr](https://www.seedr.cc/) `[Account]` - Cloud based torrent downloader. Limited to multiple torrents of total size of 2gb in free account. Unlimited bandwidth. 500mb increase on contributing a new user.
+* [Fuge.it](http://fuge.it/howitworks) `[Account]` - Web torrent client. Free tier limited to 2 simultaneous torrents of max size 2gb in free account, 10gb storage, 10gb bandwidth/month.
 * [ZbigZ](https://zbigz.com/) - Torrent downloader that lets you chose the files to download from a torrent. File size limit is 2gb and download is capped to 50kbps in the free version.
 
 
@@ -187,7 +184,6 @@ To save the world from creating user accounts and installing software applicatio
 * [plug.dj](https://plug.dj/) - Listen to thousands of DJs, powered by YouTube, sign-in required to become a DJ.
 * [Jango Radio](http://www.jango.com/) - Free Internet radio, listen to hundreds of genre stations or create your own with your favorite music.
 * [MusicPleer](http://musicpleer.audio/) - Stream or download your favorite songs without any hassle.
-* [Anime Openings](http://openings.moe/) - Free anime radio, listen or download anime opening and ending videos.
 * [NoteFlight](https://www.noteflight.com/login) `[Account]` - Print music sheets, write your own music online (review).
 * [ongaku](https://ongaku.js.org/) - Online anime music radio, with [desktop port](https://github.com/Anshuman-Verma/ongaku-desktop).
 * [Radio Garden](http://radio.garden/) - Listen to thousands of radio stations worldwide by selecting a city on the globe.
@@ -252,7 +248,6 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 
 * [Iconfinder](https://www.iconfinder.com/) - Download all your favourite icons in one place.
 * [Emoji Search Online](https://www.webpagefx.com/tools/emoji-cheat-sheet/) - Intelligent emoji search engine.
-* [Podcast Feed Extractor](http://itunes.so-nik.com/) - Get RSS feed for podcasts.
 * [RSS Feed Search](http://ctrlq.org/rss/) - Find RSS feeds from search terms.
 * [IWantMyName](https://iwantmyname.com/) - Helps you search domains across all TLDs.
 * [Similar Sites](http://www.similarsites.com/) - Find websites similar to the one you enter.
@@ -300,7 +295,6 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [TallTweets](http://talltweets.com/) - Send tweets longer than 140 characters.
 * [Postify](http://postfity.com/) `[Account]` - Schedule posts on Facebook, Twitter & LinkedIn.
 * [Krutidev <--> Unicode](http://wrd.bih.nic.in/font_KtoU.htm) - Convert Krutidev to Unicode (Mangal) and vice versa in one click.
-* [Resume Nation](https://resume-nation.github.io) - An open source resume builder progressive web app which can work offline. It has a few themes to choose from and it can export the resume in PDF form.
 
 
 ### Miscellaneous
@@ -315,7 +309,7 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [followupthen](https://www.followupthen.com/) - Easiest way to setup email reminders.
 * [lmgtfy](http://lmgtfy.com/) - When your friends are too lazy to use Google on their own.
 * [IFTTT](https://ifttt.com/) `[Account]` - Create a connection between your favourite online services. For example, if one needs to tweet their instagrams as native photos on twitter then IFTTT can come in handy.
-* [AlarmDJ](https://alarmdj.com) - Online Alarm clock, use MP3 files and YouTube videos as alarm.
+
 
 -----
 
