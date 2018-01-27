@@ -252,7 +252,6 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 
 * [Iconfinder](https://www.iconfinder.com/) - Download all your favourite icons in one place.
 * [Emoji Search Online](https://www.webpagefx.com/tools/emoji-cheat-sheet/) - Intelligent emoji search engine.
-* [Podcast Feed Extractor](http://itunes.so-nik.com/) - Get RSS feed for podcasts.
 * [RSS Feed Search](http://ctrlq.org/rss/) - Find RSS feeds from search terms.
 * [IWantMyName](https://iwantmyname.com/) - Helps you search domains across all TLDs.
 * [Similar Sites](http://www.similarsites.com/) - Find websites similar to the one you enter.
@@ -282,6 +281,7 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [Wordle](http://www.wordle.net/) - A toy to generate 'Word Clouds' form a given piece of text.
 * [tYp3r](http://typ3r.aavi.me) - dA aNn0Y1Ng t3Xt g3NeRa7or (The annoying text generator :-P).
 * [Telegraph](http://telegra.ph/) - Minimalist publishing tool that supports richly formatted text.
+* [DiffNow](https://www.diffnow.com/) - Advanced, online and free File Difference checking, with options like Upload file, compare files by their links or Text Input.
 
 
 <a name="utilities"></a>
