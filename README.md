@@ -175,6 +175,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Seedr](https://www.seedr.cc/) `[Account]` - Cloud based torrent downloader. Limited to multiple torrents of total size of 2gb in free account. Unlimited bandwidth. 500mb increase on contributing a new user.
 * [ZbigZ](https://zbigz.com/) - Torrent downloader that lets you chose the files to download from a torrent. File size limit is 2gb and download is capped to 50kbps in the free version.
 
+
 ### Music, Radio and Podcasts
 
 * [Podbay](http://podbay.fm/) - Listen to any podcast online, individual episodes can be downloaded.
@@ -242,10 +243,8 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 * [GTmetrix](https://gtmetrix.com/) - Analyze your site’s speed and make it faster.
 * [BuildWith](https://builtwith.com/) - Find the technology stack to know everything about a website.
 * [WooRank](https://www.woorank.com/) - SEO Audit tool, provides website review with global and local rank in terms of traffic generated.
-* [CSS Menu Maker](http://cssmenumaker.com/) - This tool is great for generating quick, simple drop-down menus from selected styles and generates downloadable CSS.
 * [CSS Typeset](http://csstypeset.com/) - Visual typeset editor. Play around with font-face, word-spacing and other text attributes and download the corresponding CSS.
-* [FAARY](http://faary.com/) - Free, Online CSS form generator. Requires form elements type and name to preview form and generate downloadable good looking form code.
-* [pForm](http://www.phpform.org/) - Create HTML forms through a simple GUI and preview or download the corresponding code.
+* [pForm](http://www.phpform.org/) - Create HTML forms through a simple WYSIWYG GUI and download the corresponding code.
 * [CSS Autoprefixer](https://autoprefixer.github.io/) - A postprocessor for handling vendor prefixes in CSS. Just paste the regular CSS and get the vendor prefix handled CSS instantly.
 * [CSS Matic](https://www.cssmatic.com/) - CSS tools to quickly generate gradients, border radius, noise textures and box shadow and get corresponding CSS or SASS.
 
