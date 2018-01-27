@@ -252,7 +252,6 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 
 * [Iconfinder](https://www.iconfinder.com/) - Download all your favourite icons in one place.
 * [Emoji Search Online](https://www.webpagefx.com/tools/emoji-cheat-sheet/) - Intelligent emoji search engine.
-* [Podcast Feed Extractor](http://itunes.so-nik.com/) - Get RSS feed for podcasts.
 * [RSS Feed Search](http://ctrlq.org/rss/) - Find RSS feeds from search terms.
 * [IWantMyName](https://iwantmyname.com/) - Helps you search domains across all TLDs.
 * [Similar Sites](http://www.similarsites.com/) - Find websites similar to the one you enter.
