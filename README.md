@@ -106,6 +106,7 @@ To save the world from creating user accounts and installing software applicatio
 * [SVG-Edit](https://svg-edit.github.io/svgedit/releases/svg-edit-2.8.1/svg-editor.html) - Powerful SVG editor with lots of features. Open source.
 * [Method Draw](http://editor.method.ac/) - Clean and feature-rich SVG editor. Exports to PNG.
 * [A Web Whiteboard](https://awwapp.com/) - Touch-friendly online collaborative whiteboard app.
+* [Witeboard](https://witeboard.com/) - A real-time whiteboard for your team. No signups required.
 * [Draw.io](https://www.draw.io/) - Flowchart and UML drawing tool. Lots of drawing styles available. Exports to PNG and integrates with Google Drive.
 * [AutoDraw](https://www.autodraw.com/) - Draw beautiful sketches, thanks to Google's Machine Learning. Drawings can be downloaded as PNG.
 * [kleki](http://kleki.com/) - MS Paint like interface in browser.
