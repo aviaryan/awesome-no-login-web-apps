@@ -2,3 +2,8 @@ language: ruby
 rvm: 2.2
 before_script: gem install awesome_bot
 script: bash test.sh
+
+# disable email notifications
+notifications:
+  email: false
+  webhooks: https://fathomless-fjord-24024.herokuapp.com/notify
