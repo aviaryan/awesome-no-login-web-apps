@@ -136,8 +136,8 @@ To save the world from creating user accounts and installing software applicatio
 * [Clyp](https://clyp.it/) - Audio sharing without limits, rich API.
 * [SendVid](https://sendvid.com/) - Video hosting service.
 * [Archive.org](https://archive.org/) `[Account]` - Unlimited file hosting of any type, no limits on bandwidth and upload size.
-* [imgh](https://imgh.us/) - Image hosting service. Supports all major formats. File size limit is 16mb.
 * [MultCloud](https://www.multcloud.com/home) - Cloud service to manage, move, copy and migrate data between multiple cloud services. Supports all major cloud services. No sign-up required, 2TB cloud storage, download large files directly to the cloud, no size restrictions.
+* [iuploa.de](https://iuploa.de/) - Image hosting, png, gif, jpg. via drag/drop. single or multiple files.
 
 
 <a name="games"></a>
