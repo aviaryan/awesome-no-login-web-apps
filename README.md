@@ -91,6 +91,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Github.md](http://aviaryan.in/javascripts/github.md/) - Simple GitHub-style Markdown (GFM) preview with print feature.
 * [Markdown Live Preview](http://markdownlivepreview.com/) - Instant Markdown preview.
 * [Markdownify](http://www.amitmerchant.com/markdownify-web/) - Minimal Markdown editor.
+* [StackEdit.io](https://stackedit.io/) - Rich in-browser markdown editor that works offline.
 
 #### <a name="doc-eds-others"></a> Others
 
@@ -303,6 +304,7 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [Postify](http://postfity.com/) `[Account]` - Schedule posts on Facebook, Twitter & LinkedIn.
 * [Krutidev <--> Unicode](http://wrd.bih.nic.in/font_KtoU.htm) - Convert Krutidev to Unicode (Mangal) and vice versa in one click.
 * [Resume Nation](https://resume-nation.github.io) - An open source resume builder progressive web app which can work offline. It has a few themes to choose from and it can export the resume in PDF form.
+* [Daily Todo](https://dailytodo.org/) -  Simple todo list maker.
 
 
 ### Miscellaneous
