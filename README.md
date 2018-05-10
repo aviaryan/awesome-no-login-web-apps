@@ -248,7 +248,7 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 * [CSS Autoprefixer](https://autoprefixer.github.io/) - A postprocessor for handling vendor prefixes in CSS. Just paste the regular CSS and get the vendor prefix handled CSS instantly.
 * [CSS Matic](https://www.cssmatic.com/) - CSS tools to quickly generate gradients, border radius, noise textures and box shadow and get corresponding CSS or SASS.
 * [Carbon](https://carbon.now.sh) - Create and share beautiful images of your source code.
-* [jsonstore.io](https://www.jsonstore.io/) - jsonstore offers a free, secured JSON based API endpoints for small projects.
+* [jsonstore.io](https://www.jsonstore.io/) - jsonstore.io offers free, secured JSON based API endpoints for small projects. It supports common types of HTTP operations like POST, GET, PUT, DELETE etc.
 
 
 ### Search Engines
