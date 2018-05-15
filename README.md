@@ -203,6 +203,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Notepad](http://notepad.js.org/) - Offline capable Notepad PWA.
 * [ProtectedText](https://www.protectedtext.com/) - Encrypted notes without ads, sessions, or cookies.
 * [Taskade](https://taskade.com/) - Collaborative notes, task lists, and outlines. Sign up is optional.
+* [Notepin](https://notepin.co) - Extremely simple note-taking + blogging
 
 
 ### Privacy, Security and Cryptography
