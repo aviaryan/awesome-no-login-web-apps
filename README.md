@@ -114,6 +114,7 @@ To save the world from creating user accounts and installing software applicatio
 * [kleki](http://kleki.com/) - MS Paint like interface in browser.
 * [bubbl](https://bubbl.us/) - Create mind-maps, brainstorm ideas in the browser.
 * [ScribbleMaps](http://www.scribblemaps.com/) - Create custom google maps.
+* [Sketchpad](https://sketch.io/sketchpad/) - Create digital artwork and export to popular image formats JPEG, PNG, SVG, and PDF.
 
 
 ### File Converters
