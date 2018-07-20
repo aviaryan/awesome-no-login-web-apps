@@ -262,6 +262,7 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 * [Similar Sites](http://www.similarsites.com/) - Find websites similar to the one you enter.
 * [Google Fonts](https://www.google.com/webfonts) - Collection of open-source fonts by google.
 * [ChooseMyPC](https://choosemypc.net/) - Search for the best combination of parts considering your requirements for your PC under a given budget.
+* [Flaticon](https://www.flaticon.com/) - Largest search engine for free icons.
 
 
 ### Study and Education
