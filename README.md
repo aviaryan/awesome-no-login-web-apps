@@ -294,8 +294,7 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 <a name="utilities"></a>
 ### Utilities (uncategorized)
 
-* [Dataflow kit](https://dataflowkit.org/dfk) - Extract structured data from Web pages. DFK is fast and processes quite large volumes of data.
-Dataflow kit is suitable to process quite large volumes of data
+* [Dataflow kit](https://dataflowkit.org/dfk) - Extract structured data from Web pages.
 * [E.gg Timer](http://e.ggtimer.com/) - Simple countdown timer application.
 * [QR Code Generator](http://zxing.appspot.com/generator/) - Different types of QR codes like contact info, WiFi, calendar etc supported.
 * [RANDOM.ORG](https://www.random.org/) - Random number generator, dice rolls, password generator, random bitmaps and more stuff based on the concept of randomness.
