@@ -177,6 +177,8 @@ To save the world from creating user accounts and installing software applicatio
 * [Vubey](https://vubey.yt/) - Download MP3 from YouTube, SoundCloud etc in various audio quality (bitrates).
 * [Seedr](https://www.seedr.cc/) `[Account]` - Cloud based torrent downloader. Limited to multiple torrents of total size of 2gb in free account. Unlimited bandwidth. 500mb increase on contributing a new user.
 * [ZbigZ](https://zbigz.com/) - Torrent downloader that lets you chose the files to download from a torrent. File size limit is 2gb and download is capped to 50kbps in the free version.
+* [Instagram Story Downloader](https://wizseotools.com/instagram-story-downloader/) - Instagram Story Downloader lets you download stories of public accounts by just entering the username.
+* [Instagram Media Downloader](https://wizseotools.com/insta-save/) - Allows you to download Instagram Images & videos. Supports Multiple Image/Video Posts (Sidecar).
 
 
 ### Music, Radio and Podcasts
@@ -251,7 +253,8 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 * [CSS Matic](https://www.cssmatic.com/) - CSS tools to quickly generate gradients, border radius, noise textures and box shadow and get corresponding CSS or SASS.
 * [Carbon](https://carbon.now.sh) - Create and share beautiful images of your source code.
 * [jsonstore.io](https://www.jsonstore.io/) - jsonstore.io offers free, secured JSON based API endpoints for small projects. It supports common types of HTTP operations like POST, GET, PUT, DELETE etc.
-* [ObjGen](http://www.objgen.com/) - This live code generator helps you generate code(JSON, HTML etc.) in real time as you type in only the key words, types and properties using a text based syntax.
+* [ObjGen](http://www.objgen.com/) - This app helps you generate code (JSON, HTML, etc) in real time as you type in only the key words, types and properties using a text based syntax.
+* [JsonFormatter](https://jsonformatter.curiousconcept.com) - View json in human readable form.
 
 
 ### Search Engines
@@ -310,6 +313,7 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [Krutidev <--> Unicode](http://wrd.bih.nic.in/font_KtoU.htm) - Convert Krutidev to Unicode (Mangal) and vice versa in one click.
 * [Resume Nation](https://resume-nation.github.io) - An open source resume builder progressive web app which can work offline. It has a few themes to choose from and it can export the resume in PDF form.
 * [Daily Todo](https://dailytodo.org/) -  Simple todo list maker.
+* [Mailinator](https://www.mailinator.com/) - Disposable email service.
 
 
 ### Miscellaneous
