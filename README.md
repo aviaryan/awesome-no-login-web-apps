@@ -318,6 +318,7 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 
 ### Miscellaneous
 
+* [Dataflow kit](https://dataflowkit.org/dfk) - Extract structured data from Web pages.
 * [rollApp](https://www.rollapp.com/) `[Account]` - Run desktop applications on any device.
 * [is.gd](https://is.gd/) - Link shortener with custom URLs and open API (no tokens).
 * [Bitly](https://bitly.com/) - Powerful URL shortener with REST API.
