@@ -255,6 +255,7 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 * [jsonstore.io](https://www.jsonstore.io/) - jsonstore.io offers free, secured JSON based API endpoints for small projects. It supports common types of HTTP operations like POST, GET, PUT, DELETE etc.
 * [ObjGen](http://www.objgen.com/) - This app helps you generate code (JSON, HTML, etc) in real time as you type in only the key words, types and properties using a text based syntax.
 * [JsonFormatter](https://jsonformatter.curiousconcept.com) - View json in human readable form.
+* [CanIUse.com](https://caniuse.com/) - Provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
 
 
 ### Search Engines
