@@ -172,6 +172,7 @@ To save the world from creating user accounts and installing software applicatio
 ### Internet Downloaders
 
 * [savefrom.net](http://en.savefrom.net/) - Download from YouTube, Dailymotion, Vimeo and more.
+* [9xbuddy.app](https://9xbuddy.app/) - Download from YouTube, VK, Dailymotion, Twitter and more than 1000 other websites.
 * [Youtube Converter & Downloader](https://www.onlinevideoconverter.com/video-converter) - Download YouTube video in any audio/video format.
 * [keepvid](http://keepvid.com/) - YouTube, SoundCloud, Facebook downloader.
 * [Bitport](https://bitport.io/welcome) `[Account]` - Torrent downloader. Limited to 1 torrent of 1gb per day in free account.
