@@ -212,6 +212,7 @@ To save the world from creating user accounts and installing software applicatio
 
 ### Privacy, Security and Cryptography
 
+* [Cryptii](https://cryptii.com) - Offers modular conversion, encoding and encryption with a wide variety of ciphers and methods.
 * [Encipher.it](https://encipher.it/) - AES-256 text encryption and decryption.
 * [Encrypted Pastebin - Defuse.ca](https://defuse.ca/pastebin.htm) - Set password on your public pastes.
 * [Hardbin](https://hardbin.com/) - Secure encrypted pastebin hosted on IPFS.
