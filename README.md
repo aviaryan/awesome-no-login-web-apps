@@ -55,6 +55,7 @@ To save the world from creating user accounts and installing software applicatio
 * [YOU.DJ](https://you.dj/) - Online music mixer, DJ software sourcing music from SoundCloud.
 * [VideoToolbox](http://videotoolbox.com) `[Account]` - Video editor with all the common editing features. Size limited to 600mb.
 * [Stupeflix](https://studio.stupeflix.com/en/) `[Account]` - Make a movie out of your images, audio and video clips.
+* [Youtube Dynamic Playlists](https://youtube.ndo.dev) - Create on-the-fly playlists of YouTube videos.
 
 
 ### Business and Finance
