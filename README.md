@@ -54,7 +54,6 @@ To save the world from creating user accounts and installing software applicatio
 * [Until AM](http://mix.until.am/) - Online music mixer, DJ software.
 * [YOU.DJ](https://you.dj/) - Online music mixer, DJ software sourcing music from SoundCloud.
 * [VideoToolbox](http://videotoolbox.com) `[Account]` - Video editor with all the common editing features. Size limited to 600mb.
-* [Stupeflix](https://studio.stupeflix.com/en/) `[Account]` - Make a movie out of your images, audio and video clips.
 
 
 ### Business and Finance
@@ -96,7 +95,6 @@ To save the world from creating user accounts and installing software applicatio
 
 #### <a name="doc-eds-others"></a> Others
 
-* [rst.ninjs](http://rst.ninjs.org/) - WYSIWYG RST preview with option to save document online for editing later.
 * [EtherCalc](https://ethercalc.net/) - Online spreadsheet editor, exports to Excel.
 * [PdfEscape](https://www.pdfescape.com/) - Edit or create PDFs in browser itself.
 * [Browserpad](http://browserpad.org/) - A server-less plain text editor in the browser. Allows you to open and save plain text files.
@@ -139,7 +137,6 @@ To save the world from creating user accounts and installing software applicatio
 * [Clyp](https://clyp.it/) - Audio sharing without limits, rich API.
 * [SendVid](https://sendvid.com/) - Video hosting service.
 * [Archive.org](https://archive.org/) `[Account]` - Unlimited file hosting of any type, no limits on bandwidth and upload size.
-* [imgh](https://imgh.us/) - Image hosting service. Supports all major formats. File size limit is 16mb.
 * [MultCloud](https://www.multcloud.com/home) - Cloud service to manage, move, copy and migrate data between multiple cloud services. Supports all major cloud services. No sign-up required, 2TB cloud storage, download large files directly to the cloud, no size restrictions.
 * [Firefox Send](https://send.firefox.com) - Mozilla's free fileshare program. Up to 1gb without account, 2.5gb with account.
 
@@ -166,7 +163,6 @@ To save the world from creating user accounts and installing software applicatio
 * [ezGIF](https://ezgif.com/) - GIF images editor (cropping, scaling, optimizing and more).
 * [Adobe Color CC](https://color.adobe.com/) - Color scheme designer.
 * [Burner Bonanza](https://burner.bonanza.com/) `[Account]` - Tool to remove the background of an image and instantly share on Facebook or Twitter, login to download the edited image as PNG or JPEG.
-* [BG patterns](http://bgpatterns.com/) - Pattern creator tool that allows you to choose from a variety of shapes and then customize size, rotation, placement, color, texture, and more.
 * [IcoMoon](https://icomoon.io/app/) - A platform that helps you in finding vector icon packs, hosting icons as SVGs or fonts and to generate SVG + PNG + icon fonts of selected icons.
 * [Flaming Text](http://flamingtext.com/) - An online logo or name generator/creator, modify your logo according to your wish and get in many formats including PNG and JPEG.
 * [LeanLogoMaker](https://leanlogomaker.com) - Generate 100s of logos, pick your favourite and download. Includes covers and profile images for your social media sites.
@@ -181,8 +177,6 @@ To save the world from creating user accounts and installing software applicatio
 * [Vubey](https://vubey.yt/) - Download MP3 from YouTube, SoundCloud etc in various audio quality (bitrates).
 * [Seedr](https://www.seedr.cc/) `[Account]` - Cloud based torrent downloader. Limited to multiple torrents of total size of 2gb in free account. Unlimited bandwidth. 500mb increase on contributing a new user.
 * [ZbigZ](https://zbigz.com/) - Torrent downloader that lets you chose the files to download from a torrent. File size limit is 2gb and download is capped to 50kbps in the free version.
-* [Instagram Story Downloader](https://wizseotools.com/instagram-story-downloader/) - Instagram Story Downloader lets you download stories of public accounts by just entering the username.
-* [Instagram Media Downloader](https://wizseotools.com/insta-save/) - Allows you to download Instagram Images & videos. Supports Multiple Image/Video Posts (Sidecar).
 
 
 ### Music, Radio and Podcasts
@@ -204,7 +198,6 @@ To save the world from creating user accounts and installing software applicatio
 ### Notepads and Notebooks
 
 * [aNotepad](https://anotepad.com/) - Saves your notes without a user account using cookies.
-* [h5Note](http://h5note.com/) - Works when offline too using HTML5.
 * [shrib](https://shrib.com/) - Save note to a custom URL and edit it later.
 * [Notepad](http://notepad.js.org/) - Offline capable Notepad PWA.
 * [ProtectedText](https://www.protectedtext.com/) - Encrypted notes without ads, sessions, or cookies.
@@ -215,7 +208,6 @@ To save the world from creating user accounts and installing software applicatio
 
 * [Encipher.it](https://encipher.it/) - AES-256 text encryption and decryption.
 * [Encrypted Pastebin - Defuse.ca](https://defuse.ca/pastebin.htm) - Set password on your public pastes.
-* [Hardbin](https://hardbin.com/) - Secure encrypted pastebin hosted on IPFS.
 * [jotti](https://virusscan.jotti.org) - Scan any suspicious file or email attachment for viruses.
 * [scr.im](http://scr.im/) - Share e-mail address freely without worrying about spam.
 * [10 Minute Mail](https://10minutemail.com/10MinuteMail/index.html) - A temporary fully functional email address for 10 minutes (extendible).
@@ -231,8 +223,8 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 * [Repl.it](https://repl.it/) - Online terminals for all popular programming languages.
 * [Codechef IDE](https://www.codechef.com/ide) - Simple single file code compiler supporting major languages.
 * [Cloud9](https://c9.io/) `[Account]`  - Very powerful online dev environment, just like your local PC.
-* [JS Bin](https://jsbin.com) - Collaborative web development and debugging tool.
 * [Codepen.io](https://codepen.io/) - Playground for front end web development.
+* [JS Bin](https://jsbin.com) - Collaborative web development and debugging tool.
 * [Codenvy](https://codenvy.com) `[Account]` - Cloud workspace for developers, supports most popular stacks including Android, Hadoop, Selenium, NodeJS and lots more.
 * [SQLFiddle](http://sqlfiddle.com/) - Tool for easy online testing and sharing of database problems and their solutions.
 * [Brainfuck Visualizer](http://fatiherikli.github.io/brainfuck-visualizer/) -  Javascript Brainfuck Interpreter + Visualizer. Helps you understanding how code is working.
@@ -303,7 +295,7 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 <a name="utilities"></a>
 ### Utilities (uncategorized)
 
-* [Dataflow kit](https://dataflowkit.org/dfk) - Extract structured data from Web pages.
+* [Dataflow kit](https://dataflowkit.com/dfk) - Extract structured data from Web pages.
 * [E.gg Timer](http://e.ggtimer.com/) - Simple countdown timer application.
 * [QR Code Generator](http://zxing.appspot.com/generator/) - Different types of QR codes like contact info, WiFi, calendar etc supported.
 * [RANDOM.ORG](https://www.random.org/) - Random number generator, dice rolls, password generator, random bitmaps and more stuff based on the concept of randomness.
@@ -330,7 +322,6 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [Superbetize](http://superbetize.com/) - Categorize your grocery list.
 * [isup.me](http://isup.me/) - Check if website is unavailable just for you or everyone else.
 * [Dictation.io](https://dictation.io/) - Online voice dictation software supporting large number of languages.
-* [unfurlr](http://unfurlr.com/) - Check the URL hiding behind the shortened link.
 * [followupthen](https://www.followupthen.com/) - Easiest way to setup email reminders.
 * [lmgtfy](http://lmgtfy.com/) - When your friends are too lazy to use Google on their own.
 * [IFTTT](https://ifttt.com/) `[Account]` - Create a connection between your favourite online services. For example, if one needs to tweet their instagrams as native photos on twitter then IFTTT can come in handy.
