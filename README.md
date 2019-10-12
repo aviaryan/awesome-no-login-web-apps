@@ -260,6 +260,7 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 * [Emoji Search Online](https://www.webpagefx.com/tools/emoji-cheat-sheet/) - Intelligent emoji search engine.
 * [RSS Feed Search](http://ctrlq.org/rss/) - Find RSS feeds from search terms.
 * [IWantMyName](https://iwantmyname.com/) - Helps you search domains across all TLDs.
+* [Similar Sites](http://www.similarsites.com/) - Find websites similar to the one you enter.
 * [Google Fonts](https://www.google.com/webfonts) - Collection of open-source fonts by google.
 * [ChooseMyPC](https://choosemypc.net/) - Search for the best combination of parts considering your requirements for your PC under a given budget.
 * [Flaticon](https://www.flaticon.com/) - Largest search engine for free icons.
@@ -294,6 +295,7 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 <a name="utilities"></a>
 ### Utilities (uncategorized)
 
+* [Dataflow kit](https://dataflowkit.com/dfk) - Extract structured data from Web pages.
 * [E.gg Timer](http://e.ggtimer.com/) - Simple countdown timer application.
 * [QR Code Generator](http://zxing.appspot.com/generator/) - Different types of QR codes like contact info, WiFi, calendar etc supported.
 * [RANDOM.ORG](https://www.random.org/) - Random number generator, dice rolls, password generator, random bitmaps and more stuff based on the concept of randomness.
