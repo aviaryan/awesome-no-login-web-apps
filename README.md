@@ -148,6 +148,9 @@ To save the world from creating user accounts and installing software applicatio
 * [Spark Chess](https://www.sparkchess.com/) - Learn to play chess, play with users around the globe or play with AI depending on your skill level.
 * [Miniclip](https://www.miniclip.com) - Collection of a variety of free games that can be played without giving your email. Flash required.
 * [CrossCode](http://www.cross-code.com/en/start) - A retro-inspired 2D game set in the distant future. Comes with great game mechanics such as combos, puzzles, skill trees, quests, items and more.
+* [agar.io](https://agar.io/) - The goal is to gain as much mass as possible by eating agar and cells smaller than the player's cell while avoiding larger ones which can eat the player's cells.
+* [paper-io](http://paper-io.com) - The objective of the game is to control 100% of the arena. You play as a small, ever moving square with a small starting territory that corresponds to your square's color.
+* [diep.io](https://diep.io/) - Diepio is a game where you play as tanks and shoot things. Shoot shapes to upgrade your tank, then shoot players for lots of points.
 
 
 ### Graphics, Image and Design
