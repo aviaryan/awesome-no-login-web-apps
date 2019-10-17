@@ -330,6 +330,7 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [IFTTT](https://ifttt.com/) `[Account]` - Create a connection between your favourite online services. For example, if one needs to tweet their instagrams as native photos on twitter then IFTTT can come in handy.
 * [AlarmDJ](https://alarmdj.com) - Online Alarm clock, use MP3 files and YouTube videos as alarm.
 * [Edubirdie](https://edubirdie.com/plagiarism-checker) - An online plagiarism checker which gives percentage of similarity comparing our content with online resources.
+* [Morsify](https://morsify.net) - Online Morse code translator.
 
 -----
 
