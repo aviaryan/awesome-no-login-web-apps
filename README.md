@@ -6,7 +6,7 @@
 [![Join the chat at https://gitter.im/aviaryan/awesome-no-login-web-apps](https://badges.gitter.im/aviaryan/awesome-no-login-web-apps.svg)](https://gitter.im/aviaryan/awesome-no-login-web-apps?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Open Source Helpers](https://www.codetriage.com/aviaryan/awesome-no-login-web-apps/badges/users.svg)](https://www.codetriage.com/aviaryan/awesome-no-login-web-apps)
 
-Curated list of awesome web apps that work without requesting you to create an account. 
+Curated list of awesome web apps that work without requesting you to create an account.
 
 #### Inspiration
 
@@ -15,7 +15,7 @@ To save the world from creating user accounts and installing software applicatio
 #### Some pointers
 
 * The web apps linked in this list provide most of their core features without login. Some websites that require registration have also been included in this list because of lack of a proper alternative. They have been tagged with `[Account]` in their listing.
-* Most of the apps mentioned here do provide some kind of a user account feature to save history and progress. But as already stated before, a user account is not necessary to use the main features of these apps. 
+* Most of the apps mentioned here do provide some kind of a user account feature to save history and progress. But as already stated before, a user account is not necessary to use the main features of these apps.
 
 
 ## Contents
@@ -171,6 +171,7 @@ To save the world from creating user accounts and installing software applicatio
 * [LeanLogoMaker](https://leanlogomaker.com) - Generate 100s of logos, pick your favourite and download. Includes covers and profile images for your social media sites.
 * [doka.photo](https://doka.photo/) - Easy to use photo editor. You can crop, rotate, flip, add a filter, resize and annotate.
 
+
 ### Internet Downloaders
 
 * [savefrom.net](http://en.savefrom.net/) - Download from YouTube, Dailymotion, Vimeo and more.
@@ -214,13 +215,12 @@ To save the world from creating user accounts and installing software applicatio
 * [jotti](https://virusscan.jotti.org) - Scan any suspicious file or email attachment for viruses.
 * [scr.im](http://scr.im/) - Share e-mail address freely without worrying about spam.
 * [10 Minute Mail](https://10minutemail.com/10MinuteMail/index.html) - A temporary fully functional email address for 10 minutes (extendible).
-* [BugMeNot](http://bugmenot.com/) - A platform for finding and sharing logins of different websites. It helps you find credentials for signing in into different websites. 
+* [BugMeNot](http://bugmenot.com/) - A platform for finding and sharing logins of different websites. It helps you find credentials for signing in into different websites.
 
 
 ### Programming Editors and IDEs
 
-* [TutorialsPoint Online Tools](https://www.tutorialspoint.com/codingground.htm) - Online terminals for Ipython, Octave, 
-Powershell, Redis and lots others. Also has a good collection of IDEs for programming languages.
+* [TutorialsPoint Online Tools](https://www.tutorialspoint.com/codingground.htm) - Online terminals for Ipython, Octave, Powershell, Redis and lots others. Also has a good collection of IDEs for programming languages.
 * [Ideone](http://ideone.com/) - Online IDE supporting most popular languages.
 * [codepad](http://codepad.org/) - Online compiler which also allows you to create project (you get alloted a subdomain for your project). Note that there's no support for reading from stdin.
 * [Repl.it](https://repl.it/) - Online terminals for all popular programming languages.
@@ -232,6 +232,7 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 * [SQLFiddle](http://sqlfiddle.com/) - Tool for easy online testing and sharing of database problems and their solutions.
 * [Brainfuck Visualizer](http://fatiherikli.github.io/brainfuck-visualizer/) -  Javascript Brainfuck Interpreter + Visualizer. Helps you understanding how code is working.
 * [PythonTutor](http://pythontutor.com/visualize.html#mode=edit) - Visualize Python, Java, JavaScript, TypeScript, Ruby, C, and C++ code execution in your Web browser.
+* [DartPad](https://dartpad.dartlang.org/) -DartPad is an open-source tool that lets you play with the Dart language in any modern browser.
 
 
 ### Programming Tools
@@ -267,13 +268,13 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 * [Google Fonts](https://www.google.com/webfonts) - Collection of open-source fonts by google.
 * [ChooseMyPC](https://choosemypc.net/) - Search for the best combination of parts considering your requirements for your PC under a given budget.
 * [Flaticon](https://www.flaticon.com/) - Largest search engine for free icons.
+* [icon8](https://icons8.com/) - Designers, download the design stuff for free — icons, photos, UX illustrations, and music for your videos.
 
 
 ### Study and Education
 
 * [Calculatoria Calculator](http://www.calculatoria.com/) - Scientific calculator online with progress stored on your system.
-* [WolframAlpha](https://www.wolframalpha.com) - Powerful computational knowledge engine. 
-See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAndGraphics.html) for help on how to plot graphs. 
+* [WolframAlpha](https://www.wolframalpha.com) - Powerful computational knowledge engine. See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAndGraphics.html) for help on how to plot graphs.
 * [Desmos Graphing Calculator](https://www.desmos.com/calculator) - Plot multiple 2D plots on same sheet, see graph intersections.
 * [Geometry sheet by MathIsFun](https://www.mathsisfun.com/geometry/drawing.html) - Simple geometry sheet online if you want to play with figures.
 * [Directed Graph Editor](http://bl.ocks.org/rkirsling/5001347) - Play with directed graphs.
