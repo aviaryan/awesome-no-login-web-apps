@@ -171,6 +171,7 @@ To save the world from creating user accounts and installing software applicatio
 * [LeanLogoMaker](https://leanlogomaker.com) - Generate 100s of logos, pick your favourite and download. Includes covers and profile images for your social media sites.
 * [doka.photo](https://doka.photo/) - Easy to use photo editor. You can crop, rotate, flip, add a filter, resize and annotate.
 
+
 ### Internet Downloaders
 
 * [savefrom.net](http://en.savefrom.net/) - Download from YouTube, Dailymotion, Vimeo and more.
@@ -234,6 +235,7 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 * [PythonTutor](http://pythontutor.com/visualize.html#mode=edit) - Visualize Python, Java, JavaScript, TypeScript, Ruby, C, and C++ code execution in your Web browser.
 * [DartPad](https://dartpad.dartlang.org/) -DartPad is an open-source tool that lets you play with the Dart language in any modern browser.
 
+
 ### Programming Tools
 
 * [CSS Minifier](https://cssminifier.com/) - Minifies CSS by removing whitespace and comments.
@@ -273,8 +275,7 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 ### Study and Education
 
 * [Calculatoria Calculator](http://www.calculatoria.com/) - Scientific calculator online with progress stored on your system.
-* [WolframAlpha](https://www.wolframalpha.com) - Powerful computational knowledge engine.
-See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAndGraphics.html) for help on how to plot graphs.
+* [WolframAlpha](https://www.wolframalpha.com) - Powerful computational knowledge engine. See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAndGraphics.html) for help on how to plot graphs.
 * [Desmos Graphing Calculator](https://www.desmos.com/calculator) - Plot multiple 2D plots on same sheet, see graph intersections.
 * [Geometry sheet by MathIsFun](https://www.mathsisfun.com/geometry/drawing.html) - Simple geometry sheet online if you want to play with figures.
 * [Directed Graph Editor](http://bl.ocks.org/rkirsling/5001347) - Play with directed graphs.
