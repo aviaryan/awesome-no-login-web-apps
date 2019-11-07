@@ -220,8 +220,7 @@ To save the world from creating user accounts and installing software applicatio
 
 ### Programming Editors and IDEs
 
-* [TutorialsPoint Online Tools](https://www.tutorialspoint.com/codingground.htm) - Online terminals for Ipython, Octave,
-Powershell, Redis and lots others. Also has a good collection of IDEs for programming languages.
+* [TutorialsPoint Online Tools](https://www.tutorialspoint.com/codingground.htm) - Online terminals for Ipython, Octave, Powershell, Redis and lots others. Also has a good collection of IDEs for programming languages.
 * [Ideone](http://ideone.com/) - Online IDE supporting most popular languages.
 * [codepad](http://codepad.org/) - Online compiler which also allows you to create project (you get alloted a subdomain for your project). Note that there's no support for reading from stdin.
 * [Repl.it](https://repl.it/) - Online terminals for all popular programming languages.
