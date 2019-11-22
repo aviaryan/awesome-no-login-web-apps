@@ -317,6 +317,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Resume Nation](https://resume-nation.github.io) - An open source resume builder progressive web app which can work offline. It has a few themes to choose from and it can export the resume in PDF form.
 * [Daily Todo](https://dailytodo.org/) -  Simple todo list maker.
 * [Mailinator](https://www.mailinator.com/) - Disposable email service.
+* [MQTTX](https://github.com/emqx/MQTTX) - Cross-platform MQTT desktop client
 
 
 ### Miscellaneous
