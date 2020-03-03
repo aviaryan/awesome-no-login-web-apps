@@ -70,7 +70,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Tlk.io](https://tlk.io/) - Create a room with any URL (eg `tlk.io/some-room`) you wish and chat in groups.
 * [Discord](https://discordapp.com/) - Voice and text conference online. Username is asked at start to create a temp avatar.
 * [Gruveo](https://www.gruveo.com/) - Video conference online. Just like Tlk.io, easy to remember custom URLs.
-* [Appear.in](https://appear.in/) - Video conference online. Create any room like `appear.in/some-room` and starting chatting.
+* [Whereby](https://whereby.com/) - Video conference online. Create any room like `whereby.com/some-room` and starting chatting.
 * [Videolink2](https://videolink2.me/start) - Video conference online. Link generated, share link to invite other participants.
 * [GetARoom.io](https://getaroom.io/) - Video conference online. Has mobile browser support, just click start new call and share the link.
 * [FaxZero](https://faxzero.com/) - Send an online fax for free.
