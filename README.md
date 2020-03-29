@@ -170,6 +170,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Flaming Text](http://flamingtext.com/) - An online logo or name generator/creator, modify your logo according to your wish and get in many formats including PNG and JPEG.
 * [LeanLogoMaker](https://leanlogomaker.com) - Generate 100s of logos, pick your favourite and download. Includes covers and profile images for your social media sites.
 * [doka.photo](https://doka.photo/) - Easy to use photo editor. You can crop, rotate, flip, add a filter, resize and annotate.
+* [Cleanicons](https://cleanicons.xyz) - Download icon fonts as PNG's. 
 
 
 ### Internet Downloaders
