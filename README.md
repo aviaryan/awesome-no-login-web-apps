@@ -281,6 +281,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Calcul](http://www.calcul.com) - Collection of different calculators including matrix, unit converters, mathematical distributions and more.
 * [Word Safety](http://wordsafety.com/) - Check if words are abusive in any languages.
 * [OEIS®](http://oeis.org/) - The On-Line Encyclopedia of Integer Sequences®, helps in cryptography as well as formulating odd looking sequences.
+* [Keep Formula](https://keepformula.com/) - Keep Formula is a simple app to make your calculations easier.
 
 
 <a name="text-tools"></a>
