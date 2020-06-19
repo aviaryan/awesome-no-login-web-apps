@@ -54,7 +54,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Until AM](http://mix.until.am/) - Online music mixer, DJ software.
 * [YOU.DJ](https://you.dj/) - Online music mixer, DJ software sourcing music from SoundCloud.
 * [VideoToolbox](http://videotoolbox.com) `[Account]` - Video editor with all the common editing features. Size limited to 600mb.
-
+* [AI Vocal Remover](https://vocalremover.org) - Separate voice from music by artificial intelligence.
 
 ### Business and Finance
 
