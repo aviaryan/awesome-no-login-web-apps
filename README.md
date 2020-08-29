@@ -111,6 +111,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Draw.io](https://www.draw.io/) - Flowchart and UML drawing tool. Lots of drawing styles available. Exports to PNG and integrates with Google Drive.
 * [AutoDraw](https://www.autodraw.com/) - Draw beautiful sketches, thanks to Google's Machine Learning. Drawings can be downloaded as PNG.
 * [kleki](http://kleki.com/) - MS Paint like interface in browser.
+* [JSPaint](https://jspaint.app) - A replica of 1990's MS Paint in the browser. Open source.
 * [bubbl](https://bubbl.us/) - Create mind-maps, brainstorm ideas in the browser.
 * [ScribbleMaps](http://www.scribblemaps.com/) - Create custom google maps.
 * [Sketchpad](https://sketch.io/sketchpad/) - Create digital artwork and export to popular image formats JPEG, PNG, SVG, and PDF.
