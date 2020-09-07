@@ -112,9 +112,11 @@ To save the world from creating user accounts and installing software applicatio
 * [Draw.io](https://www.draw.io/) - Flowchart and UML drawing tool. Lots of drawing styles available. Exports to PNG and integrates with Google Drive.
 * [AutoDraw](https://www.autodraw.com/) - Draw beautiful sketches, thanks to Google's Machine Learning. Drawings can be downloaded as PNG.
 * [kleki](http://kleki.com/) - MS Paint like interface in browser.
+* [JSPaint](https://jspaint.app) - A replica of 1990's MS Paint in the browser. Open source.
 * [bubbl](https://bubbl.us/) - Create mind-maps, brainstorm ideas in the browser.
 * [ScribbleMaps](http://www.scribblemaps.com/) - Create custom google maps.
 * [Sketchpad](https://sketch.io/sketchpad/) - Create digital artwork and export to popular image formats JPEG, PNG, SVG, and PDF.
+* [Piskel](https://www.piskelapp.com/) - Free online editor for animated sprites & pixel art
 
 
 ### File Converters
@@ -154,6 +156,7 @@ To save the world from creating user accounts and installing software applicatio
 * [diep.io](https://diep.io/) - Diepio is a game where you play as tanks and shoot things. Shoot shapes to upgrade your tank, then shoot players for lots of points.
 * [skribbl.io](https://skribbl.io/) - Several players connect to a lobby and one of them is given a word that they need to draw without saying what it is while the others have to identify it.
 * [surviv.io](https://surviv.io/) - Surviv.io is a 2D battle royale game. You only have one live per game, no respawn.
+* [nitrome](https://www.nitrome.com/) - Collection of free pixelart games. New games doesn't require flash.
 
 
 ### Graphics, Image and Design
@@ -180,8 +183,8 @@ To save the world from creating user accounts and installing software applicatio
 * [savefrom.net](http://en.savefrom.net/) - Download from YouTube, Dailymotion, Vimeo and more.
 * [Youtube Converter & Downloader](https://www.onlinevideoconverter.com/video-converter) - Download YouTube video in any audio/video format.
 * [keepvid](http://keepvid.com/) - YouTube, SoundCloud, Facebook downloader.
+* [dOnline](http://https://doonline.cc/video-downloader-converter.html/) - Download from YouTube, Instagram, Vimeo, SoundCloud, Facebook downloader.
 * [Bitport](https://bitport.io/welcome) `[Account]` - Torrent downloader. Limited to 1 torrent of 1gb per day in free account.
-* [Vubey](https://vubey.yt/) - Download MP3 from YouTube, SoundCloud etc in various audio quality (bitrates).
 * [Seedr](https://www.seedr.cc/) `[Account]` - Cloud based torrent downloader. Limited to multiple torrents of total size of 2gb in free account. Unlimited bandwidth. 500mb increase on contributing a new user.
 * [ZbigZ](https://zbigz.com/) - Torrent downloader that lets you chose the files to download from a torrent. File size limit is 2gb and download is capped to 50kbps in the free version.
 
