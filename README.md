@@ -156,7 +156,6 @@ To save the world from creating user accounts and installing software applicatio
 * [surviv.io](https://surviv.io/) - Surviv.io is a 2D battle royale game. You only have one live per game, no respawn.
 
 
-
 ### Graphics, Image and Design
 
 * [PhotoPea](https://www.photopea.com/) - Image editor that looks like Photoshop and has most of its features.
