@@ -54,6 +54,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Until AM](http://mix.until.am/) - Online music mixer, DJ software.
 * [YOU.DJ](https://you.dj/) - Online music mixer, DJ software sourcing music from SoundCloud.
 * [VideoToolbox](http://videotoolbox.com) `[Account]` - Video editor with all the common editing features. Size limited to 600mb.
+* [Ambient Mixer](https://www.ambient-mixer.com/) - Listen to free audio atmospheres (e.g. Scottish Rain/Slytherin Common Room) or mix your own ambient sound online.
 
 
 ### Business and Finance
@@ -153,6 +154,8 @@ To save the world from creating user accounts and installing software applicatio
 * [agar.io](https://agar.io/) - The goal is to gain as much mass as possible by eating agar and cells smaller than the player's cell while avoiding larger ones which can eat the player's cells.
 * [paper-io](http://paper-io.com) - The objective of the game is to control 100% of the arena. You play as a small, ever moving square with a small starting territory that corresponds to your square's color.
 * [diep.io](https://diep.io/) - Diepio is a game where you play as tanks and shoot things. Shoot shapes to upgrade your tank, then shoot players for lots of points.
+* [skribbl.io](https://skribbl.io/) - Several players connect to a lobby and one of them is given a word that they need to draw without saying what it is while the others have to identify it.
+* [surviv.io](https://surviv.io/) - Surviv.io is a 2D battle royale game. You only have one live per game, no respawn.
 * [nitrome](https://www.nitrome.com/) - Collection of free pixelart games. New games doesn't require flash.
 
 
@@ -284,6 +287,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Calcul](http://www.calcul.com) - Collection of different calculators including matrix, unit converters, mathematical distributions and more.
 * [Word Safety](http://wordsafety.com/) - Check if words are abusive in any languages.
 * [OEIS®](http://oeis.org/) - The On-Line Encyclopedia of Integer Sequences®, helps in cryptography as well as formulating odd looking sequences.
+* [Directed Grap Editor (CS Academy)](https://csacademy.com/app/graph_editor/) - Draw directed graph systems with and without edge values and physics.
 
 
 <a name="text-tools"></a>
