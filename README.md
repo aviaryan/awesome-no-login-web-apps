@@ -152,6 +152,7 @@ To save the world from creating user accounts and installing software applicatio
 * [agar.io](https://agar.io/) - The goal is to gain as much mass as possible by eating agar and cells smaller than the player's cell while avoiding larger ones which can eat the player's cells.
 * [paper-io](http://paper-io.com) - The objective of the game is to control 100% of the arena. You play as a small, ever moving square with a small starting territory that corresponds to your square's color.
 * [diep.io](https://diep.io/) - Diepio is a game where you play as tanks and shoot things. Shoot shapes to upgrade your tank, then shoot players for lots of points.
+* [nitrome](https://www.nitrome.com/) - Collection of free pixelart games. New games doesn't require flash.
 
 
 ### Graphics, Image and Design
