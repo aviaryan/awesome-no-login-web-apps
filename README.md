@@ -54,6 +54,8 @@ To save the world from creating user accounts and installing software applicatio
 * [Until AM](http://mix.until.am/) - Online music mixer, DJ software.
 * [YOU.DJ](https://you.dj/) - Online music mixer, DJ software sourcing music from SoundCloud.
 * [VideoToolbox](http://videotoolbox.com) `[Account]` - Video editor with all the common editing features. Size limited to 600mb.
+* [AI Vocal Remover](https://vocalremover.org) - Separate voice from music by artificial intelligence.
+* [Ambient Mixer](https://www.ambient-mixer.com/) - Listen to free audio atmospheres (e.g. Scottish Rain/Slytherin Common Room) or mix your own ambient sound online.
 
 
 ### Business and Finance
@@ -74,6 +76,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Videolink2](https://videolink2.me/start) - Video conference online. Link generated, share link to invite other participants.
 * [GetARoom.io](https://getaroom.io/) - Video conference online. Has mobile browser support, just click start new call and share the link.
 * [FaxZero](https://faxzero.com/) - Send an online fax for free.
+* [A2fax](https://www.a2fax.com/) - Send free faxes online. No ads on cover pages. Add your own logo to cover page.
 
 
 ### Document Editors
@@ -111,9 +114,11 @@ To save the world from creating user accounts and installing software applicatio
 * [Draw.io](https://www.draw.io/) - Flowchart and UML drawing tool. Lots of drawing styles available. Exports to PNG and integrates with Google Drive.
 * [AutoDraw](https://www.autodraw.com/) - Draw beautiful sketches, thanks to Google's Machine Learning. Drawings can be downloaded as PNG.
 * [kleki](http://kleki.com/) - MS Paint like interface in browser.
+* [JSPaint](https://jspaint.app) - A replica of 1990's MS Paint in the browser. Open source.
 * [bubbl](https://bubbl.us/) - Create mind-maps, brainstorm ideas in the browser.
 * [ScribbleMaps](http://www.scribblemaps.com/) - Create custom google maps.
 * [Sketchpad](https://sketch.io/sketchpad/) - Create digital artwork and export to popular image formats JPEG, PNG, SVG, and PDF.
+* [Piskel](https://www.piskelapp.com/) - Free online editor for animated sprites & pixel art
 
 
 ### File Converters
@@ -151,6 +156,9 @@ To save the world from creating user accounts and installing software applicatio
 * [agar.io](https://agar.io/) - The goal is to gain as much mass as possible by eating agar and cells smaller than the player's cell while avoiding larger ones which can eat the player's cells.
 * [paper-io](http://paper-io.com) - The objective of the game is to control 100% of the arena. You play as a small, ever moving square with a small starting territory that corresponds to your square's color.
 * [diep.io](https://diep.io/) - Diepio is a game where you play as tanks and shoot things. Shoot shapes to upgrade your tank, then shoot players for lots of points.
+* [skribbl.io](https://skribbl.io/) - Several players connect to a lobby and one of them is given a word that they need to draw without saying what it is while the others have to identify it.
+* [surviv.io](https://surviv.io/) - Surviv.io is a 2D battle royale game. You only have one live per game, no respawn.
+* [nitrome](https://www.nitrome.com/) - Collection of free pixelart games. New games doesn't require flash.
 
 
 ### Graphics, Image and Design
@@ -170,6 +178,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Flaming Text](http://flamingtext.com/) - An online logo or name generator/creator, modify your logo according to your wish and get in many formats including PNG and JPEG.
 * [LeanLogoMaker](https://leanlogomaker.com) - Generate 100s of logos, pick your favourite and download. Includes covers and profile images for your social media sites.
 * [doka.photo](https://doka.photo/) - Easy to use photo editor. You can crop, rotate, flip, add a filter, resize and annotate.
+* [CleanIcons](https://cleanicons.xyz) - Download Font Awesome icon fonts as PNG's.
 
 
 ### Internet Downloaders
@@ -177,7 +186,7 @@ To save the world from creating user accounts and installing software applicatio
 * [savefrom.net](http://en.savefrom.net/) - Download from YouTube, Dailymotion, Vimeo and more.
 * [Youtube Converter & Downloader](https://www.onlinevideoconverter.com/video-converter) - Download YouTube video in any audio/video format.
 * [keepvid](http://keepvid.com/) - YouTube, SoundCloud, Facebook downloader.
-* [dOnline](http://https://doonline.cc/video-downloader-converter.html) - Download from YouTube, Instagram, Vimeo, SoundCloud, Facebook downloader.
+* [dOnline](http://https://doonline.cc/video-downloader-converter.html) - Download from YouTube, Instagram, Vimeo, SoundCloud, Facebook.
 * [Bitport](https://bitport.io/welcome) `[Account]` - Torrent downloader. Limited to 1 torrent of 1gb per day in free account.
 * [Seedr](https://www.seedr.cc/) `[Account]` - Cloud based torrent downloader. Limited to multiple torrents of total size of 2gb in free account. Unlimited bandwidth. 500mb increase on contributing a new user.
 * [ZbigZ](https://zbigz.com/) - Torrent downloader that lets you chose the files to download from a torrent. File size limit is 2gb and download is capped to 50kbps in the free version.
@@ -206,6 +215,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Notepad](http://notepad.js.org/) - Offline capable Notepad PWA.
 * [ProtectedText](https://www.protectedtext.com/) - Encrypted notes without ads, sessions, or cookies.
 * [Taskade](https://taskade.com/) - Collaborative notes, task lists, and outlines. Sign up is optional.
+* [WriteXO](https://writexo.com/) - Online Notepad with rich-text support, password protection and custom URLs.
 
 
 ### Privacy, Security and Cryptography
@@ -281,6 +291,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Calcul](http://www.calcul.com) - Collection of different calculators including matrix, unit converters, mathematical distributions and more.
 * [Word Safety](http://wordsafety.com/) - Check if words are abusive in any languages.
 * [OEIS®](http://oeis.org/) - The On-Line Encyclopedia of Integer Sequences®, helps in cryptography as well as formulating odd looking sequences.
+* [Directed Grap Editor (CS Academy)](https://csacademy.com/app/graph_editor/) - Draw directed graph systems with and without edge values and physics.
 
 
 <a name="text-tools"></a>
@@ -317,6 +328,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Resume Nation](https://resume-nation.github.io) - An open source resume builder progressive web app which can work offline. It has a few themes to choose from and it can export the resume in PDF form.
 * [Daily Todo](https://dailytodo.org/) -  Simple todo list maker.
 * [Mailinator](https://www.mailinator.com/) - Disposable email service.
+* [Randommer](https://randommer.io/) - Random data generator and validator.
 
 
 ### Miscellaneous
