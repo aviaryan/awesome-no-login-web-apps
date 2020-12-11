@@ -345,6 +345,7 @@ To save the world from creating user accounts and installing software applicatio
 * [AlarmDJ](https://alarmdj.com) - Online Alarm clock, use MP3 files and YouTube videos as alarm.
 * [Edubirdie](https://edubirdie.com/plagiarism-checker) - An online plagiarism checker which gives percentage of similarity comparing our content with online resources.
 * [Morsify](https://morsify.net) - Online Morse code translator.
+* [Zero Data App](https://0data.app) - Apps that store data in the browser or user-determined storage.
 
 -----
 
