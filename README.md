@@ -70,7 +70,6 @@ To save the world from creating user accounts and installing software applicatio
 ### Communication
 
 * [Tlk.io](https://tlk.io/) - Create a room with any URL (eg `tlk.io/some-room`) you wish and chat in groups.
-* [GoTeam](https://goteam.video/) - Video meeting rooms. Create any room like `goteam.video/some-room` . Username is asked after room creation.
 * [Discord](https://discordapp.com/) - Voice and text conference online. Username is asked at start to create a temp avatar.
 * [Gruveo](https://www.gruveo.com/) - Video conference online. Just like Tlk.io, easy to remember custom URLs.
 * [Whereby](https://whereby.com/) - Video conference online. Create any room like `whereby.com/some-room` and starting chatting.
@@ -78,6 +77,7 @@ To save the world from creating user accounts and installing software applicatio
 * [GetARoom.io](https://getaroom.io/) - Video conference online. Has mobile browser support, just click start new call and share the link.
 * [FaxZero](https://faxzero.com/) - Send an online fax for free.
 * [A2fax](https://www.a2fax.com/) - Send free faxes online. No ads on cover pages. Add your own logo to cover page.
+* [GoTeam](https://goteam.video/) - Video meeting rooms. Create any room like `goteam.video/some-room` . Username is asked after room creation.
 
 
 ### Document Editors
