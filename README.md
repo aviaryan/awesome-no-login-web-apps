@@ -329,6 +329,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Daily Todo](https://dailytodo.org/) -  Simple todo list maker.
 * [Mailinator](https://www.mailinator.com/) - Disposable email service.
 * [Randommer](https://randommer.io/) - Random data generator and validator.
+* [Meditation Timer](https://meditation.koti.cloud/) - A meditation timer to keep track of your sessions.
 
 
 ### Miscellaneous
