@@ -226,7 +226,7 @@ To save the world from creating user accounts and installing software applicatio
 * [scr.im](http://scr.im/) - Share e-mail address freely without worrying about spam.
 * [10 Minute Mail](https://10minutemail.com/10MinuteMail/index.html) - A temporary fully functional email address for 10 minutes (extendible).
 * [BugMeNot](http://bugmenot.com/) - A platform for finding and sharing logins of different websites. It helps you find credentials for signing in into different websites.
-
+* [Cloverleaf](https://cloverleaf.app) - An open source app to replace your password manager without storing your passwords anywhere.
 
 ### Programming Editors and IDEs
 
