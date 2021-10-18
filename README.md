@@ -283,6 +283,7 @@ To save the world from creating user accounts and installing software applicatio
 
 ### Study and Education
 
+* [Coursicle](https://www.coursicle.com/) - Plan your college class schedule and get notified when classes open up using an [account-like system called Loginless](https://www.coursicle.com/blog/loginless-a-new-standard-for-user-identification.php), which doesn't require registration and is persistent and restorable.
 * [Calculatoria Calculator](http://www.calculatoria.com/) - Scientific calculator online with progress stored on your system.
 * [WolframAlpha](https://www.wolframalpha.com) - Powerful computational knowledge engine. See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAndGraphics.html) for help on how to plot graphs.
 * [Desmos Graphing Calculator](https://www.desmos.com/calculator) - Plot multiple 2D plots on same sheet, see graph intersections.
