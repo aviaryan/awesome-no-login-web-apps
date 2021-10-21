@@ -56,6 +56,7 @@ To save the world from creating user accounts and installing software applicatio
 * [VideoToolbox](http://videotoolbox.com) `[Account]` - Video editor with all the common editing features. Size limited to 600mb.
 * [AI Vocal Remover](https://vocalremover.org) - Separate voice from music by artificial intelligence.
 * [Ambient Mixer](https://www.ambient-mixer.com/) - Listen to free audio atmospheres (e.g. Scottish Rain/Slytherin Common Room) or mix your own ambient sound online.
+* [Joybox](https://joybox.rosano.ca) - A pinboard for media.
 
 
 ### Business and Finance
