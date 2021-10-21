@@ -179,6 +179,7 @@ To save the world from creating user accounts and installing software applicatio
 * [LeanLogoMaker](https://leanlogomaker.com) - Generate 100s of logos, pick your favourite and download. Includes covers and profile images for your social media sites.
 * [doka.photo](https://doka.photo/) - Easy to use photo editor. You can crop, rotate, flip, add a filter, resize and annotate.
 * [CleanIcons](https://cleanicons.xyz) - Download Font Awesome icon fonts as PNG's.
+* [Mancer](https://mancer.app) - Design, share, and order T-Shirts from the browser. Designs can be exported as PNGs.
 
 
 ### Internet Downloaders
