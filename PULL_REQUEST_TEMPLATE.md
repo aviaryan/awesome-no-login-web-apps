@@ -2,7 +2,7 @@
 
 **https://gidd.io**
 
-** Its a free gaming platform with several minigames like Yatzy, Crazy Eights, Categories and GeoGuess. Work on all devices and can be played with friends.**
+**Its a free gaming platform with several minigames like Yatzy, Crazy Eights, Categories and GeoGuess. Work on all devices and can be played with friends.**
 
 
 # By submitting this pull request I confirm I've read and complied with the below requirements.
