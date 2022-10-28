@@ -327,6 +327,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Acronym Creator](http://acronymcreator.net/) - Create acronym for organization, algorithm, or anything having at least two words.
 * [TallTweets](http://talltweets.com/) - Send tweets longer than 140 characters.
 * [Postify](http://postfity.com/) `[Account]` - Schedule posts on Facebook, Twitter & LinkedIn.
+* [Gerar QR Code PIX](https://www.geradordepix.com/) - Generate QR Code for PIX, a Brazilian payment method created in 2020.
 * [Krutidev <--> Unicode](http://wrd.bih.nic.in/font_KtoU.htm) - Convert Krutidev to Unicode (Mangal) and vice versa in one click.
 * [Resume Nation](https://resume-nation.github.io) - An open source resume builder progressive web app which can work offline. It has a few themes to choose from and it can export the resume in PDF form.
 * [Daily Todo](https://dailytodo.org/) -  Simple todo list maker.
