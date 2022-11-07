@@ -132,6 +132,7 @@ To save the world from creating user accounts and installing software applicatio
 * [OnlineOCR](https://www.onlineocr.net/) - Convert a scanned PDF into DOC, XLS or TXT.
 * [GifDeck](http://gifdeck.in/) - Convert slides from slideshare to GIF.
 * [favicon-generator](http://www.favicon-generator.org/) - Generate favicons for your web-apps or icons for your Android or iOS apps by uploading your desired image.
+* [freetools.site](https://freetools.site/) - Free online tools. Convert or edit documents, images, audio, video and more.
 
 
 ### File Hosting/Sharing
