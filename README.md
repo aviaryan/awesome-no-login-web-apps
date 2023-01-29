@@ -78,7 +78,7 @@ To save the world from creating user accounts and installing software applicatio
 * [GetARoom.io](https://getaroom.io/) - Video conference online. Has mobile browser support, just click start new call and share the link.
 * [FaxZero](https://faxzero.com/) - Send an online fax for free.
 * [A2fax](https://www.a2fax.com/) - Send free faxes online. No ads on cover pages. Add your own logo to cover page.
-
+* [PhoneGenerator](https://phonegenerator/) - Generate and validate phone numbers.
 
 ### Document Editors
 
