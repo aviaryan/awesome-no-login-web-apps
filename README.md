@@ -349,6 +349,7 @@ To save the world from creating user accounts and installing software applicatio
 ### Miscellaneous
 
 * [rollApp](https://www.rollapp.com/) `[Account]` - Run desktop applications on any device.
+* [3dhouseplanner](https://www.3dhouseplanner.com/) - 3D home design application on the web.
 * [is.gd](https://is.gd/) - Link shortener with custom URLs and open API (no tokens).
 * [Bitly](https://bitly.com/) - Powerful URL shortener with REST API.
 * [Superbetize](http://superbetize.com/) - Categorize your grocery list.
