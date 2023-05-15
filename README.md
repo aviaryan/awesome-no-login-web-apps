@@ -141,7 +141,6 @@ To save the world from creating user accounts and installing software applicatio
 ### File Hosting/Sharing
 
 * [EFShare](http://efshare.com/) - Peer to peer secure file sharing.
-* [Ge.tt](http://ge.tt/) - File hosting service. Max limit 2gb.
 * [RGhost](http://rgho.st/) - File hosting service, Max limit 100mb without login.
 * [ImgSafe](https://imgsafe.org/) - Image hosting service with small direct links.
 * [Clyp](https://clyp.it/) - Audio sharing without limits, rich API.
