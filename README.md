@@ -67,6 +67,7 @@ To save the world from creating user accounts and installing software applicatio
 * [TradingView.com](https://www.tradingview.com/) - Real-time information and market insights from various exchanges. Requires an account for saving settings.
 * [ICOStats.com](https://icostats.com/) - Track &amp; compare performance of ICOs. Displays detailed stats like ROI since ICO, ROI vs ETH since ICO, and charts for comparing the historical performance of ICOs.
 * [InvoiceToMe](https://invoiceto.me/) - Generate professional invoices from various templates with your company details.
+* [Scrumlr.io](https://scrumlr.io) - A web app for conducting collaborative online retrospectives, facilitating team reflection, and fostering continuous improvement in projects and agile workflows.
 
 
 ### Communication
