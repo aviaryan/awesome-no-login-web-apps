@@ -58,6 +58,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Ambient Mixer](https://www.ambient-mixer.com/) - Listen to free audio atmospheres (e.g. Scottish Rain/Slytherin Common Room) or mix your own ambient sound online.
 * [Vileo](https://lukasbach.github.io/vileo/) - Record your screen or webcam and download the video from within your browser.
 * [Youtube Dynamic Playlists](https://youtube.ndo.dev) - Create on-the-fly playlists of YouTube videos.
+* [Slant it](https://slantit.app) - Create catchy 3D product videos from screen recordings in few minutes.
 
 
 ### Business and Finance
@@ -148,7 +149,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Archive.org](https://archive.org/) `[Account]` - Unlimited file hosting of any type, no limits on bandwidth and upload size.
 * [MultCloud](https://www.multcloud.com/home) - Cloud service to manage, move, copy and migrate data between multiple cloud services. Supports all major cloud services. No sign-up required, 2TB cloud storage, download large files directly to the cloud, no size restrictions.
 * [Firefox Send](https://send.firefox.com) - Mozilla's free fileshare program. Up to 1gb without account, 2.5gb with account.
-
+* [Blaze](https://blaze.now.sh) - Open source peer-to-peer file sharing app that works across any device and network.
 
 <a name="games"></a>
 ### Games
