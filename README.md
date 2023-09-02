@@ -223,6 +223,7 @@ To save the world from creating user accounts and installing software applicatio
 * [ProtectedText](https://www.protectedtext.com/) - Encrypted notes without ads, sessions, or cookies.
 * [Taskade](https://taskade.com/) - Collaborative notes, task lists, and outlines. Sign up is optional.
 * [WriteXO](https://writexo.com/) - Online Notepad with rich-text support, password protection and custom URLs.
+* [Notefy](https://notefy.koti.cloud/) - A simple online & offline text editor to organize all your important information and ideas. Supports tags, markdown, code highlighting. 
 
 
 ### Privacy, Security and Cryptography
