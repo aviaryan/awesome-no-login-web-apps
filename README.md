@@ -193,7 +193,7 @@ To save the world from creating user accounts and installing software applicatio
 * [savefrom.net](http://en.savefrom.net/) - Download from YouTube, Dailymotion, Vimeo and more.
 * [Youtube Converter & Downloader](https://www.onlinevideoconverter.com/video-converter) - Download YouTube video in any audio/video format.
 * [keepvid](http://keepvid.com/) - YouTube, SoundCloud, Facebook downloader.
-* [dOnline](http://https://doonline.cc/video-downloader-converter.html/) - Download from YouTube, Instagram, Vimeo, SoundCloud, Facebook downloader.
+* [dOnline](http://https://doonline.cc/video-downloader-converter.html) - Download from YouTube, Instagram, Vimeo, SoundCloud, Facebook.
 * [Bitport](https://bitport.io/welcome) `[Account]` - Torrent downloader. Limited to 1 torrent of 1gb per day in free account.
 * [Seedr](https://www.seedr.cc/) `[Account]` - Cloud based torrent downloader. Limited to multiple torrents of total size of 2gb in free account. Unlimited bandwidth. 500mb increase on contributing a new user.
 * [ZbigZ](https://zbigz.com/) - Torrent downloader that lets you chose the files to download from a torrent. File size limit is 2gb and download is capped to 50kbps in the free version.
