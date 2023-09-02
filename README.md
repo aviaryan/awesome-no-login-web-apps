@@ -223,6 +223,7 @@ To save the world from creating user accounts and installing software applicatio
 * [ProtectedText](https://www.protectedtext.com/) - Encrypted notes without ads, sessions, or cookies.
 * [Taskade](https://taskade.com/) - Collaborative notes, task lists, and outlines. Sign up is optional.
 * [WriteXO](https://writexo.com/) - Online Notepad with rich-text support, password protection and custom URLs.
+* [Hyperdraft](https://hyperdraft.rosano.ca) - Notes app with ```[[wiki]]``` syntax for interlinking. Connect remoteStorage to publish as a website.
 
 
 ### Privacy, Security and Cryptography
