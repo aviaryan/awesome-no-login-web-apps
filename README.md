@@ -343,6 +343,8 @@ To save the world from creating user accounts and installing software applicatio
 * [Randommer](https://randommer.io/) - Random data generator and validator.
 * [Meditation Timer](https://meditation.koti.cloud/) - A meditation timer to keep track of your sessions.
 * [Bucket Listy](https://bucketlisty.com/) - Bucket list manager with unique ideas where you can add your own.
+* [Chairdoro](https://chairdoro.netlify.app/) - Aesthetic pomodoro productivity timer with to-do list and statistics tracking. Also has a virtual cat you can pet and feed.
+
 
 
 ### Miscellaneous
