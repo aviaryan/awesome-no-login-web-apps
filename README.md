@@ -361,6 +361,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Morsify](https://morsify.net) - Online Morse code translator.
 * [Dub](https://dub.sh/) - Open-source link shortener.
 * [3dHousePlanner](https://www.3dhouseplanner.com/) - 3D home design application on the web.
+* [3DMaterialEditor](https://www.3dhouseplanner.com/index2.php) - Professional 3D material editor, allowing users to tailor the visual aspects of 3D models.
 -----
 
 ## License
