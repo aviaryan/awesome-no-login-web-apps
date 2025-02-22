@@ -57,6 +57,7 @@ To save the world from creating user accounts and installing software applicatio
 * [AI Vocal Remover](https://vocalremover.org) - Separate voice from music by artificial intelligence.
 * [Ambient Mixer](https://www.ambient-mixer.com/) - Listen to free audio atmospheres (e.g. Scottish Rain/Slytherin Common Room) or mix your own ambient sound online.
 * [Vileo](https://lukasbach.github.io/vileo/) - Record your screen or webcam and download the video from within your browser.
+* [Youtube Dynamic Playlists](https://youtube.ndo.dev) - Create on-the-fly playlists of YouTube videos.
 
 
 ### Business and Finance
@@ -78,6 +79,7 @@ To save the world from creating user accounts and installing software applicatio
 * [GetARoom.io](https://getaroom.io/) - Video conference online. Has mobile browser support, just click start new call and share the link.
 * [FaxZero](https://faxzero.com/) - Send an online fax for free.
 * [A2fax](https://www.a2fax.com/) - Send free faxes online. No ads on cover pages. Add your own logo to cover page.
+* [GoTeam](https://goteam.video/) - Video meeting rooms. Create any room like `goteam.video/some-room` . Username is asked after room creation.
 
 
 ### Document Editors
@@ -120,6 +122,7 @@ To save the world from creating user accounts and installing software applicatio
 * [ScribbleMaps](http://www.scribblemaps.com/) - Create custom google maps.
 * [Sketchpad](https://sketch.io/sketchpad/) - Create digital artwork and export to popular image formats JPEG, PNG, SVG, and PDF.
 * [Piskel](https://www.piskelapp.com/) - Free online editor for animated sprites & pixel art
+* [PixelCraft](https://pixelcraft.web.app) - A Pixel Art Editor and animation creation tool
 
 
 ### File Converters
@@ -132,12 +135,12 @@ To save the world from creating user accounts and installing software applicatio
 * [OnlineOCR](https://www.onlineocr.net/) - Convert a scanned PDF into DOC, XLS or TXT.
 * [GifDeck](http://gifdeck.in/) - Convert slides from slideshare to GIF.
 * [favicon-generator](http://www.favicon-generator.org/) - Generate favicons for your web-apps or icons for your Android or iOS apps by uploading your desired image.
+* [freetools.site](https://freetools.site/) - Free online tools. Convert or edit documents, images, audio, video and more.
 
 
 ### File Hosting/Sharing
 
 * [EFShare](http://efshare.com/) - Peer to peer secure file sharing.
-* [Ge.tt](http://ge.tt/) - File hosting service. Max limit 2gb.
 * [RGhost](http://rgho.st/) - File hosting service, Max limit 100mb without login.
 * [ImgSafe](https://imgsafe.org/) - Image hosting service with small direct links.
 * [Clyp](https://clyp.it/) - Audio sharing without limits, rich API.
@@ -161,7 +164,7 @@ To save the world from creating user accounts and installing software applicatio
 * [surviv.io](https://surviv.io/) - Surviv.io is a 2D battle royale game. You only have one live per game, no respawn.
 * [nitrome](https://www.nitrome.com/) - Collection of free pixelart games. New games doesn't require flash.
 * [Orion](https://orion.lukasbach.com/) - Board/puzzle game. Cleverly combine tiles from bags to fill up the board.
-
+* [Gidd.io](https://gidd.io/) - Collection of classic games like UNO, Yatzy, Scattergories and GeoGuess.
 
 ### Graphics, Image and Design
 
@@ -182,6 +185,7 @@ To save the world from creating user accounts and installing software applicatio
 * [doka.photo](https://doka.photo/) - Easy to use photo editor. You can crop, rotate, flip, add a filter, resize and annotate.
 * [CleanIcons](https://cleanicons.xyz) - Download Font Awesome icon fonts as PNG's.
 * [Mancer](https://mancer.app) - Design, share, and order T-Shirts from the browser. Designs can be exported as PNGs.
+* [Branition Colors](https://branition.com/colors) - Hand-curated collection of color pallets best fitted for branding.
 
 
 ### Internet Downloaders
@@ -223,6 +227,7 @@ To save the world from creating user accounts and installing software applicatio
 
 ### Privacy, Security and Cryptography
 
+* [Cryptii](https://cryptii.com) - Offers modular conversion, encoding and encryption with a wide variety of ciphers and methods.
 * [Encipher.it](https://encipher.it/) - AES-256 text encryption and decryption.
 * [Encrypted Pastebin - Defuse.ca](https://defuse.ca/pastebin.htm) - Set password on your public pastes.
 * [jotti](https://virusscan.jotti.org) - Scan any suspicious file or email attachment for viruses.
@@ -270,6 +275,7 @@ To save the world from creating user accounts and installing software applicatio
 * [ObjGen](http://www.objgen.com/) - This app helps you generate code (JSON, HTML, etc) in real time as you type in only the key words, types and properties using a text based syntax.
 * [JsonFormatter](https://jsonformatter.curiousconcept.com) - View json in human readable form.
 * [Azimutt](https://azimutt.app) - Explore your database schema easily.
+* [DebugBear Speed Test](https://www.debugbear.com/test/website-speed) - Test site speed and Core Web Vitals.
 
 
 ### Search Engines
@@ -296,6 +302,8 @@ To save the world from creating user accounts and installing software applicatio
 * [Word Safety](http://wordsafety.com/) - Check if words are abusive in any languages.
 * [OEIS®](http://oeis.org/) - The On-Line Encyclopedia of Integer Sequences®, helps in cryptography as well as formulating odd looking sequences.
 * [Directed Grap Editor (CS Academy)](https://csacademy.com/app/graph_editor/) - Draw directed graph systems with and without edge values and physics.
+* [Abc-Map](https://abc-map.fr) - Create geographical maps, pick data from the data store, process data to create visualizations, export or share your maps online. 
+* [KeepFormula](https://keepformula.github.io/) - Keep Formula is a simple app to make your calculations easier.
 
 
 <a name="text-tools"></a>
@@ -318,6 +326,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Dataflow kit](https://dataflowkit.com/dfk) - Extract structured data from Web pages.
 * [E.gg Timer](http://e.ggtimer.com/) - Simple countdown timer application.
 * [QR Code Generator](http://zxing.appspot.com/generator/) - Different types of QR codes like contact info, WiFi, calendar etc supported.
+* [QR Code Scanner and Generator](https://sharesnip.rosano.ca) - Scan via camera and files, download as SVG or PNG, works offline.
 * [RANDOM.ORG](https://www.random.org/) - Random number generator, dice rolls, password generator, random bitmaps and more stuff based on the concept of randomness.
 * [Web-Capture](https://web-capture.net/) - Webapp for converting webpages to popular formats (PDF, JPEG, ZIP) just by submitting link.
 * [PrintWhatYouLike](http://www.printwhatyoulike.com/) - Print any webpage or save it as HTML or PDF.
@@ -334,6 +343,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Mailinator](https://www.mailinator.com/) - Disposable email service.
 * [Randommer](https://randommer.io/) - Random data generator and validator.
 * [Meditation Timer](https://meditation.koti.cloud/) - A meditation timer to keep track of your sessions.
+* [Bucket Listy](https://bucketlisty.com/) - Bucket list manager with unique ideas where you can add your own.
 
 
 ### Miscellaneous
@@ -350,7 +360,8 @@ To save the world from creating user accounts and installing software applicatio
 * [AlarmDJ](https://alarmdj.com) - Online Alarm clock, use MP3 files and YouTube videos as alarm.
 * [Edubirdie](https://edubirdie.com/plagiarism-checker) - An online plagiarism checker which gives percentage of similarity comparing our content with online resources.
 * [Morsify](https://morsify.net) - Online Morse code translator.
-
+* [Dub](https://dub.sh/) - Open-source link shortener.
+* [3dHousePlanner](https://www.3dhouseplanner.com/) - 3D home design application on the web.
 -----
 
 ## License
