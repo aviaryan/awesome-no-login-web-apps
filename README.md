@@ -186,6 +186,7 @@ To save the world from creating user accounts and installing software applicatio
 * [CleanIcons](https://cleanicons.xyz) - Download Font Awesome icon fonts as PNG's.
 * [Mancer](https://mancer.app) - Design, share, and order T-Shirts from the browser. Designs can be exported as PNGs.
 * [Branition Colors](https://branition.com/colors) - Hand-curated collection of color pallets best fitted for branding.
+* [IG Slicer](https://igslicer.site/) - Handy tool for making seamless grids on 2025 updated instagram aspect ratio (Uses overlap cropping technique for ratio convertion)
 
 
 ### Internet Downloaders
