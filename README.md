@@ -288,7 +288,7 @@ To save the world from creating user accounts and installing software applicatio
 * [ChooseMyPC](https://choosemypc.net/) - Search for the best combination of parts considering your requirements for your PC under a given budget.
 * [Flaticon](https://www.flaticon.com/) - Largest search engine for free icons.
 * [icon8](https://icons8.com/) - Designers, download the design stuff for free — icons, photos, UX illustrations, and music for your videos.
-
+* [Internal Link Analysis Tool](https://theseocorner.com/internal-link-analysis-tool) - The application allows you to visualise the internal linking structure of your website.
 
 ### Study and Education
 
