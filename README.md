@@ -51,6 +51,7 @@ To save the world from creating user accounts and installing software applicatio
 * [MP3 Cut](http://mp3cut.net/) - Online audio cutter.
 * [TwistedWeb Online](https://twistedwave.com/online/) - Powerful audio editor. Files not saved online.
 * [Filelab Audio Editor](http://www.avs4you.com) - Audio editor with basic features like trim, merge, cut audio.
+* [Jukebox](https://www.jukeboxhq.com) - Turn your phone into a jukebox. Open source alternative to Spotify's Collaborative Playlists
 * [Until AM](http://mix.until.am/) - Online music mixer, DJ software.
 * [YOU.DJ](https://you.dj/) - Online music mixer, DJ software sourcing music from SoundCloud.
 * [VideoToolbox](http://videotoolbox.com) `[Account]` - Video editor with all the common editing features. Size limited to 600mb.
