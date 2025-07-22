@@ -219,7 +219,8 @@ To save the world from creating user accounts and installing software applicatio
 
 * [aNotepad](https://anotepad.com/) - Saves your notes without a user account using cookies.
 * [shrib](https://shrib.com/) - Save note to a custom URL and edit it later.
-* [Notepad](http://notepad.js.org/) - Offline capable Notepad PWA.
+* [Notepad](https://notepad.js.org/) - Offline capable Notepad PWA.
+* [Online Notepad](https://onlinenotep.ad) - Notepad that saves your text instantly, with no login required.
 * [ProtectedText](https://www.protectedtext.com/) - Encrypted notes without ads, sessions, or cookies.
 * [Taskade](https://taskade.com/) - Collaborative notes, task lists, and outlines. Sign up is optional.
 * [WriteXO](https://writexo.com/) - Online Notepad with rich-text support, password protection and custom URLs.
