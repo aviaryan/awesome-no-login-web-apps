@@ -98,6 +98,8 @@ To save the world from creating user accounts and installing software applicatio
 * [Markdown Live Preview](http://markdownlivepreview.com/) - Instant Markdown preview.
 * [Markdownify](http://www.amitmerchant.com/markdownify-web/) - Minimal Markdown editor.
 * [StackEdit.io](https://stackedit.io/) - Rich in-browser markdown editor that works offline.
+* [Markdown Viewer](https://markdownviewer.online/) - Free online tool to view and preview Markdown files instantly.
+
 
 #### <a name="doc-eds-others"></a> Others
 
@@ -105,6 +107,8 @@ To save the world from creating user accounts and installing software applicatio
 * [PdfEscape](https://www.pdfescape.com/) - Edit or create PDFs in browser itself.
 * [Browserpad](http://browserpad.org/) - A server-less plain text editor in the browser. Allows you to open and save plain text files.
 * [WriteURL](http://www.writeurl.com/) - A collaborative real-time online text editor.
+* [6 Kalimas](https://6kalimas.com/) - Online tool to Learn all six Kalimas of Islam with translation and audio.
+
 
 
 <a name="drawing"></a>
