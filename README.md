@@ -67,6 +67,8 @@ To save the world from creating user accounts and installing software applicatio
 * [TradingView.com](https://www.tradingview.com/) - Real-time information and market insights from various exchanges. Requires an account for saving settings.
 * [ICOStats.com](https://icostats.com/) - Track &amp; compare performance of ICOs. Displays detailed stats like ROI since ICO, ROI vs ETH since ICO, and charts for comparing the historical performance of ICOs.
 * [InvoiceToMe](https://invoiceto.me/) - Generate professional invoices from various templates with your company details.
+* [MyInvoices](https://myinvoices.online) - Manage invoices for small business in your browser. Sync to your private cloud.
+* [Expensinator](https://expensinator.com) - Expense tracking webapp with beautiful UI and no login to be used.
 
 
 ### Communication
@@ -343,6 +345,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Randommer](https://randommer.io/) - Random data generator and validator.
 * [Meditation Timer](https://meditation.koti.cloud/) - A meditation timer to keep track of your sessions.
 * [Bucket Listy](https://bucketlisty.com/) - Bucket list manager with unique ideas where you can add your own.
+* [Resumio](https://resumio.xyz) - Completely Free Resume creator using jsonresume schema for storage.
 
 
 ### Miscellaneous
