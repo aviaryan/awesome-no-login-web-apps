@@ -303,6 +303,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Directed Grap Editor (CS Academy)](https://csacademy.com/app/graph_editor/) - Draw directed graph systems with and without edge values and physics.
 * [Abc-Map](https://abc-map.fr) - Create geographical maps, pick data from the data store, process data to create visualizations, export or share your maps online. 
 * [KeepFormula](https://keepformula.github.io/) - Keep Formula is a simple app to make your calculations easier.
+* [meskeIA](https://meskeia.com) - Collection of 86 free educational web apps in Spanish covering math, physics, chemistry, languages, finance, health, and productivity tools. No registration required.
 
 
 <a name="text-tools"></a>
