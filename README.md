@@ -291,7 +291,7 @@ To save the world from creating user accounts and installing software applicatio
 
 
 ### Study and Education
-
+* [Calcmatic](https://calcmatic.app) - Free online calculators for ecommerce profit, payment fees, shipping costs, and personal finance.
 * [Calculatoria Calculator](http://www.calculatoria.com/) - Scientific calculator online with progress stored on your system.
 * [WolframAlpha](https://www.wolframalpha.com) - Powerful computational knowledge engine. See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAndGraphics.html) for help on how to plot graphs.
 * [Desmos Graphing Calculator](https://www.desmos.com/calculator) - Plot multiple 2D plots on same sheet, see graph intersections.
