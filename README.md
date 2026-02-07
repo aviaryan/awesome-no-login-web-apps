@@ -361,6 +361,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Morsify](https://morsify.net) - Online Morse code translator.
 * [Dub](https://dub.sh/) - Open-source link shortener.
 * [3dHousePlanner](https://www.3dhouseplanner.com/) - 3D home design application on the web.
+- [BlitzTools](https://blitztools.app) - 66+ free file tools (PDF merge/split/compress, image resize/convert, AI background removal). No login, no upload.
 -----
 
 ## License
