@@ -67,6 +67,8 @@ To save the world from creating user accounts and installing software applicatio
 * [TradingView.com](https://www.tradingview.com/) - Real-time information and market insights from various exchanges. Requires an account for saving settings.
 * [ICOStats.com](https://icostats.com/) - Track &amp; compare performance of ICOs. Displays detailed stats like ROI since ICO, ROI vs ETH since ICO, and charts for comparing the historical performance of ICOs.
 * [InvoiceToMe](https://invoiceto.me/) - Generate professional invoices from various templates with your company details.
+* [Freelance Rate Calculator (Cobalt Studio)](https://techchenko.github.io/cobaltstudio-products/tools/rate-calculator/) - Calculate hourly + project rates based on income goals, expenses, and billable hours.
+* [Business Name Generator (Cobalt Studio)](https://techchenko.github.io/cobaltstudio-products/tools/business-name-generator/) - Generate brandable business name ideas from keywords + industry.
 
 
 ### Communication
