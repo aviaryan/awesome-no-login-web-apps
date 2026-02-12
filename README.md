@@ -265,6 +265,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Regulex](https://jex.im/regulex/) - JavaScript regular expression visualizer.
 * [GTmetrix](https://gtmetrix.com/) - Analyze your site’s speed and make it faster.
 * [BuildWith](https://builtwith.com/) - Find the technology stack to know everything about a website.
+* [Shopify Theme Detector](https://podifai.com/tools/shopify-theme-detector/) - Detect what Shopify theme any online store is using. Supports batch URLs. Completely free.
 * [WooRank](https://www.woorank.com/) - SEO Audit tool, provides website review with global and local rank in terms of traffic generated.
 * [CSS Typeset](http://csstypeset.com/) - Visual typeset editor. Play around with font-face, word-spacing and other text attributes and download the corresponding CSS.
 * [pForm](http://www.phpform.org/) - Create HTML forms through a simple WYSIWYG GUI and download the corresponding code.
