@@ -89,6 +89,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Papeeria](https://papeeria.com/) - Latex preview with an option for downloading as a PDF available without registration.
 * [Overleaf](https://www.overleaf.com/) `[Account]` - Unlimited collaborators and projects, git access in the free account.
 * [Sharelatex](https://www.sharelatex.com) `[Account]` - Latex editor with unlimited private projects. 1 collaborator in free account.
+* [SpicyChai LaTeX](https://latex.spicychai.com/) - Online LaTeX editor and compiler with AI-powered template population and real-time PDF preview. Free anonymous renders available without signup.
 
 #### Markdown
 
