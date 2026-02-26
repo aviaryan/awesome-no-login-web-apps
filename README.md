@@ -165,6 +165,8 @@ To save the world from creating user accounts and installing software applicatio
 * [nitrome](https://www.nitrome.com/) - Collection of free pixelart games. New games doesn't require flash.
 * [Orion](https://orion.lukasbach.com/) - Board/puzzle game. Cleverly combine tiles from bags to fill up the board.
 * [Gidd.io](https://gidd.io/) - Collection of classic games like UNO, Yatzy, Scattergories and GeoGuess.
+* [Aura Points Calculator](https://noahaust2.github.io/strategist-dashboard/tools/aura/) - Find out your aura type and score through 12 real-life scenarios with a downloadable share card.
+* [How Chronically Online Are You?](https://noahaust2.github.io/strategist-dashboard/tools/online/) - Personality quiz measuring your internet habits across 5 categories with radar chart visualization and shareable results.
 
 ### Graphics, Image and Design
 
@@ -263,7 +265,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Website Speed Test | Pingdom](https://tools.pingdom.com/) - Feature-rich website tester.
 * [Google Structured Data Testing Tool](https://search.google.com/structured-data/testing-tool) - Test a webpage for structured data and SEO.
 * [Regulex](https://jex.im/regulex/) - JavaScript regular expression visualizer.
-* [GTmetrix](https://gtmetrix.com/) - Analyze your site’s speed and make it faster.
+* [GTmetrix](https://gtmetrix.com/) - Analyze your site's speed and make it faster.
 * [BuildWith](https://builtwith.com/) - Find the technology stack to know everything about a website.
 * [WooRank](https://www.woorank.com/) - SEO Audit tool, provides website review with global and local rank in terms of traffic generated.
 * [CSS Typeset](http://csstypeset.com/) - Visual typeset editor. Play around with font-face, word-spacing and other text attributes and download the corresponding CSS.
