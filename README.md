@@ -167,6 +167,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Gidd.io](https://gidd.io/) - Collection of classic games like UNO, Yatzy, Scattergories and GeoGuess.
 * [Aura Points Calculator](https://noahaust2.github.io/strategist-dashboard/tools/aura/) - Find out your aura type and score through 12 real-life scenarios with a downloadable share card.
 * [How Chronically Online Are You?](https://noahaust2.github.io/strategist-dashboard/tools/online/) - Personality quiz measuring your internet habits across 5 categories with radar chart visualization and shareable results.
+* [Brain Rot Diagnostic Report](https://noahaust2.github.io/strategist-dashboard/tools/brain-rot/) - Take a clinical assessment of your brain rot level across 6 dimensions with a downloadable medical-style diagnostic report.
 
 ### Graphics, Image and Design
 
