@@ -275,6 +275,7 @@ To save the world from creating user accounts and installing software applicatio
 * [ObjGen](http://www.objgen.com/) - This app helps you generate code (JSON, HTML, etc) in real time as you type in only the key words, types and properties using a text based syntax.
 * [JsonFormatter](https://jsonformatter.curiousconcept.com) - View json in human readable form.
 * [DebugBear Speed Test](https://www.debugbear.com/test/website-speed) - Test site speed and Core Web Vitals.
+* [ReleaseRun DevOps Tools](https://releaserun.com/tools/) - 30 free browser-based tools for developers: dependency EOL scanner, vulnerability checker, Dockerfile linter, K8s upgrade simulator, JWT decoder, regex tester, and more. No signup required.
 
 
 ### Search Engines
