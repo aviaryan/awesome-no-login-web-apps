@@ -361,6 +361,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Morsify](https://morsify.net) - Online Morse code translator.
 * [Dub](https://dub.sh/) - Open-source link shortener.
 * [3dHousePlanner](https://www.3dhouseplanner.com/) - 3D home design application on the web.
+* [BeginThings](https://beginthings.com/) - 96+ free browser-based tools for developers & freelancers — JSON formatter, regex tester, base64 encoder/decoder, image compressor, QR code generator, URL shortener, invoice builder & more. No login required.
 -----
 
 ## License
