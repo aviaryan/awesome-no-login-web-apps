@@ -266,6 +266,7 @@ To save the world from creating user accounts and installing software applicatio
 * [GTmetrix](https://gtmetrix.com/) - Analyze your site’s speed and make it faster.
 * [BuildWith](https://builtwith.com/) - Find the technology stack to know everything about a website.
 * [WooRank](https://www.woorank.com/) - SEO Audit tool, provides website review with global and local rank in terms of traffic generated.
+* [GEOScore](https://geoscoreai.com/) - Free AI search visibility scanner. Checks if your site can be found by ChatGPT, Perplexity, Claude & Gemini. Includes AI Robots.txt Generator and AI Crawler Checker.
 * [CSS Typeset](http://csstypeset.com/) - Visual typeset editor. Play around with font-face, word-spacing and other text attributes and download the corresponding CSS.
 * [pForm](http://www.phpform.org/) - Create HTML forms through a simple WYSIWYG GUI and download the corresponding code.
 * [CSS Autoprefixer](https://autoprefixer.github.io/) - A postprocessor for handling vendor prefixes in CSS. Just paste the regular CSS and get the vendor prefix handled CSS instantly.
