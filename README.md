@@ -67,6 +67,7 @@ To save the world from creating user accounts and installing software applicatio
 * [TradingView.com](https://www.tradingview.com/) - Real-time information and market insights from various exchanges. Requires an account for saving settings.
 * [ICOStats.com](https://icostats.com/) - Track &amp; compare performance of ICOs. Displays detailed stats like ROI since ICO, ROI vs ETH since ICO, and charts for comparing the historical performance of ICOs.
 * [InvoiceToMe](https://invoiceto.me/) - Generate professional invoices from various templates with your company details.
+* [ZapInvoice](https://zapinvoice.web.app) - Free invoice generator with PDF export, multi-currency, and client management. No login required.
 
 
 ### Communication
@@ -275,6 +276,7 @@ To save the world from creating user accounts and installing software applicatio
 * [ObjGen](http://www.objgen.com/) - This app helps you generate code (JSON, HTML, etc) in real time as you type in only the key words, types and properties using a text based syntax.
 * [JsonFormatter](https://jsonformatter.curiousconcept.com) - View json in human readable form.
 * [DebugBear Speed Test](https://www.debugbear.com/test/website-speed) - Test site speed and Core Web Vitals.
+* [ZapTools](https://zaptools.web.app) - 114+ free browser-based developer tools including JSON formatter, regex tester, CSS generators, hash generators, and more. No login required for any tool.
 
 
 ### Search Engines
