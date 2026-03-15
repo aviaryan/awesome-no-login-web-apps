@@ -60,6 +60,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Youtube Dynamic Playlists](https://youtube.ndo.dev) - Create on-the-fly playlists of YouTube videos.
 
 
+* [Global Free TV](https://www.globalfreetv.com/) - Stream 5,000+ live TV channels from 100+ countries directly in your browser. No signup, no app download needed.
 ### Business and Finance
 
 * [ShapeShift.io](https://shapeshift.io) - Instant cryptocurrency conversion.
