@@ -136,6 +136,7 @@ To save the world from creating user accounts and installing software applicatio
 * [GifDeck](http://gifdeck.in/) - Convert slides from slideshare to GIF.
 * [favicon-generator](http://www.favicon-generator.org/) - Generate favicons for your web-apps or icons for your Android or iOS apps by uploading your desired image.
 * [freetools.site](https://freetools.site/) - Free online tools. Convert or edit documents, images, audio, video and more.
+* [PDFGem](https://pdfgem.io/) - Merge, split, compress, OCR, sign, and convert PDF files. All processing runs client-side via WebAssembly; files never leave the browser.
 
 
 ### File Hosting/Sharing
@@ -185,6 +186,7 @@ To save the world from creating user accounts and installing software applicatio
 * [doka.photo](https://doka.photo/) - Easy to use photo editor. You can crop, rotate, flip, add a filter, resize and annotate.
 * [CleanIcons](https://cleanicons.xyz) - Download Font Awesome icon fonts as PNG's.
 * [Mancer](https://mancer.app) - Design, share, and order T-Shirts from the browser. Designs can be exported as PNGs.
+* [Vizua](https://vizua.io/) - Compress, resize, convert (WebP, PNG, JPEG, AVIF), remove background, and batch-edit images. All processing runs client-side; no files uploaded.
 * [Branition Colors](https://branition.com/colors) - Hand-curated collection of color pallets best fitted for branding.
 
 
