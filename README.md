@@ -275,6 +275,7 @@ To save the world from creating user accounts and installing software applicatio
 * [ObjGen](http://www.objgen.com/) - This app helps you generate code (JSON, HTML, etc) in real time as you type in only the key words, types and properties using a text based syntax.
 * [JsonFormatter](https://jsonformatter.curiousconcept.com) - View json in human readable form.
 * [DebugBear Speed Test](https://www.debugbear.com/test/website-speed) - Test site speed and Core Web Vitals.
+* [ToolPipe](https://toolpipe.dev) - 238+ free developer utility APIs including JSON formatting, QR codes, hashing, UUID generation, DNS lookup, WHOIS, regex testing, code review, SEO analysis, and more. REST API with CORS support.
 
 
 ### Search Engines
