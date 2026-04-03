@@ -275,6 +275,7 @@ To save the world from creating user accounts and installing software applicatio
 * [ObjGen](http://www.objgen.com/) - This app helps you generate code (JSON, HTML, etc) in real time as you type in only the key words, types and properties using a text based syntax.
 * [JsonFormatter](https://jsonformatter.curiousconcept.com) - View json in human readable form.
 * [DebugBear Speed Test](https://www.debugbear.com/test/website-speed) - Test site speed and Core Web Vitals.
+* [DevToolBox](https://usedevtools.com/) - Suite of 75+ developer utilities (encoding/decoding, JSON/data conversion, hash generation, CSS tools, regex tester, QR codes, network tools) with complete local browser processing and zero server-side data transmission. Bilingual Japanese/English. Open source.
 
 
 ### Search Engines
