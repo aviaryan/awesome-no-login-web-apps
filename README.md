@@ -8,6 +8,7 @@
 
 Curated list of awesome web apps that work without requesting you to create an account.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for web application development orchestration, automated workflow management, and multi-agent coordination. MIT licensed.
 #### Inspiration
 
 To save the world from creating user accounts and installing software applications for every damn thing.
