@@ -103,6 +103,7 @@ To save the world from creating user accounts and installing software applicatio
 
 * [EtherCalc](https://ethercalc.net/) - Online spreadsheet editor, exports to Excel.
 * [PdfEscape](https://www.pdfescape.com/) - Edit or create PDFs in browser itself.
+* [ToolNest PDF Tools](https://toolnest.dsremo.com/category/pdf) - Merge, split, compress, convert, sign, watermark PDFs and 25+ more PDF tools. No signup needed.
 * [Browserpad](http://browserpad.org/) - A server-less plain text editor in the browser. Allows you to open and save plain text files.
 * [WriteURL](http://www.writeurl.com/) - A collaborative real-time online text editor.
 
@@ -136,6 +137,7 @@ To save the world from creating user accounts and installing software applicatio
 * [GifDeck](http://gifdeck.in/) - Convert slides from slideshare to GIF.
 * [favicon-generator](http://www.favicon-generator.org/) - Generate favicons for your web-apps or icons for your Android or iOS apps by uploading your desired image.
 * [freetools.site](https://freetools.site/) - Free online tools. Convert or edit documents, images, audio, video and more.
+* [ToolNest Converters](https://toolnest.dsremo.com/category/converter) - 30+ file converters including CSV to JSON, Markdown to PDF, MP4 to MP3, and unit converters.
 
 
 ### File Hosting/Sharing
@@ -317,6 +319,7 @@ To save the world from creating user accounts and installing software applicatio
 * [DiffNow](https://www.diffnow.com/) - Advanced, online and free File Difference checking, with options like Upload file, compare files by their links or Text Input.
 * [Write.as](https://write.as/) - Cross-platform writing and publishing tool that supports Markdown and editing / deleting past posts.
 * [Emojify](https://madelinemiller.dev/apps/emojify/) - A tool to spice up text, lyrics, or poems by adding emojis.
+* [ToolNest Text Tools](https://toolnest.dsremo.com/category/text) - 58 text tools including word counter, case converter, morse code translator, find and replace, and more.
 
 
 <a name="utilities"></a>
@@ -342,6 +345,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Mailinator](https://www.mailinator.com/) - Disposable email service.
 * [Randommer](https://randommer.io/) - Random data generator and validator.
 * [Meditation Timer](https://meditation.koti.cloud/) - A meditation timer to keep track of your sessions.
+* [ToolNest](https://toolnest.dsremo.com) - 696+ free online tools across 28 categories — PDF, image, AI, calculators, developer tools, party games, and more. No login required.
 * [Bucket Listy](https://bucketlisty.com/) - Bucket list manager with unique ideas where you can add your own.
 
 
