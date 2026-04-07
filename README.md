@@ -275,6 +275,9 @@ To save the world from creating user accounts and installing software applicatio
 * [ObjGen](http://www.objgen.com/) - This app helps you generate code (JSON, HTML, etc) in real time as you type in only the key words, types and properties using a text based syntax.
 * [JsonFormatter](https://jsonformatter.curiousconcept.com) - View json in human readable form.
 * [DebugBear Speed Test](https://www.debugbear.com/test/website-speed) - Test site speed and Core Web Vitals.
+* [EpochPilot](https://epochpilot.com) - Convert Unix timestamps, compare timezones, and parse cron expressions. Client-side.
+* [KappaKit](https://kappakit.com) - Developer toolkit with Base64, JWT decoder, hash generator, UUID, regex tester, and JSON formatter. Client-side.
+* [HeyTensor](https://heytensor.com) - PyTorch tensor shape calculator. Chain layers, debug shape errors, and explore architecture presets. Client-side.
 
 
 ### Search Engines
