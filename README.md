@@ -343,6 +343,8 @@ To save the world from creating user accounts and installing software applicatio
 * [Randommer](https://randommer.io/) - Random data generator and validator.
 * [Meditation Timer](https://meditation.koti.cloud/) - A meditation timer to keep track of your sessions.
 * [Bucket Listy](https://bucketlisty.com/) - Bucket list manager with unique ideas where you can add your own.
+* [Overloop CLI](https://github.com/sortlist/overloop-cli) - AI-powered outbound engine. Source prospects from 450M+ contacts, launch email and LinkedIn campaigns, manage conversations. JSON output.
+* [Signals CLI](https://github.com/sortlist/signals-cli) - Intent signal monitoring. Track LinkedIn engagers, keyword posters, job changers, and funding events. JSON output.
 
 
 ### Miscellaneous
