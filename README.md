@@ -361,6 +361,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Morsify](https://morsify.net) - Online Morse code translator.
 * [Dub](https://dub.sh/) - Open-source link shortener.
 * [3dHousePlanner](https://www.3dhouseplanner.com/) - 3D home design application on the web.
+* [SBTI](https://sbti.support) - A satirical personality test parodying MBTI with 27 hilarious types, 30 questions, and 15-dimension analysis. Supports English, Chinese, Japanese, and Korean.
 -----
 
 ## License
