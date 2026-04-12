@@ -175,6 +175,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Online Logo Maker](https://www.onlinelogomaker.com/) - Make logos online. Extra user account feature to save creations.
 * [Coolors](https://coolors.co/) - Color palettes generator.
 * [Tiny PNG](https://tinypng.com/) - Smart PNG and JPEG compression.
+* [SammaPix](https://www.sammapix.com/) - 27 browser-based image tools: compress, resize, convert (HEIC/WebP/AVIF), remove background, passport photos, AI rename, watermark. All processing runs client-side — images never leave your device.
 * [Realtime Board](https://realtimeboard.com/) `[Account]` - Collaborative blackboard with huge area, screen sharing, video & voice communication.
 * [ezGIF](https://ezgif.com/) - GIF images editor (cropping, scaling, optimizing and more).
 * [Adobe Color CC](https://color.adobe.com/) - Color scheme designer.
