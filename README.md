@@ -288,6 +288,7 @@ To save the world from creating user accounts and installing software applicatio
 * [ChooseMyPC](https://choosemypc.net/) - Search for the best combination of parts considering your requirements for your PC under a given budget.
 * [Flaticon](https://www.flaticon.com/) - Largest search engine for free icons.
 * [icon8](https://icons8.com/) - Designers, download the design stuff for free — icons, photos, UX illustrations, and music for your videos.
+* [AI Dev Jobs](https://aidevboard.com) - Search 7,400+ AI and machine learning jobs with salary data, filter by role, location, and company. Also provides a free REST API.
 
 
 ### Study and Education
