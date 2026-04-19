@@ -165,6 +165,7 @@ To save the world from creating user accounts and installing software applicatio
 * [nitrome](https://www.nitrome.com/) - Collection of free pixelart games. New games doesn't require flash.
 * [Orion](https://orion.lukasbach.com/) - Board/puzzle game. Cleverly combine tiles from bags to fill up the board.
 * [Gidd.io](https://gidd.io/) - Collection of classic games like UNO, Yatzy, Scattergories and GeoGuess.
+* [V5 Games](https://v5games.com) - AI text adventure games and word games playable in the browser.
 
 ### Graphics, Image and Design
 
@@ -186,6 +187,7 @@ To save the world from creating user accounts and installing software applicatio
 * [CleanIcons](https://cleanicons.xyz) - Download Font Awesome icon fonts as PNG's.
 * [Mancer](https://mancer.app) - Design, share, and order T-Shirts from the browser. Designs can be exported as PNGs.
 * [Branition Colors](https://branition.com/colors) - Hand-curated collection of color pallets best fitted for branding.
+* [AI Art Generator](https://ebank.nz) - AI art generation with style presets and upscaling, no login required.
 
 
 ### Internet Downloaders
@@ -251,6 +253,8 @@ To save the world from creating user accounts and installing software applicatio
 * [Brainfuck Visualizer](http://fatiherikli.github.io/brainfuck-visualizer/) -  Javascript Brainfuck Interpreter + Visualizer. Helps you understanding how code is working.
 * [PythonTutor](http://pythontutor.com/visualize.html#mode=edit) - Visualize Python, Java, JavaScript, TypeScript, Ruby, C, and C++ code execution in your Web browser.
 * [DartPad](https://dartpad.dartlang.org/) -DartPad is an open-source tool that lets you play with the Dart language in any modern browser.
+* [WebFiddle](https://webfiddle.net) - In-browser code editor for HTML, CSS, and JavaScript with live preview.
+* [SiteSim](https://sitesim.net) - AI website simulator and generator that builds pages from text prompts.
 
 
 ### Programming Tools
