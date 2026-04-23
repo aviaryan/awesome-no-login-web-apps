@@ -235,6 +235,9 @@ To save the world from creating user accounts and installing software applicatio
 * [10 Minute Mail](https://10minutemail.com/10MinuteMail/index.html) - A temporary fully functional email address for 10 minutes (extendible).
 * [BugMeNot](http://bugmenot.com/) - A platform for finding and sharing logins of different websites. It helps you find credentials for signing in into different websites.
 * [Cloverleaf](https://cloverleaf.app) - An open source app to replace your password manager without storing your passwords anywhere.
+* [SSL Checker](https://allinonetools.net/ssl-checker/) - Check SSL certificate validity, expiry date and issuer instantly. No login required.
+* [DNS Lookup Tool](https://allinonetools.net/dns-lookup-tool/) - Query DNS records (A, MX, CNAME, TXT) for any domain.Free and instant.
+* [IP Address Finder](https://allinonetools.net/domain-to-ip-converter/) - Convert any domain to its IP address instantly.
 
 ### Programming Editors and IDEs
 
@@ -317,6 +320,7 @@ To save the world from creating user accounts and installing software applicatio
 * [DiffNow](https://www.diffnow.com/) - Advanced, online and free File Difference checking, with options like Upload file, compare files by their links or Text Input.
 * [Write.as](https://write.as/) - Cross-platform writing and publishing tool that supports Markdown and editing / deleting past posts.
 * [Emojify](https://madelinemiller.dev/apps/emojify/) - A tool to spice up text, lyrics, or poems by adding emojis.
+* [Word Counter](https://allinonetools.net/word-counter/) - Count words, characters, sentences and reading time.
 
 
 <a name="utilities"></a>
@@ -343,6 +347,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Randommer](https://randommer.io/) - Random data generator and validator.
 * [Meditation Timer](https://meditation.koti.cloud/) - A meditation timer to keep track of your sessions.
 * [Bucket Listy](https://bucketlisty.com/) - Bucket list manager with unique ideas where you can add your own.
+* [QR Code Generator](https://allinonetools.net/qr-code-generator/) - Generate QR codes for URLs, text or contact info.No signup needed.
 
 
 ### Miscellaneous
