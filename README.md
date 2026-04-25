@@ -186,6 +186,7 @@ To save the world from creating user accounts and installing software applicatio
 * [CleanIcons](https://cleanicons.xyz) - Download Font Awesome icon fonts as PNG's.
 * [Mancer](https://mancer.app) - Design, share, and order T-Shirts from the browser. Designs can be exported as PNGs.
 * [Branition Colors](https://branition.com/colors) - Hand-curated collection of color pallets best fitted for branding.
+* [BulkPicTools](https://bulkpictools.com) - A free all-in-one bulk image processing toolkit running entirely locally in the browser, supports image compression, resizing, format conversion, background removal, privacy blur and corner rounding without file uploads or login.
 
 
 ### Internet Downloaders
