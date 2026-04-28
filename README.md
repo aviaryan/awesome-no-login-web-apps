@@ -264,7 +264,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Website Speed Test | Pingdom](https://tools.pingdom.com/) - Feature-rich website tester.
 * [Google Structured Data Testing Tool](https://search.google.com/structured-data/testing-tool) - Test a webpage for structured data and SEO.
 * [Regulex](https://jex.im/regulex/) - JavaScript regular expression visualizer.
-* [GTmetrix](https://gtmetrix.com/) - Analyze your siteâs speed and make it faster.
+* [GTmetrix](https://gtmetrix.com/) - Analyze your site’s speed and make it faster.
 * [BuildWith](https://builtwith.com/) - Find the technology stack to know everything about a website.
 * [WooRank](https://www.woorank.com/) - SEO Audit tool, provides website review with global and local rank in terms of traffic generated.
 * [CSS Typeset](http://csstypeset.com/) - Visual typeset editor. Play around with font-face, word-spacing and other text attributes and download the corresponding CSS.
@@ -288,7 +288,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Google Fonts](https://www.google.com/webfonts) - Collection of open-source fonts by google.
 * [ChooseMyPC](https://choosemypc.net/) - Search for the best combination of parts considering your requirements for your PC under a given budget.
 * [Flaticon](https://www.flaticon.com/) - Largest search engine for free icons.
-* [icon8](https://icons8.com/) - Designers, download the design stuff for free â icons, photos, UX illustrations, and music for your videos.
+* [icon8](https://icons8.com/) - Designers, download the design stuff for free — icons, photos, UX illustrations, and music for your videos.
 
 
 ### Study and Education
@@ -300,7 +300,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Directed Graph Editor](http://bl.ocks.org/rkirsling/5001347) - Play with directed graphs.
 * [Calcul](http://www.calcul.com) - Collection of different calculators including matrix, unit converters, mathematical distributions and more.
 * [Word Safety](http://wordsafety.com/) - Check if words are abusive in any languages.
-* [OEISÂ®](http://oeis.org/) - The On-Line Encyclopedia of Integer SequencesÂ®, helps in cryptography as well as formulating odd looking sequences.
+* [OEIS®](http://oeis.org/) - The On-Line Encyclopedia of Integer Sequences®, helps in cryptography as well as formulating odd looking sequences.
 * [Directed Grap Editor (CS Academy)](https://csacademy.com/app/graph_editor/) - Draw directed graph systems with and without edge values and physics.
 * [Abc-Map](https://abc-map.fr) - Create geographical maps, pick data from the data store, process data to create visualizations, export or share your maps online. 
 * [KeepFormula](https://keepformula.github.io/) - Keep Formula is a simple app to make your calculations easier.
