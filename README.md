@@ -46,6 +46,7 @@ To save the world from creating user accounts and installing software applicatio
 
 
 ### Audio and Video
+- [Remove Audio](https://remove-audio.com) - Free tool to remove audio from any video file, right in your browser. No upload, no sign-up, batch up to 20 files. Powered by WebAssembly and FFmpeg.wasm.
 
 * [bfxr](http://www.bfxr.net/) - Make sound effects for your games.
 * [MP3 Cut](http://mp3cut.net/) - Online audio cutter.
