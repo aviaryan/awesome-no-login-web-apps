@@ -277,6 +277,8 @@ To save the world from creating user accounts and installing software applicatio
 * [DebugBear Speed Test](https://www.debugbear.com/test/website-speed) - Test site speed and Core Web Vitals.
 
 
+* [Free AGENTS.md Generator](https://cleo-ai-ops.github.io/client-intake-autopilot-pack/agents-md-generator/) - Generate a project-specific AGENTS.md file for AI coding agents, including repository context, safe command rules, testing gates, and pull request checklists.
+
 ### Search Engines
 
 * [Iconfinder](https://www.iconfinder.com/) - Download all your favourite icons in one place.
@@ -317,6 +319,7 @@ To save the world from creating user accounts and installing software applicatio
 * [DiffNow](https://www.diffnow.com/) - Advanced, online and free File Difference checking, with options like Upload file, compare files by their links or Text Input.
 * [Write.as](https://write.as/) - Cross-platform writing and publishing tool that supports Markdown and editing / deleting past posts.
 * [Emojify](https://madelinemiller.dev/apps/emojify/) - A tool to spice up text, lyrics, or poems by adding emojis.
+* [Tech Resume Bullet Generator](https://cleo-ai-ops.github.io/client-intake-autopilot-pack/tech-resume-bullet-generator/) - Turn rough tech work into structured resume bullets with action, impact, tools, and measurable outcome fields.
 
 
 <a name="utilities"></a>
