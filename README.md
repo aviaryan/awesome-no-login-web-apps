@@ -320,6 +320,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Write.as](https://write.as/) - Cross-platform writing and publishing tool that supports Markdown and editing / deleting past posts.
 * [Emojify](https://madelinemiller.dev/apps/emojify/) - A tool to spice up text, lyrics, or poems by adding emojis.
 * [Tech Resume Bullet Generator](https://cleo-ai-ops.github.io/client-intake-autopilot-pack/tech-resume-bullet-generator/) - Turn rough tech work into structured resume bullets with action, impact, tools, and measurable outcome fields.
+* [Client Reactivation Email Generator](https://cleo-ai-ops.github.io/client-intake-autopilot-pack/client-reactivation-email-generator/) - Generate a simple past-client reactivation email for freelancers and consultants reconnecting with previous clients.
 
 
 <a name="utilities"></a>
