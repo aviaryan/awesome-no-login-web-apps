@@ -361,6 +361,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Morsify](https://morsify.net) - Online Morse code translator.
 * [Dub](https://dub.sh/) - Open-source link shortener.
 * [3dHousePlanner](https://www.3dhouseplanner.com/) - 3D home design application on the web.
+* [qrbake](https://qrbake.com) - Browser-based QR code generator with visual customization (dot styles, eye shapes, embedded logo). Purpose-built forms for URL, Wi-Fi, vCard, email, SMS, location, and social profiles, plus a CSV-to-ZIP bulk generator and an image reader; codes are generated client-side so encoded data never leaves the browser.
 -----
 
 ## License
