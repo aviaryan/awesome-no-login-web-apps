@@ -20,6 +20,13 @@ To save the world from creating user accounts and installing software applicatio
 
 ## Contents
 
+- [TinyTools — Domain Name Generator](https://tinytools-smoky.vercel.app/domain-generator/) - AI-style brandable domain name generator with real-time RDAP availability checks.
+- [TinyTools — OG Image Generator](https://tinytools-smoky.vercel.app/og-image-generator/) - Generate 1200×630 social card images. Pure browser canvas.
+- [TinyTools — AI Background Remover](https://tinytools-smoky.vercel.app/background-remover/) - Remove image backgrounds locally using BRIA RMBG-1.4 model via WebAssembly.
+- [TinyTools — Favicon Generator](https://tinytools-smoky.vercel.app/favicon-generator/) - Complete favicon set + manifest.json from text/emoji/image. Downloads as ZIP.
+- [TinyTools — Color Palette Generator](https://tinytools-smoky.vercel.app/color-palette/) - Generate analogous, complementary, triadic, monochromatic palettes. Export as CSS, Tailwind, JSON.
+- [TinyTools — SEO Meta Tag Generator](https://tinytools-smoky.vercel.app/seo-meta-generator/) - Build meta tags with live preview of how the page appears in Google, Twitter, Facebook.
+
 * [Audio and Video](#audio-and-video)
 * [Business and Finance](#business-and-finance)
 * [Communication](#communication)
@@ -368,3 +375,4 @@ To save the world from creating user accounts and installing software applicatio
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Avi Aryan](http://aviaryan.in) has waived all copyright and related or neighboring rights to this work.
+
