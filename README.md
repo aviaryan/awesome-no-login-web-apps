@@ -343,6 +343,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Randommer](https://randommer.io/) - Random data generator and validator.
 * [Meditation Timer](https://meditation.koti.cloud/) - A meditation timer to keep track of your sessions.
 * [Bucket Listy](https://bucketlisty.com/) - Bucket list manager with unique ideas where you can add your own.
+* [MoveCheck](https://movecheck.app/) - Browser-based moving checklist generator for US moves with no account required. Checklist data stays in the browser.
 
 
 ### Miscellaneous
