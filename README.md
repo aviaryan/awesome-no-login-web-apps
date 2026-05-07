@@ -361,6 +361,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Morsify](https://morsify.net) - Online Morse code translator.
 * [Dub](https://dub.sh/) - Open-source link shortener.
 * [3dHousePlanner](https://www.3dhouseplanner.com/) - 3D home design application on the web.
+* [nobro.app](https://nobro.app/) - Minimalist offline-first workout program tracker. No accounts, editable JSON program, 11 locales.
 -----
 
 ## License
