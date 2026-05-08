@@ -361,6 +361,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Morsify](https://morsify.net) - Online Morse code translator.
 * [Dub](https://dub.sh/) - Open-source link shortener.
 * [3dHousePlanner](https://www.3dhouseplanner.com/) - 3D home design application on the web.
+* [InstaPV](https://www.instapv.ai/) - Anonymous Instagram viewer for public stories, posts, reels, highlights and recent-followed timelines. No login, no password, no trace.
 -----
 
 ## License
