@@ -197,6 +197,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Bitport](https://bitport.io/welcome) `[Account]` - Torrent downloader. Limited to 1 torrent of 1gb per day in free account.
 * [Seedr](https://www.seedr.cc/) `[Account]` - Cloud based torrent downloader. Limited to multiple torrents of total size of 2gb in free account. Unlimited bandwidth. 500mb increase on contributing a new user.
 * [ZbigZ](https://zbigz.com/) - Torrent downloader that lets you chose the files to download from a torrent. File size limit is 2gb and download is capped to 50kbps in the free version.
+* [Pinterest Downloader](https://wtkpro.site/tools/pinterest-downloader) - Professional, bulk board & pin extraction tool with original resolution support.
 
 
 ### Music, Radio and Podcasts
@@ -255,6 +256,7 @@ To save the world from creating user accounts and installing software applicatio
 
 ### Programming Tools
 
+* [WebToolkit Pro Developer Suite](https://wtkpro.site/) - High-performance suite including JSON Formatter, JS Minifier, UUID v7 Generator, and Base64 utilities.
 * [CSS Minifier](https://cssminifier.com/) - Minifies CSS by removing whitespace and comments.
 * [UglifyJS JavaScript minifier](https://skalman.github.io/UglifyJS-online/) - Minifies and obfuscates JavaScript.
 * [HTML minifier by @kangax](https://kangax.github.io/html-minifier/) - HTML minifier. Minifies inline CSS and JavaScript too.
@@ -322,6 +324,7 @@ To save the world from creating user accounts and installing software applicatio
 <a name="utilities"></a>
 ### Utilities (uncategorized)
 
+* [Redirect & Header Auditor](https://wtkpro.site/tools/redirect-checker) - Technical SEO tool for analyzing complex redirect chains and server response headers.
 * [Dataflow kit](https://dataflowkit.com/dfk) - Extract structured data from Web pages.
 * [E.gg Timer](http://e.ggtimer.com/) - Simple countdown timer application.
 * [QR Code Generator](http://zxing.appspot.com/generator/) - Different types of QR codes like contact info, WiFi, calendar etc supported.
