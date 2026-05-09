@@ -275,7 +275,7 @@ To save the world from creating user accounts and installing software applicatio
 * [ObjGen](http://www.objgen.com/) - This app helps you generate code (JSON, HTML, etc) in real time as you type in only the key words, types and properties using a text based syntax.
 * [JsonFormatter](https://jsonformatter.curiousconcept.com) - View json in human readable form.
 * [DebugBear Speed Test](https://www.debugbear.com/test/website-speed) - Test site speed and Core Web Vitals.
-
+* [WebToolkit Pro](https://wtkpro.site/) - Professional, privacy-first suite of developer utilities including Pinterest downloader, JSON formatter, and SEO auditors.
 
 ### Search Engines
 
