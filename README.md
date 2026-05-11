@@ -275,6 +275,7 @@ To save the world from creating user accounts and installing software applicatio
 * [ObjGen](http://www.objgen.com/) - This app helps you generate code (JSON, HTML, etc) in real time as you type in only the key words, types and properties using a text based syntax.
 * [JsonFormatter](https://jsonformatter.curiousconcept.com) - View json in human readable form.
 * [DebugBear Speed Test](https://www.debugbear.com/test/website-speed) - Test site speed and Core Web Vitals.
+* [onHTML.com](https://onhtml.com/) - Free online HTML/CSS/JS live editor bundled with 60+ built-in developer tools (JSON formatter, regex tester, JWT decoder, color picker, gradient maker, image compressor, base64 encoder). Client-side, no signup.
 
 
 ### Search Engines
