@@ -58,6 +58,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Ambient Mixer](https://www.ambient-mixer.com/) - Listen to free audio atmospheres (e.g. Scottish Rain/Slytherin Common Room) or mix your own ambient sound online.
 * [Vileo](https://lukasbach.github.io/vileo/) - Record your screen or webcam and download the video from within your browser.
 * [Youtube Dynamic Playlists](https://youtube.ndo.dev) - Create on-the-fly playlists of YouTube videos.
+* [Subtitle Converter & Transcript Exporter](https://xueboyang1985.github.io/subtitle-converter/) - Convert SRT, VTT, ASS subtitles to TXT, Markdown, CSV, or JSON. 100% local, no upload.
 
 
 ### Business and Finance
@@ -361,6 +362,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Morsify](https://morsify.net) - Online Morse code translator.
 * [Dub](https://dub.sh/) - Open-source link shortener.
 * [3dHousePlanner](https://www.3dhouseplanner.com/) - 3D home design application on the web.
+* [Kindle Highlights Exporter](https://xueboyang1985.github.io/kindle-exporter/) - Export your Kindle highlights to Markdown, CSV or JSON using My Clippings.txt. 100% local, no upload.
 -----
 
 ## License
