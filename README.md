@@ -343,6 +343,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Randommer](https://randommer.io/) - Random data generator and validator.
 * [Meditation Timer](https://meditation.koti.cloud/) - A meditation timer to keep track of your sessions.
 * [Bucket Listy](https://bucketlisty.com/) - Bucket list manager with unique ideas where you can add your own.
+* [Bulk QR Code Generator for Excel and CSV](https://www.bulkqrcodegenerator.art/) - Generate QR codes or Code 128 barcodes from spreadsheet rows, then export ZIP, PDF, or SVG files; free batches are limited to 100 codes.
 
 
 ### Miscellaneous
