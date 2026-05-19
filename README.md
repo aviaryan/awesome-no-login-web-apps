@@ -185,6 +185,7 @@ To save the world from creating user accounts and installing software applicatio
 * [doka.photo](https://doka.photo/) - Easy to use photo editor. You can crop, rotate, flip, add a filter, resize and annotate.
 * [CleanIcons](https://cleanicons.xyz) - Download Font Awesome icon fonts as PNG's.
 * [Mancer](https://mancer.app) - Design, share, and order T-Shirts from the browser. Designs can be exported as PNGs.
+* [IDPhotoSnap](https://idphotosnap.com) - Free passport and visa photo tool for 100+ countries. Crops to country-specific specs (US, UK, Schengen, India, China). No login, no upload, no watermark — runs entirely in browser via WebAssembly.
 * [Branition Colors](https://branition.com/colors) - Hand-curated collection of color pallets best fitted for branding.
 
 
