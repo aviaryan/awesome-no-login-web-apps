@@ -322,6 +322,7 @@ To save the world from creating user accounts and installing software applicatio
 <a name="utilities"></a>
 ### Utilities (uncategorized)
 
+* [TinyTools](https://tinytools-smoky.vercel.app/) - Collection of free single-purpose browser-based utilities including AI background remover (runs locally in-browser), domain name generator, OG image generator, favicon generator, color palette generator, SEO meta tag generator, AI cost calculator, EU AI Act disclosure generator, and AI robots.txt generator. No signup required.
 * [Dataflow kit](https://dataflowkit.com/dfk) - Extract structured data from Web pages.
 * [E.gg Timer](http://e.ggtimer.com/) - Simple countdown timer application.
 * [QR Code Generator](http://zxing.appspot.com/generator/) - Different types of QR codes like contact info, WiFi, calendar etc supported.
