@@ -255,6 +255,7 @@ To save the world from creating user accounts and installing software applicatio
 
 ### Programming Tools
 
+* [万能工具箱 (Wanneng Toolbox)](https://tyr1105.github.io/) - 19+ free online tools including image editing, PDF processing, invoice generation, QR codes, developer tools (JSON, Base64, encoding), and more. All processing happens client-side in the browser.
 * [CSS Minifier](https://cssminifier.com/) - Minifies CSS by removing whitespace and comments.
 * [UglifyJS JavaScript minifier](https://skalman.github.io/UglifyJS-online/) - Minifies and obfuscates JavaScript.
 * [HTML minifier by @kangax](https://kangax.github.io/html-minifier/) - HTML minifier. Minifies inline CSS and JavaScript too.
