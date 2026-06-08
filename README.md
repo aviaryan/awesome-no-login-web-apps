@@ -148,6 +148,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Archive.org](https://archive.org/) `[Account]` - Unlimited file hosting of any type, no limits on bandwidth and upload size.
 * [MultCloud](https://www.multcloud.com/home) - Cloud service to manage, move, copy and migrate data between multiple cloud services. Supports all major cloud services. No sign-up required, 2TB cloud storage, download large files directly to the cloud, no size restrictions.
 * [Firefox Send](https://send.firefox.com) - Mozilla's free fileshare program. Up to 1gb without account, 2.5gb with account.
+* [Mini-Tools.uk Image Hosting](https://mini-tools.uk/upload) - Upload images without login and copy direct URL, Markdown, HTML or BBCode links; files are limited to 5 MB.
 
 
 <a name="games"></a>
