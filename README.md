@@ -105,6 +105,7 @@ To save the world from creating user accounts and installing software applicatio
 * [PdfEscape](https://www.pdfescape.com/) - Edit or create PDFs in browser itself.
 * [Browserpad](http://browserpad.org/) - A server-less plain text editor in the browser. Allows you to open and save plain text files.
 * [WriteURL](http://www.writeurl.com/) - A collaborative real-time online text editor.
+* [Loft Tools](https://lofttools.com) - Privacy-first suite of browser-based file tools: PDF editor, compare, image, 3D/CAD viewers, and OCR, all running on your device with no upload and no login.
 
 
 <a name="drawing"></a>
