@@ -136,6 +136,7 @@ To save the world from creating user accounts and installing software applicatio
 * [GifDeck](http://gifdeck.in/) - Convert slides from slideshare to GIF.
 * [favicon-generator](http://www.favicon-generator.org/) - Generate favicons for your web-apps or icons for your Android or iOS apps by uploading your desired image.
 * [freetools.site](https://freetools.site/) - Free online tools. Convert or edit documents, images, audio, video and more.
+* [Filuni](https://www.filuni.com/) - 120+ free file tools in the browser: PDF merge/split/compress/convert, image, video and audio converters, and developer utilities. No signup and no upload limits. Most image and text tools run fully client-side; server-processed files are auto-deleted.
 
 
 ### File Hosting/Sharing
