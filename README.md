@@ -323,6 +323,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Client Reactivation Email Generator](https://cleo-ai-ops.github.io/client-intake-autopilot-pack/client-reactivation-email-generator/) - Generate a simple past-client reactivation email for freelancers and consultants reconnecting with previous clients.
 
 * [Scope Creep Cost Calculator](https://cleo-ai-ops.github.io/client-intake-autopilot-pack/scope-creep-cost-calculator/) - Estimate unpaid revision/scope-creep time and generate client boundary language without creating an account.
+* [SaaS Support Reply Generator](https://cleo-ai-ops.github.io/client-intake-autopilot-pack/saas-support-reply-generator/) - Generate calm SaaS support replies for bug reports, billing questions, refunds, feature requests, and angry customers without login.
 
 
 <a name="utilities"></a>
