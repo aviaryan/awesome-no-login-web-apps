@@ -80,6 +80,7 @@ To save the world from creating user accounts and installing software applicatio
 * [FaxZero](https://faxzero.com/) - Send an online fax for free.
 * [A2fax](https://www.a2fax.com/) - Send free faxes online. No ads on cover pages. Add your own logo to cover page.
 * [GoTeam](https://goteam.video/) - Video meeting rooms. Create any room like `goteam.video/some-room` . Username is asked after room creation.
+* [phonecall.app](https://phonecall.app) - Browser-based international calling to landlines and mobiles in 180+ countries. No app or signup needed to try.
 
 
 ### Document Editors
