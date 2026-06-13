@@ -379,3 +379,5 @@ To save the world from creating user accounts and installing software applicatio
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Avi Aryan](http://aviaryan.in) has waived all copyright and related or neighboring rights to this work.
+
+* [Testimonial Rewrite Helper](https://cleo-ai-ops.github.io/client-intake-autopilot-pack/testimonial-rewrite-helper/) - Turn vague client praise into a clearer testimonial draft for client approval without creating an account.
