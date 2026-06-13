@@ -324,6 +324,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Incident Update Generator](https://cleo-ai-ops.github.io/client-intake-autopilot-pack/incident-update-generator/) - Draft customer-facing SaaS incident status updates without creating an account.
 * [Incident Postmortem Summary Generator](https://cleo-ai-ops.github.io/client-intake-autopilot-pack/incident-postmortem-summary-generator/) - Draft a concise customer-facing post-incident summary after an outage or degraded service without creating an account.
 * [Late Invoice Email Generator](https://cleo-ai-ops.github.io/client-intake-autopilot-pack/late-invoice-email-generator/) - Draft polite overdue-invoice follow-up emails for freelancers and consultants without creating an account.
+* [Client Handoff Email Builder](https://cleo-ai-ops.github.io/client-intake-autopilot-pack/client-handoff-email-builder/) - Generate a final client handoff email with deliverables, access notes, support boundaries, and next-step wording without creating an account.
 * [Client Offboarding Checklist Generator](https://cleo-ai-ops.github.io/client-intake-autopilot-pack/client-offboarding-checklist-generator/) - Generate a client handoff checklist, final delivery email, and support-boundary note for freelancers without creating an account.
 * [Client Reactivation Email Generator](https://cleo-ai-ops.github.io/client-intake-autopilot-pack/client-reactivation-email-generator/) - Generate a simple past-client reactivation email for freelancers and consultants reconnecting with previous clients.
 
