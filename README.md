@@ -383,3 +383,5 @@ To save the world from creating user accounts and installing software applicatio
 To the extent possible under law, [Avi Aryan](http://aviaryan.in) has waived all copyright and related or neighboring rights to this work.
 
 * [Testimonial Rewrite Helper](https://cleo-ai-ops.github.io/client-intake-autopilot-pack/testimonial-rewrite-helper/) - Turn vague client praise into a clearer testimonial draft for client approval without creating an account.
+
+* [Change Order Pricing Calculator](https://cleo-ai-ops.github.io/client-intake-autopilot-pack/change-order-pricing-calculator/) - Estimate a fair change-order fee and timeline impact for out-of-scope client requests without creating an account.
