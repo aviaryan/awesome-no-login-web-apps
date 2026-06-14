@@ -136,6 +136,7 @@ To save the world from creating user accounts and installing software applicatio
 * [GifDeck](http://gifdeck.in/) - Convert slides from slideshare to GIF.
 * [favicon-generator](http://www.favicon-generator.org/) - Generate favicons for your web-apps or icons for your Android or iOS apps by uploading your desired image.
 * [freetools.site](https://freetools.site/) - Free online tools. Convert or edit documents, images, audio, video and more.
+* [YantraKosha](https://yantrakosha.kalikayi.com) - Free online file converters including PDF merge/split/compress, image format converter, unit converter, and document generator. No account needed.
 
 
 ### File Hosting/Sharing
@@ -186,6 +187,7 @@ To save the world from creating user accounts and installing software applicatio
 * [CleanIcons](https://cleanicons.xyz) - Download Font Awesome icon fonts as PNG's.
 * [Mancer](https://mancer.app) - Design, share, and order T-Shirts from the browser. Designs can be exported as PNGs.
 * [Branition Colors](https://branition.com/colors) - Hand-curated collection of color pallets best fitted for branding.
+* [YantraKosha](https://yantrakosha.kalikayi.com) - Free image editing tools including collage maker, color picker, favicon generator, logo maker, and mockup generator. All browser-based, no sign-up.
 
 
 ### Internet Downloaders
@@ -275,6 +277,7 @@ To save the world from creating user accounts and installing software applicatio
 * [ObjGen](http://www.objgen.com/) - This app helps you generate code (JSON, HTML, etc) in real time as you type in only the key words, types and properties using a text based syntax.
 * [JsonFormatter](https://jsonformatter.curiousconcept.com) - View json in human readable form.
 * [DebugBear Speed Test](https://www.debugbear.com/test/website-speed) - Test site speed and Core Web Vitals.
+* [YantraKosha](https://yantrakosha.kalikayi.com) - Free developer tools: JSON formatter, regex tester, hash generator, base64 encoder, diff checker, HTML preview, and more. No login required.
 
 
 ### Search Engines
@@ -317,6 +320,7 @@ To save the world from creating user accounts and installing software applicatio
 * [DiffNow](https://www.diffnow.com/) - Advanced, online and free File Difference checking, with options like Upload file, compare files by their links or Text Input.
 * [Write.as](https://write.as/) - Cross-platform writing and publishing tool that supports Markdown and editing / deleting past posts.
 * [Emojify](https://madelinemiller.dev/apps/emojify/) - A tool to spice up text, lyrics, or poems by adding emojis.
+* [YantraKosha](https://yantrakosha.kalikayi.com) - Collection of 500+ free online tools including grammar checker, spell checker, case converter, text diff, markdown editor, and more. No sign-up required.
 
 
 <a name="utilities"></a>
@@ -343,6 +347,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Randommer](https://randommer.io/) - Random data generator and validator.
 * [Meditation Timer](https://meditation.koti.cloud/) - A meditation timer to keep track of your sessions.
 * [Bucket Listy](https://bucketlisty.com/) - Bucket list manager with unique ideas where you can add your own.
+* [YantraKosha](https://yantrakosha.kalikayi.com) - 500+ free online tools: calculators, PDF tools, QR/barcode generators, unit converters, password generator, timers, and developer utilities. All work without login.
 
 
 ### Miscellaneous
