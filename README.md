@@ -277,6 +277,8 @@ To save the world from creating user accounts and installing software applicatio
 * [DebugBear Speed Test](https://www.debugbear.com/test/website-speed) - Test site speed and Core Web Vitals.
 
 
+* [Free AGENTS.md Generator](https://cleo-ai-ops.github.io/client-intake-autopilot-pack/agents-md-generator/) - Generate a project-specific AGENTS.md file for AI coding agents, including repository context, safe command rules, testing gates, and pull request checklists.
+
 ### Search Engines
 
 * [Iconfinder](https://www.iconfinder.com/) - Download all your favourite icons in one place.
@@ -317,6 +319,17 @@ To save the world from creating user accounts and installing software applicatio
 * [DiffNow](https://www.diffnow.com/) - Advanced, online and free File Difference checking, with options like Upload file, compare files by their links or Text Input.
 * [Write.as](https://write.as/) - Cross-platform writing and publishing tool that supports Markdown and editing / deleting past posts.
 * [Emojify](https://madelinemiller.dev/apps/emojify/) - A tool to spice up text, lyrics, or poems by adding emojis.
+* [Tech Resume Bullet Generator](https://cleo-ai-ops.github.io/client-intake-autopilot-pack/tech-resume-bullet-generator/) - Turn rough tech work into structured resume bullets with action, impact, tools, and measurable outcome fields.
+* [Late Invoice Follow-Up Calculator](https://cleo-ai-ops.github.io/client-intake-autopilot-pack/late-invoice-follow-up-calculator/) - Estimate invoice overdue days, next follow-up date, and reminder tone without creating an account.
+* [Incident Update Generator](https://cleo-ai-ops.github.io/client-intake-autopilot-pack/incident-update-generator/) - Draft customer-facing SaaS incident status updates without creating an account.
+* [Incident Postmortem Summary Generator](https://cleo-ai-ops.github.io/client-intake-autopilot-pack/incident-postmortem-summary-generator/) - Draft a concise customer-facing post-incident summary after an outage or degraded service without creating an account.
+* [Late Invoice Email Generator](https://cleo-ai-ops.github.io/client-intake-autopilot-pack/late-invoice-email-generator/) - Draft polite overdue-invoice follow-up emails for freelancers and consultants without creating an account.
+* [Client Handoff Email Builder](https://cleo-ai-ops.github.io/client-intake-autopilot-pack/client-handoff-email-builder/) - Generate a final client handoff email with deliverables, access notes, support boundaries, and next-step wording without creating an account.
+* [Client Offboarding Checklist Generator](https://cleo-ai-ops.github.io/client-intake-autopilot-pack/client-offboarding-checklist-generator/) - Generate a client handoff checklist, final delivery email, and support-boundary note for freelancers without creating an account.
+* [Client Reactivation Email Generator](https://cleo-ai-ops.github.io/client-intake-autopilot-pack/client-reactivation-email-generator/) - Generate a simple past-client reactivation email for freelancers and consultants reconnecting with previous clients.
+
+* [Scope Creep Cost Calculator](https://cleo-ai-ops.github.io/client-intake-autopilot-pack/scope-creep-cost-calculator/) - Estimate unpaid revision/scope-creep time and generate client boundary language without creating an account.
+* [SaaS Support Reply Generator](https://cleo-ai-ops.github.io/client-intake-autopilot-pack/saas-support-reply-generator/) - Generate calm SaaS support replies for bug reports, billing questions, refunds, feature requests, and angry customers without login.
 
 
 <a name="utilities"></a>
@@ -368,3 +381,9 @@ To save the world from creating user accounts and installing software applicatio
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Avi Aryan](http://aviaryan.in) has waived all copyright and related or neighboring rights to this work.
+
+* [Testimonial Rewrite Helper](https://cleo-ai-ops.github.io/client-intake-autopilot-pack/testimonial-rewrite-helper/) - Turn vague client praise into a clearer testimonial draft for client approval without creating an account.
+
+* [Change Order Pricing Calculator](https://cleo-ai-ops.github.io/client-intake-autopilot-pack/change-order-pricing-calculator/) - Estimate a fair change-order fee and timeline impact for out-of-scope client requests without creating an account.
+
+* [Meeting Decision Log Generator](https://cleo-ai-ops.github.io/client-intake-autopilot-pack/meeting-decision-log-generator/) - Turn rough meeting notes into a decision log with decisions, owners, deadlines, risks, and confirmation wording without an account.
