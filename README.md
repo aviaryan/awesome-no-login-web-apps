@@ -385,3 +385,5 @@ To the extent possible under law, [Avi Aryan](http://aviaryan.in) has waived all
 * [Testimonial Rewrite Helper](https://cleo-ai-ops.github.io/client-intake-autopilot-pack/testimonial-rewrite-helper/) - Turn vague client praise into a clearer testimonial draft for client approval without creating an account.
 
 * [Change Order Pricing Calculator](https://cleo-ai-ops.github.io/client-intake-autopilot-pack/change-order-pricing-calculator/) - Estimate a fair change-order fee and timeline impact for out-of-scope client requests without creating an account.
+
+* [Meeting Decision Log Generator](https://cleo-ai-ops.github.io/client-intake-autopilot-pack/meeting-decision-log-generator/) - Turn rough meeting notes into a decision log with decisions, owners, deadlines, risks, and confirmation wording without an account.
