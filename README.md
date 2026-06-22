@@ -67,6 +67,7 @@ To save the world from creating user accounts and installing software applicatio
 * [TradingView.com](https://www.tradingview.com/) - Real-time information and market insights from various exchanges. Requires an account for saving settings.
 * [ICOStats.com](https://icostats.com/) - Track &amp; compare performance of ICOs. Displays detailed stats like ROI since ICO, ROI vs ETH since ICO, and charts for comparing the historical performance of ICOs.
 * [InvoiceToMe](https://invoiceto.me/) - Generate professional invoices from various templates with your company details.
+* [Investment Punch Card](https://ordinarymantrying.com/tools/investment-punch-card.html) - Track your 20 lifetime investment decisions based on Warren Buffett's punch card rule. Requires a written thesis and conviction score before each slot. Data stored locally.
 
 
 ### Communication
@@ -303,6 +304,10 @@ To save the world from creating user accounts and installing software applicatio
 * [Directed Grap Editor (CS Academy)](https://csacademy.com/app/graph_editor/) - Draw directed graph systems with and without edge values and physics.
 * [Abc-Map](https://abc-map.fr) - Create geographical maps, pick data from the data store, process data to create visualizations, export or share your maps online. 
 * [KeepFormula](https://keepformula.github.io/) - Keep Formula is a simple app to make your calculations easier.
+* [2026 China Gaokao English Exam](https://ordinarymantrying.com/tools/gaokao-2026-english-exam.html) - Interactive version of the real 2026 Chinese national college entrance exam English reading section. 20 questions, instant scoring, no data sent anywhere.
+* [China Civil Service Challenge](https://ordinarymantrying.com/tools/civil-service-challenge.html) - 7 real questions from China's government job aptitude test (行测), each with a countdown timer. Tests logic, math, physics and verbal reasoning.
+* [Mandarin Chinese Flashcards](https://ordinarymantrying.com/tools/mandarin-flashcards.html) - HSK1–3 vocabulary (400+ words) for English speakers. Spaced repetition (Know / Fuzzy / Again), level filter, and a story reader where English appears first and Chinese is revealed on tap. Every character is clickable for pinyin + meaning. Progress saved locally. No account needed.
+* [Chinese Writing Toolkit](https://ordinarymantrying.com/tools/chinese-writing-toolkit.html) - 11 types of Chinese applied writing (invitation, thank-you, advice, complaint, cover letter, self-introduction, and more) with sentence banks, word upgrade tables, grammar patterns, and model essays. For HSK4–6 and business Chinese learners.
 
 
 <a name="text-tools"></a>
