@@ -331,6 +331,8 @@ To save the world from creating user accounts and installing software applicatio
 * [PrintWhatYouLike](http://www.printwhatyoulike.com/) - Print any webpage or save it as HTML or PDF.
 * [WhatTheFont](http://www.myfonts.com/WhatTheFont/) - Determine font name from an image.
 * [Image Metadata Viewer](http://exif.regex.info/exif.cgi) - View hidden data (metadata) of any image.
+- [Presend EXIF Remover](https://presendapp.netlify.app/tools/exif-remover.html) - Strip EXIF metadata (GPS, camera model, timestamps) from a photo, entirely client-side.
+- [Presend PDF Metadata Remover](https://presendapp.netlify.app/tools/pdf-metadata-remover.html) - Remove document info metadata (author, software, dates) from a PDF, entirely client-side.
 * [WhoIsHostingThis](http://www.whoishostingthis.com/) - Find the web host of any website.
 * [TypingWeb](https://www.typing.com/student/start) - Master touch-typing with ease.
 * [Acronym Creator](http://acronymcreator.net/) - Create acronym for organization, algorithm, or anything having at least two words.
