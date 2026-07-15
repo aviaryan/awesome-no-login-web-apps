@@ -58,6 +58,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Ambient Mixer](https://www.ambient-mixer.com/) - Listen to free audio atmospheres (e.g. Scottish Rain/Slytherin Common Room) or mix your own ambient sound online.
 * [Vileo](https://lukasbach.github.io/vileo/) - Record your screen or webcam and download the video from within your browser.
 * [Youtube Dynamic Playlists](https://youtube.ndo.dev) - Create on-the-fly playlists of YouTube videos.
+* [ToolGarden Audio](https://www.toolgarden.xyz/en/audio) - Free online Audio Tools, tansfer，merge, compressor, change volume, change rate, change playback speed ...
 
 
 ### Business and Finance
@@ -123,6 +124,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Sketchpad](https://sketch.io/sketchpad/) - Create digital artwork and export to popular image formats JPEG, PNG, SVG, and PDF.
 * [Piskel](https://www.piskelapp.com/) - Free online editor for animated sprites & pixel art
 * [PixelCraft](https://pixelcraft.web.app) - A Pixel Art Editor and animation creation tool
+* [White Board](https://www.toolgarden.xyz/en/other/whiteboard) -  Free, Sample, online whiteboard
 
 
 ### File Converters
@@ -186,6 +188,7 @@ To save the world from creating user accounts and installing software applicatio
 * [CleanIcons](https://cleanicons.xyz) - Download Font Awesome icon fonts as PNG's.
 * [Mancer](https://mancer.app) - Design, share, and order T-Shirts from the browser. Designs can be exported as PNGs.
 * [Branition Colors](https://branition.com/colors) - Hand-curated collection of color pallets best fitted for branding.
+* [ToolGarden Image](https://toolgarden.xyz/en/image)
 
 
 ### Internet Downloaders
