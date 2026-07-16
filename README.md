@@ -361,6 +361,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Morsify](https://morsify.net) - Online Morse code translator.
 * [Dub](https://dub.sh/) - Open-source link shortener.
 * [3dHousePlanner](https://www.3dhouseplanner.com/) - 3D home design application on the web.
+* [Brevio](https://brevio.pro) - 500+ browser-based tools (PDF, image, dev, text, finance). No login, no upload — everything runs client-side and works offline.
 -----
 
 ## License
