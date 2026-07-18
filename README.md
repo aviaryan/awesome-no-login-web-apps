@@ -98,6 +98,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Markdown Live Preview](http://markdownlivepreview.com/) - Instant Markdown preview.
 * [Markdownify](http://www.amitmerchant.com/markdownify-web/) - Minimal Markdown editor.
 * [StackEdit.io](https://stackedit.io/) - Rich in-browser markdown editor that works offline.
+* [Markdown Tools Editor](https://www.markdowntools.io/editor) - Online Markdown editor with live preview, syntax highlighting, KaTeX math, and Mermaid diagrams. Runs entirely in the browser; no account, and no cloud saves.
 
 #### <a name="doc-eds-others"></a> Others
 
