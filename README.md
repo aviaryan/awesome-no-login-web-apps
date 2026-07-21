@@ -165,6 +165,7 @@ To save the world from creating user accounts and installing software applicatio
 * [nitrome](https://www.nitrome.com/) - Collection of free pixelart games. New games doesn't require flash.
 * [Orion](https://orion.lukasbach.com/) - Board/puzzle game. Cleverly combine tiles from bags to fill up the board.
 * [Gidd.io](https://gidd.io/) - Collection of classic games like UNO, Yatzy, Scattergories and GeoGuess.
+* [Eovant](https://eovant.com/) - Free HTML5 browser game platform with hundreds of online games, no account required.
 
 ### Graphics, Image and Design
 
