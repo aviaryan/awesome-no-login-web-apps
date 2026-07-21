@@ -175,6 +175,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Online Logo Maker](https://www.onlinelogomaker.com/) - Make logos online. Extra user account feature to save creations.
 * [Coolors](https://coolors.co/) - Color palettes generator.
 * [Tiny PNG](https://tinypng.com/) - Smart PNG and JPEG compression.
+* [ImgPress](https://img.honghuohu.com/) - Free online image compression and conversion tool supporting JPEG, PNG, WebP, GIF, SVG, AVIF. 100% local processing in browser, no upload, no login required.
 * [Realtime Board](https://realtimeboard.com/) `[Account]` - Collaborative blackboard with huge area, screen sharing, video & voice communication.
 * [ezGIF](https://ezgif.com/) - GIF images editor (cropping, scaling, optimizing and more).
 * [Adobe Color CC](https://color.adobe.com/) - Color scheme designer.
@@ -263,7 +264,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Website Speed Test | Pingdom](https://tools.pingdom.com/) - Feature-rich website tester.
 * [Google Structured Data Testing Tool](https://search.google.com/structured-data/testing-tool) - Test a webpage for structured data and SEO.
 * [Regulex](https://jex.im/regulex/) - JavaScript regular expression visualizer.
-* [GTmetrix](https://gtmetrix.com/) - Analyze your site’s speed and make it faster.
+* [GTmetrix](https://gtmetrix.com/) - Analyze your site's speed and make it faster.
 * [BuildWith](https://builtwith.com/) - Find the technology stack to know everything about a website.
 * [WooRank](https://www.woorank.com/) - SEO Audit tool, provides website review with global and local rank in terms of traffic generated.
 * [CSS Typeset](http://csstypeset.com/) - Visual typeset editor. Play around with font-face, word-spacing and other text attributes and download the corresponding CSS.
@@ -301,7 +302,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Word Safety](http://wordsafety.com/) - Check if words are abusive in any languages.
 * [OEIS®](http://oeis.org/) - The On-Line Encyclopedia of Integer Sequences®, helps in cryptography as well as formulating odd looking sequences.
 * [Directed Grap Editor (CS Academy)](https://csacademy.com/app/graph_editor/) - Draw directed graph systems with and without edge values and physics.
-* [Abc-Map](https://abc-map.fr) - Create geographical maps, pick data from the data store, process data to create visualizations, export or share your maps online. 
+* [Abc-Map](https://abc-map.fr) - Create geographical maps, pick data from the data store, process data to create visualizations, export or share your maps online.
 * [KeepFormula](https://keepformula.github.io/) - Keep Formula is a simple app to make your calculations easier.
 
 
