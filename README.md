@@ -148,6 +148,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Archive.org](https://archive.org/) `[Account]` - Unlimited file hosting of any type, no limits on bandwidth and upload size.
 * [MultCloud](https://www.multcloud.com/home) - Cloud service to manage, move, copy and migrate data between multiple cloud services. Supports all major cloud services. No sign-up required, 2TB cloud storage, download large files directly to the cloud, no size restrictions.
 * [Firefox Send](https://send.firefox.com) - Mozilla's free fileshare program. Up to 1gb without account, 2.5gb with account.
+* [8ma Quick Transfer](https://t.8ma.co/) - Transfer large files between computers and phones without login or installation. Share by link, QR code, or pickup code; speed depends on both devices and network conditions.
 
 
 <a name="games"></a>
