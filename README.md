@@ -166,6 +166,8 @@ To save the world from creating user accounts and installing software applicatio
 * [Orion](https://orion.lukasbach.com/) - Board/puzzle game. Cleverly combine tiles from bags to fill up the board.
 * [Gidd.io](https://gidd.io/) - Collection of classic games like UNO, Yatzy, Scattergories and GeoGuess.
 
+* [Monteams](https://monteams.com) - Free Pokémon team builder that works without login. Plan teams, analyze type coverage, and optimize strategies for all generations from Red/Blue to Scarlet/Violet.
+
 ### Graphics, Image and Design
 
 * [PhotoPea](https://www.photopea.com/) - Image editor that looks like Photoshop and has most of its features.
