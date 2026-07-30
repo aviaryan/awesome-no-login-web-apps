@@ -321,7 +321,7 @@ To save the world from creating user accounts and installing software applicatio
 
 <a name="utilities"></a>
 ### Utilities (uncategorized)
-
+ ̰
 * [Dataflow kit](https://dataflowkit.com/dfk) - Extract structured data from Web pages.
 * [E.gg Timer](http://e.ggtimer.com/) - Simple countdown timer application.
 * [QR Code Generator](http://zxing.appspot.com/generator/) - Different types of QR codes like contact info, WiFi, calendar etc supported.
@@ -343,6 +343,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Randommer](https://randommer.io/) - Random data generator and validator.
 * [Meditation Timer](https://meditation.koti.cloud/) - A meditation timer to keep track of your sessions.
 * [Bucket Listy](https://bucketlisty.com/) - Bucket list manager with unique ideas where you can add your own.
+* [PickerSpin](https://pickerspin.co) - Spin a wheel to pick names or winners, roll dice, call bingo numbers, and make random team.
 
 
 ### Miscellaneous
