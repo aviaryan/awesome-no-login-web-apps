@@ -362,6 +362,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Dub](https://dub.sh/) - Open-source link shortener.
 * [3dHousePlanner](https://www.3dhouseplanner.com/) - 3D home design application on the web.
 -----
+* [SmartBizCalc](https://smartbizcalc.com) - 280+ free business calculators for contractors and small business owners. Covers taxes, pricing, profit margins, insurance costs, and break-even analysis. No account required.
 
 ## License
 
