@@ -80,6 +80,7 @@ To save the world from creating user accounts and installing software applicatio
 * [FaxZero](https://faxzero.com/) - Send an online fax for free.
 * [A2fax](https://www.a2fax.com/) - Send free faxes online. No ads on cover pages. Add your own logo to cover page.
 * [GoTeam](https://goteam.video/) - Video meeting rooms. Create any room like `goteam.video/some-room` . Username is asked after room creation.
+* [Knocket](https://knocket.com/) - Free live chat widget for websites and shareable contact page. No login required to embed — one script tag and visitors can message you instantly via Telegram or email.
 
 
 ### Document Editors
