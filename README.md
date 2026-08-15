@@ -186,6 +186,7 @@ To save the world from creating user accounts and installing software applicatio
 * [CleanIcons](https://cleanicons.xyz) - Download Font Awesome icon fonts as PNG's.
 * [Mancer](https://mancer.app) - Design, share, and order T-Shirts from the browser. Designs can be exported as PNGs.
 * [Branition Colors](https://branition.com/colors) - Hand-curated collection of color pallets best fitted for branding.
+* [DeerImage](https://deerimage.com/) - Chinese-language image toolbox for ID photos, signatures, drawing, compression, conversion, and editing; processing stays in the browser, with no signup or uploads.
 
 
 ### Internet Downloaders
