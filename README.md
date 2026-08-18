@@ -186,6 +186,7 @@ To save the world from creating user accounts and installing software applicatio
 * [CleanIcons](https://cleanicons.xyz) - Download Font Awesome icon fonts as PNG's.
 * [Mancer](https://mancer.app) - Design, share, and order T-Shirts from the browser. Designs can be exported as PNGs.
 * [Branition Colors](https://branition.com/colors) - Hand-curated collection of color pallets best fitted for branding.
+* [ImgSplit](https://imgsplit.com/) - Privacy-first image toolkit for splitting, grids, compression, watermarks, and local background removal. Images stay in the browser.
 
 
 ### Internet Downloaders
