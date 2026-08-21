@@ -67,6 +67,8 @@ To save the world from creating user accounts and installing software applicatio
 * [TradingView.com](https://www.tradingview.com/) - Real-time information and market insights from various exchanges. Requires an account for saving settings.
 * [ICOStats.com](https://icostats.com/) - Track &amp; compare performance of ICOs. Displays detailed stats like ROI since ICO, ROI vs ETH since ICO, and charts for comparing the historical performance of ICOs.
 * [InvoiceToMe](https://invoiceto.me/) - Generate professional invoices from various templates with your company details.
+* [Lawn Mowing Cost Calculator](https://lawnmowingcalculator.com) - Free calculator for lawn mowing cost estimates by area, rate, and extras.
+* [Embroidery Pricing Calculator](https://embroiderypricingcalculator.com) - Free embroidery job pricing from stitches, fabric, and labor.
 
 
 ### Communication
@@ -123,6 +125,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Sketchpad](https://sketch.io/sketchpad/) - Create digital artwork and export to popular image formats JPEG, PNG, SVG, and PDF.
 * [Piskel](https://www.piskelapp.com/) - Free online editor for animated sprites & pixel art
 * [PixelCraft](https://pixelcraft.web.app) - A Pixel Art Editor and animation creation tool
+* [Image to Crochet Pattern](https://imagetocrochetpattern.com) - Free tool that converts images into crochet patterns.
 
 
 ### File Converters
@@ -165,6 +168,7 @@ To save the world from creating user accounts and installing software applicatio
 * [nitrome](https://www.nitrome.com/) - Collection of free pixelart games. New games doesn't require flash.
 * [Orion](https://orion.lukasbach.com/) - Board/puzzle game. Cleverly combine tiles from bags to fill up the board.
 * [Gidd.io](https://gidd.io/) - Collection of classic games like UNO, Yatzy, Scattergories and GeoGuess.
+* [SkyCOTL Tools](https://skycotl.tools) - Free guides and calculators for Sky: Children of the Light.
 
 ### Graphics, Image and Design
 
@@ -186,6 +190,7 @@ To save the world from creating user accounts and installing software applicatio
 * [CleanIcons](https://cleanicons.xyz) - Download Font Awesome icon fonts as PNG's.
 * [Mancer](https://mancer.app) - Design, share, and order T-Shirts from the browser. Designs can be exported as PNGs.
 * [Branition Colors](https://branition.com/colors) - Hand-curated collection of color pallets best fitted for branding.
+* [Codex Theme Builder](https://codextheme.tools) - Free browser theme builder for OpenAI Codex with live preview and CSS token export.
 
 
 ### Internet Downloaders
@@ -343,6 +348,8 @@ To save the world from creating user accounts and installing software applicatio
 * [Randommer](https://randommer.io/) - Random data generator and validator.
 * [Meditation Timer](https://meditation.koti.cloud/) - A meditation timer to keep track of your sessions.
 * [Bucket Listy](https://bucketlisty.com/) - Bucket list manager with unique ideas where you can add your own.
+* [WattsCalc](https://wattscalc.com) - Free wattage and electricity cost calculator for appliances and devices.
+* [Pressure Washer Fix](https://pressurewasherfix.com) - Free troubleshooting guides for common pressure washer problems.
 
 
 ### Miscellaneous
