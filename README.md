@@ -292,6 +292,7 @@ To save the world from creating user accounts and installing software applicatio
 
 ### Study and Education
 
+- [3ammiya](https://3ammiya.com/en/) - Free Egyptian Arabic dictionary with Arabic and Franco search and everyday examples.
 * [Calculatoria Calculator](http://www.calculatoria.com/) - Scientific calculator online with progress stored on your system.
 * [WolframAlpha](https://www.wolframalpha.com) - Powerful computational knowledge engine. See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAndGraphics.html) for help on how to plot graphs.
 * [Desmos Graphing Calculator](https://www.desmos.com/calculator) - Plot multiple 2D plots on same sheet, see graph intersections.
