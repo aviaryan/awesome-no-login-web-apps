@@ -341,6 +341,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Bucket Listy](https://bucketlisty.com/) - Bucket list manager with unique ideas where you can add your own.
 * [Folicle Hair Self-Checks](https://folicle.app/tools) - Free Norwood scale, Ludwig scale and hair-shedding self-check calculators that run entirely in the browser with no signup.
 * [WeGoWhen](https://wegowhen.com) - Finds the dates a group can travel together: everyone taps the days they are free and it ranks the consecutive date ranges that fit the most people. Days only, so no time-of-day scheduling.
+* [Zero Dollar Domains](https://arynjennen1989-stack.github.io/) - Live RDAP hunter for unused cheap TLD names plus a catalog of still-free domain and subdomain programs. No signup. Not an expired-.com dump.
 
 
 ### Miscellaneous
