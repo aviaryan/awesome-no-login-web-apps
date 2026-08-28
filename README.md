@@ -340,6 +340,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Randommer](https://randommer.io/) - Random data generator and validator.
 * [Bucket Listy](https://bucketlisty.com/) - Bucket list manager with unique ideas where you can add your own.
 * [Folicle Hair Self-Checks](https://folicle.app/tools) - Free Norwood scale, Ludwig scale and hair-shedding self-check calculators that run entirely in the browser with no signup.
+* [WeGoWhen](https://wegowhen.com) - Finds the dates a group can travel together: everyone taps the days they are free and it ranks the consecutive date ranges that fit the most people. Days only, so no time-of-day scheduling.
 
 
 ### Miscellaneous
