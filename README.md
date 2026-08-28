@@ -186,6 +186,7 @@ To save the world from creating user accounts and installing software applicatio
 * [CleanIcons](https://cleanicons.xyz) - Download Font Awesome icon fonts as PNG's.
 * [Mancer](https://mancer.app) - Design, share, and order T-Shirts from the browser. Designs can be exported as PNGs.
 * [Branition Colors](https://branition.com/colors) - Hand-curated collection of color pallets best fitted for branding.
+* [DeepSeek酱语录](https://ai-meme.cdqyfdbymn.me/) - Meme gallery of DeepSeek whale-girl (AI 娘化) stickers with quote captions. Waterfall browsing, tag filters, dark mode and share-card export, no login needed.
 
 
 ### Internet Downloaders
