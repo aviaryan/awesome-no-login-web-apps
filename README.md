@@ -343,6 +343,8 @@ To save the world from creating user accounts and installing software applicatio
 * [Randommer](https://randommer.io/) - Random data generator and validator.
 * [Meditation Timer](https://meditation.koti.cloud/) - A meditation timer to keep track of your sessions.
 * [Bucket Listy](https://bucketlisty.com/) - Bucket list manager with unique ideas where you can add your own.
+* [Presend EXIF Remover](https://presend.pages.dev/tools/exif-remover) - Strip EXIF metadata (GPS, camera model, timestamps) from a photo, entirely client-side.
+* [Presend PDF Metadata Remover](https://presend.pages.dev/tools/pdf-metadata-remover) - Remove document info metadata (author, software, dates) from a PDF, entirely client-side.
 
 
 ### Miscellaneous
