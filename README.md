@@ -361,6 +361,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Morsify](https://morsify.net) - Online Morse code translator.
 * [Dub](https://dub.sh/) - Open-source link shortener.
 * [3dHousePlanner](https://www.3dhouseplanner.com/) - 3D home design application on the web.
+* [Reely](https://www.reely.space) - Movie and TV discovery on the TMDB catalog, with filters that apply as you move them, a command palette search, and a watchlist and watch history kept in your browser. Open source and installable as a PWA.
 -----
 
 ## License
