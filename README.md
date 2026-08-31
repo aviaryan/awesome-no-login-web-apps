@@ -49,6 +49,7 @@ To save the world from creating user accounts and installing software applicatio
 
 * [bfxr](http://www.bfxr.net/) - Make sound effects for your games.
 * [MP3 Cut](http://mp3cut.net/) - Online audio cutter.
+* [Korelyy Image Converter](https://korelyy.com/en/tools/image-converter/) - Convert images between JPG, PNG, WebP, GIF, BMP. Runs in browser, no upload, no login.
 * [TwistedWeb Online](https://twistedwave.com/online/) - Powerful audio editor. Files not saved online.
 * [Filelab Audio Editor](http://www.avs4you.com) - Audio editor with basic features like trim, merge, cut audio.
 * [Until AM](http://mix.until.am/) - Online music mixer, DJ software.
@@ -169,6 +170,7 @@ To save the world from creating user accounts and installing software applicatio
 ### Graphics, Image and Design
 
 * [PhotoPea](https://www.photopea.com/) - Image editor that looks like Photoshop and has most of its features.
+* [Korelyy Emoji Mixer](https://korelyy.com/en/tools/emoji-mixer/) - Combine two emojis into a new sticker. Browser-only, no server.
 * [Pixlr Editor](https://pixlr.com/editor/) - Image editor by Pixlr. Lots of features.
 * [Photo Editor | Befunky](https://www.befunky.com/features/photo-editor/) - Image editor with lots of filters and effects.
 * [Logo Makr](https://logomakr.com/) - Logo maker with nice collection of SVGs. Requires payment to export logo as SVG (PNG is free).
@@ -312,6 +314,7 @@ To save the world from creating user accounts and installing software applicatio
 * [CopyPasteCharacter](http://www.copypastecharacter.com/) - Copy special characters that are generally unavailable in a keyboard.
 * [PolishMyWriting](http://www.polishmywriting.com/) - Paste a text and get feedback on your writing.
 * [Wordle](http://www.wordle.net/) - A toy to generate 'Word Clouds' form a given piece of text.
+* [Korelyy JSON Formatter & Validator](https://korelyy.com/en/tools/json-formatter/) - Format, validate, and tree-view JSON. 100% client-side.
 * [tYp3r](http://typ3r.aavi.me) - dA aNn0Y1Ng t3Xt g3NeRa7or (The annoying text generator :-P).
 * [Telegraph](http://telegra.ph/) - Minimalist publishing tool that supports richly formatted text.
 * [DiffNow](https://www.diffnow.com/) - Advanced, online and free File Difference checking, with options like Upload file, compare files by their links or Text Input.
@@ -323,6 +326,7 @@ To save the world from creating user accounts and installing software applicatio
 ### Utilities (uncategorized)
 
 * [Dataflow kit](https://dataflowkit.com/dfk) - Extract structured data from Web pages.
+* [Korelyy](https://korelyy.com/) - 110+ free browser-based tools: image, PDF, dev, productivity, writing, and more. No login, no tracking.
 * [E.gg Timer](http://e.ggtimer.com/) - Simple countdown timer application.
 * [QR Code Generator](http://zxing.appspot.com/generator/) - Different types of QR codes like contact info, WiFi, calendar etc supported.
 * [QR Code Scanner and Generator](https://sharesnip.rosano.ca) - Scan via camera and files, download as SVG or PNG, works offline.
