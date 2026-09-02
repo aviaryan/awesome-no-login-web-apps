@@ -127,6 +127,8 @@ To save the world from creating user accounts and installing software applicatio
 
 ### File Converters
 
+* [Toolfyra](https://toolfyra.com) - 341 free browser-based tools: PDF (merge/split/compress/convert), image converters & compressors, JSON/CSV/XML converters and calculators. Runs 100% client-side — no signup, files never leave your device.
+
 * [Cloud Convert](https://cloudconvert.com/) - Convert from anything to anything including audio, video, font, document and lots more. Excellent integration with cloud storage services like Google Drive and Dropbox. Direct links.
 * [Online Convert](http://www.online-convert.com/) - Collection of audio, video, image, document, ebook and archive converter. No file size limits and direct download links upon conversion.
 * [PDF <=> EPUB](http://pdfepub.com/) - PDF to EPUB converter and vice versa.
@@ -227,6 +229,8 @@ To save the world from creating user accounts and installing software applicatio
 
 ### Privacy, Security and Cryptography
 
+* [Toolfyra](https://toolfyra.com) - Privacy-first tool suite: every tool (PDF, images, text, dev tools) processes files locally in your browser — nothing is uploaded, no account needed.
+
 * [Cryptii](https://cryptii.com) - Offers modular conversion, encoding and encryption with a wide variety of ciphers and methods.
 * [Encipher.it](https://encipher.it/) - AES-256 text encryption and decryption.
 * [Encrypted Pastebin - Defuse.ca](https://defuse.ca/pastebin.htm) - Set password on your public pastes.
@@ -254,6 +258,8 @@ To save the world from creating user accounts and installing software applicatio
 
 
 ### Programming Tools
+
+* [Toolfyra Dev Tools](https://toolfyra.com/json-formatter.html) - JSON formatter/validator, regex tester, JWT decoder, UUID generator, timestamp/base64/URL encoders — all free, client-side, no login.
 
 * [CSS Minifier](https://cssminifier.com/) - Minifies CSS by removing whitespace and comments.
 * [UglifyJS JavaScript minifier](https://skalman.github.io/UglifyJS-online/) - Minifies and obfuscates JavaScript.
