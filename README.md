@@ -58,6 +58,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Ambient Mixer](https://www.ambient-mixer.com/) - Listen to free audio atmospheres (e.g. Scottish Rain/Slytherin Common Room) or mix your own ambient sound online.
 * [Vileo](https://lukasbach.github.io/vileo/) - Record your screen or webcam and download the video from within your browser.
 * [Youtube Dynamic Playlists](https://youtube.ndo.dev) - Create on-the-fly playlists of YouTube videos.
+* [Ambient Noise](https://ambientnoise.io/) - Free browser ambient/background noise mixer (rain, white/brown noise, cafe, fan, nature) for sleep or focus; no signup.
 
 
 ### Business and Finance
