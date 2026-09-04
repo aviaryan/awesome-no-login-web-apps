@@ -275,6 +275,7 @@ To save the world from creating user accounts and installing software applicatio
 * [ObjGen](http://www.objgen.com/) - This app helps you generate code (JSON, HTML, etc) in real time as you type in only the key words, types and properties using a text based syntax.
 * [JsonFormatter](https://jsonformatter.curiousconcept.com) - View json in human readable form.
 * [DebugBear Speed Test](https://www.debugbear.com/test/website-speed) - Test site speed and Core Web Vitals.
+* [AETHERIUS Control Room](https://wilnowilx.github.io/aetheriusxapi/dashboard/) - Explore and test 40 live x402 APIs with no signup — interactive catalog + explorer + real telemetry. Open-source (MIT).
 
 
 ### Search Engines
