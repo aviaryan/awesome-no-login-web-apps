@@ -338,6 +338,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Postify](http://postfity.com/) `[Account]` - Schedule posts on Facebook, Twitter & LinkedIn.
 * [Krutidev <--> Unicode](http://wrd.bih.nic.in/font_KtoU.htm) - Convert Krutidev to Unicode (Mangal) and vice versa in one click.
 * [Resume Nation](https://resume-nation.github.io) - An open source resume builder progressive web app which can work offline. It has a few themes to choose from and it can export the resume in PDF form.
+* [FreeToolHub](https://freetoolhub.org) - Collection of 190+ free browser tools (calculators, PDF, image, text and file utilities) that run entirely client-side, so files never leave the browser and no account is needed.
 * [Daily Todo](https://dailytodo.org/) -  Simple todo list maker.
 * [Mailinator](https://www.mailinator.com/) - Disposable email service.
 * [Randommer](https://randommer.io/) - Random data generator and validator.
