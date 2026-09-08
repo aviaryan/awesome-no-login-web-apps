@@ -314,6 +314,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Acronym Creator](http://acronymcreator.net/) - Create acronym for organization, algorithm, or anything having at least two words.
 * [Postify](http://postfity.com/) `[Account]` - Schedule posts on Facebook, Twitter & LinkedIn.
 * [Resume Nation](https://resume-nation.github.io) - An open source resume builder progressive web app which can work offline. It has a few themes to choose from and it can export the resume in PDF form.
+* [FreeToolHub](https://freetoolhub.org) - Collection of 190+ free browser tools (calculators, PDF, image, text and file utilities) that run entirely client-side, so files never leave the browser and no account is needed.
 * [Daily Todo](https://dailytodo.org/) -  Simple todo list maker.
 * [Mailinator](https://www.mailinator.com/) - Disposable email service.
 * [Randommer](https://randommer.io/) - Random data generator and validator.
