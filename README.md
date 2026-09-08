@@ -61,6 +61,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Video Size Reducer](https://videosizereducer.org) - Compress MP4 videos right in your browser with the WebCodecs API; no upload, no account needed.
 * [audiotest.io](https://audiotest.io) - Free in-browser audio test toolkit with stereo left/right channel test, frequency sweep, tone generator, bass response test, headphone test and tinnitus frequency test. All tests run client-side, bilingual EN/ZH.
 * [Whisper Web](https://whisperweb.dev/) - Transcribe audio and video to text in the browser with OpenAI's Whisper. Runs on-device, no login, 100+ languages.
+* [Vizz.fm](https://vizz.fm) - Browser-based music visualizer with customizable scenes and presets.
 
 
 ### Business and Finance
