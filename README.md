@@ -268,6 +268,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Regulex](https://jex.im/regulex/) - JavaScript regular expression visualizer.
 * [GTmetrix](https://gtmetrix.com/) - Analyze your site’s speed and make it faster.
 * [BuildWith](https://builtwith.com/) - Find the technology stack to know everything about a website.
+* [Shopify Theme Detector](https://shopifythemedetector.com) - Detect what theme and apps any Shopify store uses. No login required.
 * [WooRank](https://www.woorank.com/) - SEO Audit tool, provides website review with global and local rank in terms of traffic generated.
 * [CSS Typeset](http://csstypeset.com/) - Visual typeset editor. Play around with font-face, word-spacing and other text attributes and download the corresponding CSS.
 * [CSS Autoprefixer](https://autoprefixer.github.io/) - A postprocessor for handling vendor prefixes in CSS. Just paste the regular CSS and get the vendor prefix handled CSS instantly.
