@@ -318,6 +318,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Mailinator](https://www.mailinator.com/) - Disposable email service.
 * [Randommer](https://randommer.io/) - Random data generator and validator.
 * [Bucket Listy](https://bucketlisty.com/) - Bucket list manager with unique ideas where you can add your own.
+* [Calculora](https://calculora.net) - 259+ free calculators across finance, health, science, math, and developer tools. 21 languages, no login, dark mode, installable as PWA.
 
 
 ### Miscellaneous
