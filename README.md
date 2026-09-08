@@ -278,6 +278,7 @@ To save the world from creating user accounts and installing software applicatio
 * [JsonFormatter](https://jsonformatter.curiousconcept.com) - View json in human readable form.
 * [DebugBear Speed Test](https://www.debugbear.com/test/website-speed) - Test site speed and Core Web Vitals.
 * [Mydentify AI Crawler Access Checker](https://mydentify.com/tools/ai-crawler-access-checker) - Checks robots.txt, page-level crawler directives, and responses to documented ChatGPT and Claude crawler user-agent names without login; it cannot verify official provider IPs.
+* [Acento JWT Decoder](https://www.acento.io/en/jwt-decoder/) - Decode and inspect JWT tokens (header, payload, signature) entirely in the browser; tokens are never sent to a server.
 
 
 ### Search Engines
