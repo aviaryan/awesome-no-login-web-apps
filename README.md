@@ -318,6 +318,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Mailinator](https://www.mailinator.com/) - Disposable email service.
 * [Randommer](https://randommer.io/) - Random data generator and validator.
 * [Bucket Listy](https://bucketlisty.com/) - Bucket list manager with unique ideas where you can add your own.
+* [JotTools](https://jottools.com) - Suite of 130+ single-purpose tools (PDF, image, text, color, calculators, developer utilities) that all run client-side with nothing uploaded; individual tools are basic rather than advanced.
 
 
 ### Miscellaneous
