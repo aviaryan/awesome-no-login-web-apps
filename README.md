@@ -57,6 +57,7 @@ To save the world from creating user accounts and installing software applicatio
 * [AI Vocal Remover](https://vocalremover.org) - Separate voice from music by artificial intelligence.
 * [Ambient Mixer](https://www.ambient-mixer.com/) - Listen to free audio atmospheres (e.g. Scottish Rain/Slytherin Common Room) or mix your own ambient sound online.
 * [Vileo](https://lukasbach.github.io/vileo/) - Record your screen or webcam and download the video from within your browser.
+* [Canvas Maker for Spotify Artists](https://spotifyedits.com) - Make a looping 9:16 Canvas video, artist header, avatar and cover art for a Spotify release. Encodes in the browser with WebCodecs, so files are never uploaded.
 
 
 ### Business and Finance
