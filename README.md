@@ -139,6 +139,7 @@ To save the world from creating user accounts and installing software applicatio
 * [freetools.site](https://freetools.site/) - Free online tools. Convert or edit documents, images, audio, video and more.
 * [Excel to Markdown](https://exceltomd.com/excel-to-markdown) - Convert XLSX, XLS, and CSV files into Markdown tables locally in the browser; no account or server upload required.
 * [Picute Subtitle Converter](https://picute.net/en/tools/srt-to-vtt-converter) - Convert subtitle files between SRT and VTT formats in the browser. No upload, no login.
+* [Clipboard Table](https://tevinch.github.io/data-shape-kit/) - Convert pasted spreadsheet TSV to JSON locally, preserving quoted line breaks, empty cells and leading zeros as strings. Text input only; no XLSX import.
 
 
 ### File Hosting/Sharing
