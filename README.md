@@ -97,6 +97,8 @@ To save the world from creating user accounts and installing software applicatio
 * [Markdown Live Preview](http://markdownlivepreview.com/) - Instant Markdown preview.
 * [StackEdit.io](https://stackedit.io/) - Rich in-browser markdown editor that works offline.
 
+* [MarkdownKit](https://markdownkit.app/) - Free online Markdown editor with live preview, syntax highlighting, and export to HTML or PDF.
+
 #### <a name="doc-eds-others"></a> Others
 
 * [EtherCalc](https://ethercalc.net/) - Online spreadsheet editor, exports to Excel.
@@ -168,6 +170,10 @@ To save the world from creating user accounts and installing software applicatio
 * [Monteams](https://monteams.com) - Free Pokémon team builder that works without login. Plan teams, analyze type coverage, and optimize strategies for all generations from Red/Blue to Scarlet/Violet.
 * [Double Cross](https://everhall.ca) - A daily crossword where every clue has two answers of equal length; deduce which twin slot gets which, then seal the grid once. No ads or tracking, one static page.
 
+* [ToonTone](https://toontone.io/) - Guess the color from a cartoon illustration. A daily guessing game where the artwork changes every round.
+* [MecchaChameleon](https://mecchachameleon.co/) - Test your color perception by finding the different colored chameleon among identical ones.
+* [Gothic Lockpick Solver](https://gothic-lockpick-solver.com/) - An interactive puzzle tool that helps solve lockpicking minigames from Gothic video games.
+* [Favorite Pokémon](https://favoritepokemon.org/) - Vote for and discover the most popular Pokémon across all generations.
 ### Graphics, Image and Design
 
 * [PhotoPea](https://www.photopea.com/) - Image editor that looks like Photoshop and has most of its features.
@@ -192,6 +198,7 @@ To save the world from creating user accounts and installing software applicatio
 * [ShotFrame](https://tyr1105.github.io/shotframe/) - Free screenshot beautifier with gradient backgrounds, device frames, shadows, and HD PNG export. 100% browser-side.
 
 
+* [SpriteChecklist](https://spritechecklist.app/) - Browse and check off sprites you have collected in games. Track your completion progress.
 ### Internet Downloaders
 
 * [Bitport](https://bitport.io/welcome) `[Account]` - Torrent downloader. Limited to 1 torrent of 1gb per day in free account.
@@ -199,6 +206,7 @@ To save the world from creating user accounts and installing software applicatio
 * [ZbigZ](https://zbigz.com/) - Torrent downloader that lets you chose the files to download from a torrent. File size limit is 2gb and download is capped to 50kbps in the free version.
 
 
+* [GestureSynth](https://gesturesynth.online/) - Play music using hand gestures via webcam. A browser-based synthesizer that turns movement into sound.
 ### Music, Radio and Podcasts
 
 * [Podbay](http://podbay.fm/) - Listen to any podcast online, individual episodes can be downloaded.
@@ -213,6 +221,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Radio Garden](http://radio.garden/) - Listen to thousands of radio stations worldwide by selecting a city on the globe.
 
 
+* [Álbum da Copa](https://albumdacopa.org/) - Track your FIFA World Cup sticker album progress. See which stickers you still need.
 ### Notepads and Notebooks
 
 * [aNotepad](https://anotepad.com/) - Saves your notes without a user account using cookies.
@@ -235,6 +244,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Cloverleaf](https://cloverleaf.app) - An open source app to replace your password manager without storing your passwords anywhere.
 * [MetadataRemover.ai](https://metadataremover.ai/) - Inspect, edit, remove, and verify supported metadata in images, PDFs, DOCX files, videos, and MP3 audio locally in the browser; no account required.
 
+* [Code Usage Calculator](https://codeusagecalc.com/) - Check the usage frequency of code snippets across GitHub repositories. See how common a function or pattern is.
 ### Programming Editors and IDEs
 
 * [TutorialsPoint Online Tools](https://www.tutorialspoint.com/codingground.htm) - Online terminals for Ipython, Octave, Powershell, Redis and lots others. Also has a good collection of IDEs for programming languages.
@@ -313,6 +323,7 @@ To save the world from creating user accounts and installing software applicatio
 
 
 <a name="utilities"></a>
+* [Gematria Calculator](https://gematriacalculator.pro/) - Calculate gematria values for words and phrases in multiple ciphers including Hebrew and English methods.
 ### Utilities (uncategorized)
 
 * [Dataflow kit](https://dataflowkit.com/dfk) - Extract structured data from Web pages.
@@ -338,6 +349,7 @@ To save the world from creating user accounts and installing software applicatio
 * [BarcodeGen](https://www.barcodegen.net) - Free online barcode generator supporting 35+ formats including Code 128, EAN-13, QR Code, and Data Matrix with bulk generation and PNG/SVG download.
 
 
+* [Luobomao](https://luobomao.fun/) - An interactive sandbox playground where you can play with physics-based animations and visual effects.
 ### Miscellaneous
 
 * [rollApp](https://www.rollapp.com/) `[Account]` - Run desktop applications on any device.
