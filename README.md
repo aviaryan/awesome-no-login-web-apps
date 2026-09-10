@@ -96,7 +96,6 @@ To save the world from creating user accounts and installing software applicatio
 
 * [Dillinger](http://dillinger.io/) - Powerful Markdown WYSIWYG with export to HTML and PDF. User account to save documents.
 * [Github.md](http://aviaryan.in/javascripts/github.md/) - Simple GitHub-style Markdown (GFM) preview with print feature.
-* [HackMD](https://hackmd.io) - A collaborative, powerful, real-time online markdown editor with preview.
 * [Markdown Live Preview](http://markdownlivepreview.com/) - Instant Markdown preview.
 * [StackEdit.io](https://stackedit.io/) - Rich in-browser markdown editor that works offline.
 
@@ -248,7 +247,6 @@ To save the world from creating user accounts and installing software applicatio
 * [TutorialsPoint Online Tools](https://www.tutorialspoint.com/codingground.htm) - Online terminals for Ipython, Octave, Powershell, Redis and lots others. Also has a good collection of IDEs for programming languages.
 * [Ideone](http://ideone.com/) - Online IDE supporting most popular languages.
 * [codepad](http://codepad.org/) - Online compiler which also allows you to create project (you get alloted a subdomain for your project). Note that there's no support for reading from stdin.
-* [Repl.it](https://repl.it/) - Online terminals for all popular programming languages.
 * [Codechef IDE](https://www.codechef.com/ide) - Simple single file code compiler supporting major languages.
 * [Codepen.io](https://codepen.io/) - Playground for front end web development.
 * [JS Bin](https://jsbin.com) - Collaborative web development and debugging tool.
