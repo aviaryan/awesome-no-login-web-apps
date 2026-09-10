@@ -142,7 +142,6 @@ To save the world from creating user accounts and installing software applicatio
 
 ### File Hosting/Sharing
 
-* [EFShare](http://efshare.com/) - Peer to peer secure file sharing.
 * [RGhost](http://rgho.st/) - File hosting service, Max limit 100mb without login.
 * [Clyp](https://clyp.it/) - Audio sharing without limits, rich API.
 * [SendVid](https://sendvid.com/) - Video hosting service.
