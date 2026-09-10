@@ -355,6 +355,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Dub](https://dub.sh/) - Open-source link shortener.
 * [3dHousePlanner](https://www.3dhouseplanner.com/) - 3D home design application on the web.
 * [Luna Tarot](https://www.lunatarotapp.com) - Free multilingual tarot reading web app with 8-language support, daily readings, meditation music, and moon calendar.
+* [Wheelwise](https://trothstone.com/) - UK used-car price check with no account: every advert gets a fair-price grade (A-E), a 36-month resale forecast and a true monthly cost of ownership. Methodology and error bars published. UK-only.
 -----
 
 ## License
