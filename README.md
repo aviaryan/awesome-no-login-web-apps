@@ -190,6 +190,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Typing Words GIF](https://typingwordsgif.com/) - Free online typing text GIF maker. Type words, customize style, and export an animated GIF without login.
 * [IconKing](https://iconking.net) - Free browser-based Lottie animation tool. Preview .json and .lottie files, edit colors across all layers, and convert between formats. No account required.
 * [ShotFrame](https://tyr1105.github.io/shotframe/) - Free screenshot beautifier with gradient backgrounds, device frames, shadows, and HD PNG export. 100% browser-side.
+* [InkCraft](https://inkcraftapp.com/try) - Tattoo try-on. Upload a photo and place a design on your own skin; it warps to the body contour instead of sitting flat, and several designs can be layered at once. The 3D body view and design generation are in the mobile app.
 
 
 ### Internet Downloaders
