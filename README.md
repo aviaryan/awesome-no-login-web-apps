@@ -249,6 +249,8 @@ To save the world from creating user accounts and installing software applicatio
 
 ### Programming Tools
 
+* [Nutilz](https://nutilz.com/) - Free browser-based developer utilities including regex tester, JSON formatter, converters, and security tools.
+
 * [CSS Minifier](https://cssminifier.com/) - Minifies CSS by removing whitespace and comments.
 * [UglifyJS JavaScript minifier](https://skalman.github.io/UglifyJS-online/) - Minifies and obfuscates JavaScript.
 * [HTML minifier by @kangax](https://kangax.github.io/html-minifier/) - HTML minifier. Minifies inline CSS and JavaScript too.
