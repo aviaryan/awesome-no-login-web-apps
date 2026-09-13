@@ -190,6 +190,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Typing Words GIF](https://typingwordsgif.com/) - Free online typing text GIF maker. Type words, customize style, and export an animated GIF without login.
 * [IconKing](https://iconking.net) - Free browser-based Lottie animation tool. Preview .json and .lottie files, edit colors across all layers, and convert between formats. No account required.
 * [ShotFrame](https://tyr1105.github.io/shotframe/) - Free screenshot beautifier with gradient backgrounds, device frames, shadows, and HD PNG export. 100% browser-side.
+* [Filewhisk](https://filewhisk.com/) - Image compressor, resizer and format converter (JPG, PNG, WebP, AVIF, HEIC, TIFF) that runs entirely in the browser, so files are never uploaded. Image tools only for now; no PDF or video yet.
 
 
 ### Internet Downloaders
