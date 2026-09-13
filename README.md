@@ -167,6 +167,7 @@ To save the world from creating user accounts and installing software applicatio
 
 * [Monteams](https://monteams.com) - Free Pokémon team builder that works without login. Plan teams, analyze type coverage, and optimize strategies for all generations from Red/Blue to Scarlet/Violet.
 * [Double Cross](https://everhall.ca) - A daily crossword where every clue has two answers of equal length; deduce which twin slot gets which, then seal the grid once. No ads or tracking, one static page.
+* [Guoman PK](https://guoman-pk.r3fbilgebasaran.workers.dev) - Vote 1v1 duels between 49 Chinese animated series and films in a 16-slot knockout bracket, or run studio-vs-studio tournaments; every duel feeds an all-site ranking.
 
 ### Graphics, Image and Design
 
