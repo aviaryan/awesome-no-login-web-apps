@@ -63,7 +63,6 @@ To save the world from creating user accounts and installing software applicatio
 
 
 * [Local Video Text](https://github.com/phoenix110/local-video-text) - Transcribe short English video files locally in the browser; no account and no server upload.
-
 ### Business and Finance
 
 * [TradingView.com](https://www.tradingview.com/) - Real-time information and market insights from various exchanges. Requires an account for saving settings.
