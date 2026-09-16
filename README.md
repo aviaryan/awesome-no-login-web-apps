@@ -167,6 +167,7 @@ To save the world from creating user accounts and installing software applicatio
 
 * [Monteams](https://monteams.com) - Free Pokémon team builder that works without login. Plan teams, analyze type coverage, and optimize strategies for all generations from Red/Blue to Scarlet/Violet.
 * [Double Cross](https://everhall.ca) - A daily crossword where every clue has two answers of equal length; deduce which twin slot gets which, then seal the grid once. No ads or tracking, one static page.
+* [One Step Late](https://arkai.win/games/one-step-late/) - A daily logic puzzle where your shadow repeats the move you made the turn before: three new boards a day, the same for everyone, with spoiler-free result sharing and every past day still playable. Progress is kept only in the browser, so it does not follow you to another device.
 
 ### Graphics, Image and Design
 
