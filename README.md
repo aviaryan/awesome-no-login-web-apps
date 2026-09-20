@@ -190,6 +190,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Typing Words GIF](https://typingwordsgif.com/) - Free online typing text GIF maker. Type words, customize style, and export an animated GIF without login.
 * [IconKing](https://iconking.net) - Free browser-based Lottie animation tool. Preview .json and .lottie files, edit colors across all layers, and convert between formats. No account required.
 * [ShotFrame](https://tyr1105.github.io/shotframe/) - Free screenshot beautifier with gradient backgrounds, device frames, shadows, and HD PNG export. 100% browser-side.
+* [ShrinkKit](https://p32929.github.io/shrinkkit/) - Bulk image compressor that never uploads anything. Compress, resize, convert to WebP/JPEG/PNG and strip EXIF/GPS from a whole folder at once in the browser, then download the results as a ZIP. Works offline after the first load; the free version handles 20 images per batch.
 
 
 ### Internet Downloaders
