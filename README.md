@@ -37,6 +37,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Privacy, Security and Cryptography](#privacy-security-and-cryptography)
 * [Programming Editors and IDEs](#programming-editors-and-ides)
 * [Programming Tools](#programming-tools)
+* [Region/Country-Specific](#regioncountry-specific)
 * [Search Engines](#search-engines)
 * [Study and Education](#study-and-education)
 * [Text based tools](#text-tools)
@@ -269,6 +270,11 @@ To save the world from creating user accounts and installing software applicatio
 * [DebugBear Speed Test](https://www.debugbear.com/test/website-speed) - Test site speed and Core Web Vitals.
 * [Mydentify AI Crawler Access Checker](https://mydentify.com/tools/ai-crawler-access-checker) - Checks robots.txt, page-level crawler directives, and responses to documented ChatGPT and Claude crawler user-agent names without login; it cannot verify official provider IPs.
 * [Acento JWT Decoder](https://www.acento.io/en/jwt-decoder/) - Decode and inspect JWT tokens (header, payload, signature) entirely in the browser; tokens are never sent to a server.
+
+
+### Region/Country-Specific
+
+* [ComplyOnSite](https://complyonsite.com/tools) - Construction health, safety and environmental compliance tools for UK contractors, including free RAMS, HAVS and site paperwork tools that work without an account.
 
 
 ### Search Engines
