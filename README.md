@@ -190,6 +190,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Typing Words GIF](https://typingwordsgif.com/) - Free online typing text GIF maker. Type words, customize style, and export an animated GIF without login.
 * [IconKing](https://iconking.net) - Free browser-based Lottie animation tool. Preview .json and .lottie files, edit colors across all layers, and convert between formats. No account required.
 * [ShotFrame](https://tyr1105.github.io/shotframe/) - Free screenshot beautifier with gradient backgrounds, device frames, shadows, and HD PNG export. 100% browser-side.
+* [editpot](https://editpot.com/) - Layer-based image editor that works in the browser by default: resize, crop, transparent PNG, text, PNG to ICO favicons and GIF frame editing. PSD and AI files open as flattened images only, and files are capped at 50 MB.
 
 
 ### Internet Downloaders
