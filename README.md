@@ -62,6 +62,8 @@ To save the world from creating user accounts and installing software applicatio
 * [Vizz.fm](https://vizz.fm) - Browser-based music visualizer with customizable scenes and presets.
 
 
+* [QoTool Frame Extractor](https://qotool.com/extract-video-frames) - Extract evenly spaced PNG or JPEG stills from a video in your browser and download them together; limited to 100 images and 1280 pixels wide.
+
 ### Business and Finance
 
 * [TradingView.com](https://www.tradingview.com/) - Real-time information and market insights from various exchanges. Requires an account for saving settings.
