@@ -19,6 +19,7 @@ To save the world from creating user accounts and installing software applicatio
 
 ## Contents
 
+- [MagicKit](https://magickit.47.80.8.174.nip.io) - Free AI toolbox (image generation, writing, video). No sign-up, no API key required. MIT licensed. [Source](https://github.com/kaketiti/magickit)
 * [Audio and Video](#audio-and-video)
 * [Business and Finance](#business-and-finance)
 * [Communication](#communication)
