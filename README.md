@@ -7,15 +7,15 @@
 
 Curated list of awesome web apps that work without requesting you to create an account.
 
-#### Sponsor
+### Sponsor
 
-This project is sponsored by [Doola](https://partnersps.doola.com/vm9o3jyytzox) — US LLC formation and compliance for founders anywhere in the world. Use code **AVI** at checkout for 10% off any plan.
+> This project is sponsored by [Doola](https://partnersps.doola.com/vm9o3jyytzox) — US LLC formation and compliance for founders anywhere in the world. Use code **AVI** at checkout for 10% off any plan.
 
-#### Inspiration
+### Inspiration
 
 To save the world from creating user accounts and installing software applications for every damn thing.
 
-#### Some pointers
+### Some pointers
 
 * The web apps linked in this list provide most of their core features without login. Some websites that require registration have also been included in this list because of lack of a proper alternative. They have been tagged with `[Account]` in their listing.
 * Most of the apps mentioned here do provide some kind of a user account feature to save history and progress. But as already stated before, a user account is not necessary to use the main features of these apps.
