@@ -1,4 +1,8 @@
-# Awesome Web Apps (that work without login)
+
+
+### File Tools
+
+* [EveryTool4U](https://everytool4u.com/) - 108 free browser-based file tools: PDF (merge, split, compress, sign, OCR, redact, rotate), image (background removal, resize, compress, HEIC→JPG), video to GIF, QR codes, invoice generator. All processing is local — files never leave your device.# Awesome Web Apps (that work without login)
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Mentioned in Awesome](https://awesome.re/mentioned-badge.svg)](https://awesome.re)
