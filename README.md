@@ -162,6 +162,7 @@ To save the world from creating user accounts and installing software applicatio
 
 * [Monteams](https://monteams.com) - Free Pokémon team builder that works without login. Plan teams, analyze type coverage, and optimize strategies for all generations from Red/Blue to Scarlet/Violet.
 * [Double Cross](https://everhall.ca) - A daily crossword where every clue has two answers of equal length; deduce which twin slot gets which, then seal the grid once. No ads or tracking, one static page.
+* [LOOT Terminal](https://loot-games.x1vi.workers.dev/) - Terminal-styled aggregator of free game giveaways (GamerPower, Epic Games, SteamDB, IsThereAnyDeal) and CheapShark deals, with cross-store price comparison and historic-low detection. The SteamDB and IsThereAnyDeal feeds rely on a public RSS-to-JSON proxy that can be rate-limited.
 
 ### Graphics, Image and Design
 
