@@ -252,6 +252,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Mydentify AI Crawler Access Checker](https://mydentify.com/tools/ai-crawler-access-checker) - Checks robots.txt, page-level crawler directives, and responses to documented ChatGPT and Claude crawler user-agent names without login; it cannot verify official provider IPs.
 * [Acento JWT Decoder](https://www.acento.io/en/jwt-decoder/) - Decode and inspect JWT tokens (header, payload, signature) entirely in the browser; tokens are never sent to a server.
 * [Azimutt](https://azimutt.app) - Dynamic, interactive ER-style exploration for large and complex databases: search, follow relations, find paths, and build focused layouts incrementally; the explorer works with no account, though saving layouts and documentation may require one.
+* [Dadroit V Web](https://dadroit.com/vweb/) - Fast viewer for large JSON files (up to 50 MB in the browser) with a collapsible tree view, text/RegEx search, copy-path, and export of the whole file or a selected branch to JSON (formatted or minified) or CSV. Opens local files, pasted data, or URLs, including Basic/Bearer-authenticated API endpoints. Runs client-side, so no data leaves your machine.
 
 
 ### Search Engines
