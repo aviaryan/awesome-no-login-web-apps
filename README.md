@@ -217,6 +217,8 @@ To save the world from creating user accounts and installing software applicatio
 * [Notepad](http://notepad.js.org/) - Offline capable Notepad PWA.
 * [ProtectedText](https://www.protectedtext.com/) - Encrypted notes without ads, sessions, or cookies.
 * [WriteXO](https://writexo.com/) - Online Notepad with rich-text support, password protection and custom URLs.
+* [PC Notepad](https://pcnotepad.com/) – Free online notepad for PC and mobile, no login required, with optional password protection for secure and distraction-free writing.
+
 
 
 ### Privacy, Security and Cryptography
