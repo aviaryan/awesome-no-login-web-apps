@@ -81,7 +81,6 @@ To save the world from creating user accounts and installing software applicatio
 * [Gruveo](https://www.gruveo.com/) - Video conference online. Just like Tlk.io, easy to remember custom URLs.
 * [Whereby](https://whereby.com/) - Video conference online. Create any room like `whereby.com/some-room` and starting chatting.
 * [Videolink2](https://videolink2.me/start) - Video conference online. Link generated, share link to invite other participants.
-* [GetARoom.io](https://getaroom.io/) - Video conference online. Has mobile browser support, just click start new call and share the link.
 * [FaxZero](https://faxzero.com/) - Send an online fax for free.
 * [GoTeam](https://goteam.video/) - Video meeting rooms. Create any room like `goteam.video/some-room` . Username is asked after room creation.
 
@@ -143,13 +142,10 @@ To save the world from creating user accounts and installing software applicatio
 
 ### File Hosting/Sharing
 
-* [RGhost](http://rgho.st/) - File hosting service, Max limit 100mb without login.
 * [Clyp](https://clyp.it/) - Audio sharing without limits, rich API.
-* [SendVid](https://sendvid.com/) - Video hosting service.
 * [Archive.org](https://archive.org/) `[Account]` - Unlimited file hosting of any type, no limits on bandwidth and upload size.
 * [MultCloud](https://www.multcloud.com/home) - Cloud service to manage, move, copy and migrate data between multiple cloud services. Supports all major cloud services. No sign-up required, 2TB cloud storage, download large files directly to the cloud, no size restrictions.
 * [harvis.dev](https://harvis.dev/) - Static website hosting without an account. Drag in a folder (or run `npx harvis`) and get a live site in seconds, with a private claim link to take ownership later. Free for small sites only.
-* [cv.cm](https://cv.cm/) - Paste text, images, audio, video or files and get an ultra-short link to share; with Markdown, code highlighting and auto-translation.
 
 
 <a name="games"></a>
@@ -190,7 +186,6 @@ To save the world from creating user accounts and installing software applicatio
 * [doka.photo](https://doka.photo/) - Easy to use photo editor. You can crop, rotate, flip, add a filter, resize and annotate.
 * [CleanIcons](https://cleanicons.xyz) - Download Font Awesome icon fonts as PNG's.
 * [Mancer](https://mancer.app) - Design, share, and order T-Shirts from the browser. Designs can be exported as PNGs.
-* [Branition Colors](https://branition.com/colors) - Hand-curated collection of color pallets best fitted for branding.
 * [Typing Words GIF](https://typingwordsgif.com/) - Free online typing text GIF maker. Type words, customize style, and export an animated GIF without login.
 * [IconKing](https://iconking.net) - Free browser-based Lottie animation tool. Preview .json and .lottie files, edit colors across all layers, and convert between formats. No account required.
 * [ShotFrame](https://tyr1105.github.io/shotframe/) - Free screenshot beautifier with gradient backgrounds, device frames, shadows, and HD PNG export. 100% browser-side.
@@ -200,7 +195,6 @@ To save the world from creating user accounts and installing software applicatio
 
 * [Bitport](https://bitport.io/welcome) `[Account]` - Torrent downloader. Limited to 1 torrent of 1gb per day in free account.
 * [Seedr](https://www.seedr.cc/) `[Account]` - Cloud based torrent downloader. Limited to multiple torrents of total size of 2gb in free account. Unlimited bandwidth. 500mb increase on contributing a new user.
-* [ZbigZ](https://zbigz.com/) - Torrent downloader that lets you chose the files to download from a torrent. File size limit is 2gb and download is capped to 50kbps in the free version.
 
 
 ### Music, Radio and Podcasts
@@ -209,7 +203,6 @@ To save the world from creating user accounts and installing software applicatio
 * [Internet Radio](https://www.internet-radio.com/) - Listen to over 40k radio stations.
 * [AnyAudio](http://anyaudio.in/) - Stream and download music.
 * [MusixHub](http://www.musixhub.com) - Play artists and albums video songs online, powered by YouTube.
-* [plug.dj](https://plug.dj/) - Listen to thousands of DJs, powered by YouTube, sign-in required to become a DJ.
 * [Jango Radio](http://www.jango.com/) - Free Internet radio, listen to hundreds of genre stations or create your own with your favorite music.
 * [Anime Openings](http://openings.moe/) - Free anime radio, listen or download anime opening and ending videos.
 * [NoteFlight](https://www.noteflight.com/login) `[Account]` - Print music sheets, write your own music online (review).
@@ -223,14 +216,12 @@ To save the world from creating user accounts and installing software applicatio
 * [shrib](https://shrib.com/) - Save note to a custom URL and edit it later.
 * [Notepad](http://notepad.js.org/) - Offline capable Notepad PWA.
 * [ProtectedText](https://www.protectedtext.com/) - Encrypted notes without ads, sessions, or cookies.
-* [Taskade](https://taskade.com/) - Collaborative notes, task lists, and outlines. Sign up is optional.
 * [WriteXO](https://writexo.com/) - Online Notepad with rich-text support, password protection and custom URLs.
 
 
 ### Privacy, Security and Cryptography
 
 * [Cryptii](https://cryptii.com) - Offers modular conversion, encoding and encryption with a wide variety of ciphers and methods.
-* [Encipher.it](https://encipher.it/) - AES-256 text encryption and decryption.
 * [Encrypted Pastebin - Defuse.ca](https://defuse.ca/pastebin.htm) - Set password on your public pastes.
 * [jotti](https://virusscan.jotti.org) - Scan any suspicious file or email attachment for viruses.
 * [scr.im](http://scr.im/) - Share e-mail address freely without worrying about spam.
@@ -258,7 +249,6 @@ To save the world from creating user accounts and installing software applicatio
 * [HTML minifier by @kangax](https://kangax.github.io/html-minifier/) - HTML minifier. Minifies inline CSS and JavaScript too.
 * [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/) - Android launcher icon, notification icon etc generator from existing images.
 * [Website Speed Test | Pingdom](https://tools.pingdom.com/) - Feature-rich website tester.
-* [Google Structured Data Testing Tool](https://search.google.com/structured-data/testing-tool) - Test a webpage for structured data and SEO.
 * [Regulex](https://jex.im/regulex/) - JavaScript regular expression visualizer.
 * [GTmetrix](https://gtmetrix.com/) - Analyze your site’s speed and make it faster.
 * [BuildWith](https://builtwith.com/) - Find the technology stack to know everything about a website.
@@ -267,7 +257,6 @@ To save the world from creating user accounts and installing software applicatio
 * [CSS Autoprefixer](https://autoprefixer.github.io/) - A postprocessor for handling vendor prefixes in CSS. Just paste the regular CSS and get the vendor prefix handled CSS instantly.
 * [CSS Matic](https://www.cssmatic.com/) - CSS tools to quickly generate gradients, border radius, noise textures and box shadow and get corresponding CSS or SASS.
 * [Carbon](https://carbon.now.sh) - Create and share beautiful images of your source code.
-* [jsonstore.io](https://www.jsonstore.io/) - jsonstore.io offers free, secured JSON based API endpoints for small projects. It supports common types of HTTP operations like POST, GET, PUT, DELETE etc.
 * [ObjGen](http://www.objgen.com/) - This app helps you generate code (JSON, HTML, etc) in real time as you type in only the key words, types and properties using a text based syntax.
 * [JsonFormatter](https://jsonformatter.curiousconcept.com) - View json in human readable form.
 * [DebugBear Speed Test](https://www.debugbear.com/test/website-speed) - Test site speed and Core Web Vitals.
@@ -278,7 +267,6 @@ To save the world from creating user accounts and installing software applicatio
 ### Search Engines
 
 * [Iconfinder](https://www.iconfinder.com/) - Download all your favourite icons in one place.
-* [Emoji Search Online](https://www.webpagefx.com/tools/emoji-cheat-sheet/) - Intelligent emoji search engine.
 * [IWantMyName](https://iwantmyname.com/) - Helps you search domains across all TLDs.
 * [Similar Sites](http://www.similarsites.com/) - Find websites similar to the one you enter.
 * [Google Fonts](https://fonts.google.com/) - Collection of open-source fonts by google.
@@ -308,7 +296,6 @@ To save the world from creating user accounts and installing software applicatio
 * [Diff Checker](https://www.diffchecker.com/) - Compare two text passages and view differences.
 * [CopyPasteCharacter](http://www.copypastecharacter.com/) - Copy special characters that are generally unavailable in a keyboard.
 * [PolishMyWriting](http://www.polishmywriting.com/) - Paste a text and get feedback on your writing.
-* [Wordle](http://www.wordle.net/) - A toy to generate 'Word Clouds' form a given piece of text.
 * [tYp3r](http://typ3r.aavi.me) - dA aNn0Y1Ng t3Xt g3NeRa7or (The annoying text generator :-P).
 * [Telegraph](http://telegra.ph/) - Minimalist publishing tool that supports richly formatted text.
 * [DiffNow](https://www.diffnow.com/) - Advanced, online and free File Difference checking, with options like Upload file, compare files by their links or Text Input.
@@ -355,9 +342,7 @@ To save the world from creating user accounts and installing software applicatio
 * [IFTTT](https://ifttt.com/) `[Account]` - Create a connection between your favourite online services. For example, if one needs to tweet their instagrams as native photos on twitter then IFTTT can come in handy.
 * [AlarmDJ](https://alarmdj.com) - Online Alarm clock, use MP3 files and YouTube videos as alarm.
 * [Edubirdie](https://edubirdie.com/plagiarism-checker) - An online plagiarism checker which gives percentage of similarity comparing our content with online resources.
-* [Morsify](https://morsify.net) - Online Morse code translator.
 * [Dub](https://dub.sh/) - Open-source link shortener.
-* [3dHousePlanner](https://www.3dhouseplanner.com/) - 3D home design application on the web.
 * [Luna Tarot](https://www.lunatarotapp.com) - Free multilingual tarot reading web app with 8-language support, daily readings, meditation music, and moon calendar.
 -----
 
