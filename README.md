@@ -63,6 +63,7 @@ To save the world from creating user accounts and installing software applicatio
 * [audiotest.io](https://audiotest.io) - Free in-browser audio test toolkit with stereo left/right channel test, frequency sweep, tone generator, bass response test, headphone test and tinnitus frequency test. All tests run client-side, bilingual EN/ZH.
 * [Whisper Web](https://whisperweb.dev/) - Transcribe audio and video to text in the browser with OpenAI's Whisper. Runs on-device, no login, 100+ languages.
 * [Vizz.fm](https://vizz.fm) - Browser-based music visualizer with customizable scenes and presets.
+* [Reverse Audio Tool](https://reverseaudiotool.com/) - Reverse an audio file in the browser: load an MP3, WAV, M4A, OGG or FLAC, compare the original with the backwards version and download it. Needs no account and never uploads the file, but the export is WAV only and it changes playback order only, so trimming or noise removal still needs an audio editor.
 
 
 ### Business and Finance
