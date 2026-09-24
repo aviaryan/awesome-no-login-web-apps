@@ -17,8 +17,8 @@ To save the world from creating user accounts and installing software applicatio
 
 ### Some pointers
 
-* The web apps linked in this list provide most of their core features without login. Some websites that require registration have also been included in this list because of lack of a proper alternative. They have been tagged with `[Account]` in their listing.
-* Most of the apps mentioned here do provide some kind of a user account feature to save history and progress. But as already stated before, a user account is not necessary to use the main features of these apps.
+* The web apps linked in this list provide most of their core features without login.
+* Most of the apps mentioned here do provide some kind of a user account feature to save history and progress. A user account is not necessary to use the main features of these apps.
 
 
 ## Contents
@@ -35,7 +35,6 @@ To save the world from creating user accounts and installing software applicatio
 * [File Hosting/Sharing](#file-hostingsharing)
 * [Games](#games)
 * [Graphics, Image and Design](#graphics-image-and-design)
-* [Internet Downloaders](#internet-downloaders)
 * [Music, Radio and Podcasts](#music-radio-and-podcasts)
 * [Notepads and Notebooks](#notepads-and-notebooks)
 * [Privacy, Security and Cryptography](#privacy-security-and-cryptography)
@@ -77,9 +76,7 @@ To save the world from creating user accounts and installing software applicatio
 ### Communication
 
 * [Tlk.io](https://tlk.io/) - Create a room with any URL (eg `tlk.io/some-room`) you wish and chat in groups.
-* [Discord](https://discordapp.com/) - Voice and text conference online. Username is asked at start to create a temp avatar.
 * [Gruveo](https://www.gruveo.com/) - Video conference online. Just like Tlk.io, easy to remember custom URLs.
-* [Whereby](https://whereby.com/) - Video conference online. Create any room like `whereby.com/some-room` and starting chatting.
 * [Videolink2](https://videolink2.me/start) - Video conference online. Link generated, share link to invite other participants.
 * [FaxZero](https://faxzero.com/) - Send an online fax for free.
 * [GoTeam](https://goteam.video/) - Video meeting rooms. Create any room like `goteam.video/some-room` . Username is asked after room creation.
@@ -90,8 +87,6 @@ To save the world from creating user accounts and installing software applicatio
 #### Latex
 
 * [Papeeria](https://papeeria.com/) - Latex preview with an option for downloading as a PDF available without registration.
-* [Overleaf](https://www.overleaf.com/) `[Account]` - Unlimited collaborators and projects, git access in the free account.
-* [Sharelatex](https://www.sharelatex.com) `[Account]` - Latex editor with unlimited private projects. 1 collaborator in free account.
 
 #### Markdown
 
@@ -143,7 +138,7 @@ To save the world from creating user accounts and installing software applicatio
 ### File Hosting/Sharing
 
 * [Clyp](https://clyp.it/) - Audio sharing without limits, rich API.
-* [Archive.org](https://archive.org/) `[Account]` - Unlimited file hosting of any type, no limits on bandwidth and upload size.
+* [Internet Archive](https://archive.org/) - Browse a free library of books, films, music, software, and other saved documents, including the Wayback Machine’s copies of old web pages. No account needed to search or read.
 * [MultCloud](https://www.multcloud.com/home) - Cloud service to manage, move, copy and migrate data between multiple cloud services. Supports all major cloud services. No sign-up required, 2TB cloud storage, download large files directly to the cloud, no size restrictions.
 * [harvis.dev](https://harvis.dev/) - Static website hosting without an account. Drag in a folder (or run `npx harvis`) and get a live site in seconds, with a private claim link to take ownership later. Free for small sites only.
 
@@ -178,7 +173,6 @@ To save the world from creating user accounts and installing software applicatio
 * [Online Logo Maker](https://www.onlinelogomaker.com/) - Make logos online. Extra user account feature to save creations.
 * [Coolors](https://coolors.co/) - Color palettes generator.
 * [Tiny PNG](https://tinypng.com/) - Smart PNG and JPEG compression.
-* [Realtime Board](https://realtimeboard.com/) `[Account]` - Collaborative blackboard with huge area, screen sharing, video & voice communication.
 * [ezGIF](https://ezgif.com/) - GIF images editor (cropping, scaling, optimizing and more).
 * [Adobe Color CC](https://color.adobe.com/) - Color scheme designer.
 * [IcoMoon](https://icomoon.io/app/) - A platform that helps you in finding vector icon packs, hosting icons as SVGs or fonts and to generate SVG + PNG + icon fonts of selected icons.
@@ -191,12 +185,6 @@ To save the world from creating user accounts and installing software applicatio
 * [ShotFrame](https://tyr1105.github.io/shotframe/) - Free screenshot beautifier with gradient backgrounds, device frames, shadows, and HD PNG export. 100% browser-side.
 
 
-### Internet Downloaders
-
-* [Bitport](https://bitport.io/welcome) `[Account]` - Torrent downloader. Limited to 1 torrent of 1gb per day in free account.
-* [Seedr](https://www.seedr.cc/) `[Account]` - Cloud based torrent downloader. Limited to multiple torrents of total size of 2gb in free account. Unlimited bandwidth. 500mb increase on contributing a new user.
-
-
 ### Music, Radio and Podcasts
 
 * [Podbay](http://podbay.fm/) - Listen to any podcast online, individual episodes can be downloaded.
@@ -205,7 +193,6 @@ To save the world from creating user accounts and installing software applicatio
 * [MusixHub](http://www.musixhub.com) - Play artists and albums video songs online, powered by YouTube.
 * [Jango Radio](http://www.jango.com/) - Free Internet radio, listen to hundreds of genre stations or create your own with your favorite music.
 * [Anime Openings](http://openings.moe/) - Free anime radio, listen or download anime opening and ending videos.
-* [NoteFlight](https://www.noteflight.com/login) `[Account]` - Print music sheets, write your own music online (review).
 * [ongaku](https://ongaku.js.org/) - Online anime music radio, with [desktop port](https://github.com/Anshuman-Verma/ongaku-desktop).
 * [Radio Garden](http://radio.garden/) - Listen to thousands of radio stations worldwide by selecting a city on the globe.
 
@@ -317,7 +304,6 @@ To save the world from creating user accounts and installing software applicatio
 * [WhoIsHostingThis](http://www.whoishostingthis.com/) - Find the web host of any website.
 * [TypingWeb](https://www.typing.com/student/start) - Master touch-typing with ease.
 * [Acronym Creator](http://acronymcreator.net/) - Create acronym for organization, algorithm, or anything having at least two words.
-* [Postify](http://postfity.com/) `[Account]` - Schedule posts on Facebook, Twitter & LinkedIn.
 * [Resume Nation](https://resume-nation.github.io) - An open source resume builder progressive web app which can work offline. It has a few themes to choose from and it can export the resume in PDF form.
 * [Daily Todo](https://dailytodo.org/) -  Simple todo list maker.
 * [Mailinator](https://www.mailinator.com/) - Disposable email service.
@@ -331,18 +317,13 @@ To save the world from creating user accounts and installing software applicatio
 
 ### Miscellaneous
 
-* [rollApp](https://www.rollapp.com/) `[Account]` - Run desktop applications on any device.
 * [is.gd](https://is.gd/) - Link shortener with custom URLs and open API (no tokens).
-* [Bitly](https://bitly.com/) - Powerful URL shortener with REST API.
 * [Superbetize](http://superbetize.com/) - Categorize your grocery list.
 * [isup.me](http://isup.me/) - Check if website is unavailable just for you or everyone else.
 * [Dictation.io](https://dictation.io/) - Online voice dictation software supporting large number of languages.
 * [followupthen](https://www.followupthen.com/) - Easiest way to setup email reminders.
 * [lmgtfy](http://lmgtfy.com/) - When your friends are too lazy to use Google on their own.
-* [IFTTT](https://ifttt.com/) `[Account]` - Create a connection between your favourite online services. For example, if one needs to tweet their instagrams as native photos on twitter then IFTTT can come in handy.
 * [AlarmDJ](https://alarmdj.com) - Online Alarm clock, use MP3 files and YouTube videos as alarm.
-* [Edubirdie](https://edubirdie.com/plagiarism-checker) - An online plagiarism checker which gives percentage of similarity comparing our content with online resources.
-* [Dub](https://dub.sh/) - Open-source link shortener.
 * [Luna Tarot](https://www.lunatarotapp.com) - Free multilingual tarot reading web app with 8-language support, daily readings, meditation music, and moon calendar.
 -----
 
