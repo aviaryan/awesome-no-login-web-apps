@@ -164,6 +164,7 @@ To save the world from creating user accounts and installing software applicatio
 
 * [Monteams](https://monteams.com) - Free Pokémon team builder that works without login. Plan teams, analyze type coverage, and optimize strategies for all generations from Red/Blue to Scarlet/Violet.
 * [Double Cross](https://everhall.ca) - A daily crossword where every clue has two answers of equal length; deduce which twin slot gets which, then seal the grid once. No ads or tracking, one static page.
+* [Lagario 3](https://lagario.thomasar.dev) - Free agar.io-style multiplayer game with real gravity: orbit stars, slingshot past them at up to 3× speed and crash into rivals to knock chunks off. Five modes including a battle royale, rooms shared by link, desktop and mobile. Multiplayer is peer-to-peer (one player's browser hosts the room) and bots fill empty slots.
 
 ### Graphics, Image and Design
 
