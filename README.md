@@ -72,6 +72,7 @@ To save the world from creating user accounts and installing software applicatio
 * [InvoiceToMe](https://invoiceto.me/) - Generate professional invoices from various templates with your company details.
 * [ShiftDispatch Schedule Builder](https://shiftdispatchhq.com/schedule-builder) - Build weekly staff schedules, import or export spreadsheets, print schedules, and optionally publish a read-only link without creating an account.
 * [QuoteChime](https://quotechime.pages.dev/?ref=awesomenologin#generator) - Draft a finite quote follow-up sequence for service businesses in the browser. It does not send messages or store customer details.
+* [BusinessOS](https://businessos.biz) - Suite of 40+ business calculators and generators (VAT, GST, profit margin, invoice number, receipt, freelance rate, ROI, and more) that run entirely in the browser with no signup, no tracking, no data leaves your device. Full invoicing and accounting app also available on the same page — free during limited early access.
 
 
 ### Communication
