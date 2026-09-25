@@ -316,6 +316,7 @@ To save the world from creating user accounts and installing software applicatio
 * [WeGoWhen](https://wegowhen.com) - Finds the dates a group can travel together: everyone taps the days they are free and it ranks the consecutive date ranges that fit the most people. Days only, so no time-of-day scheduling.
 * [Zero Dollar Domains](https://arynjennen1989-stack.github.io/) - Live RDAP hunter for unused cheap TLD names plus a catalog of still-free domain and subdomain programs. No signup. Not an expired-.com dump.
 * [BarcodeGen](https://www.barcodegen.net) - Free online barcode generator supporting 35+ formats including Code 128, EAN-13, QR Code, and Data Matrix with bulk generation and PNG/SVG download.
+* [Driftlog Country Counter](https://driftlog-counter.pages.dev) - Drop in photos, a folder, a Google Takeout folder or a Google Maps Timeline export and it maps the countries you have been to, with the first and last year for each. Runs entirely in the browser with nothing uploaded, including in iPhone Safari. Only photos that carry GPS location can be counted.
 
 
 ### Miscellaneous
