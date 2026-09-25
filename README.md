@@ -120,6 +120,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Piskel](https://www.piskelapp.com/) - Free online editor for animated sprites & pixel art
 * [PixelCraft](https://pixelcraft.web.app) - A Pixel Art Editor and animation creation tool
 * [MapDraw](https://www.mapdraw.net/) - Draw and edit paths, areas and markers on a map. Supports GeoJSON, GPX, KML and KMZ files, with routing, elevation profiles and shareable links. Files are processed in your browser. Open source.
+* [Drawbly](https://drawbly.com) - Draw rough diagrams with freehand arrows and editable text, then export PNGs without signing in. Drawings stay in your browser, and free exports carry a Drawbly credit.
 
 
 ### File Converters
