@@ -186,6 +186,8 @@ To save the world from creating user accounts and installing software applicatio
 * [ShotFrame](https://tyr1105.github.io/shotframe/) - Free screenshot beautifier with gradient backgrounds, device frames, shadows, and HD PNG export. 100% browser-side.
 
 
+* [Image to ASCII](https://imagetoascii.art/) - Convert images into ASCII art locally with adjustable character sets and dithering; export TXT, Markdown, PNG, SVG, HTML, or ANSI without an account. GIF input uses only the first frame.
+
 ### Music, Radio and Podcasts
 
 * [Podbay](http://podbay.fm/) - Listen to any podcast online, individual episodes can be downloaded.
