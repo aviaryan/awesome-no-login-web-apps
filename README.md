@@ -73,6 +73,7 @@ To save the world from creating user accounts and installing software applicatio
 * [ShiftDispatch Schedule Builder](https://shiftdispatchhq.com/schedule-builder) - Build weekly staff schedules, import or export spreadsheets, print schedules, and optionally publish a read-only link without creating an account.
 * [QuoteChime](https://quotechime.pages.dev/?ref=awesomenologin#generator) - Draft a finite quote follow-up sequence for service businesses in the browser. It does not send messages or store customer details.
 
+* [QFXtoQBO](https://qfxtoqbo.com/) - Convert QFX, OFX and CSV bank transactions to QuickBooks Web Connect (.qbo) files locally in the browser. Includes five exports per month without an account; supports one posted USD account, up to 2 MB and 10,000 transactions per file.
 
 ### Communication
 
