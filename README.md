@@ -73,6 +73,8 @@ To save the world from creating user accounts and installing software applicatio
 * [ShiftDispatch Schedule Builder](https://shiftdispatchhq.com/schedule-builder) - Build weekly staff schedules, import or export spreadsheets, print schedules, and optionally publish a read-only link without creating an account.
 * [QuoteChime](https://quotechime.pages.dev/?ref=awesomenologin#generator) - Draft a finite quote follow-up sequence for service businesses in the browser. It does not send messages or store customer details.
 
+* [CostLatch](https://costlatch.rtgproductlabs.com/?utm_source=github&utm_medium=referral&utm_campaign=directory) - Compare two same-supplier CSV price lists by SKU and export changes locally in your browser without an account; limited to 5,000 rows per file, with duplicate-SKU and unit/currency warnings.
+
 
 ### Communication
 
