@@ -293,7 +293,9 @@ To save the world from creating user accounts and installing software applicatio
 * [Emojify](https://madelinemiller.dev/apps/emojify/) - A tool to spice up text, lyrics, or poems by adding emojis.
 
 
+* [Txtopia](https://txtopia.com/) - Translate text and Morse code in the browser with visible normalization and unsupported-input checks. No account required.
 <a name="utilities"></a>
+
 ### Utilities (uncategorized)
 
 * [Dataflow kit](https://dataflowkit.com/dfk) - Extract structured data from Web pages.
