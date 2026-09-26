@@ -196,6 +196,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Anime Openings](http://openings.moe/) - Free anime radio, listen or download anime opening and ending videos.
 * [ongaku](https://ongaku.js.org/) - Online anime music radio, with [desktop port](https://github.com/Anshuman-Verma/ongaku-desktop).
 * [Radio Garden](http://radio.garden/) - Listen to thousands of radio stations worldwide by selecting a city on the globe.
+* [The Podcast App Tools](https://thepodcastapp.dev/tools) - Free browser tools for podcast listeners and creators: podcast cover art checker, OPML generator and viewer, and RSS feed validator; no account needed.
 
 
 ### Notepads and Notebooks
