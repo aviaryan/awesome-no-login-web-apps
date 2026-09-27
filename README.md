@@ -103,6 +103,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Browserpad](http://browserpad.org/) - A server-less plain text editor in the browser. Allows you to open and save plain text files.
 * [WriteURL](http://www.writeurl.com/) - A collaborative real-time online text editor.
 * [Tablesmit](https://tablesmit.com) - A minimalist table builder for analytical writing. Build, format, and export structured tables. No signup required.
+* [esign.website](https://esign.website/) - Sign PDFs with a drawn, typed or uploaded signature, and merge, split or rotate them, all in the browser so files are never uploaded. Merging, splitting and rotating are free; signed downloads are watermarked unless you pay $1, which also needs no account.
 
 <a name="drawing"></a>
 ### Drawing
