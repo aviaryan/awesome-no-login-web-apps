@@ -185,6 +185,8 @@ To save the world from creating user accounts and installing software applicatio
 * [IconKing](https://iconking.net) - Free browser-based Lottie animation tool. Preview .json and .lottie files, edit colors across all layers, and convert between formats. No account required.
 * [ShotFrame](https://tyr1105.github.io/shotframe/) - Free screenshot beautifier with gradient backgrounds, device frames, shadows, and HD PNG export. 100% browser-side.
 
+* [Refentra target-size image compressor](https://refentra.com/tools/compress-image-to-target-size/) - Compress one static JPEG, PNG or WebP toward a chosen byte limit locally, with actual-size checks and no account; some targets cannot be reached.
+
 
 ### Music, Radio and Podcasts
 
