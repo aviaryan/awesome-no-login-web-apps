@@ -120,6 +120,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Piskel](https://www.piskelapp.com/) - Free online editor for animated sprites & pixel art
 * [PixelCraft](https://pixelcraft.web.app) - A Pixel Art Editor and animation creation tool
 * [MapDraw](https://www.mapdraw.net/) - Draw and edit paths, areas and markers on a map. Supports GeoJSON, GPX, KML and KMZ files, with routing, elevation profiles and shareable links. Files are processed in your browser. Open source.
+* [Baipix](https://baipix.app) - Pixel art editor with a Figma-like interface. Exports clean SVG and PNG, imports Lospec palettes, drawings are saved in the browser. No animation yet. Open source.
 
 
 ### File Converters
