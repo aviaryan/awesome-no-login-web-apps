@@ -134,6 +134,7 @@ To save the world from creating user accounts and installing software applicatio
 * [freetools.site](https://freetools.site/) - Free online tools. Convert or edit documents, images, audio, video and more.
 * [Excel to Markdown](https://exceltomd.com/excel-to-markdown) - Convert XLSX, XLS, and CSV files into Markdown tables locally in the browser; no account or server upload required.
 * [Picute Subtitle Converter](https://picute.net/en/tools/srt-to-vtt-converter) - Convert subtitle files between SRT and VTT formats in the browser. No upload, no login.
+* [WebP Convert to JPG](https://www.webpconverttojpg.com/) - Batch-convert WebP, HEIC, AVIF and PNG images to JPG, PNG or WebP with a quality slider and ZIP download; conversion runs locally in the browser, so files are never uploaded. No watermark, but it is image-only (no documents or video).
 
 
 ### File Hosting/Sharing
