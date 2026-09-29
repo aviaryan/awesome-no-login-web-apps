@@ -72,6 +72,7 @@ To save the world from creating user accounts and installing software applicatio
 * [InvoiceToMe](https://invoiceto.me/) - Generate professional invoices from various templates with your company details.
 * [ShiftDispatch Schedule Builder](https://shiftdispatchhq.com/schedule-builder) - Build weekly staff schedules, import or export spreadsheets, print schedules, and optionally publish a read-only link without creating an account.
 * [QuoteChime](https://quotechime.pages.dev/?ref=awesomenologin#generator) - Draft a finite quote follow-up sequence for service businesses in the browser. It does not send messages or store customer details.
+* [LoanPay](https://loanpay.freemake.online/) - Fixed-rate loan calculator with an extra-payment simulator, side-by-side loan comparison and a full amortization schedule. Fixed-rate loans only — no variable-rate or refinancing scenarios.
 
 
 ### Communication
@@ -184,6 +185,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Typing Words GIF](https://typingwordsgif.com/) - Free online typing text GIF maker. Type words, customize style, and export an animated GIF without login.
 * [IconKing](https://iconking.net) - Free browser-based Lottie animation tool. Preview .json and .lottie files, edit colors across all layers, and convert between formats. No account required.
 * [ShotFrame](https://tyr1105.github.io/shotframe/) - Free screenshot beautifier with gradient backgrounds, device frames, shadows, and HD PNG export. 100% browser-side.
+* [BgRemove](https://photopassport.online/) - Removes photo backgrounds in the browser: instant color-key mode plus an optional on-device AI model. Exports transparent PNG, nothing is uploaded. The AI mode is tuned for portraits and can be rough on hair/fine edges.
 
 
 ### Music, Radio and Podcasts
@@ -316,6 +318,7 @@ To save the world from creating user accounts and installing software applicatio
 * [WeGoWhen](https://wegowhen.com) - Finds the dates a group can travel together: everyone taps the days they are free and it ranks the consecutive date ranges that fit the most people. Days only, so no time-of-day scheduling.
 * [Zero Dollar Domains](https://arynjennen1989-stack.github.io/) - Live RDAP hunter for unused cheap TLD names plus a catalog of still-free domain and subdomain programs. No signup. Not an expired-.com dump.
 * [BarcodeGen](https://www.barcodegen.net) - Free online barcode generator supporting 35+ formats including Code 128, EAN-13, QR Code, and Data Matrix with bulk generation and PNG/SVG download.
+* [Dead Pixel Test](https://tolerence.net/) - Fullscreen black/white/RGB plus a custom hue, auto-cycle mode and a stuck-pixel exerciser for checking a monitor before the return window closes. Detection is manual — it shows the colors, you spot the pixels.
 
 
 ### Miscellaneous
