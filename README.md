@@ -64,6 +64,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Whisper Web](https://whisperweb.dev/) - Transcribe audio and video to text in the browser with OpenAI's Whisper. Runs on-device, no login, 100+ languages.
 * [Vizz.fm](https://vizz.fm) - Browser-based music visualizer with customizable scenes and presets.
 * [Slant it](https://slantit.app) - Create catchy 3D product videos from screen recordings in few minutes.
+* [SpeakerEject](https://speakereject.com/) - Free browser audio test tools: tone generator with WAV export, frequency sweep, white/pink/brown noise, speaker and headphone left/right tests, bass test and 5.1/7.1 surround test files, plus a water-eject tone for phone speakers. Plays one tone at a time, and the live surround test is limited to 5.1 by the browser.
 
 
 ### Business and Finance
