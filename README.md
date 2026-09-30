@@ -184,6 +184,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Typing Words GIF](https://typingwordsgif.com/) - Free online typing text GIF maker. Type words, customize style, and export an animated GIF without login.
 * [IconKing](https://iconking.net) - Free browser-based Lottie animation tool. Preview .json and .lottie files, edit colors across all layers, and convert between formats. No account required.
 * [ShotFrame](https://tyr1105.github.io/shotframe/) - Free screenshot beautifier with gradient backgrounds, device frames, shadows, and HD PNG export. 100% browser-side.
+* [Fomrix STL Viewer](https://fomrix.com/stl-viewer) - Inspect STL geometry locally in the browser with rotation, viewing modes, triangle counts and model-space dimensions; no account is required, and printability is not guaranteed.
 
 
 ### Music, Radio and Podcasts
