@@ -103,6 +103,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Browserpad](http://browserpad.org/) - A server-less plain text editor in the browser. Allows you to open and save plain text files.
 * [WriteURL](http://www.writeurl.com/) - A collaborative real-time online text editor.
 * [Tablesmit](https://tablesmit.com) - A minimalist table builder for analytical writing. Build, format, and export structured tables. No signup required.
+* [yourhack.ai PDF tools](https://yourhack.ai/c/pdf) - Merge, split, rotate, reorder and delete PDF pages, convert PDF to JPG/PNG and images to PDF, and extract text. Files are processed in the browser with pdf-lib and pdf.js, so nothing is uploaded. The compressor only rebuilds the file structure, so scanned or image-heavy PDFs shrink very little.
 
 <a name="drawing"></a>
 ### Drawing
