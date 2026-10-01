@@ -72,6 +72,7 @@ To save the world from creating user accounts and installing software applicatio
 * [InvoiceToMe](https://invoiceto.me/) - Generate professional invoices from various templates with your company details.
 * [ShiftDispatch Schedule Builder](https://shiftdispatchhq.com/schedule-builder) - Build weekly staff schedules, import or export spreadsheets, print schedules, and optionally publish a read-only link without creating an account.
 * [QuoteChime](https://quotechime.pages.dev/?ref=awesomenologin#generator) - Draft a finite quote follow-up sequence for service businesses in the browser. It does not send messages or store customer details.
+* [TrueHold Calculators](https://www.truehold.xyz/calculators) - Three crypto calculators that run in the browser: impermanent loss of a 50/50 liquidity pool against holding, trade profit and average cost basis with fees, and the buys and sells that bring a portfolio back to its target weights. Prices are typed in by hand; nothing is fetched live.
 
 
 ### Communication
