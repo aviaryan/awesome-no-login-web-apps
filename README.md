@@ -209,6 +209,8 @@ To save the world from creating user accounts and installing software applicatio
 
 ### Privacy, Security and Cryptography
 
+* [MetWipe](https://metwipe.com/) - Inspect, remove and verify supported metadata from photos, MP3/WAV and Office files locally in the browser; no account required.
+
 * [Cryptii](https://cryptii.com) - Offers modular conversion, encoding and encryption with a wide variety of ciphers and methods.
 * [Encrypted Pastebin - Defuse.ca](https://defuse.ca/pastebin.htm) - Set password on your public pastes.
 * [jotti](https://virusscan.jotti.org) - Scan any suspicious file or email attachment for viruses.
