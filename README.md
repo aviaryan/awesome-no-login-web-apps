@@ -72,6 +72,7 @@ To save the world from creating user accounts and installing software applicatio
 * [InvoiceToMe](https://invoiceto.me/) - Generate professional invoices from various templates with your company details.
 * [ShiftDispatch Schedule Builder](https://shiftdispatchhq.com/schedule-builder) - Build weekly staff schedules, import or export spreadsheets, print schedules, and optionally publish a read-only link without creating an account.
 * [QuoteChime](https://quotechime.pages.dev/?ref=awesomenologin#generator) - Draft a finite quote follow-up sequence for service businesses in the browser. It does not send messages or store customer details.
+* [Intake Desk](https://daboisadasd.github.io/service-concept-demos/automation-demo/) - Clean contact CSVs locally in the browser with column mapping, configurable deduplication, opt-out suppression, held-row review and formula-safe CSV exports. Codex-built; UTF-8 contact CSVs only, no Excel workbooks or automatic messaging.
 
 
 ### Communication
