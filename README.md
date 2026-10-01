@@ -143,6 +143,7 @@ To save the world from creating user accounts and installing software applicatio
 * [MultCloud](https://www.multcloud.com/home) - Cloud service to manage, move, copy and migrate data between multiple cloud services. Supports all major cloud services. No sign-up required, 2TB cloud storage, download large files directly to the cloud, no size restrictions.
 * [harvis.dev](https://harvis.dev/) - Static website hosting without an account. Drag in a folder (or run `npx harvis`) and get a live site in seconds, with a private claim link to take ownership later. Free for small sites only.
 * [Blaze](https://blaze.now.sh) - Open source peer-to-peer file sharing app that works across any device and network.
+* [SEAL](https://seal.net/) - Send files and folders with no account for the sender or recipient; browser-side encryption, password and single-use controls, and up to 1 GB free for 7 days. Larger transfers require a one-time purchase.
 
 
 <a name="games"></a>
@@ -169,6 +170,7 @@ To save the world from creating user accounts and installing software applicatio
 * [PhotoPea](https://www.photopea.com/) - Image editor that looks like Photoshop and has most of its features.
 * [DigicamFilter](https://digicamfilter.online/) - Adds an old-camera look (CCD, iPhone 4, disposable, Y2K, film grain) to your photos. Runs fully in the browser, nothing uploaded.
 * [Pixlr Editor](https://pixlr.com/editor/) - Image editor by Pixlr. Lots of features.
+
 * [Photo Editor | Befunky](https://www.befunky.com/features/photo-editor/) - Image editor with lots of filters and effects.
 * [Logo Makr](https://logomakr.com/) - Logo maker with nice collection of SVGs. Requires payment to export logo as SVG (PNG is free).
 * [Online Logo Maker](https://www.onlinelogomaker.com/) - Make logos online. Extra user account feature to save creations.
