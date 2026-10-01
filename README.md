@@ -316,6 +316,7 @@ To save the world from creating user accounts and installing software applicatio
 * [WeGoWhen](https://wegowhen.com) - Finds the dates a group can travel together: everyone taps the days they are free and it ranks the consecutive date ranges that fit the most people. Days only, so no time-of-day scheduling.
 * [Zero Dollar Domains](https://arynjennen1989-stack.github.io/) - Live RDAP hunter for unused cheap TLD names plus a catalog of still-free domain and subdomain programs. No signup. Not an expired-.com dump.
 * [BarcodeGen](https://www.barcodegen.net) - Free online barcode generator supporting 35+ formats including Code 128, EAN-13, QR Code, and Data Matrix with bulk generation and PNG/SVG download.
+* [DeckDelta](https://mozzie49.github.io/deckdelta/) - Compare PDF slide decks locally in the browser, matching reordered slides and separating moves from text, numeric, and visual changes. Supports manual matches and portable HTML reviews. No account or document upload; limited to born-digital PDFs up to 50 pages and 25 MB each, without OCR. Heuristic matching and visual sampling can miss changes.
 
 
 ### Miscellaneous
