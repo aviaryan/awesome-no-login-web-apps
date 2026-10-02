@@ -184,6 +184,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Typing Words GIF](https://typingwordsgif.com/) - Free online typing text GIF maker. Type words, customize style, and export an animated GIF without login.
 * [IconKing](https://iconking.net) - Free browser-based Lottie animation tool. Preview .json and .lottie files, edit colors across all layers, and convert between formats. No account required.
 * [ShotFrame](https://tyr1105.github.io/shotframe/) - Free screenshot beautifier with gradient backgrounds, device frames, shadows, and HD PNG export. 100% browser-side.
+* [Tesla Wrap 3D Preview & PNG Fixer](https://teslawrapgenerator.com/tesla-wrap-3d-preview) - Preview any Tesla Paint Shop wrap on a 3D car, check it against Tesla's file rules and fix oversized PNGs in one click. No account required.
 
 
 ### Music, Radio and Podcasts
