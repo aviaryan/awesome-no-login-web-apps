@@ -37,6 +37,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Graphics, Image and Design](#graphics-image-and-design)
 * [Music, Radio and Podcasts](#music-radio-and-podcasts)
 * [Notepads and Notebooks](#notepads-and-notebooks)
+* [Productivity and Planning](#productivity-and-planning)
 * [Privacy, Security and Cryptography](#privacy-security-and-cryptography)
 * [Programming Editors and IDEs](#programming-editors-and-ides)
 * [Programming Tools](#programming-tools)
@@ -205,6 +206,11 @@ To save the world from creating user accounts and installing software applicatio
 * [Notepad](http://notepad.js.org/) - Offline capable Notepad PWA.
 * [ProtectedText](https://www.protectedtext.com/) - Encrypted notes without ads, sessions, or cookies.
 * [WriteXO](https://writexo.com/) - Online Notepad with rich-text support, password protection and custom URLs.
+
+
+### Productivity and Planning
+
+* [Kinetic Life OS](https://daoyi2026.github.io/kinetic-life-os/) - A local-first personal workbench for projects, daily tasks, health, fitness, calendar review, and inspiration. It is an installable PWA that works without an account or cloud sync, but records stay in the current browser profile and are not synced across devices by default.
 
 
 ### Privacy, Security and Cryptography
