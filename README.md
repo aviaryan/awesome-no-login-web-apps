@@ -263,6 +263,7 @@ To save the world from creating user accounts and installing software applicatio
 * [ChooseMyPC](https://choosemypc.net/) - Search for the best combination of parts considering your requirements for your PC under a given budget.
 * [Flaticon](https://www.flaticon.com/) - Largest search engine for free icons.
 * [icon8](https://icons8.com/) - Designers, download the design stuff for free — icons, photos, UX illustrations, and music for your videos.
+* [GetAskAI](https://getaskai.com/) - AI assistant that answers questions with numbered web sources, reads PDFs and photos and works in 14 languages; ad-supported, and long or highly technical tasks can be weaker than paid AI tools.
 
 
 ### Study and Education
