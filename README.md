@@ -291,6 +291,7 @@ To save the world from creating user accounts and installing software applicatio
 * [DiffNow](https://www.diffnow.com/) - Advanced, online and free File Difference checking, with options like Upload file, compare files by their links or Text Input.
 * [Write.as](https://write.as/) - Cross-platform writing and publishing tool that supports Markdown and editing / deleting past posts.
 * [Emojify](https://madelinemiller.dev/apps/emojify/) - A tool to spice up text, lyrics, or poems by adding emojis.
+* [Compare Two Lists](https://comparetwolists.net/) - Compare pasted lists or imported TXT, CSV and XLSX columns, find shared or missing values and duplicates, and export results. Processes data in the browser; compares membership rather than item quantities.
 
 
 <a name="utilities"></a>
