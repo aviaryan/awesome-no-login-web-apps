@@ -186,6 +186,8 @@ To save the world from creating user accounts and installing software applicatio
 * [ShotFrame](https://tyr1105.github.io/shotframe/) - Free screenshot beautifier with gradient backgrounds, device frames, shadows, and HD PNG export. 100% browser-side.
 
 
+* [PicCollages](https://piccollages.com/) - Create photo grids, long-image collages, and free-layout compositions in the browser, with text, stickers, and PNG/JPG downloads. Editing and downloads work without an account; saving editable works requires sign-in and uploads photos.
+
 ### Music, Radio and Podcasts
 
 * [Podbay](http://podbay.fm/) - Listen to any podcast online, individual episodes can be downloaded.
