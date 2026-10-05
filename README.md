@@ -117,8 +117,8 @@ To save the world from creating user accounts and installing software applicatio
 * [bubbl](https://bubbl.us/) - Create mind-maps, brainstorm ideas in the browser.
 * [ScribbleMaps](http://www.scribblemaps.com/) - Create custom google maps.
 * [Sketchpad](https://sketch.io/sketchpad/) - Create digital artwork and export to popular image formats JPEG, PNG, SVG, and PDF.
-* [Piskel](https://www.piskelapp.com/) - Free online editor for animated sprites & pixel art
-* [PixelCraft](https://pixelcraft.web.app) - A Pixel Art Editor and animation creation tool
+* [Piskel](https://www.piskelapp.com/) - Free online editor for animated sprites & pixel art.
+* [PixelCraft](https://pixelcraft.web.app) - A Pixel Art Editor and animation creation tool.
 * [MapDraw](https://www.mapdraw.net/) - Draw and edit paths, areas and markers on a map. Supports GeoJSON, GPX, KML and KMZ files, with routing, elevation profiles and shareable links. Files are processed in your browser. Open source.
 
 
@@ -227,7 +227,7 @@ To save the world from creating user accounts and installing software applicatio
 * [JS Bin](https://jsbin.com) - Collaborative web development and debugging tool.
 * [SQLFiddle](http://sqlfiddle.com/) - Tool for easy online testing and sharing of database problems and their solutions.
 * [PythonTutor](http://pythontutor.com/visualize.html#mode=edit) - Visualize Python, Java, JavaScript, TypeScript, Ruby, C, and C++ code execution in your Web browser.
-* [DartPad](https://dartpad.dev/) -DartPad is an open-source tool that lets you play with the Dart language in any modern browser.
+* [DartPad](https://dartpad.dev/) - DartPad is an open-source tool that lets you play with the Dart language in any modern browser.
 
 
 ### Programming Tools
@@ -274,7 +274,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Directed Graph Editor](http://bl.ocks.org/rkirsling/5001347) - Play with directed graphs.
 * [Word Safety](http://wordsafety.com/) - Check if words are abusive in any languages.
 * [OEIS®](http://oeis.org/) - The On-Line Encyclopedia of Integer Sequences®, helps in cryptography as well as formulating odd looking sequences.
-* [Directed Grap Editor (CS Academy)](https://csacademy.com/app/graph_editor/) - Draw directed graph systems with and without edge values and physics.
+* [Directed Graph Editor (CS Academy)](https://csacademy.com/app/graph_editor/) - Draw directed graph systems with and without edge values and physics.
 * [Abc-Map](https://abc-map.fr) - Create geographical maps, pick data from the data store, process data to create visualizations, export or share your maps online. 
 * [KeepFormula](https://keepformula.github.io/) - Keep Formula is a simple app to make your calculations easier.
 * [Random Animal Picker](https://randomanimalpicker.com/) - Discover real animals through photos, concise facts, source links, and related species without creating an account.
