@@ -184,6 +184,8 @@ To save the world from creating user accounts and installing software applicatio
 * [Typing Words GIF](https://typingwordsgif.com/) - Free online typing text GIF maker. Type words, customize style, and export an animated GIF without login.
 * [IconKing](https://iconking.net) - Free browser-based Lottie animation tool. Preview .json and .lottie files, edit colors across all layers, and convert between formats. No account required.
 * [ShotFrame](https://tyr1105.github.io/shotframe/) - Free screenshot beautifier with gradient backgrounds, device frames, shadows, and HD PNG export. 100% browser-side.
+* [Emote Resizer](https://emoteresize.com/) - Resize PNG, JPEG, WebP and animated GIF emotes for Twitch, Discord, 7TV and Slack, with local browser processing and batch ZIP downloads.
+* [Free Image Merger](https://freeimagemerger.com/) - Combine up to 20 images in horizontal, vertical, grid or freestyle layouts and export PNG, JPG or WebP locally without an account.
 
 
 ### Music, Radio and Podcasts
