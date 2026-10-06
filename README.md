@@ -72,6 +72,7 @@ To save the world from creating user accounts and installing software applicatio
 * [InvoiceToMe](https://invoiceto.me/) - Generate professional invoices from various templates with your company details.
 * [ShiftDispatch Schedule Builder](https://shiftdispatchhq.com/schedule-builder) - Build weekly staff schedules, import or export spreadsheets, print schedules, and optionally publish a read-only link without creating an account.
 * [QuoteChime](https://quotechime.pages.dev/?ref=awesomenologin#generator) - Draft a finite quote follow-up sequence for service businesses in the browser. It does not send messages or store customer details.
+* [TGScope Channel Audit](https://tgscope.io/tools/telegram-channel-audit) - Check what share of a Telegram channel's subscribers actually see its posts, compare it with similar channels and estimate ad views and CPM. Works for public channels above 10,000 subscribers.
 
 
 ### Communication
