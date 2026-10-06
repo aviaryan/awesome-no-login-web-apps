@@ -64,6 +64,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Whisper Web](https://whisperweb.dev/) - Transcribe audio and video to text in the browser with OpenAI's Whisper. Runs on-device, no login, 100+ languages.
 * [Vizz.fm](https://vizz.fm) - Browser-based music visualizer with customizable scenes and presets.
 * [Slant it](https://slantit.app) - Create catchy 3D product videos from screen recordings in few minutes.
+* [OpenPost Video Editor](https://openpo.st/tools/social-media-video-editor) - Edit clips, add captions, and record your screen or camera with local project files and watermark-free exports. In beta; full editing and export require desktop Chrome or Edge.
 
 
 ### Business and Finance
@@ -184,6 +185,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Typing Words GIF](https://typingwordsgif.com/) - Free online typing text GIF maker. Type words, customize style, and export an animated GIF without login.
 * [IconKing](https://iconking.net) - Free browser-based Lottie animation tool. Preview .json and .lottie files, edit colors across all layers, and convert between formats. No account required.
 * [ShotFrame](https://tyr1105.github.io/shotframe/) - Free screenshot beautifier with gradient backgrounds, device frames, shadows, and HD PNG export. 100% browser-side.
+* [OpenPost Image Editor](https://openpo.st/tools/social-media-image-editor) - Create layered images, carousel pages, Story slides, and thumbnails in the browser, then export PNG, JPEG, or WebP without an account or watermark.
 
 
 ### Music, Radio and Podcasts
