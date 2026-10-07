@@ -318,6 +318,7 @@ To save the world from creating user accounts and installing software applicatio
 * [BarcodeGen](https://www.barcodegen.net) - Free online barcode generator supporting 35+ formats including Code 128, EAN-13, QR Code, and Data Matrix with bulk generation and PNG/SVG download.
 
 
+* [Staylist World](https://staylist.world) - Free hotel comparison for people and AI assistants: 77,000+ hotels with an AI score from guest reviews, area, nearest station, amenities and typical price.
 ### Miscellaneous
 
 * [is.gd](https://is.gd/) - Link shortener with custom URLs and open API (no tokens).
