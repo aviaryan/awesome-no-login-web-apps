@@ -217,6 +217,7 @@ To save the world from creating user accounts and installing software applicatio
 * [BugMeNot](http://bugmenot.com/) - A platform for finding and sharing logins of different websites. It helps you find credentials for signing in into different websites.
 * [Cloverleaf](https://cloverleaf.app) - An open source app to replace your password manager without storing your passwords anywhere.
 * [MetadataRemover.ai](https://metadataremover.ai/) - Inspect, edit, remove, and verify supported metadata in images, PDFs, DOCX files, videos, and MP3 audio locally in the browser; no account required.
+* [Photo Scrubber](https://hexloomlabs.com/exif/) - Shows the EXIF, GPS, camera and other metadata inside a JPG, PNG or WebP photo, then downloads a clean copy. Nothing is uploaded. Free tier handles 5 photos at a time.
 
 ### Programming Editors and IDEs
 
