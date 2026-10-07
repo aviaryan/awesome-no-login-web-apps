@@ -278,6 +278,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Abc-Map](https://abc-map.fr) - Create geographical maps, pick data from the data store, process data to create visualizations, export or share your maps online. 
 * [KeepFormula](https://keepformula.github.io/) - Keep Formula is a simple app to make your calculations easier.
 * [Random Animal Picker](https://randomanimalpicker.com/) - Discover real animals through photos, concise facts, source links, and related species without creating an account.
+* [Covalent](https://chempirical.com/covalent/) - Draw chemical structures and reaction schemes with bonds that snap to real bond angles; valence, charges and stereo are checked as you draw. Paste SMILES or a MOL block, export SMILES, MOL, RXN, SVG, PNG or a 3D SDF.
 
 
 <a name="text-tools"></a>
