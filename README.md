@@ -81,6 +81,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Videolink2](https://videolink2.me/start) - Video conference online. Link generated, share link to invite other participants.
 * [FaxZero](https://faxzero.com/) - Send an online fax for free.
 * [GoTeam](https://goteam.video/) - Video meeting rooms. Create any room like `goteam.video/some-room` . Username is asked after room creation.
+* [LivePoll](https://freelivepoll.com/) - Create a live poll, show its QR code, and people vote from their phones while the results update on screen. No account is needed to create a poll or to vote.
 
 
 ### Document Editors
