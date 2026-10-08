@@ -278,6 +278,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Abc-Map](https://abc-map.fr) - Create geographical maps, pick data from the data store, process data to create visualizations, export or share your maps online. 
 * [KeepFormula](https://keepformula.github.io/) - Keep Formula is a simple app to make your calculations easier.
 * [Random Animal Picker](https://randomanimalpicker.com/) - Discover real animals through photos, concise facts, source links, and related species without creating an account.
+* [Fraction to Decimal Converter](https://flowser.net/p/Fraction-Decimal-Conversion) - Converts between fractions and decimals in both directions and animates the long division step by step, with a conversion chart that marks repeating decimals; no ads and no login required. Short-coming: it is a single-purpose tool, so it does not replace a general scientific calculator.
 
 
 <a name="text-tools"></a>
