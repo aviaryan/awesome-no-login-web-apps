@@ -81,6 +81,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Videolink2](https://videolink2.me/start) - Video conference online. Link generated, share link to invite other participants.
 * [FaxZero](https://faxzero.com/) - Send an online fax for free.
 * [GoTeam](https://goteam.video/) - Video meeting rooms. Create any room like `goteam.video/some-room` . Username is asked after room creation.
+* [MIDDLE](https://middle-production.up.railway.app) - AI that reads your message before you send it. Shows how your words will land and offers a rewrite that keeps your meaning but loses the damage.
 
 
 ### Document Editors
