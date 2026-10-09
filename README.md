@@ -120,6 +120,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Piskel](https://www.piskelapp.com/) - Free online editor for animated sprites & pixel art
 * [PixelCraft](https://pixelcraft.web.app) - A Pixel Art Editor and animation creation tool
 * [MapDraw](https://www.mapdraw.net/) - Draw and edit paths, areas and markers on a map. Supports GeoJSON, GPX, KML and KMZ files, with routing, elevation profiles and shareable links. Files are processed in your browser. Open source.
+* [Xprite](https://xprite.cc/) - Free, open-source pixel art and animation editor with .ase/.aseprite support, touch and stylus input, and local file editing. No account required.
 
 
 ### File Converters
