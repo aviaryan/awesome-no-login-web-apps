@@ -64,6 +64,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Whisper Web](https://whisperweb.dev/) - Transcribe audio and video to text in the browser with OpenAI's Whisper. Runs on-device, no login, 100+ languages.
 * [Vizz.fm](https://vizz.fm) - Browser-based music visualizer with customizable scenes and presets.
 * [Slant it](https://slantit.app) - Create catchy 3D product videos from screen recordings in few minutes.
+* [BeginThings Text to Speech](https://beginthings.com/free-tools/text-to-speech.html) - Turn text into downloadable WAV audio without an account; first use downloads an approximately 80 MB voice model.
 
 
 ### Business and Finance
