@@ -95,6 +95,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Github.md](http://aviaryan.in/javascripts/github.md/) - Simple GitHub-style Markdown (GFM) preview with print feature.
 * [Markdown Live Preview](http://markdownlivepreview.com/) - Instant Markdown preview.
 * [StackEdit.io](https://stackedit.io/) - Rich in-browser markdown editor that works offline.
+* [TypeFire Markdown Editor](https://typefire.ai/markdown-editor-online) - Markdown editor that formats as you type, with tabs, autosave and export to Markdown, HTML and PDF. Opens local .md files, and notes stay in the browser rather than being uploaded.
 
 #### <a name="doc-eds-others"></a> Others
 
