@@ -184,6 +184,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Typing Words GIF](https://typingwordsgif.com/) - Free online typing text GIF maker. Type words, customize style, and export an animated GIF without login.
 * [IconKing](https://iconking.net) - Free browser-based Lottie animation tool. Preview .json and .lottie files, edit colors across all layers, and convert between formats. No account required.
 * [ShotFrame](https://tyr1105.github.io/shotframe/) - Free screenshot beautifier with gradient backgrounds, device frames, shadows, and HD PNG export. 100% browser-side.
+* [Imgyard](https://imgyard.com/) - Image tools that run entirely in the browser: compress to an exact file size, bulk resize, convert between HEIC, JPG, PNG and WebP, crop, rotate, images to PDF and PDF pages back to images, and view or strip EXIF including GPS. Nothing is uploaded. A Content Security Policy makes the browser refuse any connection to another origin, so the claim can be checked in the network tab. No account, watermark or size limit; the iPhone HEIC decoder is a 2 MB WebAssembly file fetched the first time you open a photo tool.
 
 
 ### Music, Radio and Podcasts
