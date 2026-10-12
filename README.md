@@ -263,6 +263,7 @@ To save the world from creating user accounts and installing software applicatio
 * [ChooseMyPC](https://choosemypc.net/) - Search for the best combination of parts considering your requirements for your PC under a given budget.
 * [Flaticon](https://www.flaticon.com/) - Largest search engine for free icons.
 * [icon8](https://icons8.com/) - Designers, download the design stuff for free — icons, photos, UX illustrations, and music for your videos.
+* [RobotTraining.jobs](https://robottraining.jobs) - Search engine for paid robot-training jobs (robot teleoperation, demonstration recording, AV and drone test operation) with posted pay; browse, filter and apply without an account.
 
 
 ### Study and Education
