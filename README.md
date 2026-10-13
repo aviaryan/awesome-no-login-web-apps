@@ -66,6 +66,8 @@ To save the world from creating user accounts and installing software applicatio
 * [Slant it](https://slantit.app) - Create catchy 3D product videos from screen recordings in few minutes.
 
 
+* [Voice Prompter](https://teleprompter.dev/) - Free browser teleprompter with manual or automatic scrolling, mirror mode, and speech-assisted sentence tracking where supported. No account required; speech accuracy depends on the browser and language.
+
 ### Business and Finance
 
 * [TradingView.com](https://www.tradingview.com/) - Real-time information and market insights from various exchanges. Requires an account for saving settings.
