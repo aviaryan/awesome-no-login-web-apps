@@ -278,6 +278,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Abc-Map](https://abc-map.fr) - Create geographical maps, pick data from the data store, process data to create visualizations, export or share your maps online. 
 * [KeepFormula](https://keepformula.github.io/) - Keep Formula is a simple app to make your calculations easier.
 * [Random Animal Picker](https://randomanimalpicker.com/) - Discover real animals through photos, concise facts, source links, and related species without creating an account.
+* [Typing Speed Test](https://typing.rerivo.com/) - Measure WPM in 60 seconds with instant results, no sign up and no account; includes kid-friendly, programmer and multilingual practice modes.
 
 
 <a name="text-tools"></a>
