@@ -105,6 +105,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Tablesmit](https://tablesmit.com) - A minimalist table builder for analytical writing. Build, format, and export structured tables. No signup required.
 
 <a name="drawing"></a>
+* [ResumePlot](https://resumeplot.com/) - Bilingual local resume editor with PDF and JSON export; optional AI assistance, cloud saving and sharing require an account.
 ### Drawing
 
 * [SVG-Edit](https://svgedit.netlify.app/) - Powerful SVG editor with lots of features. Open source.
@@ -184,6 +185,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Typing Words GIF](https://typingwordsgif.com/) - Free online typing text GIF maker. Type words, customize style, and export an animated GIF without login.
 * [IconKing](https://iconking.net) - Free browser-based Lottie animation tool. Preview .json and .lottie files, edit colors across all layers, and convert between formats. No account required.
 * [ShotFrame](https://tyr1105.github.io/shotframe/) - Free screenshot beautifier with gradient backgrounds, device frames, shadows, and HD PNG export. 100% browser-side.
+* [DishVivid](https://dishvivid.com/) - Food-photo editor with local light, color and crop adjustments, food-review checks and JPEG export; optional AI requires sign-in and an allowance.
 
 
 ### Music, Radio and Podcasts
