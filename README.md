@@ -72,6 +72,7 @@ To save the world from creating user accounts and installing software applicatio
 * [InvoiceToMe](https://invoiceto.me/) - Generate professional invoices from various templates with your company details.
 * [ShiftDispatch Schedule Builder](https://shiftdispatchhq.com/schedule-builder) - Build weekly staff schedules, import or export spreadsheets, print schedules, and optionally publish a read-only link without creating an account.
 * [QuoteChime](https://quotechime.pages.dev/?ref=awesomenologin#generator) - Draft a finite quote follow-up sequence for service businesses in the browser. It does not send messages or store customer details.
+* [Pennyrow](https://getpennyrow.com/books/) - Turn bank and card statements (PDF, CSV, OFX) into clean transactions with a balance check per statement, missing-month and transfer checks, and Excel, CSV, OFX and QuickBooks exports. Runs entirely in the browser, so files are never uploaded. Reads text PDFs from your bank, not scans or photos.
 
 
 ### Communication
