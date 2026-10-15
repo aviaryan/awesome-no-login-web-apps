@@ -120,6 +120,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Piskel](https://www.piskelapp.com/) - Free online editor for animated sprites & pixel art
 * [PixelCraft](https://pixelcraft.web.app) - A Pixel Art Editor and animation creation tool
 * [MapDraw](https://www.mapdraw.net/) - Draw and edit paths, areas and markers on a map. Supports GeoJSON, GPX, KML and KMZ files, with routing, elevation profiles and shareable links. Files are processed in your browser. Open source.
+* [3D House Planner](https://www.3dhouseplanner.com/) - Draw 2D floor plans and design houses and apartments in 3D with a large furniture catalog, then export to GLB, OBJ, STL, IFC, DXF, SVG or PNG. Free for personal and commercial use. Optional AI rendering tools need a Puter account.
 
 
 ### File Converters
