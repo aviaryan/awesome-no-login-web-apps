@@ -103,7 +103,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Browserpad](http://browserpad.org/) - A server-less plain text editor in the browser. Allows you to open and save plain text files.
 * [WriteURL](http://www.writeurl.com/) - A collaborative real-time online text editor.
 * [Tablesmit](https://tablesmit.com) - A minimalist table builder for analytical writing. Build, format, and export structured tables. No signup required.
-* [MergeCraft](https://mergecraft.app) - Client-side PDF toolkit: merge PDFs and images (JPG/PNG/WebP), split by page ranges, compress, extract pages as PNG/JPEG and rotate. Processing runs in the browser via Web Workers and WebAssembly, so files are never uploaded and it also works offline as an installable PWA; no account, no file limits, no watermarks, 9 languages. No OCR, so scanned PDFs are not text-recognised.
+* [MergeCraft](https://mergecraft.app) - Client-side PDF toolkit: merge PDFs and images (JPG/PNG/WebP), split by page ranges, compress, extract pages as PNG/JPEG and rotate. Processing runs in the browser via Web Workers and WebAssembly, so files are never uploaded and it also works offline as an installable PWA; no account, no watermarks, 9 languages. No OCR, so scanned PDFs are not text-recognised.
 
 <a name="drawing"></a>
 ### Drawing
