@@ -64,6 +64,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Whisper Web](https://whisperweb.dev/) - Transcribe audio and video to text in the browser with OpenAI's Whisper. Runs on-device, no login, 100+ languages.
 * [Vizz.fm](https://vizz.fm) - Browser-based music visualizer with customizable scenes and presets.
 * [Slant it](https://slantit.app) - Create catchy 3D product videos from screen recordings in few minutes.
+* [ChapterPack](https://chapterpack.hexmobius.com/?utm_source=github&utm_medium=awesome_list&utm_campaign=awesome_no_login_web_apps) - Free browser-local tool that splits a long audiobook or recording (M4B, M4A, MP3, WAV, OGG, FLAC) into numbered chapter MP3 tracks packed in a ZIP, from embedded chapters, custom cut points or equal-length splits. Processing stays on the device with no account, but the first use downloads a roughly 31 MB engine and it is a batch splitter, not a live waveform editor.
 
 
 ### Business and Finance
