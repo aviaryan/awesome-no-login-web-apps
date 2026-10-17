@@ -103,6 +103,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Browserpad](http://browserpad.org/) - A server-less plain text editor in the browser. Allows you to open and save plain text files.
 * [WriteURL](http://www.writeurl.com/) - A collaborative real-time online text editor.
 * [Tablesmit](https://tablesmit.com) - A minimalist table builder for analytical writing. Build, format, and export structured tables. No signup required.
+* [FolioCove PDF](https://mehbul.github.io/FolioCove/) - Merge PDFs, extract and organize pages, and create PDFs from images locally in the browser without an account or document uploads. Public beta; inspect outputs and check the published tool limits.
 
 <a name="drawing"></a>
 ### Drawing
