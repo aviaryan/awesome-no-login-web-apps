@@ -103,6 +103,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Browserpad](http://browserpad.org/) - A server-less plain text editor in the browser. Allows you to open and save plain text files.
 * [WriteURL](http://www.writeurl.com/) - A collaborative real-time online text editor.
 * [Tablesmit](https://tablesmit.com) - A minimalist table builder for analytical writing. Build, format, and export structured tables. No signup required.
+* [Xargaar PDF Toolkit](https://statement-converter-c41.pages.dev/pdf-toolkit/) - Merge, split, compress, sign, redact and convert PDFs entirely in the browser. Files never leave your device; no account.
 
 <a name="drawing"></a>
 ### Drawing
