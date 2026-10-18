@@ -228,6 +228,7 @@ To save the world from creating user accounts and installing software applicatio
 * [SQLFiddle](http://sqlfiddle.com/) - Tool for easy online testing and sharing of database problems and their solutions.
 * [PythonTutor](http://pythontutor.com/visualize.html#mode=edit) - Visualize Python, Java, JavaScript, TypeScript, Ruby, C, and C++ code execution in your Web browser.
 * [DartPad](https://dartpad.dev/) -DartPad is an open-source tool that lets you play with the Dart language in any modern browser.
+* [Koddo Python Playground](https://koddo.ru/playground/python) - Free Python editor and runner with a Russian-language interface; no account required.
 
 
 ### Programming Tools
