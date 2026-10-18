@@ -317,6 +317,8 @@ To save the world from creating user accounts and installing software applicatio
 * [Zero Dollar Domains](https://arynjennen1989-stack.github.io/) - Live RDAP hunter for unused cheap TLD names plus a catalog of still-free domain and subdomain programs. No signup. Not an expired-.com dump.
 * [BarcodeGen](https://www.barcodegen.net) - Free online barcode generator supporting 35+ formats including Code 128, EAN-13, QR Code, and Data Matrix with bulk generation and PNG/SVG download.
 
+* [Stitch Shop Guide Needle Selector](https://stitchshopguide.com/needle-guide/size-selector/) - Selects a starting household sewing needle type and size from fabric, thread and machine limits; supports 130/705 H needles and selected chart labels, with no signup.
+
 
 ### Miscellaneous
 
