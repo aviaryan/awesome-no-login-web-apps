@@ -120,6 +120,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Piskel](https://www.piskelapp.com/) - Free online editor for animated sprites & pixel art
 * [PixelCraft](https://pixelcraft.web.app) - A Pixel Art Editor and animation creation tool
 * [MapDraw](https://www.mapdraw.net/) - Draw and edit paths, areas and markers on a map. Supports GeoJSON, GPX, KML and KMZ files, with routing, elevation profiles and shareable links. Files are processed in your browser. Open source.
+* [Whiteboard](https://whiteboard.marcopontili.com) - Excalidraw canvas with LaTeX math and Markdown notes, exports to PDF. Boards are saved in the browser and it works offline. No real-time collaboration. Open source.
 
 
 ### File Converters
