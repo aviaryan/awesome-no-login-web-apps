@@ -291,6 +291,7 @@ To save the world from creating user accounts and installing software applicatio
 * [DiffNow](https://www.diffnow.com/) - Advanced, online and free File Difference checking, with options like Upload file, compare files by their links or Text Input.
 * [Write.as](https://write.as/) - Cross-platform writing and publishing tool that supports Markdown and editing / deleting past posts.
 * [Emojify](https://madelinemiller.dev/apps/emojify/) - A tool to spice up text, lyrics, or poems by adding emojis.
+* [CuteFontGen](https://cutefontgen.com/) - Free cute font generator to copy and paste kawaii, bubble, bold and small Unicode text styles for bios and posts, no login.
 
 
 <a name="utilities"></a>
