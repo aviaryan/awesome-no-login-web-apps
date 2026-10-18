@@ -95,6 +95,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Github.md](http://aviaryan.in/javascripts/github.md/) - Simple GitHub-style Markdown (GFM) preview with print feature.
 * [Markdown Live Preview](http://markdownlivepreview.com/) - Instant Markdown preview.
 * [StackEdit.io](https://stackedit.io/) - Rich in-browser markdown editor that works offline.
+* [md2pdf](https://md2pdf.marcopontili.com) - Markdown editor with live preview, Mermaid diagrams and syntax highlighting. Exports to PDF, works offline and uploads nothing. PDF styling is fixed, no custom themes. Open source.
 
 #### <a name="doc-eds-others"></a> Others
 
