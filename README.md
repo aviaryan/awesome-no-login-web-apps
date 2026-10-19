@@ -217,6 +217,7 @@ To save the world from creating user accounts and installing software applicatio
 * [BugMeNot](http://bugmenot.com/) - A platform for finding and sharing logins of different websites. It helps you find credentials for signing in into different websites.
 * [Cloverleaf](https://cloverleaf.app) - An open source app to replace your password manager without storing your passwords anywhere.
 * [MetadataRemover.ai](https://metadataremover.ai/) - Inspect, edit, remove, and verify supported metadata in images, PDFs, DOCX files, videos, and MP3 audio locally in the browser; no account required.
+* [TempMail Hub](https://tempmailhub.net/) - Free disposable email address with a selectable inbox lifetime from 10 minutes to 7 days, HTML-safe viewer and a Telegram bot for the same inbox; no account required.
 
 ### Programming Editors and IDEs
 
