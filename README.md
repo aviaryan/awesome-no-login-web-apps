@@ -120,6 +120,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Piskel](https://www.piskelapp.com/) - Free online editor for animated sprites & pixel art
 * [PixelCraft](https://pixelcraft.web.app) - A Pixel Art Editor and animation creation tool
 * [MapDraw](https://www.mapdraw.net/) - Draw and edit paths, areas and markers on a map. Supports GeoJSON, GPX, KML and KMZ files, with routing, elevation profiles and shareable links. Files are processed in your browser. Open source.
+* [Diagram Smith](https://diagramsmith.com/) - Flowchart, pie chart, family tree, Venn diagram and other diagram makers that need no sign-up; drawings export as PNG, SVG or PDF. Connectors have no bend points yet.
 
 
 ### File Converters
