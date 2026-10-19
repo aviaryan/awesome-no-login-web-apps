@@ -72,6 +72,7 @@ To save the world from creating user accounts and installing software applicatio
 * [InvoiceToMe](https://invoiceto.me/) - Generate professional invoices from various templates with your company details.
 * [ShiftDispatch Schedule Builder](https://shiftdispatchhq.com/schedule-builder) - Build weekly staff schedules, import or export spreadsheets, print schedules, and optionally publish a read-only link without creating an account.
 * [QuoteChime](https://quotechime.pages.dev/?ref=awesomenologin#generator) - Draft a finite quote follow-up sequence for service businesses in the browser. It does not send messages or store customer details.
+* [Billsmith](https://billsmith.app/) - Make an invoice, quote or receipt and download the PDF, built in the browser with nothing uploaded. Works out UK VAT, CIS and the reverse charge, and US sales tax. Each PDF carries a small "Made with Billsmith" line.
 
 
 ### Communication
