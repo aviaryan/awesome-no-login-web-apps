@@ -120,6 +120,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Piskel](https://www.piskelapp.com/) - Free online editor for animated sprites & pixel art
 * [PixelCraft](https://pixelcraft.web.app) - A Pixel Art Editor and animation creation tool
 * [MapDraw](https://www.mapdraw.net/) - Draw and edit paths, areas and markers on a map. Supports GeoJSON, GPX, KML and KMZ files, with routing, elevation profiles and shareable links. Files are processed in your browser. Open source.
+* [RelationCanvas](https://relationcanvas.com/) - Draw character relationship charts where each arrow has its own label, so one-sided feelings show. Exports PNG and SVG without a watermark. Charts are kept in the browser, so there is no cloud sync.
 
 
 ### File Converters
