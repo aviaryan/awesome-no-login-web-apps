@@ -64,6 +64,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Whisper Web](https://whisperweb.dev/) - Transcribe audio and video to text in the browser with OpenAI's Whisper. Runs on-device, no login, 100+ languages.
 * [Vizz.fm](https://vizz.fm) - Browser-based music visualizer with customizable scenes and presets.
 * [Slant it](https://slantit.app) - Create catchy 3D product videos from screen recordings in few minutes.
+* [LUFS Meter](https://shortformkit.com/lufs-meter/) - Measure integrated loudness (ITU-R BS.1770), true peak and short-term loudness of an audio or video file, and see how many dB each platform (Spotify, YouTube, Instagram, TikTok) would add or remove. Runs in the browser, files are not uploaded; very long files take a while to read.
 
 
 ### Business and Finance
@@ -184,6 +185,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Typing Words GIF](https://typingwordsgif.com/) - Free online typing text GIF maker. Type words, customize style, and export an animated GIF without login.
 * [IconKing](https://iconking.net) - Free browser-based Lottie animation tool. Preview .json and .lottie files, edit colors across all layers, and convert between formats. No account required.
 * [ShotFrame](https://tyr1105.github.io/shotframe/) - Free screenshot beautifier with gradient backgrounds, device frames, shadows, and HD PNG export. 100% browser-side.
+* [Safe Zone Checker](https://shortformkit.com/safe-zone-checker/) - Overlay the Instagram Reels, TikTok, YouTube Shorts and Story interface on your image or 9:16 video and scrub through it to see what the buttons and captions would cover. Runs in the browser, nothing is uploaded; margins are cautious estimates, not official numbers.
 
 
 ### Music, Radio and Podcasts
