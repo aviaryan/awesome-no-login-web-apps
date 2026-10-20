@@ -181,6 +181,19 @@ To save the world from creating user accounts and installing software applicatio
 * [doka.photo](https://doka.photo/) - Easy to use photo editor. You can crop, rotate, flip, add a filter, resize and annotate.
 * [CleanIcons](https://cleanicons.xyz) - Download Font Awesome icon fonts as PNG's.
 * [Mancer](https://mancer.app) - Design, share, and order T-Shirts from the browser. Designs can be exported as PNGs.
+* [Branition Colors](https://branition.com/colors) - Hand-curated collection of color pallets best fitted for branding.
+* [BulkPicTools](https://bulkpictools.com) - A free all-in-one bulk image processing toolkit running entirely locally in the browser, supports image compression, resizing, format conversion, background removal, privacy blur and corner rounding without file uploads or login.
+
+
+### Internet Downloaders
+
+* [savefrom.net](http://en.savefrom.net/) - Download from YouTube, Dailymotion, Vimeo and more.
+* [Youtube Converter & Downloader](https://www.onlinevideoconverter.com/video-converter) - Download YouTube video in any audio/video format.
+* [keepvid](http://keepvid.com/) - YouTube, SoundCloud, Facebook downloader.
+* [dOnline](http://https://doonline.cc/video-downloader-converter.html/) - Download from YouTube, Instagram, Vimeo, SoundCloud, Facebook downloader.
+* [Bitport](https://bitport.io/welcome) `[Account]` - Torrent downloader. Limited to 1 torrent of 1gb per day in free account.
+* [Seedr](https://www.seedr.cc/) `[Account]` - Cloud based torrent downloader. Limited to multiple torrents of total size of 2gb in free account. Unlimited bandwidth. 500mb increase on contributing a new user.
+* [ZbigZ](https://zbigz.com/) - Torrent downloader that lets you chose the files to download from a torrent. File size limit is 2gb and download is capped to 50kbps in the free version.
 * [Typing Words GIF](https://typingwordsgif.com/) - Free online typing text GIF maker. Type words, customize style, and export an animated GIF without login.
 * [IconKing](https://iconking.net) - Free browser-based Lottie animation tool. Preview .json and .lottie files, edit colors across all layers, and convert between formats. No account required.
 * [ShotFrame](https://tyr1105.github.io/shotframe/) - Free screenshot beautifier with gradient backgrounds, device frames, shadows, and HD PNG export. 100% browser-side.
