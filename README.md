@@ -317,7 +317,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Zero Dollar Domains](https://arynjennen1989-stack.github.io/) - Live RDAP hunter for unused cheap TLD names plus a catalog of still-free domain and subdomain programs. No signup. Not an expired-.com dump.
 * [BarcodeGen](https://www.barcodegen.net) - Free online barcode generator supporting 35+ formats including Code 128, EAN-13, QR Code, and Data Matrix with bulk generation and PNG/SVG download.
 
-* [Secret Santa Generator](https://secretsantagenerator.xyz/) - Draw names with exclusions, private reveal links and printable slips, without accounts or participant email addresses. The organizer page never lists the pairings.
+* [Secret Santa Generator](https://secretsantagenerator.xyz/) - Draw names with exclusions, private reveal links and printable slips, without accounts or participant email addresses. The organizer page does not display pairings by default; it shows them only when Teacher mode is enabled, which is clearly indicated on participant pages.
 
 ### Miscellaneous
 
