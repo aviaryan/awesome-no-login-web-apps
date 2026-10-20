@@ -184,6 +184,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Typing Words GIF](https://typingwordsgif.com/) - Free online typing text GIF maker. Type words, customize style, and export an animated GIF without login.
 * [IconKing](https://iconking.net) - Free browser-based Lottie animation tool. Preview .json and .lottie files, edit colors across all layers, and convert between formats. No account required.
 * [ShotFrame](https://tyr1105.github.io/shotframe/) - Free screenshot beautifier with gradient backgrounds, device frames, shadows, and HD PNG export. 100% browser-side.
+* [PhotoCraft (browser build)](https://photocraft.digital/) - Open-source, Photoshop-style layered image editor (layers, masks, adjustment layers, text) that opens and saves PSD files, running locally in the browser via WebAssembly; files are not uploaded. Independent third-party host of the open-source PhotoCraft project; early alpha, best on desktop browsers, no autosave.
 
 
 ### Music, Radio and Podcasts
