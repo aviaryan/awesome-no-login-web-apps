@@ -163,6 +163,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Table Party](https://tableparty.io/) - Free browser party games. One person hosts, friends join with a room code on their phones. No ads, no accounts.
 * [Monteams](https://monteams.com) - Free Pokémon team builder that works without login. Plan teams, analyze type coverage, and optimize strategies for all generations from Red/Blue to Scarlet/Violet.
 * [Double Cross](https://everhall.ca) - A daily crossword where every clue has two answers of equal length; deduce which twin slot gets which, then seal the grid once. No ads or tracking, one static page.
+* [OTF Arcade](https://arcade-preview.otf-kit.dev/?utm_source=directory&utm_medium=referral&utm_campaign=first-sale-14d-20261016&utm_content=2026-10-21-awesome-no-login-arcade-demo) - Play retro and casual arcade mini-games in the browser with keyboard and touch controls. Works instantly with no login or account required.
 
 ### Graphics, Image and Design
 
