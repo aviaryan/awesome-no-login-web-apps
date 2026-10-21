@@ -163,6 +163,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Table Party](https://tableparty.io/) - Free browser party games. One person hosts, friends join with a room code on their phones. No ads, no accounts.
 * [Monteams](https://monteams.com) - Free Pokémon team builder that works without login. Plan teams, analyze type coverage, and optimize strategies for all generations from Red/Blue to Scarlet/Violet.
 * [Double Cross](https://everhall.ca) - A daily crossword where every clue has two answers of equal length; deduce which twin slot gets which, then seal the grid once. No ads or tracking, one static page.
+* [SteamDownload AI Recommender](https://www.steamdownload.cn/ai?lang=en) - Describe what you want to play in plain words and the AI picks real games from a library of 9,000+ PC, Switch and mobile titles, with a reason for each and a link to the game page. Works without an account. Shortcoming: the game download links point to Chinese cloud drives (Quark, Baidu, Xunlei, UC).
 
 ### Graphics, Image and Design
 
