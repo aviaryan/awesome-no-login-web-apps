@@ -81,6 +81,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Videolink2](https://videolink2.me/start) - Video conference online. Link generated, share link to invite other participants.
 * [FaxZero](https://faxzero.com/) - Send an online fax for free.
 * [GoTeam](https://goteam.video/) - Video meeting rooms. Create any room like `goteam.video/some-room` . Username is asked after room creation.
+* [DevHolster P2P Chat](https://devholster.com/network/p2p-chat/) - Encrypted chat between two browsers over WebRTC, started with an invite link or two short IDs, with a six-digit safety code to rule out a man in the middle. No chat server and no history. Limited to two people, and it cannot connect behind symmetric NAT or firewalls that block UDP.
 
 
 ### Document Editors
