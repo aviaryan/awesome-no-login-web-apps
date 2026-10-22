@@ -184,6 +184,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Typing Words GIF](https://typingwordsgif.com/) - Free online typing text GIF maker. Type words, customize style, and export an animated GIF without login.
 * [IconKing](https://iconking.net) - Free browser-based Lottie animation tool. Preview .json and .lottie files, edit colors across all layers, and convert between formats. No account required.
 * [ShotFrame](https://tyr1105.github.io/shotframe/) - Free screenshot beautifier with gradient backgrounds, device frames, shadows, and HD PNG export. 100% browser-side.
+* [MemeBako](https://www.memebako.com/) - HD watermark-free meme collection and online meme maker (Gugugaga penguin & Nailong dragon archives, ~1000 memes, stickers, GIFs and wallpapers, one-click copy). No login needed.
 
 
 ### Music, Radio and Podcasts
