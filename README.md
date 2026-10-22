@@ -278,6 +278,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Abc-Map](https://abc-map.fr) - Create geographical maps, pick data from the data store, process data to create visualizations, export or share your maps online. 
 * [KeepFormula](https://keepformula.github.io/) - Keep Formula is a simple app to make your calculations easier.
 * [Random Animal Picker](https://randomanimalpicker.com/) - Discover real animals through photos, concise facts, source links, and related species without creating an account.
+* [First Light Community](https://vvchen1981-del.github.io/first-light-community/?lang=en#art/moses) - Explore biblical paintings and read the stories behind them in English or Chinese, with source links, short lessons and local bookmarks. Free, no sign-up; currently four artworks and five lessons.
 
 
 <a name="text-tools"></a>
