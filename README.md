@@ -163,6 +163,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Table Party](https://tableparty.io/) - Free browser party games. One person hosts, friends join with a room code on their phones. No ads, no accounts.
 * [Monteams](https://monteams.com) - Free Pokémon team builder that works without login. Plan teams, analyze type coverage, and optimize strategies for all generations from Red/Blue to Scarlet/Violet.
 * [Double Cross](https://everhall.ca) - A daily crossword where every clue has two answers of equal length; deduce which twin slot gets which, then seal the grid once. No ads or tracking, one static page.
+* [DexTeam](https://dexteam.app/) - Free Pokémon team builder and battle toolkit with no sign-up. Type coverage and weakness checks for every game, Showdown import/export, a damage calculator, a Nuzlocke tracker and a full Pokédex; teams are saved in a shareable link. No battle simulator.
 
 ### Graphics, Image and Design
 
