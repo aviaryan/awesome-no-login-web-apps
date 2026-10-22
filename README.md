@@ -184,6 +184,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Typing Words GIF](https://typingwordsgif.com/) - Free online typing text GIF maker. Type words, customize style, and export an animated GIF without login.
 * [IconKing](https://iconking.net) - Free browser-based Lottie animation tool. Preview .json and .lottie files, edit colors across all layers, and convert between formats. No account required.
 * [ShotFrame](https://tyr1105.github.io/shotframe/) - Free screenshot beautifier with gradient backgrounds, device frames, shadows, and HD PNG export. 100% browser-side.
+* [Instagram Photo Resizer](https://www.juzpost.com/tools/instagram-photo-resizer) - Resizes a photo to Instagram's post, story and profile sizes (including 4:5 and the newer 3:4) with crop, blurred-fit or colour-fit modes, zoom and drag, all in the browser; nothing is uploaded.
 
 
 ### Music, Radio and Podcasts
