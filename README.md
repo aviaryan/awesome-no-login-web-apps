@@ -72,6 +72,7 @@ To save the world from creating user accounts and installing software applicatio
 * [InvoiceToMe](https://invoiceto.me/) - Generate professional invoices from various templates with your company details.
 * [ShiftDispatch Schedule Builder](https://shiftdispatchhq.com/schedule-builder) - Build weekly staff schedules, import or export spreadsheets, print schedules, and optionally publish a read-only link without creating an account.
 * [QuoteChime](https://quotechime.pages.dev/?ref=awesomenologin#generator) - Draft a finite quote follow-up sequence for service businesses in the browser. It does not send messages or store customer details.
+* [Finance Calc Kit](https://financecalckit.com/) - 697 free finance calculators for mortgages, loans, tax, retirement, and everyday budgeting, every one of them usable without an account and each showing the formula behind its answer. It is web only, with no mobile app, and the interface is denser than a single-purpose calculator.
 
 
 ### Communication
