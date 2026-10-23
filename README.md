@@ -64,6 +64,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Whisper Web](https://whisperweb.dev/) - Transcribe audio and video to text in the browser with OpenAI's Whisper. Runs on-device, no login, 100+ languages.
 * [Vizz.fm](https://vizz.fm) - Browser-based music visualizer with customizable scenes and presets.
 * [Slant it](https://slantit.app) - Create catchy 3D product videos from screen recordings in few minutes.
+* [AI Happy Horse](https://aihappyhorse.studio/prompt-lab) - Plan short product videos with a rule-based brief, prompt and three-shot text plan; export TXT or JSON without an account. Does not generate videos.
 
 
 ### Business and Finance
