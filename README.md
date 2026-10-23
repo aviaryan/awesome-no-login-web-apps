@@ -64,6 +64,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Whisper Web](https://whisperweb.dev/) - Transcribe audio and video to text in the browser with OpenAI's Whisper. Runs on-device, no login, 100+ languages.
 * [Vizz.fm](https://vizz.fm) - Browser-based music visualizer with customizable scenes and presets.
 * [Slant it](https://slantit.app) - Create catchy 3D product videos from screen recordings in few minutes.
+* [SocialSleuth Instagram Story Viewer Space](https://huggingface.co/spaces/SocialSleuth/Instagram-story-viewer) - Public Instagram Story viewing and downloading via a Hugging Face-hosted landing page that directs users to SocialSleuth; three free public-account lookups daily, with a verification step.
 
 
 ### Business and Finance
