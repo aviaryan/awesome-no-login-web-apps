@@ -64,6 +64,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Whisper Web](https://whisperweb.dev/) - Transcribe audio and video to text in the browser with OpenAI's Whisper. Runs on-device, no login, 100+ languages.
 * [Vizz.fm](https://vizz.fm) - Browser-based music visualizer with customizable scenes and presets.
 * [Slant it](https://slantit.app) - Create catchy 3D product videos from screen recordings in few minutes.
+* [Saturalabs Audio File Size Calculator](https://www.saturalabs.com/audio-file-size-calculator) - Estimate WAV or fixed-bitrate audio size, maximum duration, and bitrate budgets locally in MB or MiB without login. Supports durations up to 24 hours; does not encode audio or predict exact variable-bitrate sizes.
 
 
 ### Business and Finance
