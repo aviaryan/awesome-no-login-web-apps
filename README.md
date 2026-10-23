@@ -41,6 +41,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Programming Editors and IDEs](#programming-editors-and-ides)
 * [Programming Tools](#programming-tools)
 * [Search Engines](#search-engines)
+* [Region/Country-Specific](#regioncountry-specific)
 * [Study and Education](#study-and-education)
 * [Text based tools](#text-tools)
 * [Utilities (uncategorized)](#utilities)
@@ -264,6 +265,10 @@ To save the world from creating user accounts and installing software applicatio
 * [Flaticon](https://www.flaticon.com/) - Largest search engine for free icons.
 * [icon8](https://icons8.com/) - Designers, download the design stuff for free — icons, photos, UX illustrations, and music for your videos.
 
+
+### Region/Country-Specific
+
+* [Roof Cost Data](https://roofcostdata.com/roof-replacement-cost-calculator) - Estimates U.S. roof replacement cost ranges by size, material, location, and tear-off choice; results are planning estimates, not contractor quotes.
 
 ### Study and Education
 
