@@ -184,6 +184,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Typing Words GIF](https://typingwordsgif.com/) - Free online typing text GIF maker. Type words, customize style, and export an animated GIF without login.
 * [IconKing](https://iconking.net) - Free browser-based Lottie animation tool. Preview .json and .lottie files, edit colors across all layers, and convert between formats. No account required.
 * [ShotFrame](https://tyr1105.github.io/shotframe/) - Free screenshot beautifier with gradient backgrounds, device frames, shadows, and HD PNG export. 100% browser-side.
+* [Fondo Blanco](https://fondoblanco.org) - Free Spanish-language tool that removes image backgrounds and places a white background on product, marketplace, profile and document photos. No signup.
 
 
 ### Music, Radio and Podcasts
@@ -252,6 +253,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Acento JWT Decoder](https://www.acento.io/en/jwt-decoder/) - Decode and inspect JWT tokens (header, payload, signature) entirely in the browser; tokens are never sent to a server.
 * [Azimutt](https://azimutt.app) - Dynamic, interactive ER-style exploration for large and complex databases: search, follow relations, find paths, and build focused layouts incrementally; the explorer works with no account, though saving layouts and documentation may require one.
 * [Dadroit V Web](https://dadroit.com/vweb/) - Fast viewer for large JSON files (up to 50 MB in the browser) with a collapsible tree view, text/RegEx search, copy-path, and export of the whole file or a selected branch to JSON (formatted or minified) or CSV. Opens local files, pasted data, or URLs, including Basic/Bearer-authenticated API endpoints. Runs client-side, so no data leaves your machine.
+* [ViewHTML](https://viewhtml.app) - Free online HTML viewer with live preview. Paste or upload HTML, share via link or QR, and export to PNG or PDF. No signup.
 
 
 ### Search Engines
