@@ -103,6 +103,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Browserpad](http://browserpad.org/) - A server-less plain text editor in the browser. Allows you to open and save plain text files.
 * [WriteURL](http://www.writeurl.com/) - A collaborative real-time online text editor.
 * [Tablesmit](https://tablesmit.com) - A minimalist table builder for analytical writing. Build, format, and export structured tables. No signup required.
+* [LuraPDF](https://www.lurapdf.com/) - PDF toolkit to merge, split, compress, edit, sign, OCR and convert PDFs to and from Word, Excel, PowerPoint and images. Files are processed in your browser. Max 100 MB per file.
 
 <a name="drawing"></a>
 ### Drawing
@@ -134,6 +135,7 @@ To save the world from creating user accounts and installing software applicatio
 * [freetools.site](https://freetools.site/) - Free online tools. Convert or edit documents, images, audio, video and more.
 * [Excel to Markdown](https://exceltomd.com/excel-to-markdown) - Convert XLSX, XLS, and CSV files into Markdown tables locally in the browser; no account or server upload required.
 * [Picute Subtitle Converter](https://picute.net/en/tools/srt-to-vtt-converter) - Convert subtitle files between SRT and VTT formats in the browser. No upload, no login.
+* [PixConvert](https://www.pixconvert.com/) - Convert, compress and edit images, video, audio and PDFs (JPG, PNG, WebP, HEIC, AVIF, MP4, MOV, MP3 and more). Files are processed in your browser. No watermarks.
 
 
 ### File Hosting/Sharing
@@ -184,6 +186,8 @@ To save the world from creating user accounts and installing software applicatio
 * [Typing Words GIF](https://typingwordsgif.com/) - Free online typing text GIF maker. Type words, customize style, and export an animated GIF without login.
 * [IconKing](https://iconking.net) - Free browser-based Lottie animation tool. Preview .json and .lottie files, edit colors across all layers, and convert between formats. No account required.
 * [ShotFrame](https://tyr1105.github.io/shotframe/) - Free screenshot beautifier with gradient backgrounds, device frames, shadows, and HD PNG export. 100% browser-side.
+* [PicsSizer](https://www.picssizer.com/) - Resize, crop, compress, convert and redact images, with background removal, upscaling and basic PDF tools. Files are processed in your browser. No watermarks.
+* [AnyResizer](https://www.anyresizer.com/) - Resize images by pixels, percent or target file size, plus compression, format conversion and bulk processing. Supports HEIC and camera RAW files. Files are processed in your browser.
 
 
 ### Music, Radio and Podcasts
