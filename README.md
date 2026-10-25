@@ -103,6 +103,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Browserpad](http://browserpad.org/) - A server-less plain text editor in the browser. Allows you to open and save plain text files.
 * [WriteURL](http://www.writeurl.com/) - A collaborative real-time online text editor.
 * [Tablesmit](https://tablesmit.com) - A minimalist table builder for analytical writing. Build, format, and export structured tables. No signup required.
+* [PDFRoll](https://pdfroll.com/en/) - Suite of 37 PDF tools (merge, split, compress, convert, OCR, sign, fill, redact) running entirely in the browser through WebAssembly, with no upload, no account and no daily or file-size limit. Very large scanned documents are limited by the device's own memory.
 
 <a name="drawing"></a>
 ### Drawing
