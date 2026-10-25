@@ -103,6 +103,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Browserpad](http://browserpad.org/) - A server-less plain text editor in the browser. Allows you to open and save plain text files.
 * [WriteURL](http://www.writeurl.com/) - A collaborative real-time online text editor.
 * [Tablesmit](https://tablesmit.com) - A minimalist table builder for analytical writing. Build, format, and export structured tables. No signup required.
+* [ToolJovia Photo Issue Report Builder](https://tooljovia.com/tools/photo-issue-report-builder/) - Create photo issue reports for up to 10 items, with browser-local PDF/CSV exports and editable JSON backups. PDF text supports a limited Latin character set.
 
 <a name="drawing"></a>
 ### Drawing
