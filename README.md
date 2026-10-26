@@ -296,6 +296,7 @@ To save the world from creating user accounts and installing software applicatio
 <a name="utilities"></a>
 ### Utilities (uncategorized)
 
+* [DialWick](https://dialwick.com/) - Look up US area codes, ZIP codes, and international dialing codes with timezone and overlay history. No account required.
 * [Dataflow kit](https://dataflowkit.com/dfk) - Extract structured data from Web pages.
 * [E.gg Timer](http://e.ggtimer.com/) - Simple countdown timer application.
 * [QR Code Generator](http://zxing.appspot.com/generator/) - Different types of QR codes like contact info, WiFi, calendar etc supported.
