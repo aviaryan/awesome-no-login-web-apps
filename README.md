@@ -143,6 +143,7 @@ To save the world from creating user accounts and installing software applicatio
 * [MultCloud](https://www.multcloud.com/home) - Cloud service to manage, move, copy and migrate data between multiple cloud services. Supports all major cloud services. No sign-up required, 2TB cloud storage, download large files directly to the cloud, no size restrictions.
 * [harvis.dev](https://harvis.dev/) - Static website hosting without an account. Drag in a folder (or run `npx harvis`) and get a live site in seconds, with a private claim link to take ownership later. Free for small sites only.
 * [Blaze](https://blaze.now.sh) - Open source peer-to-peer file sharing app that works across any device and network.
+* [BrewPage](https://brewpage.app/) - Paste HTML or Markdown, or drop a file, folder or ZIP, and get a shareable HTTPS link without an account. A private manage link edits or deletes the page later; optional password and REST API. Pages expire after 15 days by default (up to 30, or 90 with an optional free account).
 
 
 <a name="games"></a>
