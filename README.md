@@ -232,6 +232,7 @@ To save the world from creating user accounts and installing software applicatio
 
 ### Programming Tools
 
+- [Ideoy](https://ideoy.ai) - Remake this week's meme videos with one selfie (AI image-to-video, freemium, adults only).
 * [CSS Minifier](https://cssminifier.com/) - Minifies CSS by removing whitespace and comments.
 * [UglifyJS JavaScript minifier](https://skalman.github.io/UglifyJS-online/) - Minifies and obfuscates JavaScript.
 * [HTML minifier by @kangax](https://kangax.github.io/html-minifier/) - HTML minifier. Minifies inline CSS and JavaScript too.
