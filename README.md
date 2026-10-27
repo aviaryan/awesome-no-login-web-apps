@@ -175,6 +175,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Coolors](https://coolors.co/) - Color palettes generator.
 * [Tiny PNG](https://tinypng.com/) - Smart PNG and JPEG compression.
 * [ezGIF](https://ezgif.com/) - GIF images editor (cropping, scaling, optimizing and more).
+* [Image Cosmos](https://imagecosmos.com/) - Compress, resize, crop and convert images (JPG, PNG, WebP, HEIC) in the browser. Files never leave your device.
 * [Adobe Color CC](https://color.adobe.com/) - Color scheme designer.
 * [IcoMoon](https://icomoon.io/app/) - A platform that helps you in finding vector icon packs, hosting icons as SVGs or fonts and to generate SVG + PNG + icon fonts of selected icons.
 * [Flaming Text](http://flamingtext.com/) - An online logo or name generator/creator, modify your logo according to your wish and get in many formats including PNG and JPEG.
