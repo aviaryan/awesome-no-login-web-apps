@@ -184,6 +184,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Typing Words GIF](https://typingwordsgif.com/) - Free online typing text GIF maker. Type words, customize style, and export an animated GIF without login.
 * [IconKing](https://iconking.net) - Free browser-based Lottie animation tool. Preview .json and .lottie files, edit colors across all layers, and convert between formats. No account required.
 * [ShotFrame](https://tyr1105.github.io/shotframe/) - Free screenshot beautifier with gradient backgrounds, device frames, shadows, and HD PNG export. 100% browser-side.
+* [AppScreen](https://appscreen.pro/) - App Store and Google Play screenshot editor with iPhone and Android phone frames, captions and backgrounds; work saves in the browser and exports as store-sized PNGs without an account. Free tier is limited to 3 projects and 5 slides; tablet frames and cloud sync need a one-time Pro purchase.
 
 
 ### Music, Radio and Podcasts
