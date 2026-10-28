@@ -64,6 +64,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Whisper Web](https://whisperweb.dev/) - Transcribe audio and video to text in the browser with OpenAI's Whisper. Runs on-device, no login, 100+ languages.
 * [Vizz.fm](https://vizz.fm) - Browser-based music visualizer with customizable scenes and presets.
 * [Slant it](https://slantit.app) - Create catchy 3D product videos from screen recordings in few minutes.
+* [Tera Studio Free Tools](https://terastudio.co/tools/) - Song and singing tools in the browser: change a song's key or speed, find its BPM and key, tap a tempo, test your vocal range and voice type, and get a score for how in tune you sing. The key changer works on your device, so the song is not uploaded. Shortcoming: the vocal remover and karaoke maker need a free account.
 
 
 ### Business and Finance
