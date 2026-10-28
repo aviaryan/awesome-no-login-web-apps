@@ -291,6 +291,7 @@ To save the world from creating user accounts and installing software applicatio
 * [DiffNow](https://www.diffnow.com/) - Advanced, online and free File Difference checking, with options like Upload file, compare files by their links or Text Input.
 * [Write.as](https://write.as/) - Cross-platform writing and publishing tool that supports Markdown and editing / deleting past posts.
 * [Emojify](https://madelinemiller.dev/apps/emojify/) - A tool to spice up text, lyrics, or poems by adding emojis.
+* [Batch Text File Replacer](https://tooljovia.com/tools/batch-text-file-replacer/) - Replace one exact, case-sensitive string across up to 20 UTF-8 files locally; download changed and unchanged files in a ZIP. Limits: 1 MiB per file and 2 MiB total.
 
 
 <a name="utilities"></a>
