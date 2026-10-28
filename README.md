@@ -278,6 +278,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Abc-Map](https://abc-map.fr) - Create geographical maps, pick data from the data store, process data to create visualizations, export or share your maps online. 
 * [KeepFormula](https://keepformula.github.io/) - Keep Formula is a simple app to make your calculations easier.
 * [Random Animal Picker](https://randomanimalpicker.com/) - Discover real animals through photos, concise facts, source links, and related species without creating an account.
+* [NameSheets](https://namesheets.com/name-tracing) - Printable name tracing worksheets for kids: type a name, or paste a class list of up to 30, and print a sheet for each child in English, Spanish or Portuguese. Sheets are drawn in the browser, so names are not sent anywhere. The free sheets carry a small footer; a footer-free PDF pack is paid.
 
 
 <a name="text-tools"></a>
