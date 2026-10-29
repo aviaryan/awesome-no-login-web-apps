@@ -184,6 +184,8 @@ To save the world from creating user accounts and installing software applicatio
 * [Typing Words GIF](https://typingwordsgif.com/) - Free online typing text GIF maker. Type words, customize style, and export an animated GIF without login.
 * [IconKing](https://iconking.net) - Free browser-based Lottie animation tool. Preview .json and .lottie files, edit colors across all layers, and convert between formats. No account required.
 * [ShotFrame](https://tyr1105.github.io/shotframe/) - Free screenshot beautifier with gradient backgrounds, device frames, shadows, and HD PNG export. 100% browser-side.
+* [Upsampler Free Tools](https://upsampler.com/free-tools) - Sixty-plus free AI and browser tools for upscaling, background removal, generation and conversion with no account required for core use.
+* [3D Valley Tools](https://3dvalley.com/tools) - Free image-to-3D, mesh repair, remesh and STL converters; AI tools need no signup for the daily allowance and most file tools run locally.
 
 
 ### Music, Radio and Podcasts
