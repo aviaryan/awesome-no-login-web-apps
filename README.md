@@ -103,6 +103,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Browserpad](http://browserpad.org/) - A server-less plain text editor in the browser. Allows you to open and save plain text files.
 * [WriteURL](http://www.writeurl.com/) - A collaborative real-time online text editor.
 * [Tablesmit](https://tablesmit.com) - A minimalist table builder for analytical writing. Build, format, and export structured tables. No signup required.
+* [PDFkind](https://pdfkind.com/) - Suite of PDF tools (edit existing text in its original font, sign, merge, compress, OCR, redact) that runs entirely in the browser, so files are never uploaded; 128 tools in 16 languages. Shows ads, and the OCR models (about 40 MB) download on first use.
 
 <a name="drawing"></a>
 ### Drawing
