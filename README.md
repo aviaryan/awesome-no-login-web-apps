@@ -72,6 +72,7 @@ To save the world from creating user accounts and installing software applicatio
 * [InvoiceToMe](https://invoiceto.me/) - Generate professional invoices from various templates with your company details.
 * [ShiftDispatch Schedule Builder](https://shiftdispatchhq.com/schedule-builder) - Build weekly staff schedules, import or export spreadsheets, print schedules, and optionally publish a read-only link without creating an account.
 * [QuoteChime](https://quotechime.pages.dev/?ref=awesomenologin#generator) - Draft a finite quote follow-up sequence for service businesses in the browser. It does not send messages or store customer details.
+* [ToolboxQuote](https://appkitdemos.com/toolboxquote/) - Offline quotes, invoices and replies for solo trades. Free offline PWA, no login, no trackers.
 
 
 ### Communication
@@ -316,6 +317,9 @@ To save the world from creating user accounts and installing software applicatio
 * [WeGoWhen](https://wegowhen.com) - Finds the dates a group can travel together: everyone taps the days they are free and it ranks the consecutive date ranges that fit the most people. Days only, so no time-of-day scheduling.
 * [Zero Dollar Domains](https://arynjennen1989-stack.github.io/) - Live RDAP hunter for unused cheap TLD names plus a catalog of still-free domain and subdomain programs. No signup. Not an expired-.com dump.
 * [BarcodeGen](https://www.barcodegen.net) - Free online barcode generator supporting 35+ formats including Code 128, EAN-13, QR Code, and Data Matrix with bulk generation and PNG/SVG download.
+* [MealSolo](https://appkitdemos.com/mealsolo/) - Meal planner and grocery list for people who cook for one. Free offline PWA, no login, no trackers.
+* [Nightkettle](https://appkitdemos.com/nightkettle/) - Calm wind-down timer with breathing, sounds and a sleep log. Free offline PWA, no login, no trackers.
+* [ProteinNudge](https://appkitdemos.com/proteinnudge/) - Protein-first small-plate builder and water log. Free offline PWA, no login, no trackers. Wellness tool, not medical advice.
 
 
 ### Miscellaneous
