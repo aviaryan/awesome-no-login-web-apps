@@ -196,6 +196,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Anime Openings](http://openings.moe/) - Free anime radio, listen or download anime opening and ending videos.
 * [ongaku](https://ongaku.js.org/) - Online anime music radio, with [desktop port](https://github.com/Anshuman-Verma/ongaku-desktop).
 * [Radio Garden](http://radio.garden/) - Listen to thousands of radio stations worldwide by selecting a city on the globe.
+* [Roam Radio](https://roamradios.com/) - Browse and play live internet radio stations from around the world by country, genre or language, or on an interactive globe; favorites are saved on your device with no account. Streams come from third-party broadcasters, so some may be offline or region-restricted.
 
 
 ### Notepads and Notebooks
