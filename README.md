@@ -64,6 +64,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Whisper Web](https://whisperweb.dev/) - Transcribe audio and video to text in the browser with OpenAI's Whisper. Runs on-device, no login, 100+ languages.
 * [Vizz.fm](https://vizz.fm) - Browser-based music visualizer with customizable scenes and presets.
 * [Slant it](https://slantit.app) - Create catchy 3D product videos from screen recordings in few minutes.
+* [File Converter App MP4 to MP3](https://fileconverterapp.com/mp4-to-mp3/) - Extract the audio of MP4, MOV and WebM videos as MP3 (128–320 kbps) in the browser, nothing uploaded; it reads only the audio track of MP4/MOV, so large iPhone videos work. MKV files do not open in Safari.
 
 
 ### Business and Finance
