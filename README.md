@@ -184,6 +184,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Typing Words GIF](https://typingwordsgif.com/) - Free online typing text GIF maker. Type words, customize style, and export an animated GIF without login.
 * [IconKing](https://iconking.net) - Free browser-based Lottie animation tool. Preview .json and .lottie files, edit colors across all layers, and convert between formats. No account required.
 * [ShotFrame](https://tyr1105.github.io/shotframe/) - Free screenshot beautifier with gradient backgrounds, device frames, shadows, and HD PNG export. 100% browser-side.
+* [Photo GPS Extractor](https://littlesuite.app/photo-gps-extractor) - Read embedded GPS coordinates from JPEG, PNG, TIFF, HEIC/HEIF and AVIF photos in your browser without uploading the image. Requires stored GPS metadata; viewing the map shares coordinates with OpenStreetMap.
 
 
 ### Music, Radio and Podcasts
