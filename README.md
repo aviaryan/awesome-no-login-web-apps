@@ -44,6 +44,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Study and Education](#study-and-education)
 * [Text based tools](#text-tools)
 * [Utilities (uncategorized)](#utilities)
+* [Region/Country-Specific](#regioncountry-specific)
 * [Miscellaneous](#miscellaneous)
 
 
@@ -317,6 +318,10 @@ To save the world from creating user accounts and installing software applicatio
 * [Zero Dollar Domains](https://arynjennen1989-stack.github.io/) - Live RDAP hunter for unused cheap TLD names plus a catalog of still-free domain and subdomain programs. No signup. Not an expired-.com dump.
 * [BarcodeGen](https://www.barcodegen.net) - Free online barcode generator supporting 35+ formats including Code 128, EAN-13, QR Code, and Data Matrix with bulk generation and PNG/SVG download.
 
+
+### Region/Country-Specific
+
+* [Pedalah](https://pedalah.com/) - Cycling route planner for Singapore and Pulau Ubin with loop and hill-climb rides, options to avoid traffic lights and right turns, rain forecast and GPX download. Covers Singapore only.
 
 ### Miscellaneous
 
