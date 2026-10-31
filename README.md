@@ -60,6 +60,8 @@ To save the world from creating user accounts and installing software applicatio
 * [Vileo](https://lukasbach.github.io/vileo/) - Record your screen or webcam and download the video from within your browser.
 * [Canvas Maker for Spotify Artists](https://spotifyedits.com) - Make a looping 9:16 Canvas video, artist header, avatar and cover art for a Spotify release. Encodes in the browser with WebCodecs, so files are never uploaded.
 * [Video Size Reducer](https://videosizereducer.org) - Compress MP4 videos right in your browser with the WebCodecs API; no upload, no account needed.
+* [Html2MP4](https://html2mp4.com) - Turn HTML, website URLs, prompts, and templates into frame-accurate MP4 videos online. Free to try, no sign-up required.
+* [YouTube Summarizer](https://youtubesummarizer.org) - Free YouTube video summarizer: paste a public link to get key takeaways, structured summary, or a detailed article. Captions only, no download or sign-up.
 * [audiotest.io](https://audiotest.io) - Free in-browser audio test toolkit with stereo left/right channel test, frequency sweep, tone generator, bass response test, headphone test and tinnitus frequency test. All tests run client-side, bilingual EN/ZH.
 * [Whisper Web](https://whisperweb.dev/) - Transcribe audio and video to text in the browser with OpenAI's Whisper. Runs on-device, no login, 100+ languages.
 * [Vizz.fm](https://vizz.fm) - Browser-based music visualizer with customizable scenes and presets.
@@ -163,6 +165,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Table Party](https://tableparty.io/) - Free browser party games. One person hosts, friends join with a room code on their phones. No ads, no accounts.
 * [Monteams](https://monteams.com) - Free Pokémon team builder that works without login. Plan teams, analyze type coverage, and optimize strategies for all generations from Red/Blue to Scarlet/Violet.
 * [Double Cross](https://everhall.ca) - A daily crossword where every clue has two answers of equal length; deduce which twin slot gets which, then seal the grid once. No ads or tracking, one static page.
+* [PuzzlePave](https://puzzlepave.com) - Free packing / polyomino puzzle with 100 levels on an 8×8 board. No download or account required.
 
 ### Graphics, Image and Design
 
@@ -281,6 +284,8 @@ To save the world from creating user accounts and installing software applicatio
 
 
 <a name="text-tools"></a>
+* [AI Story Writer](https://aistorywriter.org) - Free AI story writer for kids: short family-safe stories with illustrations and narration. No signup required.
+
 ### Text based tools
 
 * [Diff Checker](https://www.diffchecker.com/) - Compare two text passages and view differences.
@@ -291,6 +296,8 @@ To save the world from creating user accounts and installing software applicatio
 * [DiffNow](https://www.diffnow.com/) - Advanced, online and free File Difference checking, with options like Upload file, compare files by their links or Text Input.
 * [Write.as](https://write.as/) - Cross-platform writing and publishing tool that supports Markdown and editing / deleting past posts.
 * [Emojify](https://madelinemiller.dev/apps/emojify/) - A tool to spice up text, lyrics, or poems by adding emojis.
+* [7emoji](https://7emoji.fun) - AI emoji translator that turns text into up to 10 context-matched emoji suggestions to copy. Free to try, no sign-up.
+* [IsWeber](https://isweber.com) - AI YouTube content generator for creators: topic to outline, script, titles, and hooks. Text packaging only, free to try without an account.
 
 
 <a name="utilities"></a>
@@ -301,6 +308,7 @@ To save the world from creating user accounts and installing software applicatio
 * [QR Code Generator](http://zxing.appspot.com/generator/) - Different types of QR codes like contact info, WiFi, calendar etc supported.
 * [QR Code Scanner and Generator](https://sharesnip.rosano.ca) - Scan via camera and files, download as SVG or PNG, works offline.
 * [RANDOM.ORG](https://www.random.org/) - Random number generator, dice rolls, password generator, random bitmaps and more stuff based on the concept of randomness.
+* [Odluck](https://odluck.com) - Free random generators (numbers, passwords, colors, cards, animals, countries) that run in the browser with no login.
 * [Web-Capture](https://web-capture.net/) - Webapp for converting webpages to popular formats (PDF, JPEG, ZIP) just by submitting link.
 * [PrintWhatYouLike](http://www.printwhatyoulike.com/) - Print any webpage or save it as HTML or PDF.
 * [WhatTheFont](http://www.myfonts.com/WhatTheFont/) - Determine font name from an image.
@@ -308,6 +316,7 @@ To save the world from creating user accounts and installing software applicatio
 * [TypingWeb](https://www.typing.com/student/start) - Master touch-typing with ease.
 * [Acronym Creator](http://acronymcreator.net/) - Create acronym for organization, algorithm, or anything having at least two words.
 * [Resume Nation](https://resume-nation.github.io) - An open source resume builder progressive web app which can work offline. It has a few themes to choose from and it can export the resume in PDF form.
+* [Rezloom](https://rezloom.com) - Tailor a resume to a job description from your career materials—Chinese and English on the same facts, with controllable share links. Free to try, no sign-up.
 * [Daily Todo](https://dailytodo.org/) -  Simple todo list maker.
 * [Mailinator](https://www.mailinator.com/) - Disposable email service.
 * [Randommer](https://randommer.io/) - Random data generator and validator.
@@ -316,6 +325,7 @@ To save the world from creating user accounts and installing software applicatio
 * [WeGoWhen](https://wegowhen.com) - Finds the dates a group can travel together: everyone taps the days they are free and it ranks the consecutive date ranges that fit the most people. Days only, so no time-of-day scheduling.
 * [Zero Dollar Domains](https://arynjennen1989-stack.github.io/) - Live RDAP hunter for unused cheap TLD names plus a catalog of still-free domain and subdomain programs. No signup. Not an expired-.com dump.
 * [BarcodeGen](https://www.barcodegen.net) - Free online barcode generator supporting 35+ formats including Code 128, EAN-13, QR Code, and Data Matrix with bulk generation and PNG/SVG download.
+* [Lompu](https://lompu.com) - Build custom random pickers and flashcards from your own lists, then save and share a link. Core features work without an account.
 
 
 ### Miscellaneous
