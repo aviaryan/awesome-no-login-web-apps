@@ -103,6 +103,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Browserpad](http://browserpad.org/) - A server-less plain text editor in the browser. Allows you to open and save plain text files.
 * [WriteURL](http://www.writeurl.com/) - A collaborative real-time online text editor.
 * [Tablesmit](https://tablesmit.com) - A minimalist table builder for analytical writing. Build, format, and export structured tables. No signup required.
+* [Bookfolio Reader](https://reader.bookfolio.io) - Read EPUB, PDF, MOBI, AZW3 and FB2 ebooks in the browser; files stay on your device and it works offline.
 
 <a name="drawing"></a>
 ### Drawing
@@ -134,6 +135,7 @@ To save the world from creating user accounts and installing software applicatio
 * [freetools.site](https://freetools.site/) - Free online tools. Convert or edit documents, images, audio, video and more.
 * [Excel to Markdown](https://exceltomd.com/excel-to-markdown) - Convert XLSX, XLS, and CSV files into Markdown tables locally in the browser; no account or server upload required.
 * [Picute Subtitle Converter](https://picute.net/en/tools/srt-to-vtt-converter) - Convert subtitle files between SRT and VTT formats in the browser. No upload, no login.
+* [Bookfolio Converter](https://converter.bookfolio.io) - Convert PDF, DOCX, MOBI, AZW3, FB2 and more to EPUB, PDF or Kindle AZW3, up to 10 files at once. Free to use without an account for 3 conversions; after that an account is required.
 
 
 ### File Hosting/Sharing
