@@ -196,6 +196,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Anime Openings](http://openings.moe/) - Free anime radio, listen or download anime opening and ending videos.
 * [ongaku](https://ongaku.js.org/) - Online anime music radio, with [desktop port](https://github.com/Anshuman-Verma/ongaku-desktop).
 * [Radio Garden](http://radio.garden/) - Listen to thousands of radio stations worldwide by selecting a city on the globe.
+* [RapLyrics](https://raplyrics.online/) - Free no-sign-up rap-writing workspace with editable starter verses, rhyme-pattern controls, a rhyme finder, and TXT export. Starter drafts are rule-based writing starters rather than AI-generated songs.
 
 
 ### Notepads and Notebooks
