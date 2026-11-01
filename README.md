@@ -134,6 +134,7 @@ To save the world from creating user accounts and installing software applicatio
 * [freetools.site](https://freetools.site/) - Free online tools. Convert or edit documents, images, audio, video and more.
 * [Excel to Markdown](https://exceltomd.com/excel-to-markdown) - Convert XLSX, XLS, and CSV files into Markdown tables locally in the browser; no account or server upload required.
 * [Picute Subtitle Converter](https://picute.net/en/tools/srt-to-vtt-converter) - Convert subtitle files between SRT and VTT formats in the browser. No upload, no login.
+* [OpenP7M](https://openp7m.com/en/) - Read supported P7M PDFs and FatturaPA XML in a browser without an account. Full single-file preview is free with a watermark; export costs €1.99 per file, batches need an account, and local integrity checks do not validate certificate trust, revocation or legal signature validity.
 
 
 ### File Hosting/Sharing
