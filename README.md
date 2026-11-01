@@ -120,6 +120,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Piskel](https://www.piskelapp.com/) - Free online editor for animated sprites & pixel art
 * [PixelCraft](https://pixelcraft.web.app) - A Pixel Art Editor and animation creation tool
 * [MapDraw](https://www.mapdraw.net/) - Draw and edit paths, areas and markers on a map. Supports GeoJSON, GPX, KML and KMZ files, with routing, elevation profiles and shareable links. Files are processed in your browser. Open source.
+* [Knitting Chart](https://knittingchart.com/) - Knitting chart maker for colorwork and stitch patterns, drawn in true stitch proportions. Converts photos to charts, prints graph paper sized to your gauge and exports PDFs with a color key and row-by-row instructions. Runs in the browser with no upload or watermark; an optional one-time paid upgrade adds account sync and selection tools.
 
 
 ### File Converters
