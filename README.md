@@ -70,6 +70,7 @@ To save the world from creating user accounts and installing software applicatio
 
 * [TradingView.com](https://www.tradingview.com/) - Real-time information and market insights from various exchanges. Requires an account for saving settings.
 * [InvoiceToMe](https://invoiceto.me/) - Generate professional invoices from various templates with your company details.
+* [Invoicycle](https://invoicycle.com/) - Generate invoices, recurring billing schedules, and shareable payment links instantly in the browser without sign-up barriers.
 * [ShiftDispatch Schedule Builder](https://shiftdispatchhq.com/schedule-builder) - Build weekly staff schedules, import or export spreadsheets, print schedules, and optionally publish a read-only link without creating an account.
 * [QuoteChime](https://quotechime.pages.dev/?ref=awesomenologin#generator) - Draft a finite quote follow-up sequence for service businesses in the browser. It does not send messages or store customer details.
 
