@@ -205,6 +205,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Notepad](http://notepad.js.org/) - Offline capable Notepad PWA.
 * [ProtectedText](https://www.protectedtext.com/) - Encrypted notes without ads, sessions, or cookies.
 * [WriteXO](https://writexo.com/) - Online Notepad with rich-text support, password protection and custom URLs.
+* [ThreadPage](https://thread.page/) - Notes kept as one thread per project, saved in your browser and usable offline without an account. Sync and sharing need a paid account.
 
 
 ### Privacy, Security and Cryptography
