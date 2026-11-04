@@ -196,6 +196,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Anime Openings](http://openings.moe/) - Free anime radio, listen or download anime opening and ending videos.
 * [ongaku](https://ongaku.js.org/) - Online anime music radio, with [desktop port](https://github.com/Anshuman-Verma/ongaku-desktop).
 * [Radio Garden](http://radio.garden/) - Listen to thousands of radio stations worldwide by selecting a city on the globe.
+* [Open Guitar Chords](https://openguitarchords.com/) - Guitar chord diagrams for 172 shapes with fingering, notes and audio, plus a chord identifier, scale finder, fretboard trainer, tuner and metronome; everything runs in the browser without an account, though there are no video lessons.
 
 
 ### Notepads and Notebooks
