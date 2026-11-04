@@ -317,7 +317,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Zero Dollar Domains](https://arynjennen1989-stack.github.io/) - Live RDAP hunter for unused cheap TLD names plus a catalog of still-free domain and subdomain programs. No signup. Not an expired-.com dump.
 * [BarcodeGen](https://www.barcodegen.net) - Free online barcode generator supporting 35+ formats including Code 128, EAN-13, QR Code, and Data Matrix with bulk generation and PNG/SVG download.
 
-
+* [Localcraft](https://tools.sweetai.work) - 112 free online tools (44 PDF tools included) that run locally in your browser — no uploads, no watermark, no sign-up.
 ### Miscellaneous
 
 * [is.gd](https://is.gd/) - Link shortener with custom URLs and open API (no tokens).
