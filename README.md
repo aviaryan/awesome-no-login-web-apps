@@ -184,6 +184,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Typing Words GIF](https://typingwordsgif.com/) - Free online typing text GIF maker. Type words, customize style, and export an animated GIF without login.
 * [IconKing](https://iconking.net) - Free browser-based Lottie animation tool. Preview .json and .lottie files, edit colors across all layers, and convert between formats. No account required.
 * [ShotFrame](https://tyr1105.github.io/shotframe/) - Free screenshot beautifier with gradient backgrounds, device frames, shadows, and HD PNG export. 100% browser-side.
+* [Describble](https://describble.com) - Type a sentence and a hand-drawn avatar is drawn while you type. Rule-based, no AI, runs fully in the browser, exports a 1024 × 1024 PNG. Understands English, Italian and Portuguese, and only the words in its dictionary.
 
 
 ### Music, Radio and Podcasts
