@@ -308,6 +308,7 @@ To save the world from creating user accounts and installing software applicatio
 * [TypingWeb](https://www.typing.com/student/start) - Master touch-typing with ease.
 * [Acronym Creator](http://acronymcreator.net/) - Create acronym for organization, algorithm, or anything having at least two words.
 * [Resume Nation](https://resume-nation.github.io) - An open source resume builder progressive web app which can work offline. It has a few themes to choose from and it can export the resume in PDF form.
+* [ResumeInvited](https://resumeinvited.com/) - Browser-based resume builder with templates, live preview, local drafts, and PDF or editable Word downloads. The current version is free and its core features need no account.
 * [Daily Todo](https://dailytodo.org/) -  Simple todo list maker.
 * [Mailinator](https://www.mailinator.com/) - Disposable email service.
 * [Randommer](https://randommer.io/) - Random data generator and validator.
