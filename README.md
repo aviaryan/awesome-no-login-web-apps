@@ -143,6 +143,7 @@ To save the world from creating user accounts and installing software applicatio
 * [MultCloud](https://www.multcloud.com/home) - Cloud service to manage, move, copy and migrate data between multiple cloud services. Supports all major cloud services. No sign-up required, 2TB cloud storage, download large files directly to the cloud, no size restrictions.
 * [harvis.dev](https://harvis.dev/) - Static website hosting without an account. Drag in a folder (or run `npx harvis`) and get a live site in seconds, with a private claim link to take ownership later. Free for small sites only.
 * [Blaze](https://blaze.now.sh) - Open source peer-to-peer file sharing app that works across any device and network.
+* [anon.li Drop](https://anon.li/drop/upload) - End-to-end encrypted file sharing: files are encrypted in the browser (AES-256-GCM) and the key stays in the link fragment, so recipients need no account. Open source (AGPL-3.0). Guest uploads are limited to 100 MB and deleted after 3 days.
 
 
 <a name="games"></a>
