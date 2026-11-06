@@ -184,6 +184,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Typing Words GIF](https://typingwordsgif.com/) - Free online typing text GIF maker. Type words, customize style, and export an animated GIF without login.
 * [IconKing](https://iconking.net) - Free browser-based Lottie animation tool. Preview .json and .lottie files, edit colors across all layers, and convert between formats. No account required.
 * [ShotFrame](https://tyr1105.github.io/shotframe/) - Free screenshot beautifier with gradient backgrounds, device frames, shadows, and HD PNG export. 100% browser-side.
+* [Lightmark Camera](https://www.shunqiwujie.com/qingyin/watermark/en/) - Add text or logo watermarks to up to 100 photos locally in the browser, with single or tiled layouts and JPG, PNG or ZIP export. Free and no account required; imported photos and edits are cleared when the page is closed or reloaded.
 
 
 ### Music, Radio and Podcasts
@@ -335,3 +336,4 @@ To save the world from creating user accounts and installing software applicatio
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Avi Aryan](http://aviaryan.in) has waived all copyright and related or neighboring rights to this work.
+
