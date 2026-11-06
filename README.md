@@ -163,6 +163,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Table Party](https://tableparty.io/) - Free browser party games. One person hosts, friends join with a room code on their phones. No ads, no accounts.
 * [Monteams](https://monteams.com) - Free Pokémon team builder that works without login. Plan teams, analyze type coverage, and optimize strategies for all generations from Red/Blue to Scarlet/Violet.
 * [Double Cross](https://everhall.ca) - A daily crossword where every clue has two answers of equal length; deduce which twin slot gets which, then seal the grid once. No ads or tracking, one static page.
+* [Foony](https://foony.com/) - Free multiplayer board and card games like Ludo, Chess, Carrom, and Spades. Make a room, send the link, and friends join without an account, with bots for empty seats.
 
 ### Graphics, Image and Design
 
