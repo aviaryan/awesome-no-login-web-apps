@@ -163,6 +163,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Table Party](https://tableparty.io/) - Free browser party games. One person hosts, friends join with a room code on their phones. No ads, no accounts.
 * [Monteams](https://monteams.com) - Free Pokémon team builder that works without login. Plan teams, analyze type coverage, and optimize strategies for all generations from Red/Blue to Scarlet/Violet.
 * [Double Cross](https://everhall.ca) - A daily crossword where every clue has two answers of equal length; deduce which twin slot gets which, then seal the grid once. No ads or tracking, one static page.
+* [Azeroth Survivors Build Calculator](https://azerothsurvivors.app/build-calculator/) - Plan talents, skills and equipment for Azeroth Survivors, then share an editable build link or export a PNG. Core planning and sharing work without an account.
 
 ### Graphics, Image and Design
 
