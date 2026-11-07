@@ -196,6 +196,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Anime Openings](http://openings.moe/) - Free anime radio, listen or download anime opening and ending videos.
 * [ongaku](https://ongaku.js.org/) - Online anime music radio, with [desktop port](https://github.com/Anshuman-Verma/ongaku-desktop).
 * [Radio Garden](http://radio.garden/) - Listen to thousands of radio stations worldwide by selecting a city on the globe.
+* [72FM](https://72fm.com/) - Play 30,000+ live public radio stations from 200+ countries, browsable by country, genre and local time of day. Free listening is limited to 15 minutes a day.
 
 
 ### Notepads and Notebooks
