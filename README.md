@@ -205,6 +205,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Notepad](http://notepad.js.org/) - Offline capable Notepad PWA.
 * [ProtectedText](https://www.protectedtext.com/) - Encrypted notes without ads, sessions, or cookies.
 * [WriteXO](https://writexo.com/) - Online Notepad with rich-text support, password protection and custom URLs.
+* [Eirle Notes](https://eirle.me/) - Free browser notepad with checklists, sticky notes and local saving; works offline after setup and supports manual diary export/import, with no account or automatic cloud sync.
 
 
 ### Privacy, Security and Cryptography
