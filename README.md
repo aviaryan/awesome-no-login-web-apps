@@ -125,6 +125,7 @@ To save the world from creating user accounts and installing software applicatio
 ### File Converters
 
 * [Cloud Convert](https://cloudconvert.com/) - Convert from anything to anything including audio, video, font, document and lots more. Excellent integration with cloud storage services like Google Drive and Dropbox. Direct links.
+* [KaijuConverter](https://kaijuconverter.com/) - Fast, free universal file converter supporting 201+ formats and 54 Studio tools (documents, images, audio, video, CAD, archives, and OCR). No login or registration required.
 * [Online Convert](http://www.online-convert.com/) - Collection of audio, video, image, document, ebook and archive converter. No file size limits and direct download links upon conversion.
 * [Pandoc Try](https://pandoc.org/try/) - Inter markup conversion using Pandoc. Supported - Latex, Markdown, HTML, RST and lots more.
 * [Print Friendly](https://www.printfriendly.com/) - Convert any webpage to simple format. Then download it or print as PDF.
