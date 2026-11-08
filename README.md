@@ -64,6 +64,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Whisper Web](https://whisperweb.dev/) - Transcribe audio and video to text in the browser with OpenAI's Whisper. Runs on-device, no login, 100+ languages.
 * [Vizz.fm](https://vizz.fm) - Browser-based music visualizer with customizable scenes and presets.
 * [Slant it](https://slantit.app) - Create catchy 3D product videos from screen recordings in few minutes.
+* [Extractune](https://www.extractune.com/) - Split a song or video into vocals, drums, bass and other stems in the browser; the split runs on your device with no upload or sign-up. Needs a recent Chrome, Edge or Safari, and dense mixes are not studio-clean.
 
 
 ### Business and Finance
