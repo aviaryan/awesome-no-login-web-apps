@@ -134,6 +134,7 @@ To save the world from creating user accounts and installing software applicatio
 * [freetools.site](https://freetools.site/) - Free online tools. Convert or edit documents, images, audio, video and more.
 * [Excel to Markdown](https://exceltomd.com/excel-to-markdown) - Convert XLSX, XLS, and CSV files into Markdown tables locally in the browser; no account or server upload required.
 * [Picute Subtitle Converter](https://picute.net/en/tools/srt-to-vtt-converter) - Convert subtitle files between SRT and VTT formats in the browser. No upload, no login.
+* [3MF Converter](https://open3mf.com/) - Convert 3MF files from Bambu Studio, OrcaSlicer, PrusaSlicer and MakerWorld to STL or OBJ in the browser: all objects, one plate or each object separately. Also a 3MF viewer, splitter and editor. Files are not uploaded. STL output has no colours or print settings, since the format cannot store them.
 
 
 ### File Hosting/Sharing
