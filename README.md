@@ -104,6 +104,8 @@ To save the world from creating user accounts and installing software applicatio
 * [WriteURL](http://www.writeurl.com/) - A collaborative real-time online text editor.
 * [Tablesmit](https://tablesmit.com) - A minimalist table builder for analytical writing. Build, format, and export structured tables. No signup required.
 
+* [PageUtil PDF Tools](https://pageutil.com/pdf-tools/) - Compare PDF text and appearance, inspect moved pages, or merge, split, rotate and reorder pages locally without an account. No OCR; encrypted PDFs must be decrypted first.
+
 <a name="drawing"></a>
 ### Drawing
 
