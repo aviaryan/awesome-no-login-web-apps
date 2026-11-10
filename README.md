@@ -64,7 +64,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Whisper Web](https://whisperweb.dev/) - Transcribe audio and video to text in the browser with OpenAI's Whisper. Runs on-device, no login, 100+ languages.
 * [Vizz.fm](https://vizz.fm) - Browser-based music visualizer with customizable scenes and presets.
 * [Slant it](https://slantit.app) - Create catchy 3D product videos from screen recordings in few minutes.
-* [WaveLocus Audio Normalizer](https://wavelocus.com/audio-normalizer) - Normalize audio toward a chosen LUFS target locally without uploading recordings, with estimated peak protection, before/after measurements and WAV export. Free without an account; one mono or stereo file up to 60 seconds and 16 MiB.
+* [WaveLocus Audio Normalizer](https://wavelocus.com/audio-normalizer) - Normalize audio toward a chosen LUFS target locally without uploading recordings, with estimated peak protection, before/after measurements and WAV export. Supports one mono or stereo file up to 60 seconds and 16 MiB.
 
 
 ### Business and Finance
