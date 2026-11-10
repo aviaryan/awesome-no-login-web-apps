@@ -95,6 +95,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Github.md](http://aviaryan.in/javascripts/github.md/) - Simple GitHub-style Markdown (GFM) preview with print feature.
 * [Markdown Live Preview](http://markdownlivepreview.com/) - Instant Markdown preview.
 * [StackEdit.io](https://stackedit.io/) - Rich in-browser markdown editor that works offline.
+- [MarkdownPic](https://markdownpic.com) - Convert Markdown and text into PNG, JPEG or WebP images (long images, cards and carousels) entirely in the browser, with 12 themes, KaTeX and Mermaid support and CSV batch generation. No upload, no account and no watermark. Images only, no PDF export.
 
 #### <a name="doc-eds-others"></a> Others
 
