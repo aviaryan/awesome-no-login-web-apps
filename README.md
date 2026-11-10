@@ -134,7 +134,7 @@ To save the world from creating user accounts and installing software applicatio
 * [freetools.site](https://freetools.site/) - Free online tools. Convert or edit documents, images, audio, video and more.
 * [Excel to Markdown](https://exceltomd.com/excel-to-markdown) - Convert XLSX, XLS, and CSV files into Markdown tables locally in the browser; no account or server upload required.
 * [Picute Subtitle Converter](https://picute.net/en/tools/srt-to-vtt-converter) - Convert subtitle files between SRT and VTT formats in the browser. No upload, no login.
-
+* [BetterPDF Convert](https://betterpdfconvert.com/) - Convert EPUB, AZW3, and MOBI ebooks to PDF in the browser while preserving clickable Table of Contents bookmarks. Includes device page presets (iPad B5, E-ink A5). No login or server upload required.
 
 ### File Hosting/Sharing
 
