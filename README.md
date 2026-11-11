@@ -64,6 +64,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Whisper Web](https://whisperweb.dev/) - Transcribe audio and video to text in the browser with OpenAI's Whisper. Runs on-device, no login, 100+ languages.
 * [Vizz.fm](https://vizz.fm) - Browser-based music visualizer with customizable scenes and presets.
 * [Slant it](https://slantit.app) - Create catchy 3D product videos from screen recordings in few minutes.
+* [ToHD](https://tohd.video/) - Upscale 360p/480p video to 720p or 1080p with AI (Real-ESRGAN) running on your own GPU through WebGPU, so the video is never uploaded. Needs a desktop WebGPU browser, clips up to 10 minutes, and it cannot fix motion blur.
 
 
 ### Business and Finance
