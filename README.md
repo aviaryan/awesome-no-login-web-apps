@@ -328,6 +328,7 @@ To save the world from creating user accounts and installing software applicatio
 * [lmgtfy](http://lmgtfy.com/) - When your friends are too lazy to use Google on their own.
 * [AlarmDJ](https://alarmdj.com) - Online Alarm clock, use MP3 files and YouTube videos as alarm.
 * [Luna Tarot](https://www.lunatarotapp.com) - Free multilingual tarot reading web app with 8-language support, daily readings, meditation music, and moon calendar.
+* [Window Check](https://nervewindow.com/tools/window-of-tolerance-check/) - Five-question self-check that tells you whether you feel above, inside or below your window of tolerance right now, in under a minute with no account or typing. A noticing tool only: not an assessment, and it offers no result history.
 -----
 
 ## License
