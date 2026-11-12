@@ -64,6 +64,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Whisper Web](https://whisperweb.dev/) - Transcribe audio and video to text in the browser with OpenAI's Whisper. Runs on-device, no login, 100+ languages.
 * [Vizz.fm](https://vizz.fm) - Browser-based music visualizer with customizable scenes and presets.
 * [Slant it](https://slantit.app) - Create catchy 3D product videos from screen recordings in few minutes.
+* [Timecode Calculator](https://dev101.io/tools/timecode-calculator) - Converts between SMPTE timecode and frames, shows real time, and adds or subtracts timecodes, including drop-frame at 29.97 and 59.94 fps.
 
 
 ### Business and Finance
@@ -184,6 +185,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Typing Words GIF](https://typingwordsgif.com/) - Free online typing text GIF maker. Type words, customize style, and export an animated GIF without login.
 * [IconKing](https://iconking.net) - Free browser-based Lottie animation tool. Preview .json and .lottie files, edit colors across all layers, and convert between formats. No account required.
 * [ShotFrame](https://tyr1105.github.io/shotframe/) - Free screenshot beautifier with gradient backgrounds, device frames, shadows, and HD PNG export. 100% browser-side.
+* [Image to ASCII Art](https://dev101.io/tools/image-to-ascii) - Converts images to monochrome or color ASCII art with adjustable character ramps, and exports text, ANSI or PNG. Runs in the browser with no upload. Static output only, no animation.
 
 
 ### Music, Radio and Podcasts
