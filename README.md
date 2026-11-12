@@ -278,6 +278,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Abc-Map](https://abc-map.fr) - Create geographical maps, pick data from the data store, process data to create visualizations, export or share your maps online. 
 * [KeepFormula](https://keepformula.github.io/) - Keep Formula is a simple app to make your calculations easier.
 * [Random Animal Picker](https://randomanimalpicker.com/) - Discover real animals through photos, concise facts, source links, and related species without creating an account.
+* [Worksheets (My Digital Lavender)](https://mydigitallavender.com/ws) - Printable practice sheets for kids in about 250 kinds (math facts, word problems, reading, writing, handwriting, science, social studies), each printed with its answer key, plus a daily plan of three sheets by grade. Covers grades K to 7 only.
 
 
 <a name="text-tools"></a>
