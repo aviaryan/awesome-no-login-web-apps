@@ -316,6 +316,7 @@ To save the world from creating user accounts and installing software applicatio
 * [WeGoWhen](https://wegowhen.com) - Finds the dates a group can travel together: everyone taps the days they are free and it ranks the consecutive date ranges that fit the most people. Days only, so no time-of-day scheduling.
 * [Zero Dollar Domains](https://arynjennen1989-stack.github.io/) - Live RDAP hunter for unused cheap TLD names plus a catalog of still-free domain and subdomain programs. No signup. Not an expired-.com dump.
 * [BarcodeGen](https://www.barcodegen.net) - Free online barcode generator supporting 35+ formats including Code 128, EAN-13, QR Code, and Data Matrix with bulk generation and PNG/SVG download.
+* [Dates and Hours](https://datesandhours.com) - Date and work-hours calculators: days from today, days between dates, business days, hours worked and a weekly time card with overtime and decimal hours. Results update as you type, no ads. Public holidays cover only the US, UK, Canada and Australia.
 
 
 ### Miscellaneous
