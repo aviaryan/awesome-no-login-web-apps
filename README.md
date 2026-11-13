@@ -328,6 +328,7 @@ To save the world from creating user accounts and installing software applicatio
 * [lmgtfy](http://lmgtfy.com/) - When your friends are too lazy to use Google on their own.
 * [AlarmDJ](https://alarmdj.com) - Online Alarm clock, use MP3 files and YouTube videos as alarm.
 * [Luna Tarot](https://www.lunatarotapp.com) - Free multilingual tarot reading web app with 8-language support, daily readings, meditation music, and moon calendar.
+* [DinePoll](https://dinepoll.com/) - Group poll for where to eat: search real restaurants near you, pick a few, and share one link; friends vote from any phone without an app or account, and the winner comes with directions. The free plan has a monthly poll limit.
 -----
 
 ## License
