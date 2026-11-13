@@ -291,6 +291,7 @@ To save the world from creating user accounts and installing software applicatio
 * [DiffNow](https://www.diffnow.com/) - Advanced, online and free File Difference checking, with options like Upload file, compare files by their links or Text Input.
 * [Write.as](https://write.as/) - Cross-platform writing and publishing tool that supports Markdown and editing / deleting past posts.
 * [Emojify](https://madelinemiller.dev/apps/emojify/) - A tool to spice up text, lyrics, or poems by adding emojis.
+  * [FlowCaptions Paraphraser](https://flowcaptions.com/tools/paraphraser) - Paste up to 2,000 characters and get 3 AI rewrites in a chosen mode (simplify, formal, engaging and more). Shortcomings: a per-visitor daily limit, text is processed by a third-party AI model, and rewrites can shift details, so check them.
 
 
 <a name="utilities"></a>
