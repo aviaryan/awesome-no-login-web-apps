@@ -163,6 +163,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Table Party](https://tableparty.io/) - Free browser party games. One person hosts, friends join with a room code on their phones. No ads, no accounts.
 * [Monteams](https://monteams.com) - Free Pokémon team builder that works without login. Plan teams, analyze type coverage, and optimize strategies for all generations from Red/Blue to Scarlet/Violet.
 * [Double Cross](https://everhall.ca) - A daily crossword where every clue has two answers of equal length; deduce which twin slot gets which, then seal the grid once. No ads or tracking, one static page.
+* [Play Categories](https://www.playcategories.org/) - Online version of the categories game (Stadt Land Fluss, Scattergories): a host opens a room, friends join with a code, everyone fills in their own categories, votes on the answers and keeps score. No account and no ads, but limited to 12 players per room.
 
 ### Graphics, Image and Design
 
