@@ -64,6 +64,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Whisper Web](https://whisperweb.dev/) - Transcribe audio and video to text in the browser with OpenAI's Whisper. Runs on-device, no login, 100+ languages.
 * [Vizz.fm](https://vizz.fm) - Browser-based music visualizer with customizable scenes and presets.
 * [Slant it](https://slantit.app) - Create catchy 3D product videos from screen recordings in few minutes.
+* [GetYouTubeTranscript](https://getyoutubetranscript.com/) - Paste a YouTube link to get the video's transcript with timestamps in any caption language it has, then copy it or download TXT, SRT or VTT. Only works for videos that have captions, and a few transcripts a day are free without an account; heavier use needs one.
 
 
 ### Business and Finance
