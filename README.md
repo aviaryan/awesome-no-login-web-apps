@@ -217,6 +217,7 @@ To save the world from creating user accounts and installing software applicatio
 * [BugMeNot](http://bugmenot.com/) - A platform for finding and sharing logins of different websites. It helps you find credentials for signing in into different websites.
 * [Cloverleaf](https://cloverleaf.app) - An open source app to replace your password manager without storing your passwords anywhere.
 * [MetadataRemover.ai](https://metadataremover.ai/) - Inspect, edit, remove, and verify supported metadata in images, PDFs, DOCX files, videos, and MP3 audio locally in the browser; no account required.
+* [RedactPal](https://redactpal.com) - Redact screenshots, PDFs and text in the browser: finds emails, card numbers and API keys and covers them with solid boxes, and nothing is uploaded. Detection is rule-based and OCR is English-only, so names and addresses need to be marked by hand.
 
 ### Programming Editors and IDEs
 
