@@ -217,6 +217,7 @@ To save the world from creating user accounts and installing software applicatio
 * [BugMeNot](http://bugmenot.com/) - A platform for finding and sharing logins of different websites. It helps you find credentials for signing in into different websites.
 * [Cloverleaf](https://cloverleaf.app) - An open source app to replace your password manager without storing your passwords anywhere.
 * [MetadataRemover.ai](https://metadataremover.ai/) - Inspect, edit, remove, and verify supported metadata in images, PDFs, DOCX files, videos, and MP3 audio locally in the browser; no account required.
+* [Scam message check](https://manykiln.com/tools/scam-message-check/) - Paste a suspicious SMS, chat or email text and see which common scam patterns it matches, with plain reasons and pause-and-verify steps; it runs in the browser and sends nothing anywhere. It uses fixed rules, so it can miss new tricks.
 
 ### Programming Editors and IDEs
 
@@ -252,6 +253,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Acento JWT Decoder](https://www.acento.io/en/jwt-decoder/) - Decode and inspect JWT tokens (header, payload, signature) entirely in the browser; tokens are never sent to a server.
 * [Azimutt](https://azimutt.app) - Dynamic, interactive ER-style exploration for large and complex databases: search, follow relations, find paths, and build focused layouts incrementally; the explorer works with no account, though saving layouts and documentation may require one.
 * [Dadroit V Web](https://dadroit.com/vweb/) - Fast viewer for large JSON files (up to 50 MB in the browser) with a collapsible tree view, text/RegEx search, copy-path, and export of the whole file or a selected branch to JSON (formatted or minified) or CSV. Opens local files, pasted data, or URLs, including Basic/Bearer-authenticated API endpoints. Runs client-side, so no data leaves your machine.
+* [Payload Shrinker](https://manykiln.com/tools/prompt-payload-shrinker/) - Shrink JSON or bulky text to fit a token budget for an LLM prompt, with every step labelled lossless or lossy and lossless JSON steps checked by decoding back; runs in the browser. Token counts are estimates, not exact for any model.
 
 
 ### Search Engines
