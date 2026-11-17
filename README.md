@@ -328,6 +328,7 @@ To save the world from creating user accounts and installing software applicatio
 * [lmgtfy](http://lmgtfy.com/) - When your friends are too lazy to use Google on their own.
 * [AlarmDJ](https://alarmdj.com) - Online Alarm clock, use MP3 files and YouTube videos as alarm.
 * [Luna Tarot](https://www.lunatarotapp.com) - Free multilingual tarot reading web app with 8-language support, daily readings, meditation music, and moon calendar.
+* [RIFF HUNTER 0880 Neon Mall](https://www.riffhunter0880.com/?utm_source=github-nologin&utm_medium=referral&utm_campaign=reach1117) - Walkable 3D neon shopping mall with 125+ brands in 18 stores and two music-video jukeboxes, no account needed. Heavy on older phones and weak graphics chips, and the store links are affiliate links.
 -----
 
 ## License
