@@ -64,6 +64,8 @@ To save the world from creating user accounts and installing software applicatio
 * [Whisper Web](https://whisperweb.dev/) - Transcribe audio and video to text in the browser with OpenAI's Whisper. Runs on-device, no login, 100+ languages.
 * [Vizz.fm](https://vizz.fm) - Browser-based music visualizer with customizable scenes and presets.
 * [Slant it](https://slantit.app) - Create catchy 3D product videos from screen recordings in few minutes.
+* [LibraTool Video Background Remover](https://libratool.com/en/tools/video-background-remover) - Remove or replace the background of a video in the browser; the file is processed on your device and not uploaded. Long clips are slow on phones.
+* [LibraTool Audio Mixer](https://libratool.com/en/tools/audio-mixer) - Mix several audio files into one with a volume and fade for each track, then export. Runs on your device. No timeline editing.
 
 
 ### Business and Finance
@@ -103,6 +105,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Browserpad](http://browserpad.org/) - A server-less plain text editor in the browser. Allows you to open and save plain text files.
 * [WriteURL](http://www.writeurl.com/) - A collaborative real-time online text editor.
 * [Tablesmit](https://tablesmit.com) - A minimalist table builder for analytical writing. Build, format, and export structured tables. No signup required.
+* [LibraTool EPUB Metadata Editor](https://libratool.com/en/tools/epub-metadata-editor) - Edit the title, author, cover, series and ISBN of an EPUB in the browser without uploading the book. DRM-protected books are not supported.
 
 <a name="drawing"></a>
 ### Drawing
