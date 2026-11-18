@@ -134,7 +134,7 @@ To save the world from creating user accounts and installing software applicatio
 * [freetools.site](https://freetools.site/) - Free online tools. Convert or edit documents, images, audio, video and more.
 * [Excel to Markdown](https://exceltomd.com/excel-to-markdown) - Convert XLSX, XLS, and CSV files into Markdown tables locally in the browser; no account or server upload required.
 * [Picute Subtitle Converter](https://picute.net/en/tools/srt-to-vtt-converter) - Convert subtitle files between SRT and VTT formats in the browser. No upload, no login.
-* [PDF Fan](https://pdf.fan/) - Export PDF pages as JPG or PNG, extract embedded images, or make scanned PDFs searchable with browser OCR. The OCR tool supports up to 25 MB and 200 pages per batch.
+* [PDF Fan](https://pdf.fan/) - Merge, split, organize, and compress PDFs without an account. Convert PDF pages to JPG or PNG, extract embedded images, or turn images into a PDF.
 
 
 ### File Hosting/Sharing
