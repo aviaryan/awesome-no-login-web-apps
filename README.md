@@ -134,6 +134,7 @@ To save the world from creating user accounts and installing software applicatio
 * [freetools.site](https://freetools.site/) - Free online tools. Convert or edit documents, images, audio, video and more.
 * [Excel to Markdown](https://exceltomd.com/excel-to-markdown) - Convert XLSX, XLS, and CSV files into Markdown tables locally in the browser; no account or server upload required.
 * [Picute Subtitle Converter](https://picute.net/en/tools/srt-to-vtt-converter) - Convert subtitle files between SRT and VTT formats in the browser. No upload, no login.
+* [dojotool PDF Tools](https://dojotool.com/pdf) - 15 PDF tools that run in the browser: merge, split, compress, rotate, delete pages, PDF to Word and JPG, Word, JPG and HEIC to PDF, OCR for scanned PDFs and PDF translation. Files are not uploaded; the first run of PDF to Word, OCR or translation downloads an AI model.
 
 
 ### File Hosting/Sharing
