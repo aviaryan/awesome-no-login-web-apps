@@ -64,6 +64,8 @@ To save the world from creating user accounts and installing software applicatio
 * [Whisper Web](https://whisperweb.dev/) - Transcribe audio and video to text in the browser with OpenAI's Whisper. Runs on-device, no login, 100+ languages.
 * [Vizz.fm](https://vizz.fm) - Browser-based music visualizer with customizable scenes and presets.
 * [Slant it](https://slantit.app) - Create catchy 3D product videos from screen recordings in few minutes.
+* [Yaptake Silence Remover](https://yaptake.com/tools/silence-remover) - Cut the pauses from a voice recording or a video's sound, hear the result and save a WAV. It runs in the browser, so nothing is uploaded. Recordings can be up to 30 minutes long.
+* [Yaptake LUFS Meter](https://yaptake.com/tools/lufs-meter) - Measure a recording's integrated loudness in LUFS and its true peak, see the gain to reach -14, -16 or -23 LUFS and save a WAV at that level. It runs in the browser, so nothing is uploaded. Recordings can be up to 30 minutes long.
 
 
 ### Business and Finance
@@ -134,6 +136,7 @@ To save the world from creating user accounts and installing software applicatio
 * [freetools.site](https://freetools.site/) - Free online tools. Convert or edit documents, images, audio, video and more.
 * [Excel to Markdown](https://exceltomd.com/excel-to-markdown) - Convert XLSX, XLS, and CSV files into Markdown tables locally in the browser; no account or server upload required.
 * [Picute Subtitle Converter](https://picute.net/en/tools/srt-to-vtt-converter) - Convert subtitle files between SRT and VTT formats in the browser. No upload, no login.
+* [Sponge PDF to Markdown](https://sponge.computer/tools/pdf-to-markdown) - Convert a PDF to Markdown in the browser, keeping headings, lists and links and dropping running headers and page numbers. Nothing is uploaded. Scanned PDFs need OCR first, and tables come out as plain lines of text.
 
 
 ### File Hosting/Sharing
