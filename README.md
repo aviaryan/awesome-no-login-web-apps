@@ -324,6 +324,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Superbetize](http://superbetize.com/) - Categorize your grocery list.
 * [isup.me](http://isup.me/) - Check if website is unavailable just for you or everyone else.
 * [Dictation.io](https://dictation.io/) - Online voice dictation software supporting large number of languages.
+* [DictationDaddy](https://dictationdaddy.com/) - Highly accurate dictation tool compared to Dragon Speech, supporting large number of languages.
 * [followupthen](https://www.followupthen.com/) - Easiest way to setup email reminders.
 * [lmgtfy](http://lmgtfy.com/) - When your friends are too lazy to use Google on their own.
 * [AlarmDJ](https://alarmdj.com) - Online Alarm clock, use MP3 files and YouTube videos as alarm.
