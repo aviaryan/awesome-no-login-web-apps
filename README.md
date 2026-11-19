@@ -163,6 +163,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Table Party](https://tableparty.io/) - Free browser party games. One person hosts, friends join with a room code on their phones. No ads, no accounts.
 * [Monteams](https://monteams.com) - Free Pokémon team builder that works without login. Plan teams, analyze type coverage, and optimize strategies for all generations from Red/Blue to Scarlet/Violet.
 * [Double Cross](https://everhall.ca) - A daily crossword where every clue has two answers of equal length; deduce which twin slot gets which, then seal the grid once. No ads or tracking, one static page.
+* [Bullshit](https://bullshit.wtf/?via=gh-nologin) - Bluffing trivia party game for 2 to 12 players: everyone writes a fake answer to a strange true fact on their own phone, then tries to spot the truth among the lies. No account and no download, in English or Hebrew, and a TV or laptop can show the board. Needs at least one friend for a real game; alone, you get only a five-question taste and the daily puzzle.
 
 ### Graphics, Image and Design
 
