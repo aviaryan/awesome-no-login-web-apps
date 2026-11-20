@@ -328,6 +328,7 @@ To save the world from creating user accounts and installing software applicatio
 * [lmgtfy](http://lmgtfy.com/) - When your friends are too lazy to use Google on their own.
 * [AlarmDJ](https://alarmdj.com) - Online Alarm clock, use MP3 files and YouTube videos as alarm.
 * [Luna Tarot](https://www.lunatarotapp.com) - Free multilingual tarot reading web app with 8-language support, daily readings, meditation music, and moon calendar.
+* [Dere Type Quiz](https://deretypesquiz.com/) - Free no-signup quiz that tells you which anime dere type you are (tsundere, yandere, kuudere and others) from 14 short scenarios, with instant results and a shareable card.
 -----
 
 ## License
