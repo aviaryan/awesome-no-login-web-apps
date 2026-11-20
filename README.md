@@ -64,6 +64,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Whisper Web](https://whisperweb.dev/) - Transcribe audio and video to text in the browser with OpenAI's Whisper. Runs on-device, no login, 100+ languages.
 * [Vizz.fm](https://vizz.fm) - Browser-based music visualizer with customizable scenes and presets.
 * [Slant it](https://slantit.app) - Create catchy 3D product videos from screen recordings in few minutes.
+* [Plastic MP3 to MIDI](https://plastic.audio/mp3-to-midi/) - Turn an MP3, WAV, M4A, AIFF or FLAC file into MIDI with Spotify's open-source Basic Pitch model, see the notes on a piano roll and play them back. Runs in the browser, so the file is not uploaded. Works best on one instrument or voice; full mixes come out messy.
 
 
 ### Business and Finance
