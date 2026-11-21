@@ -134,6 +134,7 @@ To save the world from creating user accounts and installing software applicatio
 * [freetools.site](https://freetools.site/) - Free online tools. Convert or edit documents, images, audio, video and more.
 * [Excel to Markdown](https://exceltomd.com/excel-to-markdown) - Convert XLSX, XLS, and CSV files into Markdown tables locally in the browser; no account or server upload required.
 * [Picute Subtitle Converter](https://picute.net/en/tools/srt-to-vtt-converter) - Convert subtitle files between SRT and VTT formats in the browser. No upload, no login.
+* [SubtitleMedic](https://www.subtitlemedic.com/) - Subtitle toolkit in the browser: shift timing, change frame rate, convert between SRT, VTT, ASS/SSA, SBV and SUB, fix broken encoding and extract tracks from MKV/MP4/WebM. Files are processed locally, nothing is uploaded.
 
 
 ### File Hosting/Sharing
