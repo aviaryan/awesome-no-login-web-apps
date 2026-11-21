@@ -72,6 +72,7 @@ To save the world from creating user accounts and installing software applicatio
 * [InvoiceToMe](https://invoiceto.me/) - Generate professional invoices from various templates with your company details.
 * [ShiftDispatch Schedule Builder](https://shiftdispatchhq.com/schedule-builder) - Build weekly staff schedules, import or export spreadsheets, print schedules, and optionally publish a read-only link without creating an account.
 * [QuoteChime](https://quotechime.pages.dev/?ref=awesomenologin#generator) - Draft a finite quote follow-up sequence for service businesses in the browser. It does not send messages or store customer details.
+* [Opitor Action Item Tracker](https://opitor.com/tools/action-item-tracker) - Turn meeting or chat commitments into a list with owner, due date and status, see what needs follow-up this week, then copy the list or export a CSV. The list is saved only in that browser, so sharing it means copying or exporting it.
 
 
 ### Communication
