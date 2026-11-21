@@ -134,6 +134,7 @@ To save the world from creating user accounts and installing software applicatio
 * [freetools.site](https://freetools.site/) - Free online tools. Convert or edit documents, images, audio, video and more.
 * [Excel to Markdown](https://exceltomd.com/excel-to-markdown) - Convert XLSX, XLS, and CSV files into Markdown tables locally in the browser; no account or server upload required.
 * [Picute Subtitle Converter](https://picute.net/en/tools/srt-to-vtt-converter) - Convert subtitle files between SRT and VTT formats in the browser. No upload, no login.
+* [Email Archive to PDF](https://newellabs.com/tools/email-to-pdf/) - Convert .msg, .eml, .emlx, .pst and .mbox emails to searchable PDFs with their attachments, plus a ZIP and an Excel index, in the browser with no upload. Free for up to 20 emails per run; a paid licence removes the limit.
 
 
 ### File Hosting/Sharing
@@ -196,6 +197,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Anime Openings](http://openings.moe/) - Free anime radio, listen or download anime opening and ending videos.
 * [ongaku](https://ongaku.js.org/) - Online anime music radio, with [desktop port](https://github.com/Anshuman-Verma/ongaku-desktop).
 * [Radio Garden](http://radio.garden/) - Listen to thousands of radio stations worldwide by selecting a city on the globe.
+* [Online Kalimba](https://newellabs.com/play/kalimba/) - Play a 17-key thumb piano by tapping, dragging or typing, with play-along tabs for 99 songs; share a tune as a link that holds the notes. Synthesized sound, not recordings.
 
 
 ### Notepads and Notebooks
