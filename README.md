@@ -186,6 +186,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Typing Words GIF](https://typingwordsgif.com/) - Free online typing text GIF maker. Type words, customize style, and export an animated GIF without login.
 * [IconKing](https://iconking.net) - Free browser-based Lottie animation tool. Preview .json and .lottie files, edit colors across all layers, and convert between formats. No account required.
 * [ShotFrame](https://tyr1105.github.io/shotframe/) - Free screenshot beautifier with gradient backgrounds, device frames, shadows, and HD PNG export. 100% browser-side.
+* [bgnix](https://bgnix.com/) - Remove image backgrounds with AI that runs locally in the browser, so photos are never uploaded. Transparent PNG, white or colour backgrounds, batch mode and passport/ID photo sizes per country. The first use downloads the AI model, so old phones are slower.
 
 
 ### Music, Radio and Podcasts
