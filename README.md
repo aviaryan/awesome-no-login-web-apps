@@ -320,7 +320,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Zero Dollar Domains](https://arynjennen1989-stack.github.io/) - Live RDAP hunter for unused cheap TLD names plus a catalog of still-free domain and subdomain programs. No signup. Not an expired-.com dump.
 * [BarcodeGen](https://www.barcodegen.net) - Free online barcode generator supporting 35+ formats including Code 128, EAN-13, QR Code, and Data Matrix with bulk generation and PNG/SVG download.
 * [setupdoc](https://setupdoc.com/) - Test your mic, webcam, speakers, keyboard, mouse (CPS, double-click), gamepad drift and dead pixels with a verdict and fix steps per OS. Nothing is recorded; camera and mic tests need browser permission.
-* [infiniqr](https://infiniqr.com/) - Static QR codes that never expire (URL, WiFi, vCard, WhatsApp) with logo, colours and frames, exported as PNG/SVG/PDF without watermark. Optional editable codes with anonymous scan stats go through infiniqr's redirect.
+* [infiniqr](https://infiniqr.com/) - Static QR codes that never expire (URL, WiFi, vCard, WhatsApp) with logo, colours and frames, exported as PNG/SVG/PDF without watermark. Free editable (dynamic) codes with scan tracking by day, country and device, with no scan limit; those go through infiniqr's redirect.
 
 
 ### Miscellaneous
