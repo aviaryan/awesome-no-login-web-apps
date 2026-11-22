@@ -104,7 +104,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Browserpad](http://browserpad.org/) - A server-less plain text editor in the browser. Allows you to open and save plain text files.
 * [WriteURL](http://www.writeurl.com/) - A collaborative real-time online text editor.
 * [Tablesmit](https://tablesmit.com) - A minimalist table builder for analytical writing. Build, format, and export structured tables. No signup required.
-* [pdfmoo](https://pdfmoo.com/) - 37 PDF tools (merge, compress, split, sign, redact, OCR, protect) that process files locally in the browser, so nothing is uploaded. Large files depend on the device's memory and speed.
+* [pdfmoo](https://pdfmoo.com/) - 37 free PDF tools (merge, compress to an exact size, split, sign, redact, OCR, protect) that process files locally in the browser, so nothing is uploaded; no daily limits or watermarks. Large files depend on the device's memory and speed.
 
 <a name="drawing"></a>
 ### Drawing
@@ -186,7 +186,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Typing Words GIF](https://typingwordsgif.com/) - Free online typing text GIF maker. Type words, customize style, and export an animated GIF without login.
 * [IconKing](https://iconking.net) - Free browser-based Lottie animation tool. Preview .json and .lottie files, edit colors across all layers, and convert between formats. No account required.
 * [ShotFrame](https://tyr1105.github.io/shotframe/) - Free screenshot beautifier with gradient backgrounds, device frames, shadows, and HD PNG export. 100% browser-side.
-* [bgnix](https://bgnix.com/) - Remove image backgrounds with AI that runs locally in the browser, so photos are never uploaded. Transparent PNG, white or colour backgrounds, batch mode and passport/ID photo sizes per country. The first use downloads the AI model, so old phones are slower.
+* [bgnix](https://bgnix.com/) - Remove image backgrounds with AI that runs locally in the browser, so photos are never uploaded. Full-resolution transparent PNG with no watermark or daily limit, white or colour backgrounds, batch mode and passport/ID photo sizes per country. The first use downloads the AI model, so old phones are slower.
 
 
 ### Music, Radio and Podcasts
