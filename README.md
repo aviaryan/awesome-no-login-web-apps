@@ -72,6 +72,7 @@ To save the world from creating user accounts and installing software applicatio
 * [InvoiceToMe](https://invoiceto.me/) - Generate professional invoices from various templates with your company details.
 * [ShiftDispatch Schedule Builder](https://shiftdispatchhq.com/schedule-builder) - Build weekly staff schedules, import or export spreadsheets, print schedules, and optionally publish a read-only link without creating an account.
 * [QuoteChime](https://quotechime.pages.dev/?ref=awesomenologin#generator) - Draft a finite quote follow-up sequence for service businesses in the browser. It does not send messages or store customer details.
+* [timetotals](https://timetotals.com/) - Work-hours calculator with breaks, overnight shifts, overtime presets for 9 regimes (BR, DE, FR, ES, MX, IT, PT, US, California), clock-in button and PDF/CSV timesheets. Data stays in the browser, so it does not sync between devices.
 
 
 ### Communication
@@ -103,6 +104,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Browserpad](http://browserpad.org/) - A server-less plain text editor in the browser. Allows you to open and save plain text files.
 * [WriteURL](http://www.writeurl.com/) - A collaborative real-time online text editor.
 * [Tablesmit](https://tablesmit.com) - A minimalist table builder for analytical writing. Build, format, and export structured tables. No signup required.
+* [pdfmoo](https://pdfmoo.com/) - 37 PDF tools (merge, compress, split, sign, redact, OCR, protect) that process files locally in the browser, so nothing is uploaded. Large files depend on the device's memory and speed.
 
 <a name="drawing"></a>
 ### Drawing
@@ -316,6 +318,8 @@ To save the world from creating user accounts and installing software applicatio
 * [WeGoWhen](https://wegowhen.com) - Finds the dates a group can travel together: everyone taps the days they are free and it ranks the consecutive date ranges that fit the most people. Days only, so no time-of-day scheduling.
 * [Zero Dollar Domains](https://arynjennen1989-stack.github.io/) - Live RDAP hunter for unused cheap TLD names plus a catalog of still-free domain and subdomain programs. No signup. Not an expired-.com dump.
 * [BarcodeGen](https://www.barcodegen.net) - Free online barcode generator supporting 35+ formats including Code 128, EAN-13, QR Code, and Data Matrix with bulk generation and PNG/SVG download.
+* [setupdoc](https://setupdoc.com/) - Test your mic, webcam, speakers, keyboard, mouse (CPS, double-click), gamepad drift and dead pixels with a verdict and fix steps per OS. Nothing is recorded; camera and mic tests need browser permission.
+* [infiniqr](https://infiniqr.com/) - Static QR codes that never expire (URL, WiFi, vCard, WhatsApp) with logo, colours and frames, exported as PNG/SVG/PDF without watermark. Optional editable codes with anonymous scan stats go through infiniqr's redirect.
 
 
 ### Miscellaneous
