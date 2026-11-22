@@ -228,6 +228,7 @@ To save the world from creating user accounts and installing software applicatio
 * [SQLFiddle](http://sqlfiddle.com/) - Tool for easy online testing and sharing of database problems and their solutions.
 * [PythonTutor](http://pythontutor.com/visualize.html#mode=edit) - Visualize Python, Java, JavaScript, TypeScript, Ruby, C, and C++ code execution in your Web browser.
 * [DartPad](https://dartpad.dev/) -DartPad is an open-source tool that lets you play with the Dart language in any modern browser.
+* [iLoveDevTool Python Playground](https://www.ilovedevtool.com/en-US/tools/python-playground) - Python playground with switchable Python 3.8–3.12 runtimes, NumPy, Pandas, Matplotlib, SciPy and scikit-learn, pip installs from PyPI, interactive stdin for input(), a multi-file project workspace and share links. Matplotlib plots show in the output. The first run takes a few seconds to load the runtime, and packages that need native extensions Pyodide lacks (e.g. pygame) do not work.
 
 
 ### Programming Tools
