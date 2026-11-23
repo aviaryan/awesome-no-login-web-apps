@@ -328,6 +328,7 @@ To save the world from creating user accounts and installing software applicatio
 * [lmgtfy](http://lmgtfy.com/) - When your friends are too lazy to use Google on their own.
 * [AlarmDJ](https://alarmdj.com) - Online Alarm clock, use MP3 files and YouTube videos as alarm.
 * [Luna Tarot](https://www.lunatarotapp.com) - Free multilingual tarot reading web app with 8-language support, daily readings, meditation music, and moon calendar.
+* [StagePeek](https://stagepeek.live) - Interactive 2D seating charts and 3D arena sightline previews across 223 global concert venues (41 venues free without an account; optional Pro plan for all venues and saved seats).
 -----
 
 ## License
