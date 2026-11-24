@@ -184,6 +184,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Typing Words GIF](https://typingwordsgif.com/) - Free online typing text GIF maker. Type words, customize style, and export an animated GIF without login.
 * [IconKing](https://iconking.net) - Free browser-based Lottie animation tool. Preview .json and .lottie files, edit colors across all layers, and convert between formats. No account required.
 * [ShotFrame](https://tyr1105.github.io/shotframe/) - Free screenshot beautifier with gradient backgrounds, device frames, shadows, and HD PNG export. 100% browser-side.
+* [Image to Image AI](https://imgtoimg-ai.net) - Image-to-image editor that changes style, background or clothing while keeping your subject's pose and framing, returning a result in seconds. The free tier is 5 edits a day with no account and no watermark; there is no batch mode, and commercial use requires a paid plan.
 
 
 ### Music, Radio and Podcasts
