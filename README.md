@@ -64,6 +64,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Whisper Web](https://whisperweb.dev/) - Transcribe audio and video to text in the browser with OpenAI's Whisper. Runs on-device, no login, 100+ languages.
 * [Vizz.fm](https://vizz.fm) - Browser-based music visualizer with customizable scenes and presets.
 * [Slant it](https://slantit.app) - Create catchy 3D product videos from screen recordings in few minutes.
+* [EarScribe](https://earscribe.app) - Transcribe audio to a timestamped transcript with SRT, VTT, TXT and JSON export. Runs Whisper on-device, no upload and no login; the first run downloads an 80 MB-800 MB model.
 
 
 ### Business and Finance
