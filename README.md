@@ -72,6 +72,8 @@ To save the world from creating user accounts and installing software applicatio
 * [InvoiceToMe](https://invoiceto.me/) - Generate professional invoices from various templates with your company details.
 * [ShiftDispatch Schedule Builder](https://shiftdispatchhq.com/schedule-builder) - Build weekly staff schedules, import or export spreadsheets, print schedules, and optionally publish a read-only link without creating an account.
 * [QuoteChime](https://quotechime.pages.dev/?ref=awesomenologin#generator) - Draft a finite quote follow-up sequence for service businesses in the browser. It does not send messages or store customer details.
+* [Intaj Invoice](https://intaj.shop/tools/invoice-generator/?ref=gh-nologin) - Make invoices and quotes as PDF in 56 currencies and 17 document languages. Documents stay in your browser; it is free, with an optional paid Pro.
+* [Intaj Freelance Platform Fee Calculator](https://intaj.shop/tools/platform-fee-calculator/?ref=gh-nologin-fees) - See the fee Upwork, Freelancer.com, Malt, Workana, PeoplePerHour and other platforms take, what you keep and what to charge to keep your rate. Fees are taken from each platform's official pages, so check them again if a platform changes its pricing.
 
 
 ### Communication
