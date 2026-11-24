@@ -163,6 +163,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Table Party](https://tableparty.io/) - Free browser party games. One person hosts, friends join with a room code on their phones. No ads, no accounts.
 * [Monteams](https://monteams.com) - Free Pokémon team builder that works without login. Plan teams, analyze type coverage, and optimize strategies for all generations from Red/Blue to Scarlet/Violet.
 * [Double Cross](https://everhall.ca) - A daily crossword where every clue has two answers of equal length; deduce which twin slot gets which, then seal the grid once. No ads or tracking, one static page.
+* [Meowdoku](https://meowdokugame.app) - Cat-themed logic puzzle where you place one cat per row, column and color region with no two cats touching, on 5×5, 7×7 or 9×9 boards. Every board is verified to have exactly one solution, and it plays with no sign-up, no ads and no lives.
 
 ### Graphics, Image and Design
 
