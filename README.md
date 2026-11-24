@@ -328,6 +328,7 @@ To save the world from creating user accounts and installing software applicatio
 * [lmgtfy](http://lmgtfy.com/) - When your friends are too lazy to use Google on their own.
 * [AlarmDJ](https://alarmdj.com) - Online Alarm clock, use MP3 files and YouTube videos as alarm.
 * [Luna Tarot](https://www.lunatarotapp.com) - Free multilingual tarot reading web app with 8-language support, daily readings, meditation music, and moon calendar.
+* [Family Formals](https://samsbench.com/family-formals/) - Plans the order of wedding family photos and prints call cards saying who steps in, who steps out and who can leave; keeps divorced parents in separate photos. Lists stay on the device; a paid tier only adds a photographer's logo.
 -----
 
 ## License
