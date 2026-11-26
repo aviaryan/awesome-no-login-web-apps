@@ -163,6 +163,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Table Party](https://tableparty.io/) - Free browser party games. One person hosts, friends join with a room code on their phones. No ads, no accounts.
 * [Monteams](https://monteams.com) - Free Pokémon team builder that works without login. Plan teams, analyze type coverage, and optimize strategies for all generations from Red/Blue to Scarlet/Violet.
 * [Double Cross](https://everhall.ca) - A daily crossword where every clue has two answers of equal length; deduce which twin slot gets which, then seal the grid once. No ads or tracking, one static page.
+* [Solitaire for Seniors](https://solitaireforseniors.com/) - Klondike, Spider, FreeCell, mahjong solitaire, word search and Killer Sudoku with very large cards and numbers, tap to move, unlimited undo and no timer, made for older players. Shows small ads outside the play area.
 
 ### Graphics, Image and Design
 
