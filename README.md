@@ -134,6 +134,7 @@ To save the world from creating user accounts and installing software applicatio
 * [freetools.site](https://freetools.site/) - Free online tools. Convert or edit documents, images, audio, video and more.
 * [Excel to Markdown](https://exceltomd.com/excel-to-markdown) - Convert XLSX, XLS, and CSV files into Markdown tables locally in the browser; no account or server upload required.
 * [Picute Subtitle Converter](https://picute.net/en/tools/srt-to-vtt-converter) - Convert subtitle files between SRT and VTT formats in the browser. No upload, no login.
+* [Apps66 Game Audio Converter](https://apps66.com/game-audio-converter) - Decode proprietary game audio banks (FMOD FSB5, Wwise WEM/BNK, Nintendo BFSTM/BCSTM/BRSTM, CRIWARE HCA/ADX/AWB, XACT XWB) to WAV/MP3/OGG/FLAC/M4A with multi-track ZIP extraction and a free no-quota header/loop inspector. Runs server-side via vgmstream-cli + FFmpeg; free without login up to 50 MB/file and 3 conversions per 24 hours.
 
 
 ### File Hosting/Sharing
