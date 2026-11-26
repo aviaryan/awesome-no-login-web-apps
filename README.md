@@ -64,6 +64,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Whisper Web](https://whisperweb.dev/) - Transcribe audio and video to text in the browser with OpenAI's Whisper. Runs on-device, no login, 100+ languages.
 * [Vizz.fm](https://vizz.fm) - Browser-based music visualizer with customizable scenes and presets.
 * [Slant it](https://slantit.app) - Create catchy 3D product videos from screen recordings in few minutes.
+* [Boppy](https://boppy.me/) - AI music generator: describe a song in plain words and it writes the lyrics, composes the music and sings it, then lets you download it as MP3. Free with ads and a daily song limit; songs are up to 2 minutes on the web.
 
 
 ### Business and Finance
