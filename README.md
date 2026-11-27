@@ -74,6 +74,7 @@ To save the world from creating user accounts and installing software applicatio
 * [QuoteChime](https://quotechime.pages.dev/?ref=awesomenologin#generator) - Draft a finite quote follow-up sequence for service businesses in the browser. It does not send messages or store customer details.
 * [Mom Test Question Checker](https://nar-vardanyan.github.io/frank-mcp/tools/mom-test-checker/) - Checks customer interview questions in your browser for leading, hypothetical or compliment-seeking wording and suggests a past-behaviour rewrite. The checks are simple heuristics inspired by Rob Fitzpatrick's book The Mom Test; they can be wrong, and the tool is not affiliated with the author. No login; nothing you paste leaves the browser.
 * [JTBD Switch Interview Question Generator](https://nar-vardanyan.github.io/frank-mcp/tools/jtbd-interview-question-generator/) - Builds a Jobs to Be Done switch interview guide in the browser, with a probe on every question tagged push, pull, anxiety or habit, for customers who switched to you or who left. The output is a template you should edit for your own product. No login; nothing you type leaves the browser.
+* [Cancellation Reason Sorter](https://nar-vardanyan.github.io/frank-mcp/tools/cancellation-reason-sorter/) - Pastes churn or cancellation survey answers and groups them into themes, with counts, examples and suggested follow-up interview questions. Sorting uses keyword and phrase rules, not AI, so unusual wording can be missed. No login; nothing you paste leaves the browser.
 
 
 ### Communication
