@@ -103,6 +103,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Browserpad](http://browserpad.org/) - A server-less plain text editor in the browser. Allows you to open and save plain text files.
 * [WriteURL](http://www.writeurl.com/) - A collaborative real-time online text editor.
 * [Tablesmit](https://tablesmit.com) - A minimalist table builder for analytical writing. Build, format, and export structured tables. No signup required.
+* [Tolvido Merge PDF](https://tolvido.com/pdf-merger/) - Merge PDFs entirely in the browser, with no upload: reorder files, keep page ranges and rotate pages from thumbnails. Very large files can be too much for low-memory phones.
 
 <a name="drawing"></a>
 ### Drawing
