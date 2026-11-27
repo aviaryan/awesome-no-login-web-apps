@@ -316,6 +316,7 @@ To save the world from creating user accounts and installing software applicatio
 * [WeGoWhen](https://wegowhen.com) - Finds the dates a group can travel together: everyone taps the days they are free and it ranks the consecutive date ranges that fit the most people. Days only, so no time-of-day scheduling.
 * [Zero Dollar Domains](https://arynjennen1989-stack.github.io/) - Live RDAP hunter for unused cheap TLD names plus a catalog of still-free domain and subdomain programs. No signup. Not an expired-.com dump.
 * [BarcodeGen](https://www.barcodegen.net) - Free online barcode generator supporting 35+ formats including Code 128, EAN-13, QR Code, and Data Matrix with bulk generation and PNG/SVG download.
+* [China Visa & 240-Hour Transit Checker](https://pandawander.com/tools/china-visa-checker/) - Deterministic browser tool checking China's 50-country 30-day visa-free list and 57-country/65-port 240-hour transit rules without signup or tracking, though Hong Kong/Macao third-region routing and airline boarding checks still require final official verification.
 
 
 ### Miscellaneous
