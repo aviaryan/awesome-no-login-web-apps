@@ -103,6 +103,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Browserpad](http://browserpad.org/) - A server-less plain text editor in the browser. Allows you to open and save plain text files.
 * [WriteURL](http://www.writeurl.com/) - A collaborative real-time online text editor.
 * [Tablesmit](https://tablesmit.com) - A minimalist table builder for analytical writing. Build, format, and export structured tables. No signup required.
+* [ATS Resume Builder](https://quietstack-labs.github.io/ats-resume-builder-kit/) - Build a single- or two-column ATS-friendly resume, paste a job description to see which keywords are covered or missing, and export a text-based PDF through the browser's print dialog. Data is autosaved only in the browser.
 
 <a name="drawing"></a>
 ### Drawing
@@ -134,6 +135,7 @@ To save the world from creating user accounts and installing software applicatio
 * [freetools.site](https://freetools.site/) - Free online tools. Convert or edit documents, images, audio, video and more.
 * [Excel to Markdown](https://exceltomd.com/excel-to-markdown) - Convert XLSX, XLS, and CSV files into Markdown tables locally in the browser; no account or server upload required.
 * [Picute Subtitle Converter](https://picute.net/en/tools/srt-to-vtt-converter) - Convert subtitle files between SRT and VTT formats in the browser. No upload, no login.
+* [Data Swiss Army](https://quietstack-labs.github.io/data-swiss-army/) - Convert between CSV, JSON, SQL INSERT statements and Markdown tables in the browser, with input auto-detection and PostgreSQL, MySQL or SQL Server output. Runs fully client-side and works offline; it does not read Excel (XLSX) files.
 
 
 ### File Hosting/Sharing
