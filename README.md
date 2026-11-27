@@ -103,6 +103,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Browserpad](http://browserpad.org/) - A server-less plain text editor in the browser. Allows you to open and save plain text files.
 * [WriteURL](http://www.writeurl.com/) - A collaborative real-time online text editor.
 * [Tablesmit](https://tablesmit.com) - A minimalist table builder for analytical writing. Build, format, and export structured tables. No signup required.
+* [OasisPDF](https://oasispdf.com/) - Edit the existing text of a PDF in its own font, fill in and sign forms, annotate, organize and merge pages, and run OCR on scans; files never leave the browser. Desktop Chrome and Edge only.
 
 <a name="drawing"></a>
 ### Drawing
