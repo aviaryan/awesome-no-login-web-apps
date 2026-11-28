@@ -164,6 +164,8 @@ To save the world from creating user accounts and installing software applicatio
 * [Monteams](https://monteams.com) - Free Pokémon team builder that works without login. Plan teams, analyze type coverage, and optimize strategies for all generations from Red/Blue to Scarlet/Violet.
 * [Double Cross](https://everhall.ca) - A daily crossword where every clue has two answers of equal length; deduce which twin slot gets which, then seal the grid once. No ads or tracking, one static page.
 
+- [Play Color by Number](https://playcolorbynumber.com/) - Zero-upload dual-engine (Pixel Grid and Smooth Vector) browser color-by-number studio with 66 curated puzzles, local OKLab photo converter, K-5 math worksheets, and printable PDF export.
+
 ### Graphics, Image and Design
 
 * [PhotoPea](https://www.photopea.com/) - Image editor that looks like Photoshop and has most of its features.
