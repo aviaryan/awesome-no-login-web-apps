@@ -196,6 +196,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Anime Openings](http://openings.moe/) - Free anime radio, listen or download anime opening and ending videos.
 * [ongaku](https://ongaku.js.org/) - Online anime music radio, with [desktop port](https://github.com/Anshuman-Verma/ongaku-desktop).
 * [Radio Garden](http://radio.garden/) - Listen to thousands of radio stations worldwide by selecting a city on the globe.
+* [FONY](https://fony.fun) - Free internet radio and music player with genre stations, global search, equalizer and audio visualizers; no sign-up needed (Nostr sign-in is optional). Local-files mode works only in Chromium-based browsers.
 
 
 ### Notepads and Notebooks
