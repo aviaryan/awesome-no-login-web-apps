@@ -184,6 +184,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Typing Words GIF](https://typingwordsgif.com/) - Free online typing text GIF maker. Type words, customize style, and export an animated GIF without login.
 * [IconKing](https://iconking.net) - Free browser-based Lottie animation tool. Preview .json and .lottie files, edit colors across all layers, and convert between formats. No account required.
 * [ShotFrame](https://tyr1105.github.io/shotframe/) - Free screenshot beautifier with gradient backgrounds, device frames, shadows, and HD PNG export. 100% browser-side.
+* [PSD Layer & Alpha Inspector](https://pandawander-psd-layer-and-alpha-inspector.static.hf.space/) - Inspect 8-bit RGB Adobe .PSD layer bounds, toggle RGBA layers on canvas, and highlight white-halo fringe on transparent PNGs across four backdrops. Runs 100% in the browser with zero uploads; read-only inspection (does not export edited PSDs) and limited to 8-bit RGB PSD v1 files.
 
 
 ### Music, Radio and Podcasts
